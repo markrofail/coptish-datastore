@@ -1,0 +1,52 @@
+title:
+    english: "Concluding Hymn"
+    arabic: "أمين الليلويا"
+sections:
+    - speaker: people
+      verses:
+          - english: "Amen"
+            coptic: "Ⲁ̀ⲙⲏⲛ"
+            coptic_english: ""
+            arabic: "آمين"
+
+          - english: "Lord have mercy. Lord have mercy. Lord have mercy"
+            coptic: "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ. Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ. Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ"
+            # coptic_english: "Kerie leison. Kerie leison. Kerie leison"
+            arabic: "يا ربُّ إرحَم. يا ربُّ إرحَم. يا ربُّ إرحَم"
+
+          - english: "Amen, alleluia. Glory to the Father and the Son and to the Holy Spirit"
+            coptic: "Ⲁ̀ⲙⲏⲛ: ⲁⲗⲗⲏⲗⲟⲩⲓⲁ Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ ⲕⲉ Ⲁ̀ⲅⲓⲱ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ:"
+            coptic_english: "Ameen: allelouia doxa patri ke iyo ke agio pnevmati:"
+            arabic: "آمين، هلليلويا. المجد للآب والإبن والروح القدس"
+
+          - english: Now and ever and unto the age of all ages. Amen"
+            coptic: "ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ ⲁ̀ⲙⲏⲛ"
+            coptic_english: "ke nin ke a ee ke is touc e-onas ton e-onon ameen"
+            arabic: "الآن وكل أوان وإلى دهر الدهور، آمين"
+
+          - english: "We proclaim and say, O our Lord Jesus Christ"
+            coptic: "Ⲧⲉⲛⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲛϫⲱ ⲙ̀ⲙⲟⲥ: ϫⲉ ⲱ̀ Ⲡⲉⲛϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ"
+            coptic_english: "Tenosh evol engo emos: jay o penshois Isous Pi-khristos"
+            arabic: 'نصرخ قائلين "يا ربنا يسوع المسيح'
+
+    # - speaker: people
+    #   verses:
+    #       - english: "The Begotten of the Father before all ages. Save us and have mercy on us"
+    #         coptic: "Ⲡⲓⲙⲓⲥⲓ ⲉ̀ⲃⲟⲗϧⲉⲛ Ⲫ̀ⲓⲱⲧ ϧⲁϫⲱⲟⲩ ⲛ̀ⲛⲓⲉ̀ⲱⲛ ⲧⲏⲣⲟⲩ. Ⲥⲱϯ ⲙ̀ⲙⲟⲛ ⲟⲩⲟϩ ⲛⲁⲓ ⲛⲁⲛ"
+    #         coptic_english: "Pimici evol khen eviot kha-goo ennioon teroy. Sooti Emon ooi nai nai"
+    #         arabic: "المولود من الآب قبل كل الدهور. خلصنا وإرحمنا"
+
+    - speaker: people
+      occasion: "great-lent"
+      verses:
+          - english: "O You who fasted for us forty days and forty nights to save us from our sins. Save us and have mercy on us"
+            coptic: "ⲫⲏⲉ̀ⲧⲁϥ ⲉⲣⲛⲏⲥⲧⲉⲩⲓⲛ ⲉϩ̀ⲣⲏⲓ ⲉϫⲱⲛ ⲛ̀ϩ̀ⲙⲉ ⲛ̀ⲉϩⲟⲟⲩ ⲛⲉⲙ ϩ̀ⲙⲉ ⲛ̀ⲉϫⲱⲣϩ: ϣⲁ ⲛ̀ⲧⲉϥ ⲥⲱⲧⲧⲉⲛ ϧⲉⲛ ⲛⲉⲛⲛⲟⲃⲓ."
+            coptic_english: "Fee-etaf ernis-teven e-ehree e-goon, enehme enho-o nem ehme en-e-gorh, sha entef sotten khen nen-novi"
+            arabic: "يا من صام عنا أربعين يوما وأربعين ليلة حتى خلصنا من خطايانا. خلصنا وارحمنا"
+
+    - speaker: people
+      verses:
+          - english: "Lord have mercy, Lord have mercy, Lord bless amen. Bless me, bless me, behold the repentance, forgive me, say the blessing"
+            coptic: "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ Ⲕⲩⲣⲓⲉ ⲉⲩⲗⲟⲅⲏⲥⲟⲛ ⲁ̀ⲙⲏⲛ. Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲓ ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲓ ⲓⲥ ϯⲙⲉⲧⲁⲛⲟⲓⲁ ⲭⲱ ⲛⲏⲓ ⲉ̀ⲃⲟⲗ ϫⲱ ⲙ̀ⲡⲓⲥ̀ⲙⲟⲩ"
+            coptic_english: "Kyrie eleison Kyrie eleison Kyrie evlogeeson ameen:\nesmou eroy: esmou eroy: ic ti-metonya ko nee evol go empi-esmou"
+            arabic: "يا ربُّ إرحَم، يا ربُّ إرحَم، يا رب بارك آمين. باركوا عليَّ، باركوا عليَّ، ها مطانية، إغفروا لي، قُل البركة"

@@ -1,0 +1,24 @@
+title:
+    english: "The Acts"
+    arabic: "الإبركسيس"
+
+sections:
+    - speaker: "reader"
+      verses:
+          - english: "A reading from the Acts of our fathers the apostles, who were invested with the grace of the Holy Spirit. May their blessings be with us. Amen."
+            # coptic: "Ⲡ̀ⲣⲁⲝⲓⲥ ⲛ̀ⲧⲉ ⲛⲉⲛⲓⲟϯ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ ⲉ̀ⲣⲉ ⲡⲟⲩⲥ̀ⲙⲟⲩ ⲉ̅ⲑ̅ⲩ̅ ϣⲱⲡⲓ ⲛⲉⲙⲁⲛ"
+            # coptic_english: ""
+            arabic: "فصل من اعمال آبائنا الرسل الأطهار، بركتهم تكون معنا"
+
+    # - type: "hint"
+    #   text:
+    #       english: "(Reading of the day is read)"
+    - type: reading
+      readingType: acts-of-the-apostles
+
+    - speaker: "reader"
+      verses:
+          - english: "The word of the Lord shall grow, multiply, be mighty, and be confirmed in the holy Church of God. Amen"
+            # coptic: "Ⲡⲓⲥⲁϫⲓ ⲇⲉ ⲛ̀ⲧⲉ Ⲡⲟ̅ⲥ̅ ⲉϥⲉ̀ⲁ̀ⲓⲁ̀ⲓ ⲟⲩⲟϩ ⲉϥⲉ̀ⲁ̀ϣⲁⲓ ⲉϥⲉ̀ⲁ̀ⲙⲁϩⲓ ⲟⲩⲟϩ ⲉϥⲉⲧ̀ⲁϫⲣⲟ ϧⲉⲛ ϯⲁ̀ⲅⲓⲁ ⲛ̀ⲉ̀ⲕⲕⲗⲏⲥⲓⲁ ⲛ̀ⲧⲉ Ⲫϯ ⲁ̀ⲙⲏⲛ"
+            # coptic_english: ""
+            arabic: "لم تزل كلمة الرب تنو وتعتز وتثبت في كنيسة الله المقدسة. آمين"

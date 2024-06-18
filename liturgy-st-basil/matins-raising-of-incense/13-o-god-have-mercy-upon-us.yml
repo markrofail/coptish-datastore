@@ -1,0 +1,93 @@
+title:
+    english: "God Have Mercy"
+    arabic: "اللهُمَّ إرحمنا"
+
+sections:
+    - speaker: priest
+      verses:
+          - english: "O God, have mercy upon us, settle mercy upon us, have compassion upon us"
+            coptic: "ϣⲉⲛϩⲏⲧ ϧⲁⲣⲟⲛ"
+            coptic_english: ""
+            arabic: "اللهُمَّ إرحمنا، قرر لنا رحمة، تراءف علينا"
+
+    - speaker: people
+      verses:
+          - english: "Amen"
+            coptic: "Ⲁ̀ⲙⲏⲛ"
+            coptic_english: ""
+            arabic: "آمين"
+
+    - speaker: priest
+      verses:
+          - english: "Hear us"
+            coptic: "Ⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲛ"
+            coptic_english: ""
+            arabic: "وإسمعنا"
+
+    - speaker: people
+      verses:
+          - english: "Amen"
+            coptic: "Ⲁ̀ⲙⲏⲛ"
+            coptic_english: ""
+            arabic: "آمين"
+
+    - speaker: priest
+      verses:
+          - english: "Bless us, keep us, and help us"
+            coptic: "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲛ ⲁ̀ⲣⲉϩ ⲉ̀ⲣⲟⲛ ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲛ"
+            coptic_english: ""
+            arabic: "وباركنا وإحفظنا وأعنا"
+
+    - speaker: people
+      verses:
+          - english: "Amen"
+            coptic: "Ⲁ̀ⲙⲏⲛ"
+            coptic_english: ""
+            arabic: "آمين"
+
+    - speaker: priest
+      verses:
+          - english: "Take away Your anger from us, visit us with Your salvation, and forgive us our sins"
+            coptic: "Ⲱ̀ⲗⲓ ⲙ̀ⲡⲉⲕϫⲱⲛⲧ ⲉ̀ⲃⲟⲗ ϩⲁⲣⲟⲛ ϫⲉⲙⲡⲉⲛϣⲓⲛⲓ ϧⲉⲛ ⲡⲉⲕⲟⲩϫⲁⲓ ⲟⲩⲟϩ ⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ"
+            coptic_english: ""
+            arabic: "وإرفع غضبك عنا، وإفتقدنا بخلاصك، وإغفر لنا خطايانا"
+
+    - speaker: people
+      verses:
+          - english: "Amen"
+            coptic: "Ⲁ̀ⲙⲏⲛ"
+            coptic_english: ""
+            arabic: "آمين"
+
+          - english: "Lord have mercy. Lord have mercy. Lord have mercy"
+            coptic: "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ. Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ. Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ"
+            coptic_english: "Kerie leison. Kerie leison. Kerie leison"
+            arabic: "يا ربُّ إرحَم. يا ربُّ إرحَم. يا ربُّ إرحَم"
+
+    - speaker: priest
+      verses:
+          - english: "Let us pray"
+            coptic: "Ϣ̀ⲗⲏⲗ"
+            coptic_english: "Esh-leel"
+            arabic: "صلوا"
+
+    - speaker: deacon
+      verses:
+          - english: "Stand up for prayer"
+            coptic: "Ⲉ̀ⲡⲓ ⲡ̀ⲣⲟⲥⲉⲩⲭⲏ ⲥ̀ⲧⲁⲑⲏⲧⲉ"
+            coptic_english: "E-pi eprosevki es-tathee te"
+            arabic: "للصلاة قفوا"
+
+    - speaker: priest
+      verses:
+          - english: "Peace be with all"
+            coptic: "Ⲓ̀ⲣⲏⲛⲏ ⲡⲁⲥⲓ"
+            coptic_english: "Ee-ree-nee pasi"
+            arabic: "السلام لجميعكم"
+
+    - speaker: people
+      verses:
+          - english: "And with your spirit"
+            coptic: "Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ"
+            coptic_english: "Ke to pnevmati soo"
+            arabic: "ولروحك أيضاً"

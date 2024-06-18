@@ -1,0 +1,10 @@
+title:
+    english: "The Synaxarium"
+    arabic: "السنكسار"
+
+sections:
+    # - type: "hint"
+    #   text:
+    #       english: "(Reading of the day is read)"
+    - type: reading
+      readingType: synaxarium

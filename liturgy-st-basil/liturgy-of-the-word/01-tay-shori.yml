@@ -1,0 +1,22 @@
+
+title:
+  english: "Hymn of the Censer"
+  arabic: "تاي شوري"
+
+sections:
+  - speaker: "people"
+    verses:
+      - english: "This is the censer of pure gold, bearing the aroma"
+        coptic: "Ⲧⲁⲓϣⲟⲩⲣⲏ ⲛ̀ⲛⲟⲩⲃ ⲛ̀ⲕⲁⲑⲁⲣⲟⲥ ⲉⲧϥⲁⲓ ϧⲁ ⲡⲓⲁ̀ⲣⲱⲙⲁⲧⲁ:"
+        coptic_english: "Tai Shori Enoben KathaRos EtFai Kha bi AroMata:"
+        arabic: "هذه المجمرة الذهب النقي الحاملة العنبر"
+
+      - english: "is in the hands of Aaron the priest"
+        coptic: "ⲉⲧϧⲉⲛ ⲛⲉⲛϫⲓϫ ⲛ̀Ⲁ̀ⲁⲣⲱⲛ ⲡⲓⲟ̀ⲩⲏⲃ ⲉϥⲧⲁⲗⲉ"
+        coptic_english: "EtKhen Nen JeeG En Aaron PiOwib Ef Ta le"
+        arabic: "التي في يدي هرون الكاهن"
+
+      - english: "offering up incense upon the altar."
+        coptic: "ⲟⲩⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ ⲉ̀ⲡ̀ϣⲱⲓ ⲉ̀ϫⲉⲛ ⲡⲓⲙⲁⲛ̀ⲉ̀ⲣϣⲱⲟ̀ⲩϣⲓ"
+        coptic_english: "O Estoy Nofi EEpshoy Ejen PiMa En Ersho Oshi"
+        arabic: "يرفع بخوراً فوق المذبح"

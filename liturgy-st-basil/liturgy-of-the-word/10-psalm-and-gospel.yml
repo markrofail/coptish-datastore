@@ -1,0 +1,55 @@
+title:
+    english: "The Psalm and Gospel"
+    arabic: "المزمور والإنجيل"
+
+sections:
+    - speaker: deacon
+      verses:
+          - english: "Stand in the fear of God. Let us hear the Holy Gospel"
+            coptic: "Ⲥ̀ⲧⲁⲑⲏⲧⲉ ⲙⲉⲧⲁ ⲫⲟⲃⲟⲩ Ⲑⲉⲟⲩ ⲁ̀ⲕⲟⲩⲥⲱⲙⲉⲛ ⲧⲟⲩ ⲁ̀ⲅⲓⲟⲩ ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲩ"
+            coptic_english: "Sta-thee-te meta fovo Theo, ako-somen to agio evan-geleio"
+            arabic: "قفوا بخوف الله لسماع الإنجيل المقدس"
+
+    - speaker: priest
+      verses:
+          - english: "Blessed is He who comes in the name of the Lord of powers. Bless, O Lord, the reading of the Holy Gospel according to Saint (...)"
+            coptic: "Ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ ⲫⲏⲉⲑⲛⲏⲟⲩ ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲧⲉ ⲛⲓϫⲟⲙ. Ⲕⲩⲣⲓⲉ ⲉⲩⲗⲟⲅⲏⲥⲟⲛ ⲉⲕ ⲧⲟⲩ ⲕⲁⲧⲁ (...) ⲁ̀ⲅⲓⲟⲩ ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲧⲟ ⲁ̀ⲛⲁⲅⲛⲱⲥⲙⲁ"
+            coptic_english: ""
+            arabic: "مبارك الآتي بإسم رب القوات. يا رب بارك الفصل من الإنجيل المقدس من القديس (...)"
+
+    - speaker: people
+      verses:
+          - english: "Glory to You, O Lord"
+            coptic: "Ⲇⲟⲝⲁ ⲥⲓ Ⲕⲩⲣⲓⲉ"
+            coptic_english: ""
+            arabic: "المجد لك يا رب"
+
+    - speaker: reader
+      verses:
+          - english: "Stand up in the fear of God and listen to the Holy Gospel. A reading from the Gospel according to Saint (...), may his blessings, be with us all. Amen."
+            arabic: "قفوا بخوف الله لسماع الإنجيل المقدس، فصل من الإنجيل لمعلمنا مار (...) البشير، بركته على جميعنا"
+
+    - type: reading
+      readingType: liturgy-psalm
+
+    - speaker: people
+      verses:
+          - english: "Alleluia"
+            coptic: "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ"
+            coptic_english: "Alleluia"
+            arabic: "هلليلويا"
+
+    - speaker: reader
+      verses:
+          - english: "Blessed is He who comes in the name of the Lord of powers. Bless, O Lord, the reading of the Holy Gospel according to Saint (...)"
+            coptic: "Ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ ⲫⲏⲉⲑⲛⲏⲟⲩ ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲧⲉ ⲛⲓϫⲟⲙ. Ⲕⲩⲣⲓⲉ ⲉⲩⲗⲟⲅⲏⲥⲟⲛ ⲉⲕ ⲧⲟⲩ ⲕⲁⲧⲁ (...) ⲁ̀ⲅⲓⲟⲩ ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲧⲟ ⲁ̀ⲛⲁⲅⲛⲱⲥⲙⲁ"
+            coptic_english: ""
+            arabic: "مبارك الآتي بإسم رب القوات. يا رب بارك الفصل من الإنجيل المقدس من القديس (...)"
+
+    - type: reading
+      readingType: liturgy-gospel
+
+    - speaker: people
+      verses:
+          - english: "Glory be to God forever"
+            arabic: "والمجد لله دائماً"

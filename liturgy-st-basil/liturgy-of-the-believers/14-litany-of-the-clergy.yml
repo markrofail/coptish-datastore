@@ -1,0 +1,35 @@
+title:
+    english: "The Litany for the Clergy"
+    # arabic: "أوشية السلام"
+
+sections:
+    - speaker: priest
+      verses:
+          - english: "And those who rightly divide the word of truth with him,"
+            coptic: ""
+            coptic_english: ""
+            arabic: "والذين يفصلون معه كلمة الحق بإستقامة"
+
+          - english: "grant them unto Your holy Church to shepherd Your flock in peace"
+            coptic: ""
+            coptic_english: ""
+            arabic: "أنعم بهم على كنيستك المقدسة يرعون قطيعك بسلام"
+
+          - english: "Remember, O Lord, the orthodox hegumens, priests, and deacons"
+            coptic: ""
+            coptic_english: ""
+            arabic: "أذكر يارب القمامصة، والقسوس الأرثوذكسيين والشمامسة"
+
+    - speaker: deacon
+      verses:
+          - english: "Pray for the hegumens, priests, deacons, subdeacons, and the seven orders of the Church of God"
+            coptic: ""
+            coptic_english: ""
+            arabic: "صلوا من أجل القمامصة القسوس والشمامسة والإبوذياقونين وسبع طغمات كنيسة الله"
+
+    - speaker: people
+      verses:
+          - english: "Lord have mercy"
+            coptic: ""
+            coptic_english: ""
+            arabic: "يا ربُّ إرحَم"

@@ -1,0 +1,23 @@
+title:
+    english: "The Litany of Mercy"
+    # arabic: "أوشية السلام"
+
+sections:
+    - speaker: priest
+      verses:
+          - english: "And all the servants, and all who are in virginity, and the purity of all Your faithful people"
+            coptic: ""
+            coptic_english: ""
+            arabic: "وكل الخدام، وكل الذين في البتولية وطهارة كل شعبك المؤمن"
+
+          - english: "(Remember, O Lord, to have mercy upon us all.)"
+            coptic: ""
+            coptic_english: ""
+            arabic: "(أذكر يا رب أن ترحمنا كلنا معاً)"
+
+    - speaker: people
+      verses:
+          - english: "Have mercy upon us, O God, the Father, the Pantocrator"
+            coptic: ""
+            coptic_english: ""
+            arabic: "إرحمنا يا الله الآب، ضابط الكل"

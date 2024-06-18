@@ -1,0 +1,24 @@
+title:
+    english: "The Pauline Epistle"
+    arabic: "البولس"
+
+sections:
+    - speaker: "reader"
+      verses:
+          - english: "Paul, the servant of our Lord Jesus Christ, called to be an apostle, appointed to the gospel of God"
+            # coptic: "Ⲡⲁⲩⲗⲟⲥ ⲫ̀ⲃⲱⲕ ⲙ̀ⲡⲉⲛⲟ̅ⲥ̅ Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅ ⲡⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ ⲉⲧⲑⲁϩⲉⲙ ⲫⲏⲉ̀ⲧⲁⲩⲑⲁϣϥ ⲉ̀ⲡⲓϩⲓϣⲉⲛⲛⲟⲩϥⲓ ⲛ̀ⲧⲉ Ⲫϯ"
+            # coptic_english: ""
+            arabic: "بولس عبد ربنا يسوع المسيح. الرسول المدعو المفرز لكرازة الله"
+
+    # - type: "hint"
+    #   text:
+    #       english: "(Reading of the day is read)"
+    - type: reading
+      readingType: pauline-epistle
+
+    - speaker: "reader"
+      verses:
+          - english: "The grace of God the Father be with you all. Amen"
+            # coptic: "Ⲡⲓϩ̀ⲙⲟⲧ ⲅⲁⲣ ⲛⲉⲙⲱⲧⲉⲛ ⲛⲉⲙ ⲧ̀ϩⲓⲣⲏⲛⲏ ⲉⲩⲥⲟⲡ ϫⲉ ⲁ̀ⲙⲏⲛ ⲉⲥⲉ̀ϣⲱⲡⲓ"
+            # coptic_english: ""
+            arabic: "نعمة الله الآب تكون مع جميعكم آمين"

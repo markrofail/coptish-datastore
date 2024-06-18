@@ -1,0 +1,25 @@
+title:
+    english: "Litany for the Oblations"
+    arabic: "أوشية القرابين"
+
+sections:
+    - speaker: priest
+      verses:
+          - english: "Remember, O Lord, those who have brought unto You these gifts, those on whose behalf they have been brought, and those by whom they have been brought. Give them all the heavenly reward"
+            coptic: ""
+            coptic_english: ""
+            arabic: "أذكر يا رب الذين قدموا لك هذه القرابين، والذين قدمت عنهم، والذين قدمت بواسطتهم، اعطهم كلهم الأجر السمائي"
+
+    - speaker: deacon
+      verses:
+          - english: "Pray for these holy and precious gifts, our sacrifices, and those who have brought them"
+            coptic: ""
+            coptic_english: ""
+            arabic: "صلوا من أجل هذه القرابين المقدسة الكريمة، وتقدماتنا، والذين قدموها"
+
+    - speaker: people
+      verses:
+          - english: "Lord have mercy"
+            coptic: ""
+            coptic_english: ""
+            arabic: "يا ربُّ إرحَم"

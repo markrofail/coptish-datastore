@@ -1,0 +1,32 @@
+title:
+    english: "The Five Short Litanies"
+    arabic: "الخمس أواشي الصغار"
+
+sections:
+    - speaker: priest
+      verses:
+          - english: "Let us pray"
+            coptic: "Ϣ̀ⲗⲏⲗ"
+            coptic_english: "Esh-leel"
+            arabic: "صلوا"
+
+    - speaker: deacon
+      verses:
+          - english: "Stand up for prayer"
+            coptic: "Ⲉ̀ⲡⲓ ⲡ̀ⲣⲟⲥⲉⲩⲭⲏ ⲥ̀ⲧⲁⲑⲏⲧⲉ"
+            coptic_english: "E-pi eprosevki es-tathee te"
+            arabic: "للصلاة قفوا"
+
+    - speaker: priest
+      verses:
+          - english: "Peace be with all"
+            coptic: "Ⲓ̀ⲣⲏⲛⲏ ⲡⲁⲥⲓ"
+            coptic_english: "Ee-ree-nee pasi"
+            arabic: "السلام لجميعكم"
+
+    - speaker: people
+      verses:
+          - english: "And with your spirit"
+            coptic: "Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ"
+            coptic_english: "Ke to pnevmati soo"
+            arabic: "ولروحك أيضاً"

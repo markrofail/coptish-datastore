@@ -1,0 +1,32 @@
+title:
+    english: "The Litany for the Place"
+    arabic: "أوشية الموضع"
+
+sections:
+    - speaker: priest
+      verses:
+          - english: "Remember, O Lord, the salvation of this, Your holy place, and every place, and every monastery of our orthodox fathers"
+            coptic: ""
+            coptic_english: ""
+            arabic: "اذكر يا رب خلاص هذا الموضع المقدس الذي لك، وكل المواضع، وكل أديرة آبائنا الأرثوذكسيين"
+
+    - speaker: deacon
+      verses:
+          - english: "Pray for the salvation of the world and of this city of ours and of all cities, districts, islands, and monasteries"
+            coptic: ""
+            coptic_english: ""
+            arabic: "صلوا من أجل خلاص العالم، ومدينتنا هذه، وسائر المدن والأقاليم والجزائر والأديرة"
+
+    - speaker: people
+      verses:
+          - english: "Lord have mercy"
+            coptic: ""
+            coptic_english: ""
+            arabic: "يا ربُّ إرحَم"
+
+    - speaker: priest
+      verses:
+          - english: "And those who dwell therein in God's faith"
+            coptic: ""
+            coptic_english: ""
+            arabic: "والساكنين فيها بإيمان الله"
