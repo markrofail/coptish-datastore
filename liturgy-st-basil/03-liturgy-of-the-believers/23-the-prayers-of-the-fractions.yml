@@ -1,6 +1,7 @@
 title:
-    english: "The Prayers of the Fractions"
-    arabic: ""
+    english: 'The Prayers of the Fractions'
+    arabic: ''
 
 sections:
-    - type: fraction
+    - type: compound-prayer
+      path: fractions

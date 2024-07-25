@@ -1,6 +1,7 @@
 title:
-    english: "Doxologies"
-    arabic: "الذكصولوجيات"
+    english: 'Doxologies'
+    arabic: 'الذكصولوجيات'
 
 sections:
-    - type: doxologies
+    - type: compound-prayer
+      path: doxologies
