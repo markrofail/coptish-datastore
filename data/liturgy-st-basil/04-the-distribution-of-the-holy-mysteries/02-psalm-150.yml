@@ -1,96 +1,83 @@
 title:
-    english: "Psalm 150"
-    arabic: ""
-
+    english: Psalm 150
+    arabic: ''
 sections:
-    - speaker: "people"
+    - speaker: people
+      type: verses
       verses:
-          - english: "Glory to You O Lord, glory to You"
-            coptic: "Ⲇⲟⲝⲁ ⲥⲓ Ⲕⲩⲣⲓⲉ ⲇⲟⲝⲁ ⲥⲓ"
-            coptic_english: ""
-            arabic: "المجد لك يا رب، المجد لك"
-
-          - english: "Alleluia"
-            coptic: "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ"
-            coptic_english: ""
-            arabic: "هلليلويا"
-
-          - english: "Praise God in all His saints"
-            coptic: "Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲫϯ ϧⲉⲛ ⲛⲏⲉ̅ⲑ̅ⲩ̅ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲁϥ"
-            coptic_english: ""
-            arabic: "سبحوا الله في جميع قديسيه"
-
-          - english: "Praise Him in the firmament of His power"
-            coptic: "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ⲡⲓⲧⲁϫⲣⲟ ⲛ̀ⲧⲉ ⲧⲉϥϫⲟⲙ"
-            coptic_english: ""
-            arabic: "سبحوه في جلد قوته"
-
-          - english: "Praise Him for His mighty acts"
-            coptic: "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ⲉ̀ϩ̀ⲣⲏⲓ ϩⲓϫⲉⲛ ⲧⲉϥⲙⲉⲧϫⲱⲣⲓ"
-            coptic_english: ""
-            arabic: "سبحوه على مقدرته"
-
-          - english: "Praise Him according to the multitudes of His greatness"
-            coptic: "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ⲕⲁⲧⲁ ⲡ̀ⲁ̀ϣⲁⲓ ⲛ̀ⲧⲉ ⲧⲉϥⲙⲉⲧⲛⲓϣϯ"
-            coptic_english: ""
-            arabic: "سبحوه ككثرة عظمته"
-
-          - english: "Praise Him with the sound of the trumpet"
-            coptic: "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ⲟⲩⲥ̀ⲙⲏ ⲛ̀ⲥⲁⲗⲡⲓⲅⲅⲟⲥ"
-            coptic_english: ""
-            arabic: "سبحوه بصوت البوق"
-
-          - english: "Praise Him with psaltery and harp"
-            coptic: "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ⲟⲩⲯⲁⲗⲧⲏⲣⲓⲟⲛ ⲛⲉⲙ ⲟⲩⲕⲩⲑⲁⲣⲁ"
-            coptic_english: ""
-            arabic: "سبحوه بالمزمار والقيثار"
-
-          - english: "Praise Him with timbrel and chorus"
-            coptic: "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ϩⲁⲛⲕⲉⲙⲕⲉⲙ ⲛⲉⲙ ϩⲁⲛⲭⲟⲣⲟⲥ"
-            coptic_english: ""
-            arabic: "سبحوه بدفوف وصفوف"
-
-          - english: "Praise Him with strings and organs"
-            coptic: "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ϩⲁⲛⲕⲁⲡ ⲛⲉⲙ ⲟⲩⲟⲣⲅⲁⲛⲟⲛ"
-            coptic_english: ""
-            arabic: "سبحوه بأوتار وأرغن"
-
-          - english: "Praise Him with pleasant sounding cymbals"
-            coptic: "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ϩⲁⲛⲕⲩⲙⲃⲁⲗⲟⲛ ⲉ̀ⲛⲉⲥⲉ ⲧⲟⲩⲥ̀ⲙⲏ"
-            coptic_english: ""
-            arabic: "سبحوه بصنوج حسنة الصوت"
-
-          - english: "Praise Him upon the cymbals of joy"
-            coptic: "Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ϩⲁⲛⲕⲩⲙⲃⲁⲗⲟⲛ ⲛ̀ⲧⲉ ⲟⲩⲉ̀ϣ̀ⲗⲏⲗⲟⲩⲓ̀"
-            coptic_english: ""
-            arabic: "سبحوه بصنوج التهليل"
-
-          - english: "Let every thing that has breath praise the name of the Lord our God"
-            coptic: "Ⲛⲓϥⲓ ⲛⲓⲃⲉⲛ ⲙⲁⲣⲟⲩⲥ̀ⲙⲟⲩ ⲧⲏⲣⲟⲩ ⲉ̀ⲫ̀ⲣⲁⲛ ⲙ̀Ⲡⲟ̅ⲥ̅ ⲡⲉⲛⲛⲟⲩϯ"
-            coptic_english: ""
-            arabic: "كل نسمة فلتسبح اسم الرب الهنا"
-
-          - english: "Glory be to the Father, and the Son and the Holy Spirit"
-            coptic: "Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ̀ ⲕⲉ ⲁ̀ⲅⲓⲱ̀ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ"
-            coptic_english: ""
-            arabic: "المجد للآب والأبن والروح القدس"
-
-          - english: "Now and forever and unto the age of all ages Amen"
-            coptic: "Ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ ⲁ̀ⲙⲏⲛ"
-            coptic_english: ""
-            arabic: "الآن وكل أوان وإلى دهر الداهرين آمين"
-
-          - english: "Alleluia, Alleluia, glory be to our God"
-            coptic: "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ⲁ̅ⲗ̅ ⲇⲟⲝⲁ ⲥⲓ ⲟ Ⲑⲉⲟⲥ ⲏ̀ⲙⲱⲛ"
-            coptic_english: ""
-            arabic: "المجد لإلهنا هلليلويا"
-
-          - english: "Alleluia, Alleluia, glory be to our God"
-            coptic: "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ⲁ̅ⲗ̅ ⲡⲓⲱ̀ⲟⲩ ⲫⲁ ⲡⲉⲛⲚⲟⲩϯ ⲡⲉ"
-            coptic_english: ""
-            arabic: "المجد لإلهنا هلليلويا"
-
-          - english: "O Jesus Christ, the Son of God, hear us and have mercy upon us"
-            coptic: "Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅ ⲡ̀Ϣⲏⲣⲓ ⲙ̀Ⲫϯ ⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲛ ⲟⲩⲟϩ ⲛⲁⲓ ⲛⲁⲛ"
-            coptic_english: ""
-            arabic: "يا يسوع المسيح ابن الله، إسمعنا وإرحمنا"
+          english:
+              - Glory to You O Lord, glory to You
+              - Alleluia
+              - Praise God in all His saints
+              - Praise Him in the firmament of His power
+              - Praise Him for His mighty acts
+              - Praise Him according to the multitudes of His greatness
+              - Praise Him with the sound of the trumpet
+              - Praise Him with psaltery and harp
+              - Praise Him with timbrel and chorus
+              - Praise Him with strings and organs
+              - Praise Him with pleasant sounding cymbals
+              - Praise Him upon the cymbals of joy
+              - Let every thing that has breath praise the name of the Lord our God
+              - Glory be to the Father, and the Son and the Holy Spirit
+              - Now and forever and unto the age of all ages Amen
+              - Alleluia, Alleluia, glory be to our God
+              - Alleluia, Alleluia, glory be to our God
+              - O Jesus Christ, the Son of God, hear us and have mercy upon us
+          arabic:
+              - المجد لك يا رب، المجد لك
+              - هلليلويا
+              - سبحوا الله في جميع قديسيه
+              - سبحوه في جلد قوته
+              - سبحوه على مقدرته
+              - سبحوه ككثرة عظمته
+              - سبحوه بصوت البوق
+              - سبحوه بالمزمار والقيثار
+              - سبحوه بدفوف وصفوف
+              - سبحوه بأوتار وأرغن
+              - سبحوه بصنوج حسنة الصوت
+              - سبحوه بصنوج التهليل
+              - كل نسمة فلتسبح اسم الرب الهنا
+              - المجد للآب والأبن والروح القدس
+              - الآن وكل أوان وإلى دهر الداهرين آمين
+              - المجد لإلهنا هلليلويا
+              - المجد لإلهنا هلليلويا
+              - يا يسوع المسيح ابن الله، إسمعنا وإرحمنا
+          coptic:
+              - Ⲇⲟⲝⲁ ⲥⲓ Ⲕⲩⲣⲓⲉ ⲇⲟⲝⲁ ⲥⲓ
+              - Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ
+              - Ⲥ̀ⲙⲟⲩ ⲉ̀Ⲫϯ ϧⲉⲛ ⲛⲏⲉ̅ⲑ̅ⲩ̅ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲁϥ
+              - Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ⲡⲓⲧⲁϫⲣⲟ ⲛ̀ⲧⲉ ⲧⲉϥϫⲟⲙ
+              - Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ⲉ̀ϩ̀ⲣⲏⲓ ϩⲓϫⲉⲛ ⲧⲉϥⲙⲉⲧϫⲱⲣⲓ
+              - Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ⲕⲁⲧⲁ ⲡ̀ⲁ̀ϣⲁⲓ ⲛ̀ⲧⲉ ⲧⲉϥⲙⲉⲧⲛⲓϣϯ
+              - Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ⲟⲩⲥ̀ⲙⲏ ⲛ̀ⲥⲁⲗⲡⲓⲅⲅⲟⲥ
+              - Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ⲟⲩⲯⲁⲗⲧⲏⲣⲓⲟⲛ ⲛⲉⲙ ⲟⲩⲕⲩⲑⲁⲣⲁ
+              - Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ϩⲁⲛⲕⲉⲙⲕⲉⲙ ⲛⲉⲙ ϩⲁⲛⲭⲟⲣⲟⲥ
+              - Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ϩⲁⲛⲕⲁⲡ ⲛⲉⲙ ⲟⲩⲟⲣⲅⲁⲛⲟⲛ
+              - Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ϩⲁⲛⲕⲩⲙⲃⲁⲗⲟⲛ ⲉ̀ⲛⲉⲥⲉ ⲧⲟⲩⲥ̀ⲙⲏ
+              - Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟϥ ϧⲉⲛ ϩⲁⲛⲕⲩⲙⲃⲁⲗⲟⲛ ⲛ̀ⲧⲉ ⲟⲩⲉ̀ϣ̀ⲗⲏⲗⲟⲩⲓ̀
+              - Ⲛⲓϥⲓ ⲛⲓⲃⲉⲛ ⲙⲁⲣⲟⲩⲥ̀ⲙⲟⲩ ⲧⲏⲣⲟⲩ ⲉ̀ⲫ̀ⲣⲁⲛ ⲙ̀Ⲡⲟ̅ⲥ̅ ⲡⲉⲛⲛⲟⲩϯ
+              - Ⲇⲟⲝⲁ Ⲡⲁⲧⲣⲓ ⲕⲉ Ⲩ̀ⲓⲱ̀ ⲕⲉ ⲁ̀ⲅⲓⲱ̀ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ
+              - Ⲕⲉ ⲛⲩⲛ ⲕⲉ ⲁ̀ⲓ̀ ⲕⲉ ⲓⲥ ⲧⲟⲩⲥ ⲉ̀ⲱ̀ⲛⲁⲥ ⲧⲱⲛ ⲉ̀ⲱ̀ⲛⲱⲛ ⲁ̀ⲙⲏⲛ
+              - Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ⲁ̅ⲗ̅ ⲇⲟⲝⲁ ⲥⲓ ⲟ Ⲑⲉⲟⲥ ⲏ̀ⲙⲱⲛ
+              - Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ⲁ̅ⲗ̅ ⲡⲓⲱ̀ⲟⲩ ⲫⲁ ⲡⲉⲛⲚⲟⲩϯ ⲡⲉ
+              - Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅ ⲡ̀Ϣⲏⲣⲓ ⲙ̀Ⲫϯ ⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲛ ⲟⲩⲟϩ ⲛⲁⲓ ⲛⲁⲛ
+          coptic_english:
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''

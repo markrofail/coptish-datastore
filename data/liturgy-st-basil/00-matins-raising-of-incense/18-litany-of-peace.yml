@@ -1,37 +1,52 @@
 title:
-    english: "The Litany for the Peace"
-    arabic: "أوشية السلام"
-
+    english: The Litany for the Peace
+    arabic: أوشية السلام
 sections:
     - speaker: priest
+      type: verses
       verses:
-          - english: "Again, let us ask God the Pantocrator, the Father of our Lord, God, and Savior Jesus Christ"
-            coptic: "Ⲡⲁⲗⲓⲛ ⲟⲛ ⲙⲁⲣⲉⲛϯϩⲟ ⲉ̀Ⲫ̀ⲛⲟⲩϯ Ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ Ⲫ̀ⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ Ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ"
-            coptic_english: ""
-            arabic: "وأيضاً فلنسأل الله الضابط الكل، أبا ربنا وإلهنا ومخلصنا يسوع المسيح"
-
-          - english: "We ask and entreat Your goodness, O Lover of Mankind, remember, O Lord, the peace of Your one, only, holy, catholic, and apostolic Church—"
-            coptic: "Ⲧⲉⲛϯϩⲟ ⲟⲩⲟϩ ⲧⲉⲛⲧⲱⲃϩ ⲛ̀ⲧⲉⲕⲙⲉⲧⲁ̀ⲅⲁⲑⲟⲥ Ⲡⲓⲙⲁⲓⲣⲱⲙⲓ ⲁ̀ⲣⲓⲫ̀ⲙⲉⲩⲓ Ⲡ̀ϭⲟⲓⲥ ⲛ̀ϯϩⲓⲣⲏⲛⲏ ⲛ̀ⲧⲉ ⲧⲉⲕⲟⲩⲓ̀ ⲙ̀ⲙⲁⲩⲁⲧⲥ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲕⲁⲑⲟⲗⲓⲕⲏ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏ ⲛ̀Ⲉⲕⲕⲗⲏⲥⲓⲁ"
-            coptic_english: ""
-            arabic: "نسأل ونطلب من صلاحك يا محب البشر، أُذكر يا رب سلام كنيستك الواحدة الوحيدة المقدسة الجامعة الرسولية"
-
+          english:
+              - Again, let us ask God the Pantocrator, the Father of our Lord, God, and Savior Jesus Christ
+              - We ask and entreat Your goodness, O Lover of Mankind, remember, O Lord, the peace of Your one, only, holy, catholic, and apostolic Church—
+          arabic:
+              - وأيضاً فلنسأل الله الضابط الكل، أبا ربنا وإلهنا ومخلصنا يسوع المسيح
+              - نسأل ونطلب من صلاحك يا محب البشر، أُذكر يا رب سلام كنيستك الواحدة الوحيدة المقدسة الجامعة الرسولية
+          coptic:
+              - Ⲡⲁⲗⲓⲛ ⲟⲛ ⲙⲁⲣⲉⲛϯϩⲟ ⲉ̀Ⲫ̀ⲛⲟⲩϯ Ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ Ⲫ̀ⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ Ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ
+              - Ⲧⲉⲛϯϩⲟ ⲟⲩⲟϩ ⲧⲉⲛⲧⲱⲃϩ ⲛ̀ⲧⲉⲕⲙⲉⲧⲁ̀ⲅⲁⲑⲟⲥ Ⲡⲓⲙⲁⲓⲣⲱⲙⲓ ⲁ̀ⲣⲓⲫ̀ⲙⲉⲩⲓ Ⲡ̀ϭⲟⲓⲥ ⲛ̀ϯϩⲓⲣⲏⲛⲏ ⲛ̀ⲧⲉ ⲧⲉⲕⲟⲩⲓ̀ ⲙ̀ⲙⲁⲩⲁⲧⲥ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲕⲁⲑⲟⲗⲓⲕⲏ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏ ⲛ̀Ⲉⲕⲕⲗⲏⲥⲓⲁ
+          coptic_english:
+              - ''
+              - ''
     - speaker: deacon
+      type: verses
       verses:
-          - english: "Pray for the peace of the one, holy, catholic, and apostolic orthodox Church of God"
-            coptic: "Ⲡ̀ⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲏⲥ ⲓ̀ⲣⲏⲛⲏⲥ ⲧⲏⲥ ⲁ̀ⲅⲓⲁⲥ ⲙⲟⲛⲏⲥ ⲕⲁⲑⲟⲗⲓⲕⲏⲥ ⲕⲉ ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏⲥ ⲟⲣⲑⲟⲇⲟⲝⲟⲩ ⲧⲟⲩ Ⲑⲉⲟⲩ Ⲉⲕⲕⲗⲏⲥⲓⲁⲥ"
-            coptic_english: ""
-            arabic: "صلوا من أجل سلام الواحدة المقدسة الجامعة الرسولية كنيسة الله الأرثوذكسية"
-
+          english:
+              - Pray for the peace of the one, holy, catholic, and apostolic orthodox Church of God
+          arabic:
+              - صلوا من أجل سلام الواحدة المقدسة الجامعة الرسولية كنيسة الله الأرثوذكسية
+          coptic:
+              - Ⲡ̀ⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲏⲥ ⲓ̀ⲣⲏⲛⲏⲥ ⲧⲏⲥ ⲁ̀ⲅⲓⲁⲥ ⲙⲟⲛⲏⲥ ⲕⲁⲑⲟⲗⲓⲕⲏⲥ ⲕⲉ ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏⲥ ⲟⲣⲑⲟⲇⲟⲝⲟⲩ ⲧⲟⲩ Ⲑⲉⲟⲩ Ⲉⲕⲕⲗⲏⲥⲓⲁⲥ
+          coptic_english:
+              - ''
     - speaker: people
+      type: verses
       verses:
-          - english: "Lord have mercy"
-            coptic: "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ"
-            coptic_english: "Kerie leison"
-            arabic: "يا ربُّ إرحَم"
-
+          english:
+              - Lord have mercy
+          arabic:
+              - يا ربُّ إرحَم
+          coptic:
+              - Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ
+          coptic_english:
+              - Kerie leison
     - speaker: priest
+      type: verses
       verses:
-          - english: "that which exists from one end of the world to the other"
-            coptic: "Ⲑⲁⲓ ⲉⲧϣⲟⲡ ⲓⲥϫⲉⲛ ⲁⲩⲣⲏϫⲥ ⲛ̀ϯⲟⲓⲕⲟⲩⲙⲉⲛⲏ ϣⲁ ⲁⲩⲣⲏϫⲥ"
-            coptic_english: ""
-            arabic: "هذه الكائنة من أقاصي المسكونة إلى أقاصيها"
+          english:
+              - that which exists from one end of the world to the other
+          arabic:
+              - هذه الكائنة من أقاصي المسكونة إلى أقاصيها
+          coptic:
+              - Ⲑⲁⲓ ⲉⲧϣⲟⲡ ⲓⲥϫⲉⲛ ⲁⲩⲣⲏϫⲥ ⲛ̀ϯⲟⲓⲕⲟⲩⲙⲉⲛⲏ ϣⲁ ⲁⲩⲣⲏϫⲥ
+          coptic_english:
+              - ''

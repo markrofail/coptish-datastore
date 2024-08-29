@@ -1,29 +1,35 @@
 title:
-    english: "Procession of the Lamb"
-    coptic: "Ⲡⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣⲧⲱⲛ"
-    arabic: "دورة الحمل"
-
+    english: Procession of the Lamb
+    coptic: Ⲡⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣⲧⲱⲛ
+    arabic: دورة الحمل
 sections:
     - speaker: priest
+      type: verses
       verses:
-          - english: "Glory and honor, honor and glory to the All-holy Trinity, the Father and the Son and the Holy Spirit"
-            coptic: "Ⲟⲩⲱ̀ⲟⲩ ⲛⲉⲙ ⲟⲩⲧⲁⲓⲟ̀ ⲟⲩⲧⲁⲓⲟ̀ ⲛⲉⲙ ⲟⲩⲱ̀ⲟⲩ ⲛ̀ϯⲡⲁⲛⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ Ⲫⲓⲱⲧ ⲛⲉⲙ ⲡ̀Ϣⲏⲣⲓ ⲛⲉⲙ ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ ⲉ̀ⲑⲟⲩⲁⲃ"
-            coptic_english: ""
-            arabic: "مجدا وإكراما إكراما ومجدا للثالوث القدوس الآب والإبن والروح القدس"
-
-          - english: "Peace and edification to the one, only, holy, Catholic, Apostolic Orthodox Church of God. Amen"
-            coptic: "Ⲟⲩϩⲓⲣⲏⲛⲏ ⲛⲉⲙ ⲟⲩⲕⲱϯ ⲉ̀ϫⲉⲛ ϯⲟⲩⲓ̀ ⲙ̀ⲙⲁⲩⲁⲧⲥ ⲉ̀̅ⲑ̅ⲩ̅ ⲛ̀ⲕⲁⲑⲟⲗⲓⲕⲏ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏ ⲛ̀ⲉⲕⲕ̀ⲗⲏⲥⲓⲁ ⲛ̀ⲧⲉ Ⲫϯ ⲁ̀ⲙⲏⲛ"
-            coptic_english: ""
-            arabic: "سلاما وبنياناً لكنيسة الله الواحدة الوحيدة المقدسة الجامعة الرسولية. آمين"
-
-          - english: "Remember, O Lord, those who have brought to You these gifts and those on whose behalf they have been brought, and those by whom they have been brought. Give them all the heavenly reward"
-            coptic: "Ⲁⲣⲓⲫ̀ⲙⲉⲩⲓ̀ Ⲡⲟ̅ⲥ̅ ⲛ̀ⲛⲏⲉ̀ⲧⲁⲩⲓ̀ⲛⲓ ⲛⲁⲕ ⲉ̀ϧⲟⲩⲛ ⲛ̀ⲛⲁⲓ ⲇⲱⲣⲟⲛ ⲛⲉⲙ ⲛⲏⲉ̀ⲧⲁⲩⲉ̀ⲛⲟⲩ ⲉ̀ϫⲱⲟⲩⲛⲉⲙ ⲛⲏⲉ̀ⲧⲁⲩⲉ̀ⲛⲟⲩ ⲉ̀ⲃⲟⲗϩⲓⲧⲟⲧⲟⲩ ⲙⲟⲓ ⲛⲱⲟⲩ ⲧⲏⲣⲟⲩ ⲙ̀ⲡⲓⲃⲉⲭⲉ ⲡⲓⲉ̀ⲃⲟⲗϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ̀"
-            coptic_english: ""
-            arabic: "أذكر يا رب الذين قدموا لك هذه القرابين والذين قدمت عنهم، والذين قدمت بواسطتهم أعطهم كلهم الأجر السمائي"
-
+          english:
+              - Glory and honor, honor and glory to the All-holy Trinity, the Father and the Son and the Holy Spirit
+              - Peace and edification to the one, only, holy, Catholic, Apostolic Orthodox Church of God. Amen
+              - Remember, O Lord, those who have brought to You these gifts and those on whose behalf they have been brought, and those by whom they have been brought. Give them all the heavenly reward
+          arabic:
+              - مجدا وإكراما إكراما ومجدا للثالوث القدوس الآب والإبن والروح القدس
+              - سلاما وبنياناً لكنيسة الله الواحدة الوحيدة المقدسة الجامعة الرسولية. آمين
+              - أذكر يا رب الذين قدموا لك هذه القرابين والذين قدمت عنهم، والذين قدمت بواسطتهم أعطهم كلهم الأجر السمائي
+          coptic:
+              - Ⲟⲩⲱ̀ⲟⲩ ⲛⲉⲙ ⲟⲩⲧⲁⲓⲟ̀ ⲟⲩⲧⲁⲓⲟ̀ ⲛⲉⲙ ⲟⲩⲱ̀ⲟⲩ ⲛ̀ϯⲡⲁⲛⲁ̀ⲅⲓⲁ̀ ⲧ̀ⲣⲓⲁⲥ Ⲫⲓⲱⲧ ⲛⲉⲙ ⲡ̀Ϣⲏⲣⲓ ⲛⲉⲙ ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ ⲉ̀ⲑⲟⲩⲁⲃ
+              - Ⲟⲩϩⲓⲣⲏⲛⲏ ⲛⲉⲙ ⲟⲩⲕⲱϯ ⲉ̀ϫⲉⲛ ϯⲟⲩⲓ̀ ⲙ̀ⲙⲁⲩⲁⲧⲥ ⲉ̀̅ⲑ̅ⲩ̅ ⲛ̀ⲕⲁⲑⲟⲗⲓⲕⲏ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏ ⲛ̀ⲉⲕⲕ̀ⲗⲏⲥⲓⲁ ⲛ̀ⲧⲉ Ⲫϯ ⲁ̀ⲙⲏⲛ
+              - Ⲁⲣⲓⲫ̀ⲙⲉⲩⲓ̀ Ⲡⲟ̅ⲥ̅ ⲛ̀ⲛⲏⲉ̀ⲧⲁⲩⲓ̀ⲛⲓ ⲛⲁⲕ ⲉ̀ϧⲟⲩⲛ ⲛ̀ⲛⲁⲓ ⲇⲱⲣⲟⲛ ⲛⲉⲙ ⲛⲏⲉ̀ⲧⲁⲩⲉ̀ⲛⲟⲩ ⲉ̀ϫⲱⲟⲩⲛⲉⲙ ⲛⲏⲉ̀ⲧⲁⲩⲉ̀ⲛⲟⲩ ⲉ̀ⲃⲟⲗϩⲓⲧⲟⲧⲟⲩ ⲙⲟⲓ ⲛⲱⲟⲩ ⲧⲏⲣⲟⲩ ⲙ̀ⲡⲓⲃⲉⲭⲉ ⲡⲓⲉ̀ⲃⲟⲗϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ̀
+          coptic_english:
+              - ''
+              - ''
+              - ''
     - speaker: deacon
+      type: verses
       verses:
-          - english: "Pray for these holy and precious gifts, our sacrifices, and those who have brought them. Lord have mercy"
-            coptic: "Ⲡⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲱⲛ ⲁ̀ⲅⲓⲱⲛ ⲧⲓⲙⲓⲱⲛ ⲇⲱⲣⲟⲛ ⲧⲟⲩⲧⲱⲛ ⲕⲉ ⲑⲩⲥⲓⲱⲛ ⲏ̀ⲙⲱⲛ ⲕⲉ ⲡⲣⲟⲥⲫⲉⲣⲟⲛⲧⲱⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ"
-            coptic_english: ""
-            arabic: "صلوا من أجل هذه القرابين المقدسة الكريمة وضحايانا والذين قدموها. يا رب ارحم"
+          english:
+              - Pray for these holy and precious gifts, our sacrifices, and those who have brought them. Lord have mercy
+          arabic:
+              - صلوا من أجل هذه القرابين المقدسة الكريمة وضحايانا والذين قدموها. يا رب ارحم
+          coptic:
+              - Ⲡⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲱⲛ ⲁ̀ⲅⲓⲱⲛ ⲧⲓⲙⲓⲱⲛ ⲇⲱⲣⲟⲛ ⲧⲟⲩⲧⲱⲛ ⲕⲉ ⲑⲩⲥⲓⲱⲛ ⲏ̀ⲙⲱⲛ ⲕⲉ ⲡⲣⲟⲥⲫⲉⲣⲟⲛⲧⲱⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ
+          coptic_english:
+              - ''

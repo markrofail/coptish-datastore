@@ -1,32 +1,36 @@
 title:
-    english: "Doxologies Conclusion"
-    coptic: "Ϣⲱⲡⲓ ⲛ̀ⲑⲟ ⲉⲣⲉⲥⲟⲙⲥ ⲉϫⲱⲛ"
-    arabic: "ختام الذكصولوجيات"
-
+    english: Doxologies Conclusion
+    coptic: Ϣⲱⲡⲓ ⲛ̀ⲑⲟ ⲉⲣⲉⲥⲟⲙⲥ ⲉϫⲱⲛ
+    arabic: ختام الذكصولوجيات
 sections:
     - speaker: people
+      type: verses
       verses:
-          - english: "Watch over us: from on high where you dwell: O Lady of us all: the ever-virign Theotokos"
-            coptic: "Ϣⲱⲡⲓ ⲛ̀ⲑⲟ ⲉ̀ⲣⲉ ⲥⲟⲙⲥ ⲉ̀ϫⲱⲛ: ϧⲉⲛ ⲛⲓⲙⲁ ⲉⲧϭⲟⲥⲓ ⲉ̀ⲧⲉⲣⲉⲭⲏ ⲛ̀ϧⲏⲧⲟⲩ: ⲱ̀ ⲧⲉⲛⲟ̅ⲥ̅ ⲛ̀ⲛⲏⲃ ⲧⲏⲣⲉⲛ ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ: ⲉⲧⲟⲓ ⲙ̀Ⲡⲁⲣⲑⲉⲛⲟⲥ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ"
-            coptic_english: "Shopi entho ere-coms egon: khen nima et-chosi et-arekhe enkheeto:\no tenchois en-nef teeren tee-theotokos: etoy emparthenos en-seyo niven"
-            arabic: "كونى أنتِ ناظرة علينا فى المواضع العالية التى أنتِ كائنة فيها. يا سيدتنا كلنا والدة الإله العذراء كل حين"
-
-          - english: "Ask of Him whom you have borne: our good Savior: to take away our troubles: and grant us His peace"
-            coptic: "Ⲙⲁϯϩⲟ ⲙ̀ⲫⲏⲉ̀ⲧⲁⲣⲉⲙⲁⲥϥ: ⲡⲉⲛⲤⲱⲧⲏⲣ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ⲛ̀ⲧⲉϥⲱ̀ⲗⲓ ⲛ̀ⲛⲁⲓϧⲓⲥⲓ ⲉ̀ⲃⲟⲗϩⲁⲣⲟⲛ: ⲛ̀ⲧⲉϥⲥⲉⲙⲛⲓ ⲛⲁⲛ ⲛ̀ⲧⲉϥϩⲓⲣⲏⲛⲏ"
-            coptic_english: "Mat-ee-ho em-fe-etaremasf: Pensoteer en-aghathos:\nentef-oli enai-khici evol-haron: entefsemni-nan entef-hereenee"
-            arabic: "إسألى الذى ولدته مخلصنا الصالح أن يرفع عنا هذه الأتعاب ويقرر لنا سلامه"
-
-          - english: "Hail to you O Virgin, / the right and true Queen, / Hail to the pride of our race, / who bore to us Immanuel"
-            coptic: "Ⲭⲉⲣⲉ ⲛⲉ ⲱ̀ ϯⲠⲁⲣⲑⲉⲛⲟⲥ: ϯⲟⲩⲣⲱ ⲙ̀ⲙⲏⲓ: ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲏ ⲭⲉⲣⲉ ⲡ̀ϣⲟⲩϣⲟⲩ ⲛ̀ⲧⲉ ⲡⲉⲛⲅⲉⲛⲟⲥ: ⲁ̀ⲣⲉϫ̀ⲫⲟ ⲛⲁⲛ ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ"
-            coptic_english: "Shere ne o tee-Parthenos: tee-ourou em-mee en-alitheenee:\nshere ep-sho-sho ente pengennos: are-egfo nan en-emmanoeel"
-            arabic: "السلام لك أيتها العذراء الملكة الحقيقية الحقانية. السلام لفخر جنسنا. ولدت لنا عمانوئيل"
-
-          - english: "We ask you to remember us, / O our faithful advocate, before our Lord Jesus Christ, / that He may forgive us our sins"
-            coptic: "Ⲧⲉⲛϯϩⲟ ⲁ̀ⲣⲉⲡⲉⲛⲙⲉⲩⲓ̀: ⲱ̀ ϯⲡ̀ⲣⲟⲥⲧⲁⲧⲏⲥ ⲉ̀ⲧⲉⲛϩⲟⲧ: ⲛⲁϩⲣⲉⲛ ⲡⲉⲛⲟ̅ⲥ̅ Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ"
-            coptic_english: "Tenteeho ari-penmevi: O tee-eproctatees etenhot:\nnahren penchois isos pikhristos: entefka nennovi nan evol"
-            arabic: "نسألك أن تذكرينا أيتها الشفيعة المؤتمنة أمام ربنا يسوع المسيح ليغفر لنا خطايانا"
-
-          # - english: "We look for the resurrection of the dead, and the life of the age to come. Amen"
-          #   coptic: "Ⲧⲉⲛϫⲟⲩϣⲧ ⲉ̀ⲃⲟⲗ ϧⲁ ⲧ̀ϩⲏ ⲛ̀ϯⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ ⲛ̀ⲧⲉ ⲛⲓⲣⲉϥⲙⲱⲟⲩⲧ: ⲛⲉⲙ ⲡⲓⲱⲛϧ ⲛ̀ⲧⲉ ⲡⲓⲉ̀ⲱⲛ ⲉⲑⲛⲏⲟⲩ. Ⲁ̀ⲙⲏⲛ"
-          #   coptic_english: "Tengosht evol: kha-ethee ente-ananstasis ente niref-mo-ot:\nnem pi-onkh ente pi-e-on eth-neyo: Ameen"
-          #   arabic: "وننتظر قيامة الأموات وحياة الدهر الآتي. آمين"
+          english:
+              - 'Watch over us: from on high where you dwell: O Lady of us all: the ever-virign Theotokos'
+              - 'Ask of Him whom you have borne: our good Savior: to take away our troubles: and grant us His peace'
+              - Hail to you O Virgin, / the right and true Queen, / Hail to the pride of our race, / who bore to us Immanuel
+              - We ask you to remember us, / O our faithful advocate, before our Lord Jesus Christ, / that He may forgive us our sins
+          arabic:
+              - كونى أنتِ ناظرة علينا فى المواضع العالية التى أنتِ كائنة فيها. يا سيدتنا كلنا والدة الإله العذراء كل حين
+              - إسألى الذى ولدته مخلصنا الصالح أن يرفع عنا هذه الأتعاب ويقرر لنا سلامه
+              - السلام لك أيتها العذراء الملكة الحقيقية الحقانية. السلام لفخر جنسنا. ولدت لنا عمانوئيل
+              - نسألك أن تذكرينا أيتها الشفيعة المؤتمنة أمام ربنا يسوع المسيح ليغفر لنا خطايانا
+          coptic:
+              - 'Ϣⲱⲡⲓ ⲛ̀ⲑⲟ ⲉ̀ⲣⲉ ⲥⲟⲙⲥ ⲉ̀ϫⲱⲛ: ϧⲉⲛ ⲛⲓⲙⲁ ⲉⲧϭⲟⲥⲓ ⲉ̀ⲧⲉⲣⲉⲭⲏ ⲛ̀ϧⲏⲧⲟⲩ: ⲱ̀ ⲧⲉⲛⲟ̅ⲥ̅ ⲛ̀ⲛⲏⲃ ⲧⲏⲣⲉⲛ ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ: ⲉⲧⲟⲓ ⲙ̀Ⲡⲁⲣⲑⲉⲛⲟⲥ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ'
+              - 'Ⲙⲁϯϩⲟ ⲙ̀ⲫⲏⲉ̀ⲧⲁⲣⲉⲙⲁⲥϥ: ⲡⲉⲛⲤⲱⲧⲏⲣ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ⲛ̀ⲧⲉϥⲱ̀ⲗⲓ ⲛ̀ⲛⲁⲓϧⲓⲥⲓ ⲉ̀ⲃⲟⲗϩⲁⲣⲟⲛ: ⲛ̀ⲧⲉϥⲥⲉⲙⲛⲓ ⲛⲁⲛ ⲛ̀ⲧⲉϥϩⲓⲣⲏⲛⲏ'
+              - 'Ⲭⲉⲣⲉ ⲛⲉ ⲱ̀ ϯⲠⲁⲣⲑⲉⲛⲟⲥ: ϯⲟⲩⲣⲱ ⲙ̀ⲙⲏⲓ: ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲏ ⲭⲉⲣⲉ ⲡ̀ϣⲟⲩϣⲟⲩ ⲛ̀ⲧⲉ ⲡⲉⲛⲅⲉⲛⲟⲥ: ⲁ̀ⲣⲉϫ̀ⲫⲟ ⲛⲁⲛ ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ'
+              - 'Ⲧⲉⲛϯϩⲟ ⲁ̀ⲣⲉⲡⲉⲛⲙⲉⲩⲓ̀: ⲱ̀ ϯⲡ̀ⲣⲟⲥⲧⲁⲧⲏⲥ ⲉ̀ⲧⲉⲛϩⲟⲧ: ⲛⲁϩⲣⲉⲛ ⲡⲉⲛⲟ̅ⲥ̅ Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ'
+          coptic_english:
+              - |-
+                  Shopi entho ere-coms egon: khen nima et-chosi et-arekhe enkheeto:
+                  o tenchois en-nef teeren tee-theotokos: etoy emparthenos en-seyo niven
+              - |-
+                  Mat-ee-ho em-fe-etaremasf: Pensoteer en-aghathos:
+                  entef-oli enai-khici evol-haron: entefsemni-nan entef-hereenee
+              - |-
+                  Shere ne o tee-Parthenos: tee-ourou em-mee en-alitheenee:
+                  shere ep-sho-sho ente pengennos: are-egfo nan en-emmanoeel
+              - |-
+                  Tenteeho ari-penmevi: O tee-eproctatees etenhot:
+                  nahren penchois isos pikhristos: entefka nennovi nan evol

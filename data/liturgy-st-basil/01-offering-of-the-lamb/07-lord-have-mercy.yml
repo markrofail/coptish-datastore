@@ -1,61 +1,175 @@
 title:
-    english: "Kerie Leison"
-    arabic: "كيرياليسون"
+    english: Kerie Leison
+    arabic: كيرياليسون
 sections:
     - speaker: people
+      type: verses
       verses:
-          - english: "(1/14) Keria Leison.\nKeria Leison.\nLord have mercy"
-            # coptic: "Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ"
-            arabic: "كيرياليسون.\nكيرياليسون.\nيا رب ارحم"
-
-          - english: "(2/14) Keria Leison.\nKeria Leison.\nHave mercy upon us"
-            # coptic: "Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ"
-            arabic: "كيرياليسون.\nكيرياليسون.\nإرحمنا يا الله"
-
-          - english: "(3/14) Keria Leison.\nKeria Leison.\nHave mercy on us O'Lord"
-            # coptic: "Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ"
-            arabic: "كيرياليسون.\nكيرياليسون.\nاسمعنا وارحمنا"
-
-          - english: "(4/14) Keria Leison.\nKeria Leison.\nLord have mercy"
-            # coptic: "Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ"
-            arabic: "كيرياليسون.\nكيرياليسون.\nيا رب ارحم"
-
-          - english: "(5/14) Keria Leison.\nKeria Leison.\nHave mercy upon us"
-            # coptic: "Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ"
-            arabic: "كيرياليسون.\nكيرياليسون.\nإرحمنا يا الله"
-
-          - english: "(6/14) Keria Leison.\nKeria Leison.\nHave mercy on us O'Lord"
-            coptic: "Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ"
-            arabic: "كيرياليسون.\nكيرياليسون.\nاسمعنا وارحمنا"
-
-          - english: "(7/14) Keria Leison.\nKeria Leison.\nLord have mercy"
-            coptic: "Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ"
-            arabic: "كيرياليسون.\nكيرياليسون.\nيا رب ارحم"
-
-          - english: "(8/14) Keria Leison.\nKeria Leison.\nHave mercy upon us"
-            coptic: "Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ"
-            arabic: "كيرياليسون.\nكيرياليسون.\nإرحمنا يا الله"
-
-          - english: "(9/14) Keria Leison.\nKeria Leison.\nHave mercy on us O'Lord"
-            coptic: "Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ"
-            arabic: "كيرياليسون.\nكيرياليسون.\nاسمعنا وارحمنا"
-
-          - english: "(10/14) Keria Leison.\nKeria Leison.\nLord have mercy"
-            coptic: "Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ"
-            arabic: "كيرياليسون.\nكيرياليسون.\nيا رب ارحم"
-
-          - english: "(11/14) Keria Leison.\nKeria Leison.\nHave mercy upon us"
-            coptic: "Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ"
-            arabic: "كيرياليسون.\nكيرياليسون.\nإرحمنا يا الله"
-
-          - english: "(12/14) Keria Leison.\nKeria Leison.\nHave mercy on us O'Lord"
-            coptic: "Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ"
-            arabic: "كيرياليسون.\nكيرياليسون.\nاسمعنا وارحمنا"
-
-          - english: "(13/14) Keria Leison.\nKeria Leison.\nLord have mercy"
-            coptic: "Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ"
-            arabic: "كيرياليسون.\nكيرياليسون.\nيا رب ارحم"
-
-          - english: "(14/14) Keria Leison.\nKeria Leison"
-            coptic: "Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.\nⲔⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ"
-            arabic: "كيرياليسون.\nكيرياليسون"
+          english:
+              - |-
+                  (1/14) Keria Leison.
+                  Keria Leison.
+                  Lord have mercy
+              - |-
+                  (2/14) Keria Leison.
+                  Keria Leison.
+                  Have mercy upon us
+              - |-
+                  (3/14) Keria Leison.
+                  Keria Leison.
+                  Have mercy on us O'Lord
+              - |-
+                  (4/14) Keria Leison.
+                  Keria Leison.
+                  Lord have mercy
+              - |-
+                  (5/14) Keria Leison.
+                  Keria Leison.
+                  Have mercy upon us
+              - |-
+                  (6/14) Keria Leison.
+                  Keria Leison.
+                  Have mercy on us O'Lord
+              - |-
+                  (7/14) Keria Leison.
+                  Keria Leison.
+                  Lord have mercy
+              - |-
+                  (8/14) Keria Leison.
+                  Keria Leison.
+                  Have mercy upon us
+              - |-
+                  (9/14) Keria Leison.
+                  Keria Leison.
+                  Have mercy on us O'Lord
+              - |-
+                  (10/14) Keria Leison.
+                  Keria Leison.
+                  Lord have mercy
+              - |-
+                  (11/14) Keria Leison.
+                  Keria Leison.
+                  Have mercy upon us
+              - |-
+                  (12/14) Keria Leison.
+                  Keria Leison.
+                  Have mercy on us O'Lord
+              - |-
+                  (13/14) Keria Leison.
+                  Keria Leison.
+                  Lord have mercy
+              - |-
+                  (14/14) Keria Leison.
+                  Keria Leison
+          arabic:
+              - |-
+                  كيرياليسون.
+                  كيرياليسون.
+                  يا رب ارحم
+              - |-
+                  كيرياليسون.
+                  كيرياليسون.
+                  إرحمنا يا الله
+              - |-
+                  كيرياليسون.
+                  كيرياليسون.
+                  اسمعنا وارحمنا
+              - |-
+                  كيرياليسون.
+                  كيرياليسون.
+                  يا رب ارحم
+              - |-
+                  كيرياليسون.
+                  كيرياليسون.
+                  إرحمنا يا الله
+              - |-
+                  كيرياليسون.
+                  كيرياليسون.
+                  اسمعنا وارحمنا
+              - |-
+                  كيرياليسون.
+                  كيرياليسون.
+                  يا رب ارحم
+              - |-
+                  كيرياليسون.
+                  كيرياليسون.
+                  إرحمنا يا الله
+              - |-
+                  كيرياليسون.
+                  كيرياليسون.
+                  اسمعنا وارحمنا
+              - |-
+                  كيرياليسون.
+                  كيرياليسون.
+                  يا رب ارحم
+              - |-
+                  كيرياليسون.
+                  كيرياليسون.
+                  إرحمنا يا الله
+              - |-
+                  كيرياليسون.
+                  كيرياليسون.
+                  اسمعنا وارحمنا
+              - |-
+                  كيرياليسون.
+                  كيرياليسون.
+                  يا رب ارحم
+              - |-
+                  كيرياليسون.
+                  كيرياليسون
+          coptic:
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - |-
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ
+              - |-
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ
+              - |-
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ
+              - |-
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ
+              - |-
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ
+              - |-
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ
+              - |-
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ
+              - |-
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ
+              - |-
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ.
+                  Ⲕⲩⲣⲓⲉ ⲉⲗⲉⲏ̀ⲥⲟⲛ
+          coptic_english:
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''

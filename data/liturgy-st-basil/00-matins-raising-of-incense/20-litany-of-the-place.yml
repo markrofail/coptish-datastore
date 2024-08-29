@@ -1,44 +1,63 @@
 title:
-    english: "Litany of the Place"
-    arabic: "أوشية الموضع"
-
+    english: Litany of the Place
+    arabic: أوشية الموضع
 sections:
     - speaker: priest
+      type: verses
       verses:
-          - english: "Remember, O Lord, the salvation of this, Your holy place, and every place, and every monastery of our orthodox fathers—"
-            coptic: "Ⲁ̀ⲣⲓⲫ̀ⲙⲉⲩⲓ Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲧ̀ⲥⲱⲧⲏⲣⲓⲁ ⲙ̀ⲡⲁⲓⲧⲟⲡⲟⲥ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲁⲕ ⲫⲁⲓ ⲛⲉⲙ ⲧⲟⲡⲟⲥ ⲛⲓⲃⲉⲛ ⲛⲉⲙ ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ ⲛⲓⲃⲉⲛ ⲛ̀ⲧⲉ ⲛⲉⲛⲓⲟϯ ⲛ̀ⲟⲣⲑⲟⲇⲟⲝⲟⲥ"
-            coptic_english: ""
-            arabic: "أُذكر يا رب خلاص هذا الموضع المقدس الذي لك، وكل المواضع وكل أديرة آبائنا الأرثوذكسيين"
-
+          english:
+              - Remember, O Lord, the salvation of this, Your holy place, and every place, and every monastery of our orthodox fathers—
+          arabic:
+              - أُذكر يا رب خلاص هذا الموضع المقدس الذي لك، وكل المواضع وكل أديرة آبائنا الأرثوذكسيين
+          coptic:
+              - Ⲁ̀ⲣⲓⲫ̀ⲙⲉⲩⲓ Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲧ̀ⲥⲱⲧⲏⲣⲓⲁ ⲙ̀ⲡⲁⲓⲧⲟⲡⲟⲥ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲁⲕ ⲫⲁⲓ ⲛⲉⲙ ⲧⲟⲡⲟⲥ ⲛⲓⲃⲉⲛ ⲛⲉⲙ ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ ⲛⲓⲃⲉⲛ ⲛ̀ⲧⲉ ⲛⲉⲛⲓⲟϯ ⲛ̀ⲟⲣⲑⲟⲇⲟⲝⲟⲥ
+          coptic_english:
+              - ''
     - speaker: deacon
+      type: verses
       verses:
-          - english: "Pray for the salvation of the world and of this city of ours, and of all cities, districts, island, and monasteries"
-            coptic: "Ⲡ̀ⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲏⲥ ⲥⲱⲧⲏⲣⲓⲁⲛ ⲧⲟⲩ ⲕⲟⲥⲙⲟⲩ ⲕⲉ ⲧⲏⲥ ⲡⲟⲗⲉⲱⲥ ⲏ̀ⲙⲱⲛ ⲧⲁⲩⲧⲏⲥ ⲕⲉ ⲡⲁⲥⲱⲛ ⲡⲟⲗⲉⲱⲛ ⲕⲉ ⲧⲱⲛ ⲭⲱⲣⲱⲛ ⲕⲉ ⲛⲏⲥⲱⲛ ⲕⲉ ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ"
-            coptic_english: ""
-            arabic: "صلوا من أجل خلاص هذا العالم ومدينتنا هذة، وسائر المدن والأقاليم والجزائر والأديرة"
-
+          english:
+              - Pray for the salvation of the world and of this city of ours, and of all cities, districts, island, and monasteries
+          arabic:
+              - صلوا من أجل خلاص هذا العالم ومدينتنا هذة، وسائر المدن والأقاليم والجزائر والأديرة
+          coptic:
+              - Ⲡ̀ⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲏⲥ ⲥⲱⲧⲏⲣⲓⲁⲛ ⲧⲟⲩ ⲕⲟⲥⲙⲟⲩ ⲕⲉ ⲧⲏⲥ ⲡⲟⲗⲉⲱⲥ ⲏ̀ⲙⲱⲛ ⲧⲁⲩⲧⲏⲥ ⲕⲉ ⲡⲁⲥⲱⲛ ⲡⲟⲗⲉⲱⲛ ⲕⲉ ⲧⲱⲛ ⲭⲱⲣⲱⲛ ⲕⲉ ⲛⲏⲥⲱⲛ ⲕⲉ ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ
+          coptic_english:
+              - ''
     - speaker: people
+      type: verses
       verses:
-          - english: "Lord have mercy"
-            coptic: "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ"
-            coptic_english: "Kerie leison"
-            arabic: "يا ربُّ إرحَم"
-
+          english:
+              - Lord have mercy
+          arabic:
+              - يا ربُّ إرحَم
+          coptic:
+              - Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ
+          coptic_english:
+              - Kerie leison
     - speaker: priest
+      type: verses
       verses:
-          - english: "and every city and every region, and the villages and all their adornments"
-            coptic: "Ⲛⲉⲙ ⲡⲟⲗⲓⲥ ⲛⲓⲃⲉⲛ ⲛⲉⲙ ⲭⲱⲣⲁ ⲛⲓⲃⲉⲛ ⲛⲉⲙ ⲛⲓϯⲙⲓ ⲛⲉⲙ ⲡⲟⲩⲥⲟⲗⲥⲉⲗ ⲧⲏⲣϥ"
-            coptic_english: ""
-            arabic: "وكل مدينة، وكل كورة، والقرى وكل زينتها"
-
-          - english: "And save us all from famine, plagues, earthquakes, drowning, fire, captivity by barbarians, the sword of the stranger, and the rising up of heretics"
-            coptic: "Ⲟⲩⲟϩ ⲛⲁϩⲙⲉⲛ ⲧⲏⲣⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲟⲩϩ̀ⲃⲱⲛ ⲛⲉⲙ ⲟⲩⲙⲟⲩ ⲛⲉⲙ ⲟⲩⲙⲟⲛⲙⲉⲛ ⲛⲉⲙ ⲟⲩⲕⲁⲧⲁⲛⲟⲛⲧⲓⲥⲙⲟⲥ ⲛⲉⲙ ⲟⲩⲭ̀ⲣⲱⲙ ⲛⲉⲙ ⲟⲩⲉⲭⲙⲁⲗⲱⲥⲓⲁ ⲛ̀ⲧⲉ ϩⲁⲛⲃⲁⲣⲃⲁⲣⲟⲥ ⲛⲉⲙ ⲉ̀ⲃⲟⲗ ϩⲁ ⲧ̀ⲥⲏϥⲓ ⲛ̀ⲧⲉ ⲡⲓϣⲉⲙⲙⲟ ⲛⲉⲙ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡ̀ϫⲓⲛⲧⲱⲛϥ ⲉ̀ⲡ̀ϣⲱⲓ ⲛ̀ⲧⲉ ϩⲁⲛϩⲉⲣⲉⲧⲓⲕⲟⲥ"
-            coptic_english: ""
-            arabic: "ونجنا كلنا من الغلاء، والوباء، والزلزال، والغرق، والحريق، وسبي البربر، ومن سيف الغريب، ومن قيام الهراطقة"
-
+          english:
+              - and every city and every region, and the villages and all their adornments
+              - And save us all from famine, plagues, earthquakes, drowning, fire, captivity by barbarians, the sword of the stranger, and the rising up of heretics
+          arabic:
+              - وكل مدينة، وكل كورة، والقرى وكل زينتها
+              - ونجنا كلنا من الغلاء، والوباء، والزلزال، والغرق، والحريق، وسبي البربر، ومن سيف الغريب، ومن قيام الهراطقة
+          coptic:
+              - Ⲛⲉⲙ ⲡⲟⲗⲓⲥ ⲛⲓⲃⲉⲛ ⲛⲉⲙ ⲭⲱⲣⲁ ⲛⲓⲃⲉⲛ ⲛⲉⲙ ⲛⲓϯⲙⲓ ⲛⲉⲙ ⲡⲟⲩⲥⲟⲗⲥⲉⲗ ⲧⲏⲣϥ
+              - Ⲟⲩⲟϩ ⲛⲁϩⲙⲉⲛ ⲧⲏⲣⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲟⲩϩ̀ⲃⲱⲛ ⲛⲉⲙ ⲟⲩⲙⲟⲩ ⲛⲉⲙ ⲟⲩⲙⲟⲛⲙⲉⲛ ⲛⲉⲙ ⲟⲩⲕⲁⲧⲁⲛⲟⲛⲧⲓⲥⲙⲟⲥ ⲛⲉⲙ ⲟⲩⲭ̀ⲣⲱⲙ ⲛⲉⲙ ⲟⲩⲉⲭⲙⲁⲗⲱⲥⲓⲁ ⲛ̀ⲧⲉ ϩⲁⲛⲃⲁⲣⲃⲁⲣⲟⲥ ⲛⲉⲙ ⲉ̀ⲃⲟⲗ ϩⲁ ⲧ̀ⲥⲏϥⲓ ⲛ̀ⲧⲉ ⲡⲓϣⲉⲙⲙⲟ ⲛⲉⲙ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡ̀ϫⲓⲛⲧⲱⲛϥ ⲉ̀ⲡ̀ϣⲱⲓ ⲛ̀ⲧⲉ ϩⲁⲛϩⲉⲣⲉⲧⲓⲕⲟⲥ
+          coptic_english:
+              - ''
+              - ''
     - speaker: people
+      type: verses
       verses:
-          - english: "Lord have mercy"
-            coptic: "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ"
-            coptic_english: "Kerie leison"
-            arabic: "يا ربُّ إرحَم"
+          english:
+              - Lord have mercy
+          arabic:
+              - يا ربُّ إرحَم
+          coptic:
+              - Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ
+          coptic_english:
+              - Kerie leison

@@ -1,31 +1,31 @@
 title:
-    english: "Our Father"
-    arabic: "ابانا الذي"
-
+    english: Our Father
+    arabic: ابانا الذي
 sections:
     - speaker: people
+      type: verses
       verses:
-          - english: "Make us worthy to pray thankfully"
-            # coptic: "Ⲁ̀ⲣⲓⲧⲉⲛ ⲛ̀ⲉⲙⲡ̀ϣⲁ ⲛ̀ϫⲟⲥ ϧⲉⲛ ⲟⲩϣⲉⲡϩ̀ⲙⲟⲧ"
-            # coptic_english: ""
-            arabic: "وإجعلنا مستحقين أن نقول بشكر"
-
-          - english: "Our Father who art in heaven, hallowed be Thy name"
-            # coptic: "Ϫⲉ Ⲡⲉⲛⲓⲱⲧ ⲉⲧ ϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ̀: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ"
-            # coptic_english: "Je beniot et khen ni fiowi: maref touvou enge brekran"
-            arabic: "أبانا الذي في السموات، ليتقدس إسمك"
-
-          - english: "Thy kingdom come. Thy will be done, on earth as it is in heaven"
-            # coptic: "Ⲙⲁⲣⲉⲥⲓ̀ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ. Ⲡⲉⲧⲉϩ ⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ"
-            # coptic_english: "Marec-e enge tek-met-oro. Beteh-nak maref-shobi emefriti khen etfe nem hijen bikahi"
-            arabic: "ليأت ملكوتك. لتكن مشيئتك، كما في السماء كذلك على الأرض"
-
-          - english: "Give us this day our daily bread; and forgive us our trespasses, as we forgive those who trespass against us; and lead us not into temptation, but deliver us from the evil one"
-            # coptic: "Ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ. Ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉ̀ⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ. Ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ"
-            # coptic_english: "Ben oyk ente rasti mif nan emfo-ou. Owa ka ni-eteron nan evol emevriti-hon entenko-evol enni-ete-oon entan ero-ou. Owo empe-renten ekhon epi-rasmoc: allah nahmen evol ha pipet-ho-ou"
-            arabic: "خبزنا كفافنا أعطنا اليوم. وأغفر لنا ذنوبنا، كما نغفر نحن أيضاً للمذنبين إلينا. ولا تدخلنا في تجربة، لكن نجنا من الشرير"
-
-          - english: "In Christ Jesus our Lord, for Thine is the kingdom and the power and the glory forever. Amen"
-            # coptic: "Ϧⲉⲛ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ. Ⲁ̀ⲙⲏⲛ"
-            # coptic_english: "Khen pi-ekhrictoc ecoc benshoyce: je thok te ti-met-ouro nem tigom nem pi-o-ou sha eneh. Amen"
-            arabic: "بالمسيح يسوع ربنا، لأن لك الملك والقوة والمجد إلى الأبد. آمين"
+          english:
+              - Make us worthy to pray thankfully
+              - Our Father who art in heaven, hallowed be Thy name
+              - Thy kingdom come. Thy will be done, on earth as it is in heaven
+              - Give us this day our daily bread; and forgive us our trespasses, as we forgive those who trespass against us; and lead us not into temptation, but deliver us from the evil one
+              - In Christ Jesus our Lord, for Thine is the kingdom and the power and the glory forever. Amen
+          arabic:
+              - وإجعلنا مستحقين أن نقول بشكر
+              - أبانا الذي في السموات، ليتقدس إسمك
+              - ليأت ملكوتك. لتكن مشيئتك، كما في السماء كذلك على الأرض
+              - خبزنا كفافنا أعطنا اليوم. وأغفر لنا ذنوبنا، كما نغفر نحن أيضاً للمذنبين إلينا. ولا تدخلنا في تجربة، لكن نجنا من الشرير
+              - بالمسيح يسوع ربنا، لأن لك الملك والقوة والمجد إلى الأبد. آمين
+          coptic:
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+          coptic_english:
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''

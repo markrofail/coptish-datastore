@@ -1,26 +1,35 @@
 title:
-    english: "Praxis Response"
-    arabic: "مرد الإبراكسيس"
-
+    english: Praxis Response
+    arabic: مرد الإبراكسيس
 sections:
-    - speaker: "people"
+    - speaker: people
+      type: verses
       verses:
-          - english: "Hail to you O Mary, the fair dove, who has borne to us, God the Logos"
-            coptic: "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ ϯϭⲣⲟⲙⲡⲓ ⲉⲑⲛⲉⲥⲱⲥ ⲑⲏⲉ̀ⲧⲁⲥⲙⲓⲥⲓ ⲛⲁⲛ ⲙ̀Ⲫϯ ⲡⲓⲖⲟⲅⲟⲥ"
-            coptic_english: "Shere Ni Maria: TiEchRombi EthNessos.\n ThiEtasMici Nan EmEfNoti PiLoghos"
-            arabic: "السلام لك يا مريم الحمامة الحسنة التي ولدت لنا الله الكلمة"
-
-          - english: "Hail to Michael, the great archangel, Hail to the chief soldier: of the heavenly hosts"
-            coptic: "Ⲭⲉⲣⲉ Ⲙⲓⲭⲁⲏⲗ: ⲡⲓⲛⲓϣϯ ⲛ̀ⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ: ⲭⲉⲣⲉ ⲡⲓⲁⲣⲭⲓ̀ⲥⲧⲣⲁⲧⲓⲅⲟⲥ: ⲛ̀ⲧⲉ ⲧ̀ϫⲟⲙ ⲛ̀ⲛⲓⲫⲏⲟⲩⲓ"
-            coptic_english: "Shere Mikhaeel: Pinishti en arshi angelos:\n shere Pi-arshis-tratigos: Ente taghom en-nishowi"
-            arabic: "السلام لميخائيل رئيس الملائكة العظيم، السلام لرئيس جندالسموات"
-
-          - english: "Hail to our father Abba Pishoy, the just and perfect man, hail to our father Abba Paul, the beloved of Christ"
-            coptic: "Ⲭⲉⲣⲉ ⲡⲉⲛⲓⲱⲧ ⲁⲃⲃⲁ Ⲡⲓϣⲱⲓ: ⲡⲓⲑ̀ⲙⲏⲓ ⲡⲓⲣⲱⲙⲓ ⲛ̀ⲧⲉⲗⲓⲟⲥ: ⲭⲉⲣⲉ ⲡⲉⲛⲓⲱⲧ ⲁⲃⲃⲁ Ⲡⲁⲩⲗⲉ: ⲡⲓⲙⲉⲛⲣⲓⲧ ⲛ̀ⲧⲉ Ⲡⲭ̅ⲥ̅"
-            coptic_english: "Shere Peniot Avva Pishoy: Pi-ethmi piromi entelios:\n shere peniot avva Pavle: pimenrit ente pikhristos"
-            arabic: "السلام لأبينا أنبا بيشوي، الرجل البار الكامل، السلام لأبينا أنبا بولا، حبيب المسيح"
-
-          - english: "Blessed are You indeed, with Your good Father, and the Holy Spirit, for You have come and saved us. Have mercy on us"
-            coptic: "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲁ̀ⲗⲏⲑⲱⲥ ⲛⲉⲙ Ⲡⲉⲕⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ ⲛⲉⲙ ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ ⲉ̅ⲑ̅ⲩ̅ ϫⲉ ⲁ̀ⲕⲓ̀ ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ. Ⲛⲁⲓ ⲛⲁⲛ"
-            coptic_english: "EkEs MaroOt AliThos: Nem Pekiot En AghaThos\n NemPi EpNevMa EthOwab JeAk Tonk Aksoty EmMon NaiNan"
-            arabic: "مبارك انت مع ابيك الصالح والروح القدس لأنك (قمت) وخلصتنا. ارحمنا"
+          english:
+              - Hail to you O Mary, the fair dove, who has borne to us, God the Logos
+              - 'Hail to Michael, the great archangel, Hail to the chief soldier: of the heavenly hosts'
+              - Hail to our father Abba Pishoy, the just and perfect man, hail to our father Abba Paul, the beloved of Christ
+              - Blessed are You indeed, with Your good Father, and the Holy Spirit, for You have come and saved us. Have mercy on us
+          arabic:
+              - السلام لك يا مريم الحمامة الحسنة التي ولدت لنا الله الكلمة
+              - السلام لميخائيل رئيس الملائكة العظيم، السلام لرئيس جندالسموات
+              - السلام لأبينا أنبا بيشوي، الرجل البار الكامل، السلام لأبينا أنبا بولا، حبيب المسيح
+              - مبارك انت مع ابيك الصالح والروح القدس لأنك (قمت) وخلصتنا. ارحمنا
+          coptic:
+              - Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ ϯϭⲣⲟⲙⲡⲓ ⲉⲑⲛⲉⲥⲱⲥ ⲑⲏⲉ̀ⲧⲁⲥⲙⲓⲥⲓ ⲛⲁⲛ ⲙ̀Ⲫϯ ⲡⲓⲖⲟⲅⲟⲥ
+              - 'Ⲭⲉⲣⲉ Ⲙⲓⲭⲁⲏⲗ: ⲡⲓⲛⲓϣϯ ⲛ̀ⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ: ⲭⲉⲣⲉ ⲡⲓⲁⲣⲭⲓ̀ⲥⲧⲣⲁⲧⲓⲅⲟⲥ: ⲛ̀ⲧⲉ ⲧ̀ϫⲟⲙ ⲛ̀ⲛⲓⲫⲏⲟⲩⲓ'
+              - 'Ⲭⲉⲣⲉ ⲡⲉⲛⲓⲱⲧ ⲁⲃⲃⲁ Ⲡⲓϣⲱⲓ: ⲡⲓⲑ̀ⲙⲏⲓ ⲡⲓⲣⲱⲙⲓ ⲛ̀ⲧⲉⲗⲓⲟⲥ: ⲭⲉⲣⲉ ⲡⲉⲛⲓⲱⲧ ⲁⲃⲃⲁ Ⲡⲁⲩⲗⲉ: ⲡⲓⲙⲉⲛⲣⲓⲧ ⲛ̀ⲧⲉ Ⲡⲭ̅ⲥ̅'
+              - Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲁ̀ⲗⲏⲑⲱⲥ ⲛⲉⲙ Ⲡⲉⲕⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ ⲛⲉⲙ ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ ⲉ̅ⲑ̅ⲩ̅ ϫⲉ ⲁ̀ⲕⲓ̀ ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ. Ⲛⲁⲓ ⲛⲁⲛ
+          coptic_english:
+              - |-
+                  Shere Ni Maria: TiEchRombi EthNessos.
+                   ThiEtasMici Nan EmEfNoti PiLoghos
+              - |-
+                  Shere Mikhaeel: Pinishti en arshi angelos:
+                   shere Pi-arshis-tratigos: Ente taghom en-nishowi
+              - |-
+                  Shere Peniot Avva Pishoy: Pi-ethmi piromi entelios:
+                   shere peniot avva Pavle: pimenrit ente pikhristos
+              - |-
+                  EkEs MaroOt AliThos: Nem Pekiot En AghaThos
+                   NemPi EpNevMa EthOwab JeAk Tonk Aksoty EmMon NaiNan

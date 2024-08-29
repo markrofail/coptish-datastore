@@ -1,148 +1,184 @@
 title:
-    english: "The Confession"
-    arabic: "الإعتراف"
-
+    english: The Confession
+    arabic: الإعتراف
 sections:
     - speaker: priest
+      type: verses
       verses:
-          - english: "The Holies for the holy"
-            coptic: "Ⲧⲁ ⲁ̀ⲅⲓⲁ ⲧⲓⲥ ⲁ̀ⲅⲏⲥ"
-            coptic_english: ""
-            arabic: "القُدساتُ للقِدِّيسينَ"
-
-          - english: "Blessed be the Lord Jesus Christ, the Son of God; the sanctification is by the Holy Spirit. Amen"
-            coptic: "Ⲉⲩⲗⲟⲅⲏⲧⲟⲥ Ⲕⲩⲣⲓⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲩ̀ⲓⲟⲥ Ⲑⲉⲟⲩ ⲁ̀ⲅⲓⲁⲥⲙⲟⲥ Ⲡ̀ⲛⲉⲩⲙⲁ Ⲁ̀ⲅⲓⲟⲛ ⲁ̀ⲙⲏⲛ"
-            coptic_english: ""
-            arabic: "مٌبارَكٌ الربُّ يسوعُ المسيحُ إبنُ اللهِ، وقُدُّوسٌ الرُّوحُ القُدُسُ. آمين"
-
+          english:
+              - The Holies for the holy
+              - Blessed be the Lord Jesus Christ, the Son of God; the sanctification is by the Holy Spirit. Amen
+          arabic:
+              - القُدساتُ للقِدِّيسينَ
+              - مٌبارَكٌ الربُّ يسوعُ المسيحُ إبنُ اللهِ، وقُدُّوسٌ الرُّوحُ القُدُسُ. آمين
+          coptic:
+              - Ⲧⲁ ⲁ̀ⲅⲓⲁ ⲧⲓⲥ ⲁ̀ⲅⲏⲥ
+              - Ⲉⲩⲗⲟⲅⲏⲧⲟⲥ Ⲕⲩⲣⲓⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲩ̀ⲓⲟⲥ Ⲑⲉⲟⲩ ⲁ̀ⲅⲓⲁⲥⲙⲟⲥ Ⲡ̀ⲛⲉⲩⲙⲁ Ⲁ̀ⲅⲓⲟⲛ ⲁ̀ⲙⲏⲛ
+          coptic_english:
+              - ''
+              - ''
     - speaker: people
+      type: verses
       verses:
-          - english: "One is the Holy Father, one is the Holy Son, one is the Holy Spirit. Amen"
-            coptic: "Ⲓⲥ Ⲡⲁⲧⲏⲣ ⲁ̀ⲅⲓⲟⲥ ⲓⲥ ⲟ̀ Ⲩ̀ⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ ⲉⲛ Ⲡ̀ⲛⲉⲩⲙⲁ Ⲁ̀ⲅⲓⲟⲛ ⲁ̀ⲙⲏⲛ"
-            coptic_english: ""
-            arabic: "واحد هو الآب القدوس. واحد هو الإبن القدوس. واحد هو الروح القدس. آمين"
-
+          english:
+              - One is the Holy Father, one is the Holy Son, one is the Holy Spirit. Amen
+          arabic:
+              - واحد هو الآب القدوس. واحد هو الإبن القدوس. واحد هو الروح القدس. آمين
+          coptic:
+              - Ⲓⲥ Ⲡⲁⲧⲏⲣ ⲁ̀ⲅⲓⲟⲥ ⲓⲥ ⲟ̀ Ⲩ̀ⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ ⲉⲛ Ⲡ̀ⲛⲉⲩⲙⲁ Ⲁ̀ⲅⲓⲟⲛ ⲁ̀ⲙⲏⲛ
+          coptic_english:
+              - ''
     - speaker: priest
+      type: verses
       verses:
-          - english: "Peace be with all"
-            coptic: "Ⲓ̀ⲣⲏⲛⲏ ⲡⲁⲥⲓ"
-            coptic_english: ""
-            arabic: "السلام للكل"
-
+          english:
+              - Peace be with all
+          arabic:
+              - السلام للكل
+          coptic:
+              - Ⲓ̀ⲣⲏⲛⲏ ⲡⲁⲥⲓ
+          coptic_english:
+              - ''
     - speaker: people
+      type: verses
       verses:
-          - english: "And with your spirit"
-            coptic: "Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ"
-            coptic_english: ""
-            arabic: "ولروحك أيضاً"
-
+          english:
+              - And with your spirit
+          arabic:
+              - ولروحك أيضاً
+          coptic:
+              - Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ
+          coptic_english:
+              - ''
     - speaker: priest
+      type: verses
       verses:
-          - english: "The holy Body and the precious, true Blood of Jesus Christ, the Son of our God. Amen"
-            coptic: "Ⲥⲱⲙⲁ ⲁ̀ⲅⲓⲟⲛ ⲕⲉ Ⲉ̀ⲙⲁ ⲧⲓⲙⲓⲟⲛ ⲁ̀ⲗⲏⲑⲓⲛⲟⲛ Ⲓⲏⲥⲟⲩ Ⲭ̀ⲣⲓⲥⲧⲟⲩ ⲧⲟⲩ Ⲩ̀ⲓⲟⲩ ⲧⲟⲩ Ⲑⲉⲟⲩ ⲏ̀ⲙⲱⲛ ⲁ̀ⲙⲏⲛ"
-            coptic_english: ""
-            arabic: "جسدٌ مُقدَّسٌ، ودمٌ كريمٌ حقيقيٌّ، ليسوعَ المسيحِ إبنِ إلَهِنا. آمين"
-
+          english:
+              - The holy Body and the precious, true Blood of Jesus Christ, the Son of our God. Amen
+          arabic:
+              - جسدٌ مُقدَّسٌ، ودمٌ كريمٌ حقيقيٌّ، ليسوعَ المسيحِ إبنِ إلَهِنا. آمين
+          coptic:
+              - Ⲥⲱⲙⲁ ⲁ̀ⲅⲓⲟⲛ ⲕⲉ Ⲉ̀ⲙⲁ ⲧⲓⲙⲓⲟⲛ ⲁ̀ⲗⲏⲑⲓⲛⲟⲛ Ⲓⲏⲥⲟⲩ Ⲭ̀ⲣⲓⲥⲧⲟⲩ ⲧⲟⲩ Ⲩ̀ⲓⲟⲩ ⲧⲟⲩ Ⲑⲉⲟⲩ ⲏ̀ⲙⲱⲛ ⲁ̀ⲙⲏⲛ
+          coptic_english:
+              - ''
     - speaker: people
+      type: verses
       verses:
-          - english: "Amen"
-            coptic: "Ⲁ̀ⲙⲏⲛ"
-            coptic_english: ""
-            arabic: "آمين"
-
+          english:
+              - Amen
+          arabic:
+              - آمين
+          coptic:
+              - Ⲁ̀ⲙⲏⲛ
+          coptic_english:
+              - ''
     - speaker: priest
+      type: verses
       verses:
-          - english: "The holy, precious Body and the true Blood of Jesus Christ, the Son of our God. Amen"
-            coptic: "Ⲁ̀ⲅⲓⲟⲛ ⲧⲓⲙⲓⲟⲛ Ⲥⲱⲙⲁ ⲕⲉ Ⲉ̀ⲙⲁ ⲁ̀ⲗⲏⲑⲓⲛⲟⲛ Ⲓⲏⲥⲟⲩ Ⲭ̀ⲣⲓⲥⲧⲟⲩ ⲧⲟⲩ Ⲩ̀ⲓⲟⲩ ⲧⲟⲩ Ⲑⲉⲟⲩ ⲏ̀ⲙⲱⲛ ⲁ̀ⲙⲏⲛ"
-            coptic_english: ""
-            arabic: "مُقدَّسٌ وكَريمٌ جسدٌ ودمٌ حقيقيُّ، ليسوعَ المسيحِ إبنِ إلَهِنا. آمين"
-
+          english:
+              - The holy, precious Body and the true Blood of Jesus Christ, the Son of our God. Amen
+          arabic:
+              - مُقدَّسٌ وكَريمٌ جسدٌ ودمٌ حقيقيُّ، ليسوعَ المسيحِ إبنِ إلَهِنا. آمين
+          coptic:
+              - Ⲁ̀ⲅⲓⲟⲛ ⲧⲓⲙⲓⲟⲛ Ⲥⲱⲙⲁ ⲕⲉ Ⲉ̀ⲙⲁ ⲁ̀ⲗⲏⲑⲓⲛⲟⲛ Ⲓⲏⲥⲟⲩ Ⲭ̀ⲣⲓⲥⲧⲟⲩ ⲧⲟⲩ Ⲩ̀ⲓⲟⲩ ⲧⲟⲩ Ⲑⲉⲟⲩ ⲏ̀ⲙⲱⲛ ⲁ̀ⲙⲏⲛ
+          coptic_english:
+              - ''
     - speaker: people
+      type: verses
       verses:
-          - english: "Amen"
-            coptic: "Ⲁ̀ⲙⲏⲛ"
-            coptic_english: ""
-            arabic: "آمين"
-
+          english:
+              - Amen
+          arabic:
+              - آمين
+          coptic:
+              - Ⲁ̀ⲙⲏⲛ
+          coptic_english:
+              - ''
     - speaker: priest
+      type: verses
       verses:
-          - english: "The Body and the Blood of Emmanuel our God; this is true. Amen"
-            coptic: "Ⲡⲓⲥⲱⲙⲁ ⲛⲉⲙ Ⲡⲓⲥ̀ⲛⲟϥ ⲛ̀ⲧⲉ Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ Ⲡⲉⲛⲛⲟⲩϯ ⲫⲁⲓ ⲡⲉ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ ⲁ̀ⲙⲏⲛ"
-            coptic_english: ""
-            arabic: "جسدُ ودمُ عمانوئيلَ إلَهِنا هذا هو بالحقيقةِ. آمين"
-
+          english:
+              - The Body and the Blood of Emmanuel our God; this is true. Amen
+          arabic:
+              - جسدُ ودمُ عمانوئيلَ إلَهِنا هذا هو بالحقيقةِ. آمين
+          coptic:
+              - Ⲡⲓⲥⲱⲙⲁ ⲛⲉⲙ Ⲡⲓⲥ̀ⲛⲟϥ ⲛ̀ⲧⲉ Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ Ⲡⲉⲛⲛⲟⲩϯ ⲫⲁⲓ ⲡⲉ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ ⲁ̀ⲙⲏⲛ
+          coptic_english:
+              - ''
     - speaker: people
+      type: verses
       verses:
-          - english: "Amen. I believe"
-            coptic: "Ⲁ̀ⲙⲏⲛ. Ϯⲛⲁϩϯ"
-            coptic_english: ""
-            arabic: "حقاً. أؤمن"
-
+          english:
+              - Amen. I believe
+          arabic:
+              - حقاً. أؤمن
+          coptic:
+              - Ⲁ̀ⲙⲏⲛ. Ϯⲛⲁϩϯ
+          coptic_english:
+              - ''
     - speaker: priest
+      type: verses
       verses:
-          - english: "Amen. Amen. Amen. I believe, I believe, I believe and confess to the last breath"
-            coptic: "Ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ϯⲛⲁϩϯ ϯⲛⲁϩϯ ϯⲛⲁϩϯ ⲟⲩⲟϩ ϯⲉⲣⲟ̀ⲙⲟⲗⲟⲅⲓⲛ ϣⲁ ⲡⲓⲛⲓϥⲓ ⲛ̀ϧⲁⲉ̀"
-            coptic_english: ""
-            arabic: "آمين. آمين. آمين. أؤمن. أؤمن. أؤمن. واعترف إلى النفس الأخير"
-
-          - english: "that this is the life-giving Flesh that Your only-begotten Son, our Lord, God, and Savior Jesus Christ, took from our Lady, the Lady of us all, the holy Theotokos, Saint Mary"
-            coptic: "Ϫⲉ ⲑⲁⲓ ⲧⲉ Ϯⲥⲁⲣⲝ ⲛ̀ⲣⲉϥⲧⲁⲛϧⲟ ⲉ̀ⲧⲁ ⲡⲉⲕⲙⲟⲛⲟⲅⲉⲛⲏⲥ ⲛ̀Ϣⲏⲣⲓ Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ Ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ϭⲓⲧⲥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲧⲉⲛϭⲟⲓⲥ ⲛ̀ⲛⲏⲃ ⲧⲏⲣⲉⲛ Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉⲑⲟⲩⲁⲃ ϯⲁ̀ⲅⲓⲁ Ⲙⲁⲣⲓⲁ"
-            coptic_english: ""
-            arabic: "أن هذا هو الجسد المحيي، الذي أخذه إبنك الوحيد الجنس، ربنا وإلهنا ومخلصنا يسوع المسيح من سيدتنا وملكتنا كلنا والدة الإله القديسة الطاهرة مريم"
-
-          - english: "He made It one with His divinity without mingling, without confusion, and without alteration"
-            coptic: "Ⲁϥⲁⲓⲥ ⲛ̀ⲟⲩⲁⲓ ⲛⲉⲙ ⲧⲉϥⲙⲉⲑⲛⲟⲩϯ ϧⲉⲛ ⲟⲩⲙⲉⲧⲁⲧⲙⲟⲩϫⲧ ⲛⲉⲙ ⲟⲩⲙⲉⲧⲁⲧⲑⲱϧ ⲛⲉⲙ ⲟⲩⲙⲉⲧⲁⲧϣⲓⲃϯ"
-            coptic_english: ""
-            arabic: "وجعله واحداً مع لاهوته بغير إختلاط ولا أمتزاج ولا تغيير"
-
-          - english: "He confessed the good confession before Pontius Pilate"
-            coptic: "Ⲉ̀ⲁϥⲉⲣⲟ̀ⲙⲟⲗⲅⲓⲛ ⲛ̀ϯⲟ̀ⲙⲟⲗⲟⲅⲓⲁ ⲉⲑⲛⲁⲛⲉⲥ ⲛⲁϩⲣⲉⲛ Ⲡⲟⲛⲧⲓⲟⲥ Ⲡⲓⲗⲁⲧⲟⲥ"
-            coptic_english: ""
-            arabic: "وإعترف الإعتراف الحسن أمام بيلاطس البنطي"
-
-          - english: "He gave It up for us upon the holy wood of the Cross, of His own will, for us all"
-            coptic: "Ⲁϥⲧⲏⲓⲥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ ϩⲓϫⲉⲛ ⲡⲓϣⲉ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲉ Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ ϧⲉⲛ ⲡⲉϥⲟⲩⲱϣ ⲙ̀ⲙⲓⲛ ⲙ̀ⲙⲟϥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ ⲧⲏⲣⲉⲛ"
-            coptic_english: ""
-            arabic: "وسلمه عنا على خشبة الصليب المقدسة، بإرادته وحده عنا كلنا"
-
-          - english: "Truly I believe that His divinity parted not from His humanity for a single moment, nor a twinkling of an eye;"
-            coptic: "Ⲁ̀ⲗⲏⲑⲱⲥ ϯⲛⲁϩϯ ϫⲉ ⲙ̀ⲡⲉ ⲧⲉϥⲙⲉⲑⲛⲟⲩϯ ⲫⲱⲣϫ ⲉ̀ⲧⲉϥⲙⲉⲧⲣⲱⲙⲓ ⲛ̀ⲟⲩⲥⲟⲩⲥⲟⲩ ⲛ̀ⲟⲩⲱⲧ ⲟⲩⲇⲉ ⲟⲩⲣⲓⲕⲓ ⲙ̀ⲃⲁⲗ"
-            coptic_english: ""
-            arabic: "بالحقيقة أؤمن، أن لاهوته لم يفارق ناسوته لحظة واحدة ولا طرفة عين"
-
-          - english: "given for us for salvation, remission of sins, and eternal life to those who partake of Him"
-            coptic: "Ⲉⲩϯ ⲙ̀ⲙⲟⲥ ⲉ̀ϫⲱⲛ ⲛ̀ⲟⲩⲥⲱϯ ⲛⲉⲙ ⲟⲩⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲓⲛⲟⲃⲓ ⲛⲉⲙ ⲟⲩⲱⲛϧ ⲛ̀ⲉ̀ⲛⲉϩ ⲛ̀ⲛⲏⲉⲑⲛⲁϭⲓ ⲉ̀ⲃⲟⲗ ⲛ̀ϧⲏⲧⲥ"
-            coptic_english: ""
-            arabic: "يعطى عنا خلاصاً وغفراناً للخطايا وحياة أبدية لمَنْ يتناول منه"
-
-          - english: "I believe, I believe, I believe that this is true. Amen"
-            coptic: "Ϯⲛⲁϩϯ ϯⲛⲁϩϯ ϯⲛⲁϩϯ ϫⲉ ⲑⲁⲓ ⲧⲉ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ ⲁ̀ⲙⲏⲛ"
-            coptic_english: ""
-            arabic: "أؤمن. أؤمن. أؤمن. أن هذا هو بالحقيقة. آمين"
-
+          english:
+              - Amen. Amen. Amen. I believe, I believe, I believe and confess to the last breath
+              - that this is the life-giving Flesh that Your only-begotten Son, our Lord, God, and Savior Jesus Christ, took from our Lady, the Lady of us all, the holy Theotokos, Saint Mary
+              - He made It one with His divinity without mingling, without confusion, and without alteration
+              - He confessed the good confession before Pontius Pilate
+              - He gave It up for us upon the holy wood of the Cross, of His own will, for us all
+              - Truly I believe that His divinity parted not from His humanity for a single moment, nor a twinkling of an eye;
+              - given for us for salvation, remission of sins, and eternal life to those who partake of Him
+              - I believe, I believe, I believe that this is true. Amen
+          arabic:
+              - آمين. آمين. آمين. أؤمن. أؤمن. أؤمن. واعترف إلى النفس الأخير
+              - أن هذا هو الجسد المحيي، الذي أخذه إبنك الوحيد الجنس، ربنا وإلهنا ومخلصنا يسوع المسيح من سيدتنا وملكتنا كلنا والدة الإله القديسة الطاهرة مريم
+              - وجعله واحداً مع لاهوته بغير إختلاط ولا أمتزاج ولا تغيير
+              - وإعترف الإعتراف الحسن أمام بيلاطس البنطي
+              - وسلمه عنا على خشبة الصليب المقدسة، بإرادته وحده عنا كلنا
+              - بالحقيقة أؤمن، أن لاهوته لم يفارق ناسوته لحظة واحدة ولا طرفة عين
+              - يعطى عنا خلاصاً وغفراناً للخطايا وحياة أبدية لمَنْ يتناول منه
+              - أؤمن. أؤمن. أؤمن. أن هذا هو بالحقيقة. آمين
+          coptic:
+              - Ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ϯⲛⲁϩϯ ϯⲛⲁϩϯ ϯⲛⲁϩϯ ⲟⲩⲟϩ ϯⲉⲣⲟ̀ⲙⲟⲗⲟⲅⲓⲛ ϣⲁ ⲡⲓⲛⲓϥⲓ ⲛ̀ϧⲁⲉ̀
+              - Ϫⲉ ⲑⲁⲓ ⲧⲉ Ϯⲥⲁⲣⲝ ⲛ̀ⲣⲉϥⲧⲁⲛϧⲟ ⲉ̀ⲧⲁ ⲡⲉⲕⲙⲟⲛⲟⲅⲉⲛⲏⲥ ⲛ̀Ϣⲏⲣⲓ Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ Ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ϭⲓⲧⲥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲧⲉⲛϭⲟⲓⲥ ⲛ̀ⲛⲏⲃ ⲧⲏⲣⲉⲛ Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ ⲉⲑⲟⲩⲁⲃ ϯⲁ̀ⲅⲓⲁ Ⲙⲁⲣⲓⲁ
+              - Ⲁϥⲁⲓⲥ ⲛ̀ⲟⲩⲁⲓ ⲛⲉⲙ ⲧⲉϥⲙⲉⲑⲛⲟⲩϯ ϧⲉⲛ ⲟⲩⲙⲉⲧⲁⲧⲙⲟⲩϫⲧ ⲛⲉⲙ ⲟⲩⲙⲉⲧⲁⲧⲑⲱϧ ⲛⲉⲙ ⲟⲩⲙⲉⲧⲁⲧϣⲓⲃϯ
+              - Ⲉ̀ⲁϥⲉⲣⲟ̀ⲙⲟⲗⲅⲓⲛ ⲛ̀ϯⲟ̀ⲙⲟⲗⲟⲅⲓⲁ ⲉⲑⲛⲁⲛⲉⲥ ⲛⲁϩⲣⲉⲛ Ⲡⲟⲛⲧⲓⲟⲥ Ⲡⲓⲗⲁⲧⲟⲥ
+              - Ⲁϥⲧⲏⲓⲥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ ϩⲓϫⲉⲛ ⲡⲓϣⲉ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲉ Ⲡⲓⲥ̀ⲧⲁⲩⲣⲟⲥ ϧⲉⲛ ⲡⲉϥⲟⲩⲱϣ ⲙ̀ⲙⲓⲛ ⲙ̀ⲙⲟϥ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ ⲧⲏⲣⲉⲛ
+              - Ⲁ̀ⲗⲏⲑⲱⲥ ϯⲛⲁϩϯ ϫⲉ ⲙ̀ⲡⲉ ⲧⲉϥⲙⲉⲑⲛⲟⲩϯ ⲫⲱⲣϫ ⲉ̀ⲧⲉϥⲙⲉⲧⲣⲱⲙⲓ ⲛ̀ⲟⲩⲥⲟⲩⲥⲟⲩ ⲛ̀ⲟⲩⲱⲧ ⲟⲩⲇⲉ ⲟⲩⲣⲓⲕⲓ ⲙ̀ⲃⲁⲗ
+              - Ⲉⲩϯ ⲙ̀ⲙⲟⲥ ⲉ̀ϫⲱⲛ ⲛ̀ⲟⲩⲥⲱϯ ⲛⲉⲙ ⲟⲩⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲓⲛⲟⲃⲓ ⲛⲉⲙ ⲟⲩⲱⲛϧ ⲛ̀ⲉ̀ⲛⲉϩ ⲛ̀ⲛⲏⲉⲑⲛⲁϭⲓ ⲉ̀ⲃⲟⲗ ⲛ̀ϧⲏⲧⲥ
+              - Ϯⲛⲁϩϯ ϯⲛⲁϩϯ ϯⲛⲁϩϯ ϫⲉ ⲑⲁⲓ ⲧⲉ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ ⲁ̀ⲙⲏⲛ
+          coptic_english:
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
     - speaker: deacon
+      type: verses
       verses:
-          - english: "Amen. Amen. Amen. I believe, I believe, I believe that this is true. Amen"
-            coptic: "Ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ϯⲛⲁϩϯ ϯⲛⲁϩϯ ϯⲛⲁϩϯ ϫⲉ ⲑⲁⲓ ⲧⲉ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ. Ⲁ̀ⲙⲏⲛ"
-            coptic_english: ""
-            arabic: "آمين، آمين، آمين. أؤمن، آؤمن، آؤمن. أن هذا هو بالحقيقة. آمين"
-
-          - english: "Pray for us and for all Christians who said to us concerning them, “Remember us in the house of the Lord.”"
-            coptic: "Ⲧⲱⲃϩ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ ⲛⲉⲙ ⲉ̀ϫⲉⲛ ⲭ̀ⲣⲓⲥⲧⲓⲁⲛⲟⲥ ⲛⲓⲃⲉⲛ ⲉ̀ⲧⲁⲩϫⲟⲥ ⲛⲁⲛ ⲉⲑⲃⲏⲧⲟⲩ ϫⲉ ⲁ̀ⲣⲓⲡⲉⲛⲙⲉⲩⲓ ϧⲉⲛ ⲡ̀ⲏⲓ ⲙ̀Ⲡ̀ϭⲟⲓⲥ"
-            coptic_english: ""
-            arabic: 'اُطلبوا عنا وعن كلِّ المسيحيينَ الذينَ قالوا لنا من أجلهِم، "أذكرونا في بيت الرب."'
-
-          - english: "The peace and love of Jesus Christ be with you. Sing, “Alleluia.”"
-            coptic: "Ⲏ̀ ⲓ̀ⲣⲏⲛⲏ ⲕⲉ ⲁ̀ⲅⲁⲡⲓ Ⲓⲏⲥⲟⲩ Ⲭ̀ⲣⲓⲥⲧⲟⲩ ⲙⲉⲑ ⲩ̀ⲙⲱⲛ ⲯⲁⲗⲗⲁⲧⲉ ϫⲱ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ"
-            coptic_english: ""
-            arabic: 'سلامُ ومحبةُ يسوعَ المسيحِ معكُم. رتلوا بنشيد "هلليلويا."'
-
-          - english: "Pray for the worthy partaking of the immaculate, heavenly, and holy Mysteries"
-            coptic: "Ⲡ̀ⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲏⲥ ⲁⲝⲓⲁⲥ ⲙⲉⲧⲁⲗⲏⲯⲉⲱⲥ ⲁⲭⲣⲁⲛⲧⲱⲛ ⲕⲉ ⲉ̀ⲡⲟⲩⲣⲁⲛⲓⲱⲛ ⲧⲱⲛ ⲁ̀ⲅⲓⲱⲛ Ⲙⲩⲥⲧⲏⲣⲓⲱⲛ"
-            coptic_english: ""
-            arabic: "صلُّوا من أجلِ التناولِ باستحقاقٍ من هذه الأسرارِ المقدسةِ الطاهرةِ والسمائيةِ"
-
-          - english: ""
-            coptic: "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ"
-            coptic_english: ""
-            arabic: "يا ربُّ إرحَم"
+          english:
+              - Amen. Amen. Amen. I believe, I believe, I believe that this is true. Amen
+              - Pray for us and for all Christians who said to us concerning them, “Remember us in the house of the Lord.”
+              - The peace and love of Jesus Christ be with you. Sing, “Alleluia.”
+              - Pray for the worthy partaking of the immaculate, heavenly, and holy Mysteries
+              - ''
+          arabic:
+              - آمين، آمين، آمين. أؤمن، آؤمن، آؤمن. أن هذا هو بالحقيقة. آمين
+              - اُطلبوا عنا وعن كلِّ المسيحيينَ الذينَ قالوا لنا من أجلهِم، "أذكرونا في بيت الرب."
+              - سلامُ ومحبةُ يسوعَ المسيحِ معكُم. رتلوا بنشيد "هلليلويا."
+              - صلُّوا من أجلِ التناولِ باستحقاقٍ من هذه الأسرارِ المقدسةِ الطاهرةِ والسمائيةِ
+              - يا ربُّ إرحَم
+          coptic:
+              - Ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ⲁ̀ⲙⲏⲛ ϯⲛⲁϩϯ ϯⲛⲁϩϯ ϯⲛⲁϩϯ ϫⲉ ⲑⲁⲓ ⲧⲉ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ. Ⲁ̀ⲙⲏⲛ
+              - Ⲧⲱⲃϩ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ ⲛⲉⲙ ⲉ̀ϫⲉⲛ ⲭ̀ⲣⲓⲥⲧⲓⲁⲛⲟⲥ ⲛⲓⲃⲉⲛ ⲉ̀ⲧⲁⲩϫⲟⲥ ⲛⲁⲛ ⲉⲑⲃⲏⲧⲟⲩ ϫⲉ ⲁ̀ⲣⲓⲡⲉⲛⲙⲉⲩⲓ ϧⲉⲛ ⲡ̀ⲏⲓ ⲙ̀Ⲡ̀ϭⲟⲓⲥ
+              - Ⲏ̀ ⲓ̀ⲣⲏⲛⲏ ⲕⲉ ⲁ̀ⲅⲁⲡⲓ Ⲓⲏⲥⲟⲩ Ⲭ̀ⲣⲓⲥⲧⲟⲩ ⲙⲉⲑ ⲩ̀ⲙⲱⲛ ⲯⲁⲗⲗⲁⲧⲉ ϫⲱ ⲁⲗⲗⲏⲗⲟⲩⲓⲁ
+              - Ⲡ̀ⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲏⲥ ⲁⲝⲓⲁⲥ ⲙⲉⲧⲁⲗⲏⲯⲉⲱⲥ ⲁⲭⲣⲁⲛⲧⲱⲛ ⲕⲉ ⲉ̀ⲡⲟⲩⲣⲁⲛⲓⲱⲛ ⲧⲱⲛ ⲁ̀ⲅⲓⲱⲛ Ⲙⲩⲥⲧⲏⲣⲓⲱⲛ
+              - Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ
+          coptic_english:
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''

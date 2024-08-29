@@ -1,24 +1,28 @@
 title:
-    english: "The Catholic Epistle"
-    arabic: "الكاثوليكون"
-
+    english: The Catholic Epistle
+    arabic: الكاثوليكون
 sections:
-    - speaker: "reader"
+    - speaker: reader
+      type: verses
       verses:
-          - english: "The Catholic Epistle from the epistle of our father (...). May his holy blessings be with us. Amen"
-            # coptic: "Ⲕⲁⲑⲟⲗⲓⲕⲟⲛ ⲉ̀ⲃⲟⲗϧⲉⲛ ϯⲉ̀ⲥⲧⲟⲗⲏ ⲛ̀ⲧⲉ ⲡⲉⲛⲓⲱⲧ (Ⲓⲁⲕⲱⲃⲟⲥ / Ⲓⲟⲩⲇⲁ) ⲛⲁⲙⲉⲛⲣⲁϯ"
-            # coptic_english: ""
-            arabic: "الكاثوليكون من رسالة ابينا (...)، يا أحبائى"
-
-    # - type: "hint"
-    #   text:
-    #       english: "(Reading of the day is read)"
+          english:
+              - The Catholic Epistle from the epistle of our father (...). May his holy blessings be with us. Amen
+          arabic:
+              - الكاثوليكون من رسالة ابينا (...)، يا أحبائى
+          coptic:
+              - ''
+          coptic_english:
+              - ''
     - type: reading
       readingType: catholic-epistle
-
-    - speaker: "reader"
+    - speaker: reader
+      type: verses
       verses:
-          - english: "Do not love the world nor the things in the world. The world passes away, and its desires; but he who does the will of God abides forever. Amen"
-            # coptic: "Ⲛⲁⲥ̀ⲛⲏⲟⲩ ⲙ̀ⲡⲉⲣⲙⲉⲛⲣⲉ ⲡⲓⲕⲟⲥⲙⲟⲥ ⲟ̀ⲩⲇⲉ ⲛⲏⲉ̀ⲧϣⲟⲡ ϧⲉⲛ ⲡⲓⲕⲟⲥⲙⲟⲥ ⲡⲓⲕⲟⲥⲙⲟⲥ ⲛⲁⲥⲓⲛⲓ ⲛⲉⲙ ⲧⲉϥⲉ̀ⲡⲓⲑⲩⲙⲓⲁ ⲫⲏ ⲇⲉ ⲉⲧⲓ̀ⲣⲓ ⲙ̀ⲫ̀ⲟ̀ⲩⲱ̀ϣ ⲙ̀Ⲫϯ ϥ̀ⲛⲁϣⲱⲡⲓ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ"
-            # coptic_english: ""
-            arabic: "لا تحبوا العالم ولا الأشياء التي في العالم، العالم يمضى وشهواته، وأما الذي يصنع إرادة الله يدوم إلى الأبد. آمين"
+          english:
+              - Do not love the world nor the things in the world. The world passes away, and its desires; but he who does the will of God abides forever. Amen
+          arabic:
+              - لا تحبوا العالم ولا الأشياء التي في العالم، العالم يمضى وشهواته، وأما الذي يصنع إرادة الله يدوم إلى الأبد. آمين
+          coptic:
+              - ''
+          coptic_english:
+              - ''

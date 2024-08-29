@@ -1,148 +1,83 @@
 title:
-  english: "Doxology for Saturdays and Sundays of the Great Fast"
-  arabic: "الذكصولوجية الاولي"
-
+    english: Doxology for Saturdays and Sundays of the Great Fast
+    arabic: الذكصولوجية الاولي
 sections:
-  - speaker: ""
-    verses:
-      - english: "Your mercies O my Lord I will praise, forever and ever, and from generation to generation, I will declare Your truth out of my mouth."
-        coptic: "Ⲛⲉⲕⲛⲁⲓ ⲱ̀ ⲡⲁϬⲟⲓⲥ ϯⲛⲁϩⲱⲥ ⲙ̀ⲙⲱⲟ̀ⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲛ̀ⲧⲉ ⲡⲓⲉ̀ⲛⲉϩ ⲟⲩⲟϩ ⲓⲥϫⲉⲛ ϫⲱⲟ̀ⲩ ϣⲁ ϫⲱⲟ̀ⲩ ϯⲛⲁϫⲱ ⲛ̀ⲧⲉⲕⲙⲉⲑⲙⲏⲓ ϧⲉⲛ ⲣⲱⲓ."
-        coptic_english: ""
-        coptic_arabic: |
-          نيك ناى أو باشويس تى ناهوس إمموؤ، شا إينيه انتى بى إينيه
-          أووه يسچين جوؤ شا جوؤ، تينا جو انتيك ميثمى خين روى
-        arabic: "أسبح مراحمك يا ربى، إلى أبد الأبد، ومن جيل إلى جيل، بفمى أخبر بحقك."
-
-      - english: "My iniquities have covered my head, and have overburdened me, O God hear my sighs, and cast them away from me."
-        coptic: "Ⲛⲁⲁ̀ⲛⲟⲙⲓⲁ ⲁⲩϭⲓⲥⲓ ⲉ̀ⲧⲁⲁ̀ⲫⲉ ⲟⲩⲟϩ ⲁⲩϩ̀ⲣⲟϣ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲓ Ⲫ̀ϯ ⲥⲱⲧⲉⲙ ⲉ̀ⲡⲁϥⲓⲁϩⲟⲙ ϩⲓⲟ̀ⲩⲓ̀ ⲙ̀ⲙⲱⲟ̀ⲩ ⲉ̀ⲃⲟⲗϩⲁⲣⲟⲓ."
-        coptic_english: ""
-        coptic_arabic: |
-          نا آنوميا آفتشيسى إى طا آفى، أووه آف إهروش إى إهرى إيجون
-          افنوتى سوتيم إيبا فيا هوم، هي اؤيى إمموؤ إيڤول هاروى
-        arabic: "آثامى علت على رأسى، وثقلت علىّ، يا الله إسمع تنهُدى، وإطرحها عنى."
-
-      - english: "Make me like the publican, who has sinned against You, You had compassion upon him, and forgave him his sins."
-        coptic: "Ⲁ̀ⲣⲓⲧⲧ ⲙ̀ⲫ̀ⲣⲏϯ ⲙ̀ⲡⲓⲧⲉⲗⲱⲛⲏⲥ ⲫⲏⲉ̀ⲧⲁϥⲉ̀ⲣⲛⲟⲃⲓ ⲉ̀ⲣⲟⲕ ⲁⲕϣⲉⲛϩⲏⲧ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱϥ ⲁⲕⲭⲁ ⲛⲉϥⲛⲟⲃⲓ ⲛⲁϥ ⲉ̀ⲃⲟⲗ."
-        coptic_english: ""
-        coptic_arabic: |
-          آريتي إم إفريتى إمبى تيلونيس، في ايطاف إرنوڤى إيروك
-          أكشين هيت إى إهرى إيجوف، أك كانيڤ نوڤى ناف إيڤول
-        arabic: "أجعلنى مثل العشار، الذى أخطأ إلي،ك وتراءفت عليه، وغفرت له خطاياه."
-
-      - english: "Make me like the adulteress, whom You have redeemed, You have saved and rescued her, for she pleased You."
-        coptic: "Ⲁ̀ⲣⲓⲧⲧ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ϯⲡⲟⲣⲛⲏ ⲑⲏⲉ̀ⲧⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲥ ⲉ̀ⲃⲟⲗ ⲁⲕⲧⲟⲩⲛⲟⲥ ⲁⲕⲛⲟϩⲉⲙ ⲙ̀ⲙⲟⲥ ϫⲉ ⲁⲥⲣⲁⲛⲁⲕ ⲙ̀ⲡⲉⲕⲙ̀ⲑⲟ."
-        coptic_english: ""
-        coptic_arabic: |
-          آريتي إم أفريتى إن تى بورنى، ثى إيطاك سوتى إمموس إيڤول
-          أكتوجوس أكنوهيم إمموس، چى أسراناك امبيك إمثو
-        arabic: "إجعلنى مثل الزانية، التى خلصتها، وأنقذتها ونجيتها، لأنها أرضتك أمامك."
-
-      - english: "Make me like the thief, who was crucified upon Your right-hand, he confessed to You, and likewise said."
-        coptic: "Ⲁ̀ⲣⲓⲧⲧ ⲙ̀ⲫ̀ⲣⲏϯ ⲙ̀ⲡⲓⲥⲟⲛⲓ ⲫⲏⲉ̀ⲧⲁⲩⲁ̀ϣϥ ⲛ̀ⲥⲁ ⲧⲉⲕⲟ̀ⲩⲓ̀ⲛⲁⲙ ⲁϥⲉ̀ⲣⲟ̀ⲙⲟⲗⲟⲅⲓⲛ ⲙ̀ⲙⲟⲕ ⲙ̀ⲡⲁⲓⲣⲏϯ ⲉϥϫⲱ ⲙ̀ⲙⲟⲥ."
-        coptic_english: ""
-        coptic_arabic: |
-          آريتي إم افريتى إمبى سونى، في ايطاف آشف إنسا تيك أويى نام
-          أفئير اومولوجين إمموك، إمباي ريتى إفجو إمموس
-        arabic: "إجعلنى مثل اللص، الذى صُلب عن يمينك، وإعترف بك، هكذا قائلاً."
-
-      - english: '"Remember me O my Lord, remember me O my God, remember me O my King, when You come into Your kingdom."'
-        coptic: "Ϫⲉ ⲁ̀ⲣⲓⲡⲁⲙⲉⲩⲓ̀ ⲱ̀ ⲡⲁϬⲟⲓⲥ ⲁ̀ⲣⲓⲡⲁⲙⲉⲩⲓ̀ ⲱ̀ ⲡⲁⲚⲟⲩϯ ⲁ̀ⲣⲓⲡⲁⲙⲉⲩⲓ̀ ⲱ̀ ⲡⲁⲞ̀ⲩⲣⲟ ⲁⲕϣⲁⲛⲓ̀ ϧⲉⲛ ⲧⲉⲕⲙⲉⲧⲟ̀ⲩⲣⲟ."
-        coptic_english: ""
-        coptic_arabic: |
-          چى آرى باميڤئى أو باشويس، آرى باميڤئى أو بانوتى
-          آرى باميڤئى أو باأورو، أكشانئى خين تيك ميت أورو
-        arabic: '"اذكرنى يا ربى، اذكرنى يا إلهى، اذكرنى يا ملكى، إذا جئت فى ملكوتك."'
-
-      - english: "For You O my Savior, have accepted his confession, You were compassionate to him, and sent him to paradise."
-        coptic: "Ⲛ̀ⲑⲟⲕ ⲇⲉ ⲱ̀ ⲡⲁⲤⲱⲧⲏⲣ ⲁⲕϣⲱⲡ ⲉ̀ⲣⲟⲕ ⲛ̀ⲧⲉϥⲟ̀ⲙⲟⲗⲟⲅⲓⲁ ⲁⲕϣⲉⲛϩⲏⲧ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱϥ ⲁϥⲟ̀ⲩⲟ̀ⲣⲡϥ ⲉ̀ⲡⲓⲡⲁⲣⲁⲇⲓⲥⲟⲥ."
-        coptic_english: ""
-        coptic_arabic: |
-          إنثوك ذى أو باستوير، أكشوب إيروك أنتيف ؤمولوجيا
-          أكشينهيت إيى إهرى إيجوف، أك ؤؤربف إيبى باراذيسوس
-        arabic: "فأنت يا مخلصى، قبلت إليك اعترافه، وترأفت عليه، وأرسلته إلى الفردوس."
-
-      - english: "Likewise I the sinner, Jesus my true King and God, have compassion upon me, and make me as one of them."
-        coptic: "Ⲁ̀ⲛⲟⲕ ϩⲱ ϧⲁ ⲡⲓⲣⲉϥⲉ̀ⲣⲛⲟⲃⲓ Ⲓⲏ̅ⲥ̅ ⲡⲁⲚⲟⲩϯ ⲡⲁⲞ̀ⲩⲣⲟ ⲙ̀ⲙⲏⲓ ϣⲁⲛⲁϩ̀ⲑⲏⲕ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲓ ⲁ̀ⲣⲓⲧⲧ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲟ̀ⲩⲁⲓ ⲛ̀ⲛⲁⲓ."
-        coptic_english: ""
-        coptic_arabic: |
-          آنوك هو خا بيريف إرنوڤى، إيسوس بانوتى با أورو إممى
-          شانا إهثيك إى إهرى إيجون، آريت إم إفريتى إن إواى إن ناى
-        arabic: "وأنا أيضاً الخاطئ، يا يسوع إلهى وملكى الحقيقى، تحنن علىّ واجعلنى، كأحد هؤلاء."
-
-      - english: "For I know that You are good, compassionate and patient, remember me in Your mercy, forever and ever."
-        coptic: "Ϯⲥⲱⲟ̀ⲩⲛ ϫⲉ Ⲛ̀ⲑⲟⲕ ⲟ̀ⲩⲁ̀ⲅⲁⲑⲟⲥ ⲛ̀ⲣⲉϥϣⲉⲛϩⲏⲧ ⲟⲩⲟϩ ⲛ̀ⲛⲁⲏ̀ⲧ ⲁ̀ⲣⲓⲡⲁⲙⲉⲩ̀ⲓ̀ ϧⲉⲛ ⲡⲉⲕⲛⲁⲓ ϣⲁ ⲉ̀ⲛⲉϩ ⲛ̀ⲧⲉ ⲡⲓⲉ̀ⲛⲉϩ."
-        coptic_english: ""
-        coptic_arabic: "تى سوؤن چى إنثوك أو آغاثوس، إنريف شينهيت أووه إن نائيب، آرى باميڤئى خين بيك ناى، شا إينيه إنتى نى إينيه."
-        arabic: "أنا أعرف أنك صالح، رؤوف ورحيم، اذكرنى برحمتك، إلى أبد الأبد."
-
-      - english: "I ask You O my Lord Jesus, do not destroy me in Your anger, and likewise also in Your wrath, do not chasten me for my ignorance."
-        coptic: "Ϯⲧⲱⲃϩ ⲙ̀ⲙⲟⲕ ⲱ̀ ⲡⲁϬⲟⲓⲥ Ⲓⲏ̅ⲥ̅ ⲙ̀ⲡⲉⲣⲥⲟϩⲓ ⲙ̀ⲙⲟⲓ ϧⲉⲛ ⲡⲉⲕϫⲱⲛⲧ ⲟ̀ⲩⲇⲉ ⲟⲛ ϧⲉⲛ ⲡⲉⲕⲙ̀ⲃⲟⲛ ⲙ̀ⲡⲉⲣϯⲥ̀ⲃⲱ ⲛ̀ⲧⲁⲙⲉⲧⲁⲧⲉ̀ⲙⲓ."
-        coptic_english: ""
-        coptic_arabic: |
-          تى طوڤه إمموك أو باشويس إيسوس، امبير سوهى إمموى خين بيك جونت
-          أوذى أون خين بيك إمڤون، إمبير تى إسڤو إنطاميت آت إيمى
-        arabic: "أطلب إليك يا ربى يسوع، أن لا تبكتنى بغضبك، ولا برجزك، تؤدب جهالتى."
-
-      - english: "For You do not desire the death of a sinner, rather he returns and lives, have pity upon my weakness, and do not look at me in anger."
-        coptic: "Ϫⲉ ⲭ̀ⲟ̀ⲩⲱ̀ϣ ⲙ̀ⲫ̀ⲙⲟⲩ ⲁⲛ ⲙ̀ⲡⲓⲣⲉϥⲉ̀ⲣⲛⲟⲃⲓ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲧⲉϥⲕⲟⲧϥ ⲟⲩⲟϩ ⲛ̀ⲧⲉϥⲱ̀ⲛϧ ϣⲁⲛⲁϩ̀ⲑⲏⲕ ϧⲁ ⲧⲁⲙⲉⲧϫⲱⲃ ⲙ̀ⲡⲉⲣⲥⲟⲙⲥ ⲉ̀ⲣⲟⲓ ϧⲉⲛ ⲟ̀ⲩⲙ̀ⲃⲟⲛ."
-        coptic_english: ""
-        coptic_arabic: |
-          چى إكؤؤش إم إفمو آن، امبى ريف ارنوڤى، إم افريتى انتيف كوتف أووه انتيف أونخ
-          شانا إهثيك كاطا ميت جوڤ، امبيرسومس ايروى خين أو إمڤون
-        arabic: "لأنك لا تشاء موت الخاطئ، مثل أن يرجع ويحيا، تراءف على ضعفى، ولا تنظر إلىّ بغضب."
-
-      - english: "I have sinned O Jesus my Lord, I have sinned O Jesus my God, O King do not count the sins, which I have committed."
-        coptic: "Ⲁⲓⲉ̀ⲣⲛⲟⲃⲓ Ⲓⲏ̅ⲥ̅ ⲡⲁϬⲟⲓⲥ ⲁⲓⲉ̀ⲣⲛⲟⲃⲓ Ⲓⲏ̅ⲥ̅ ⲡⲁⲚⲟⲩϯ ⲡⲁⲞ̀ⲩⲣⲟ ⲙ̀ⲡⲉⲣⲱⲡ ⲉ̀ⲣⲟⲓ ⲛ̀ⲛⲓⲛⲟⲃⲓ ⲉ̀ⲧⲁⲓⲁ̀ⲓⲧⲟⲩ."
-        coptic_english: ""
-        coptic_arabic: |
-          آى إرنوڤى إيسوس باشويس، آى إرنوڤى إيسوس بانوتى
-          باأورو إمبيروب إيروى، إينى نوڤى ايطاى أيتو
-        arabic: "أخطأت يا يسوع ربى، أخطأت يا يسوع إلهى، يا ملكى لا تحسب علىّ، الخطايا التى صنعتها."
-
-      - english: "I ask You O my Savior, let Your mercies come to me, and save me from the troubles, that come to my soul."
-        coptic: "Ϯϯϩⲟ ⲉ̀ⲣⲟⲕ ⲱ̀ ⲡⲁⲤⲱⲧⲏⲣ ⲙⲁⲣⲉ ⲛⲉⲕⲙⲉⲑⲛⲁⲏ̀ⲧ ⲧⲁϩⲟⲓ ⲛ̀ⲧⲟⲩⲛⲟϩⲉⲙ ⲙ̀ⲙⲟⲓ ϧⲉⲛ ⲛⲓⲁ̀ⲛⲁⲅⲕⲏ ⲉⲧϯ ⲟ̀ⲩⲃⲉ ⲉ̀ⲧⲁⲯ̀ⲩⲭⲏ."
-        coptic_english: ""
-        coptic_arabic: |
-          تى تيهو إيروك أوبا سوتير، مارى نيك ميثناإيت طاهوى
-          إنتونوهيم إمموى خين نى آناكى، إت تى أوڤى ايطا أبسيشى
-        arabic: "أسألك يا مخلصى، فلتدركنى مراحمك، لتخلصنى من الشدائد، المضادة لنفسى."
-
-      - english: "Do not send me to the fire, for my ignorance like Sodom, and likewise do not destroy me, like Gomorrah."
-        coptic: "Ⲙ̀ⲡⲉⲣϩⲓ ⲭ̀ⲣⲱⲙ ⲉ̀ⲧⲁⲙⲉⲧⲁⲧⲥⲱⲟ̀ⲩⲛ ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱϥ ⲛ̀Ⲥⲟⲇⲟⲙⲁ ⲟ̀ⲩⲇⲉ ⲟⲛ ⲙ̀ⲡⲉⲣⲧⲁⲕⲟⲓ ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱϥ ⲛ̀Ⲅⲟⲙⲟⲣⲣⲁ."
-        coptic_english: ""
-        coptic_arabic: |
-          امبير هى إكروم إيطا ميت آتسوؤن، إميفريتى هوف إنسودوما
-          أوذى أون امبير تاكوى، إميفريتى هوف إنجومورا
-        arabic: "لا تحرق عدم معرفتى، مثل سدوم، ولا تهلكنى أيضاً، مثل عمورة."
-
-      - english: "But O my Lord deal with me, like the people of Nineveh, those who have repented, and You forgave them their sins."
-        coptic: "Ⲁⲗⲗⲁ ⲡⲁϬⲟⲓⲥ ⲁ̀ⲣⲓⲟ̀ⲩⲓ̀ ⲛⲉⲙⲏⲓ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲛⲓⲣⲉⲙⲚⲓⲛⲉⲩⲏ̀ ⲛⲁⲓ ⲉ̀ⲧⲁⲩⲉ̀ⲣⲙⲉⲧⲁⲛⲟⲓⲛ ⲁⲕⲭⲁ ⲛⲟⲩⲛⲟⲃⲓ ⲛⲱⲟ̀ⲩ ⲉ̀ⲃⲟⲗ."
-        coptic_english: ""
-        coptic_arabic: |
-          اللا باشويس آرى أويى نيمى، اميفريتى ان ني ريم نى نيڤئى
-          ناى ايطاڤ ئير ميطانيا، أك كا نونوڤى إيڤول
-        arabic: "لكن يا ربى إصنع معى، مثل أهل نينوى، الذين تابوا، فغفرت لهم خطاياهم."
-
-      - english: "But may Your mercies, come unto me quickly, that I may proclaim with those people, with an unceasing voice."
-        coptic: "Ⲁⲗⲗⲁ ⲙⲁⲣⲉ ⲛⲉⲕⲙⲉⲑⲛⲁⲏ̀ⲧ ⲧⲁϩⲟⲓ ⲡⲁϬⲟⲓⲥ ϧⲉⲛ ⲟ̀ⲩⲓⲏⲥ ⲛ̀ⲧⲁⲱ̀ϣ ⲉ̀ⲃⲟⲗ ⲛⲉⲙ ⲡⲁⲓⲗⲁⲟ̀ⲥ ϧⲉⲛ ⲟ̀ⲩⲥ̀ⲙⲏ ⲛ̀ⲁ̀ⲧⲭⲁⲣⲱⲥ."
-        coptic_english: ""
-        coptic_arabic: |
-          اللا مارى نيك ميثنائيت، طاهوى باشويس خين أو ئيس
-          انطاؤش إيڤول نيم باى لاؤس، خين أو إسمى إن آتكاروس
-        arabic: "لكن فلتدركنى سريعاً، مراحمك يا ربى، لأصرخ مع هذا الشعب، بصوت لا يسكت."
-
-      - english: "Wherefore I entreat You, O Lord God my Savior, do not judge me, I the weak and sinful."
-        coptic: "Ⲉⲑⲃⲉ ⲫⲁⲓ ϯⲧⲱⲃϩ ⲙ̀ⲙⲟⲕ Ⲡ̀ⲟ̅ⲥ̅ Ⲫ̀ϯ ⲡⲁⲤⲱⲧⲏⲣ ⲙ̀ⲡⲉⲣⲓ̀ⲣⲓ ⲛ̀ⲟ̀ⲩϩⲁⲡ ⲛⲉⲙⲏⲓ ⲁ̀ⲛⲟⲕ ϧⲁ ⲡⲓϫⲱⲃ ⲛ̀ⲣⲉϥⲉ̀ⲣⲛⲟⲃⲓ."
-        coptic_english: ""
-        coptic_arabic: |
-          إثڤى فاى تى طوڤه إمموك، ابشويس افنوتى باسوتير
-          إمبير إيرى إنؤهاب نى مى، آنوك خابى جوب إنريف إيرنوڤى
-        arabic: "من أجل هذا أطلب إليك، أيها الرب الإله مخلصى، لا تحاكمنى، أنا الضعيف الخاطئ."
-
-      - english: "But rather absolve and remit, my many iniquities, as a good One and Lover of man, have mercy upon us according to Your great mercy."
-        coptic: "Ⲁⲗⲗⲁ ⲃⲱⲗ ⲉ̀ⲃⲟⲗ ⲭⲱ ⲛⲏⲓ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲁⲡⲁⲣⲁⲡⲧⲱⲙⲁ ⲉⲧⲟ̀ϣ ϩⲱⲥ Ⲁ̀ⲅⲁⲑⲟⲥ ⲟⲩⲟϩ ⲙ̀Ⲙⲁⲓⲣⲱⲙⲓ ⲛⲁⲓ ⲛⲁⲛ ⲕⲁⲧⲁ ⲡⲉⲕⲛⲓϣϯ ⲛ̀ⲛⲁⲓ."
-        coptic_english: ""
-        coptic_arabic: |
-          اللا ڤول إيڤول كو نى إيڤول، إن نا بارابطوما إتؤش
-          هوس آغاثوس أووه إمماى رومى، ناى نان كاطا بيك نيشتى إن ناى
-        arabic: "لكن حل واغفر، لى ذلاتى الكثيرة، كصالح ومحب البشر، إرحمنا كعظيم رحمتك."
+    - speaker: ''
+      type: verses
+      verses:
+          english:
+              - Your mercies O my Lord I will praise, forever and ever, and from generation to generation, I will declare Your truth out of my mouth.
+              - My iniquities have covered my head, and have overburdened me, O God hear my sighs, and cast them away from me.
+              - Make me like the publican, who has sinned against You, You had compassion upon him, and forgave him his sins.
+              - Make me like the adulteress, whom You have redeemed, You have saved and rescued her, for she pleased You.
+              - Make me like the thief, who was crucified upon Your right-hand, he confessed to You, and likewise said.
+              - '"Remember me O my Lord, remember me O my God, remember me O my King, when You come into Your kingdom."'
+              - For You O my Savior, have accepted his confession, You were compassionate to him, and sent him to paradise.
+              - Likewise I the sinner, Jesus my true King and God, have compassion upon me, and make me as one of them.
+              - For I know that You are good, compassionate and patient, remember me in Your mercy, forever and ever.
+              - I ask You O my Lord Jesus, do not destroy me in Your anger, and likewise also in Your wrath, do not chasten me for my ignorance.
+              - For You do not desire the death of a sinner, rather he returns and lives, have pity upon my weakness, and do not look at me in anger.
+              - I have sinned O Jesus my Lord, I have sinned O Jesus my God, O King do not count the sins, which I have committed.
+              - I ask You O my Savior, let Your mercies come to me, and save me from the troubles, that come to my soul.
+              - Do not send me to the fire, for my ignorance like Sodom, and likewise do not destroy me, like Gomorrah.
+              - But O my Lord deal with me, like the people of Nineveh, those who have repented, and You forgave them their sins.
+              - But may Your mercies, come unto me quickly, that I may proclaim with those people, with an unceasing voice.
+              - Wherefore I entreat You, O Lord God my Savior, do not judge me, I the weak and sinful.
+              - But rather absolve and remit, my many iniquities, as a good One and Lover of man, have mercy upon us according to Your great mercy.
+          arabic:
+              - أسبح مراحمك يا ربى، إلى أبد الأبد، ومن جيل إلى جيل، بفمى أخبر بحقك.
+              - آثامى علت على رأسى، وثقلت علىّ، يا الله إسمع تنهُدى، وإطرحها عنى.
+              - أجعلنى مثل العشار، الذى أخطأ إلي،ك وتراءفت عليه، وغفرت له خطاياه.
+              - إجعلنى مثل الزانية، التى خلصتها، وأنقذتها ونجيتها، لأنها أرضتك أمامك.
+              - إجعلنى مثل اللص، الذى صُلب عن يمينك، وإعترف بك، هكذا قائلاً.
+              - '"اذكرنى يا ربى، اذكرنى يا إلهى، اذكرنى يا ملكى، إذا جئت فى ملكوتك."'
+              - فأنت يا مخلصى، قبلت إليك اعترافه، وترأفت عليه، وأرسلته إلى الفردوس.
+              - وأنا أيضاً الخاطئ، يا يسوع إلهى وملكى الحقيقى، تحنن علىّ واجعلنى، كأحد هؤلاء.
+              - أنا أعرف أنك صالح، رؤوف ورحيم، اذكرنى برحمتك، إلى أبد الأبد.
+              - أطلب إليك يا ربى يسوع، أن لا تبكتنى بغضبك، ولا برجزك، تؤدب جهالتى.
+              - لأنك لا تشاء موت الخاطئ، مثل أن يرجع ويحيا، تراءف على ضعفى، ولا تنظر إلىّ بغضب.
+              - أخطأت يا يسوع ربى، أخطأت يا يسوع إلهى، يا ملكى لا تحسب علىّ، الخطايا التى صنعتها.
+              - أسألك يا مخلصى، فلتدركنى مراحمك، لتخلصنى من الشدائد، المضادة لنفسى.
+              - لا تحرق عدم معرفتى، مثل سدوم، ولا تهلكنى أيضاً، مثل عمورة.
+              - لكن يا ربى إصنع معى، مثل أهل نينوى، الذين تابوا، فغفرت لهم خطاياهم.
+              - لكن فلتدركنى سريعاً، مراحمك يا ربى، لأصرخ مع هذا الشعب، بصوت لا يسكت.
+              - من أجل هذا أطلب إليك، أيها الرب الإله مخلصى، لا تحاكمنى، أنا الضعيف الخاطئ.
+              - لكن حل واغفر، لى ذلاتى الكثيرة، كصالح ومحب البشر، إرحمنا كعظيم رحمتك.
+          coptic:
+              - Ⲛⲉⲕⲛⲁⲓ ⲱ̀ ⲡⲁϬⲟⲓⲥ ϯⲛⲁϩⲱⲥ ⲙ̀ⲙⲱⲟ̀ⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲛ̀ⲧⲉ ⲡⲓⲉ̀ⲛⲉϩ ⲟⲩⲟϩ ⲓⲥϫⲉⲛ ϫⲱⲟ̀ⲩ ϣⲁ ϫⲱⲟ̀ⲩ ϯⲛⲁϫⲱ ⲛ̀ⲧⲉⲕⲙⲉⲑⲙⲏⲓ ϧⲉⲛ ⲣⲱⲓ.
+              - Ⲛⲁⲁ̀ⲛⲟⲙⲓⲁ ⲁⲩϭⲓⲥⲓ ⲉ̀ⲧⲁⲁ̀ⲫⲉ ⲟⲩⲟϩ ⲁⲩϩ̀ⲣⲟϣ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲓ Ⲫ̀ϯ ⲥⲱⲧⲉⲙ ⲉ̀ⲡⲁϥⲓⲁϩⲟⲙ ϩⲓⲟ̀ⲩⲓ̀ ⲙ̀ⲙⲱⲟ̀ⲩ ⲉ̀ⲃⲟⲗϩⲁⲣⲟⲓ.
+              - Ⲁ̀ⲣⲓⲧⲧ ⲙ̀ⲫ̀ⲣⲏϯ ⲙ̀ⲡⲓⲧⲉⲗⲱⲛⲏⲥ ⲫⲏⲉ̀ⲧⲁϥⲉ̀ⲣⲛⲟⲃⲓ ⲉ̀ⲣⲟⲕ ⲁⲕϣⲉⲛϩⲏⲧ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱϥ ⲁⲕⲭⲁ ⲛⲉϥⲛⲟⲃⲓ ⲛⲁϥ ⲉ̀ⲃⲟⲗ.
+              - Ⲁ̀ⲣⲓⲧⲧ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ϯⲡⲟⲣⲛⲏ ⲑⲏⲉ̀ⲧⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲥ ⲉ̀ⲃⲟⲗ ⲁⲕⲧⲟⲩⲛⲟⲥ ⲁⲕⲛⲟϩⲉⲙ ⲙ̀ⲙⲟⲥ ϫⲉ ⲁⲥⲣⲁⲛⲁⲕ ⲙ̀ⲡⲉⲕⲙ̀ⲑⲟ.
+              - Ⲁ̀ⲣⲓⲧⲧ ⲙ̀ⲫ̀ⲣⲏϯ ⲙ̀ⲡⲓⲥⲟⲛⲓ ⲫⲏⲉ̀ⲧⲁⲩⲁ̀ϣϥ ⲛ̀ⲥⲁ ⲧⲉⲕⲟ̀ⲩⲓ̀ⲛⲁⲙ ⲁϥⲉ̀ⲣⲟ̀ⲙⲟⲗⲟⲅⲓⲛ ⲙ̀ⲙⲟⲕ ⲙ̀ⲡⲁⲓⲣⲏϯ ⲉϥϫⲱ ⲙ̀ⲙⲟⲥ.
+              - Ϫⲉ ⲁ̀ⲣⲓⲡⲁⲙⲉⲩⲓ̀ ⲱ̀ ⲡⲁϬⲟⲓⲥ ⲁ̀ⲣⲓⲡⲁⲙⲉⲩⲓ̀ ⲱ̀ ⲡⲁⲚⲟⲩϯ ⲁ̀ⲣⲓⲡⲁⲙⲉⲩⲓ̀ ⲱ̀ ⲡⲁⲞ̀ⲩⲣⲟ ⲁⲕϣⲁⲛⲓ̀ ϧⲉⲛ ⲧⲉⲕⲙⲉⲧⲟ̀ⲩⲣⲟ.
+              - Ⲛ̀ⲑⲟⲕ ⲇⲉ ⲱ̀ ⲡⲁⲤⲱⲧⲏⲣ ⲁⲕϣⲱⲡ ⲉ̀ⲣⲟⲕ ⲛ̀ⲧⲉϥⲟ̀ⲙⲟⲗⲟⲅⲓⲁ ⲁⲕϣⲉⲛϩⲏⲧ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱϥ ⲁϥⲟ̀ⲩⲟ̀ⲣⲡϥ ⲉ̀ⲡⲓⲡⲁⲣⲁⲇⲓⲥⲟⲥ.
+              - Ⲁ̀ⲛⲟⲕ ϩⲱ ϧⲁ ⲡⲓⲣⲉϥⲉ̀ⲣⲛⲟⲃⲓ Ⲓⲏ̅ⲥ̅ ⲡⲁⲚⲟⲩϯ ⲡⲁⲞ̀ⲩⲣⲟ ⲙ̀ⲙⲏⲓ ϣⲁⲛⲁϩ̀ⲑⲏⲕ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲓ ⲁ̀ⲣⲓⲧⲧ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲟ̀ⲩⲁⲓ ⲛ̀ⲛⲁⲓ.
+              - Ϯⲥⲱⲟ̀ⲩⲛ ϫⲉ Ⲛ̀ⲑⲟⲕ ⲟ̀ⲩⲁ̀ⲅⲁⲑⲟⲥ ⲛ̀ⲣⲉϥϣⲉⲛϩⲏⲧ ⲟⲩⲟϩ ⲛ̀ⲛⲁⲏ̀ⲧ ⲁ̀ⲣⲓⲡⲁⲙⲉⲩ̀ⲓ̀ ϧⲉⲛ ⲡⲉⲕⲛⲁⲓ ϣⲁ ⲉ̀ⲛⲉϩ ⲛ̀ⲧⲉ ⲡⲓⲉ̀ⲛⲉϩ.
+              - Ϯⲧⲱⲃϩ ⲙ̀ⲙⲟⲕ ⲱ̀ ⲡⲁϬⲟⲓⲥ Ⲓⲏ̅ⲥ̅ ⲙ̀ⲡⲉⲣⲥⲟϩⲓ ⲙ̀ⲙⲟⲓ ϧⲉⲛ ⲡⲉⲕϫⲱⲛⲧ ⲟ̀ⲩⲇⲉ ⲟⲛ ϧⲉⲛ ⲡⲉⲕⲙ̀ⲃⲟⲛ ⲙ̀ⲡⲉⲣϯⲥ̀ⲃⲱ ⲛ̀ⲧⲁⲙⲉⲧⲁⲧⲉ̀ⲙⲓ.
+              - Ϫⲉ ⲭ̀ⲟ̀ⲩⲱ̀ϣ ⲙ̀ⲫ̀ⲙⲟⲩ ⲁⲛ ⲙ̀ⲡⲓⲣⲉϥⲉ̀ⲣⲛⲟⲃⲓ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲧⲉϥⲕⲟⲧϥ ⲟⲩⲟϩ ⲛ̀ⲧⲉϥⲱ̀ⲛϧ ϣⲁⲛⲁϩ̀ⲑⲏⲕ ϧⲁ ⲧⲁⲙⲉⲧϫⲱⲃ ⲙ̀ⲡⲉⲣⲥⲟⲙⲥ ⲉ̀ⲣⲟⲓ ϧⲉⲛ ⲟ̀ⲩⲙ̀ⲃⲟⲛ.
+              - Ⲁⲓⲉ̀ⲣⲛⲟⲃⲓ Ⲓⲏ̅ⲥ̅ ⲡⲁϬⲟⲓⲥ ⲁⲓⲉ̀ⲣⲛⲟⲃⲓ Ⲓⲏ̅ⲥ̅ ⲡⲁⲚⲟⲩϯ ⲡⲁⲞ̀ⲩⲣⲟ ⲙ̀ⲡⲉⲣⲱⲡ ⲉ̀ⲣⲟⲓ ⲛ̀ⲛⲓⲛⲟⲃⲓ ⲉ̀ⲧⲁⲓⲁ̀ⲓⲧⲟⲩ.
+              - Ϯϯϩⲟ ⲉ̀ⲣⲟⲕ ⲱ̀ ⲡⲁⲤⲱⲧⲏⲣ ⲙⲁⲣⲉ ⲛⲉⲕⲙⲉⲑⲛⲁⲏ̀ⲧ ⲧⲁϩⲟⲓ ⲛ̀ⲧⲟⲩⲛⲟϩⲉⲙ ⲙ̀ⲙⲟⲓ ϧⲉⲛ ⲛⲓⲁ̀ⲛⲁⲅⲕⲏ ⲉⲧϯ ⲟ̀ⲩⲃⲉ ⲉ̀ⲧⲁⲯ̀ⲩⲭⲏ.
+              - Ⲙ̀ⲡⲉⲣϩⲓ ⲭ̀ⲣⲱⲙ ⲉ̀ⲧⲁⲙⲉⲧⲁⲧⲥⲱⲟ̀ⲩⲛ ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱϥ ⲛ̀Ⲥⲟⲇⲟⲙⲁ ⲟ̀ⲩⲇⲉ ⲟⲛ ⲙ̀ⲡⲉⲣⲧⲁⲕⲟⲓ ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱϥ ⲛ̀Ⲅⲟⲙⲟⲣⲣⲁ.
+              - Ⲁⲗⲗⲁ ⲡⲁϬⲟⲓⲥ ⲁ̀ⲣⲓⲟ̀ⲩⲓ̀ ⲛⲉⲙⲏⲓ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲛⲓⲣⲉⲙⲚⲓⲛⲉⲩⲏ̀ ⲛⲁⲓ ⲉ̀ⲧⲁⲩⲉ̀ⲣⲙⲉⲧⲁⲛⲟⲓⲛ ⲁⲕⲭⲁ ⲛⲟⲩⲛⲟⲃⲓ ⲛⲱⲟ̀ⲩ ⲉ̀ⲃⲟⲗ.
+              - Ⲁⲗⲗⲁ ⲙⲁⲣⲉ ⲛⲉⲕⲙⲉⲑⲛⲁⲏ̀ⲧ ⲧⲁϩⲟⲓ ⲡⲁϬⲟⲓⲥ ϧⲉⲛ ⲟ̀ⲩⲓⲏⲥ ⲛ̀ⲧⲁⲱ̀ϣ ⲉ̀ⲃⲟⲗ ⲛⲉⲙ ⲡⲁⲓⲗⲁⲟ̀ⲥ ϧⲉⲛ ⲟ̀ⲩⲥ̀ⲙⲏ ⲛ̀ⲁ̀ⲧⲭⲁⲣⲱⲥ.
+              - Ⲉⲑⲃⲉ ⲫⲁⲓ ϯⲧⲱⲃϩ ⲙ̀ⲙⲟⲕ Ⲡ̀ⲟ̅ⲥ̅ Ⲫ̀ϯ ⲡⲁⲤⲱⲧⲏⲣ ⲙ̀ⲡⲉⲣⲓ̀ⲣⲓ ⲛ̀ⲟ̀ⲩϩⲁⲡ ⲛⲉⲙⲏⲓ ⲁ̀ⲛⲟⲕ ϧⲁ ⲡⲓϫⲱⲃ ⲛ̀ⲣⲉϥⲉ̀ⲣⲛⲟⲃⲓ.
+              - Ⲁⲗⲗⲁ ⲃⲱⲗ ⲉ̀ⲃⲟⲗ ⲭⲱ ⲛⲏⲓ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲁⲡⲁⲣⲁⲡⲧⲱⲙⲁ ⲉⲧⲟ̀ϣ ϩⲱⲥ Ⲁ̀ⲅⲁⲑⲟⲥ ⲟⲩⲟϩ ⲙ̀Ⲙⲁⲓⲣⲱⲙⲓ ⲛⲁⲓ ⲛⲁⲛ ⲕⲁⲧⲁ ⲡⲉⲕⲛⲓϣϯ ⲛ̀ⲛⲁⲓ.
+          coptic_english:
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''
+              - ''

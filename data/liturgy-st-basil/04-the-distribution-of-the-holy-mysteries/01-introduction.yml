@@ -1,27 +1,33 @@
 title:
-    english: "Introduction"
-
+    english: Introduction
 sections:
     - speaker: priest
+      type: verses
       verses:
-          - english: "The Holies for the holy"
-            coptic: "Ⲧⲁ ⲁ̀ⲅⲓⲁ ⲧⲓⲥ ⲁ̀ⲅⲏⲥ"
-            coptic_english: ""
-            arabic: "القُدساتُ للقِدِّيسينَ"
-
-          - english: "Blessed be the Lord Jesus Christ, the Son of God; the sanctification is by the Holy Spirit. Amen"
-            coptic: "Ⲉⲩⲗⲟⲅⲏⲧⲟⲥ Ⲕⲩⲣⲓⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲩ̀ⲓⲟⲥ Ⲑⲉⲟⲩ ⲁ̀ⲅⲓⲁⲥⲙⲟⲥ Ⲡ̀ⲛⲉⲩⲙⲁ Ⲁ̀ⲅⲓⲟⲛ ⲁ̀ⲙⲏⲛ"
-            coptic_english: ""
-            arabic: "مٌبارَكٌ الربُّ يسوعُ المسيحُ إبنُ اللهِ، وقُدُّوسٌ الرُّوحُ القُدُسُ. آمين"
-
+          english:
+              - The Holies for the holy
+              - Blessed be the Lord Jesus Christ, the Son of God; the sanctification is by the Holy Spirit. Amen
+          arabic:
+              - القُدساتُ للقِدِّيسينَ
+              - مٌبارَكٌ الربُّ يسوعُ المسيحُ إبنُ اللهِ، وقُدُّوسٌ الرُّوحُ القُدُسُ. آمين
+          coptic:
+              - Ⲧⲁ ⲁ̀ⲅⲓⲁ ⲧⲓⲥ ⲁ̀ⲅⲏⲥ
+              - Ⲉⲩⲗⲟⲅⲏⲧⲟⲥ Ⲕⲩⲣⲓⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲩ̀ⲓⲟⲥ Ⲑⲉⲟⲩ ⲁ̀ⲅⲓⲁⲥⲙⲟⲥ Ⲡ̀ⲛⲉⲩⲙⲁ Ⲁ̀ⲅⲓⲟⲛ ⲁ̀ⲙⲏⲛ
+          coptic_english:
+              - ''
+              - ''
     - speaker: deacon
+      type: verses
       verses:
-          - english: "Blessed is He who comes in the name of the Lord"
-            coptic: "Ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ ⲫⲏⲉⲑⲛⲏⲟⲩ ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ̀Ⲡ̀ϭⲟⲓⲥ"
-            coptic_english: ""
-            arabic: "مبارك الآتي بإسم رب (...)"
-
-          - english: "The holy Body and the precious, true Blood of Jesus Christ, the Son of our God. Amen"
-            coptic: "Ⲥⲱⲙⲁ ⲁ̀ⲅⲓⲟⲛ ⲕⲉ Ⲉ̀ⲙⲁ ⲧⲓⲙⲓⲟⲛ ⲁ̀ⲗⲏⲑⲓⲛⲟⲛ Ⲓⲏⲥⲟⲩ Ⲭ̀ⲣⲓⲥⲧⲟⲩ ⲧⲟⲩ Ⲩ̀ⲓⲟⲩ ⲧⲟⲩ Ⲑⲉⲟⲩ ⲏ̀ⲙⲱⲛ ⲁ̀ⲙⲏⲛ"
-            coptic_english: ""
-            arabic: "جسدٌ مُقدَّسٌ، ودمٌ كريمٌ حقيقيٌّ، ليسوعَ المسيحِ إبنِ إلَهِنا. آمين"
+          english:
+              - Blessed is He who comes in the name of the Lord
+              - The holy Body and the precious, true Blood of Jesus Christ, the Son of our God. Amen
+          arabic:
+              - مبارك الآتي بإسم رب (...)
+              - جسدٌ مُقدَّسٌ، ودمٌ كريمٌ حقيقيٌّ، ليسوعَ المسيحِ إبنِ إلَهِنا. آمين
+          coptic:
+              - Ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ ⲫⲏⲉⲑⲛⲏⲟⲩ ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ̀Ⲡ̀ϭⲟⲓⲥ
+              - Ⲥⲱⲙⲁ ⲁ̀ⲅⲓⲟⲛ ⲕⲉ Ⲉ̀ⲙⲁ ⲧⲓⲙⲓⲟⲛ ⲁ̀ⲗⲏⲑⲓⲛⲟⲛ Ⲓⲏⲥⲟⲩ Ⲭ̀ⲣⲓⲥⲧⲟⲩ ⲧⲟⲩ Ⲩ̀ⲓⲟⲩ ⲧⲟⲩ Ⲑⲉⲟⲩ ⲏ̀ⲙⲱⲛ ⲁ̀ⲙⲏⲛ
+          coptic_english:
+              - ''
+              - ''

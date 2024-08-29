@@ -1,48 +1,16 @@
 title:
-  english: Commemorations for Tout 19
-  arabic: السنكسار توت 19
+    english: Commemorations for Tout 19
+    arabic: السنكسار توت 19
 commemorations:
-  - title:
-      english: 1.The Commemoration of St. Gregory, Patriarch of the Armenians
-      arabic: 1. اليوم الثالث من أيام عيد الصليب المجيد
-    text:
-      english: On this day we commemorate St. Gregory, Patriarch of the Armenians, who
-        became a martyr without bloodshed. He made himself a slave in the
-        country of Armenia in the days of King Tiridates about the year 270 A.D.
-        This king was not Christian. When he came into the temple to offer up
-        incense to the idols, he summoned the saint to offer up incense with
-        him, but the saint refused. The king inflicted upon him severe tortures
-        and finally cast him in an empty pit. The Saint lived there for 15
-        years. Near the pit lived an old widow, and she saw in a vision someone
-        telling her, "Make bread and cast it into this pit," and she continued
-        to do this for 15 years. It happened that the king ordered the killing
-        of the virgins Arbsima and Agatha, and their friends. After the killing
-        he became exceedingly sad, because he wanted to marry St. Arbsima. He
-        suffered a serious illness from which he did not recover until his
-        sister saw in a dream someone telling her, "Unless you bring up Gregory
-        out of the pit, your brother will not be cured." They brought the saint
-        out of the pit, and he prayed over the king, and he was cured from his
-        sickness (1). His intercession be for us, and Glory be to our God,
-        forever. Amen. (1)His complete biography is under the fifteenth day of
-        the blessed month of Kiahk.
-      arabic: اليوم الثالث من أيام عيد الصليب المجيدملاحظة طقسية :+ طقس عيد الصليب
-        شعانيني 3 أيام+ تقرأ فصول عيد الصليب في الثلاثة ايام العيد حتى ايام
-        الآحاد+ يقال تى شورى والهيتنيات وفاى إيتاف إنف الخاصة بعيد الصليب كما
-        تقال القسمة السريانية+ يعامل عيد الصليب معاملة الأعياد السيدية .
-  - title:
-      english: ""
-      arabic: 2. تذكار إصعاد القديس غريغوريوس البطريرك الأرمني من الجب
-    text:
-      english: ""
-      arabic: "نعيد في هذا اليوم بتذكار القديس غريغوريوس بطريرك الأرمن . هذا الذي صار
-        شهيدا بغير سفك دم . ذلك انه جعل نفسه عبدا في بلاد أرمينية أيام الملك
-        تريدانه حوالي سنة 270 م . وكان هذا الملك غير مسيحي . ولما دخل هيكل
-        الأصنام ليبخر لها استدعى القديس ليبخر معه فلم يقبل . فعذبه بأنواع العذاب
-        القاسية ، وأخيرا ألقاه في جب فارغ . . فأقام القديس فيه خمس عشرة سنة .
-        وكانت بجانب الجب أرملة عجوز أبصرت في رؤيا من يقول لها:اصنعي خبزا
-        وألقيه في هذا الجب . فاستمرت . تفعل هكذا خمس عشرة سنة . وحدث أن أمر
-        الملك بقتل العذارى أربسيما وغباتا وصاحباتهما ، ولأنه كان يريد الزواج من
-        القديسة أربسيما فقد حرن جدا لقتلها ، وأصابه مرض عضال لم يشفي منه إلا بعد
-        أن رأت أخته في منامها من يقول لها ان لم تخرجوا غريغوريوس من الجب لا يبرأ
-        أخوك . فاصعدوه من ، الجب وصلي على الملك فشفى من أمراضه. شفاعته تكون معنا
-        . ولربنا المجد دائما أبديا . أمين ."
+    - title:
+          english: 1.The Commemoration of St. Gregory, Patriarch of the Armenians
+          arabic: 1. اليوم الثالث من أيام عيد الصليب المجيد
+      text:
+          english: On this day we commemorate St. Gregory, Patriarch of the Armenians, who became a martyr without bloodshed. He made himself a slave in the country of Armenia in the days of King Tiridates about the year 270 A.D. This king was not Christian. When he came into the temple to offer up incense to the idols, he summoned the saint to offer up incense with him, but the saint refused. The king inflicted upon him severe tortures and finally cast him in an empty pit. The Saint lived there for 15 years. Near the pit lived an old widow, and she saw in a vision someone telling her, "Make bread and cast it into this pit," and she continued to do this for 15 years. It happened that the king ordered the killing of the virgins Arbsima and Agatha, and their friends. After the killing he became exceedingly sad, because he wanted to marry St. Arbsima. He suffered a serious illness from which he did not recover until his sister saw in a dream someone telling her, "Unless you bring up Gregory out of the pit, your brother will not be cured." They brought the saint out of the pit, and he prayed over the king, and he was cured from his sickness (1). His intercession be for us, and Glory be to our God, forever. Amen. (1)His complete biography is under the fifteenth day of the blessed month of Kiahk.
+          arabic: اليوم الثالث من أيام عيد الصليب المجيدملاحظة طقسية :+ طقس عيد الصليب شعانيني 3 أيام+ تقرأ فصول عيد الصليب في الثلاثة ايام العيد حتى ايام الآحاد+ يقال تى شورى والهيتنيات وفاى إيتاف إنف الخاصة بعيد الصليب كما تقال القسمة السريانية+ يعامل عيد الصليب معاملة الأعياد السيدية .
+    - title:
+          english: ''
+          arabic: 2. تذكار إصعاد القديس غريغوريوس البطريرك الأرمني من الجب
+      text:
+          english: ''
+          arabic: نعيد في هذا اليوم بتذكار القديس غريغوريوس بطريرك الأرمن . هذا الذي صار شهيدا بغير سفك دم . ذلك انه جعل نفسه عبدا في بلاد أرمينية أيام الملك تريدانه حوالي سنة 270 م . وكان هذا الملك غير مسيحي . ولما دخل هيكل الأصنام ليبخر لها استدعى القديس ليبخر معه فلم يقبل . فعذبه بأنواع العذاب القاسية ، وأخيرا ألقاه في جب فارغ . . فأقام القديس فيه خمس عشرة سنة . وكانت بجانب الجب أرملة عجوز أبصرت في رؤيا من يقول لها:اصنعي خبزا وألقيه في هذا الجب . فاستمرت . تفعل هكذا خمس عشرة سنة . وحدث أن أمر الملك بقتل العذارى أربسيما وغباتا وصاحباتهما ، ولأنه كان يريد الزواج من القديسة أربسيما فقد حرن جدا لقتلها ، وأصابه مرض عضال لم يشفي منه إلا بعد أن رأت أخته في منامها من يقول لها ان لم تخرجوا غريغوريوس من الجب لا يبرأ أخوك . فاصعدوه من ، الجب وصلي على الملك فشفى من أمراضه. شفاعته تكون معنا . ولربنا المجد دائما أبديا . أمين .

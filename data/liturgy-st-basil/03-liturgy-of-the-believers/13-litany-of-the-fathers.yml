@@ -1,63 +1,49 @@
 title:
-    english: "The Litany of the Fathers"
-    arabic: "أوشية الآباء"
-
+    english: The Litany of the Fathers
+    arabic: أوشية الآباء
 sections:
     - speaker: priest
+      type: verses
       verses:
-          - english: "Foremost remember, O Lord, our blessed and honored father, the archbishop, our patriarch, Abba (…),"
-            coptic: "Ⲛ̀ϣⲟⲣⲡ ⲙⲉⲛ ⲁ̀ⲣⲓⲫ̀ⲙⲉⲩⲓ Ⲡ̀ϭⲟⲓⲥ ⲙ̀ⲡⲉⲛⲙⲁⲕⲁⲣⲓⲟⲥ ⲛ̀ⲓⲱⲧ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲛ̀ⲁⲣⲭⲏⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲥ ⲁⲃⲃⲁ (...)"
-            coptic_english: ""
-            arabic: "وأولاً اذكر يا رب بطريركنا الأب المكرم رئيس الكهنة البابا المعظم أنبا (...)،"
-
-          - english: "and his spiritual brothers, the Patriarch of Antioch Mar Ignatius (…), and the Patriarch of Eritrea Abouna (…)"
-            coptic: "ⲛⲉⲙ ⲛⲉϥⲥ̀ⲛⲏⲟⲩ ⲙ̀ⲡ̀ⲛⲉⲩⲙⲁⲧⲓⲕⲟⲛ ⲡⲓⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ ⲛ̀Ⲧ̀ⲁⲛⲧⲓⲟⲭⲓⲁ Ⲙⲁⲣ Ⲓⲅⲛⲁⲧⲓⲟⲩ (...) ⲛⲉⲙ ⲡⲓⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ ⲛ̀Ⲉ̀ⲣⲓⲧⲣⲉⲁ̀ Ⲁ̀ⲡⲟⲩⲛⲁ (...)"
-            coptic_english: ""
-            arabic: "وأخوية الروحيين مار إغناطيوس (...) بطريرك أنطاكية وأبونا (...) بطريرك إريتريا"
-
-          # - english: "In the presence of a bishop"
-          #   arabic: "في حضور الأب الأسقف"
-
-          # - english: "and his partner in the liturgy, our father the bishop (metropolitan), Abba (...)"
-          #   coptic: "Ⲛⲉⲙ ⲡⲉϥⲕⲉϣ̀ⲫⲏⲣ ⲛ̀ⲗⲓⲧⲟⲩⲣⲅⲟⲥ ⲡⲉⲛⲓⲱⲧ ⲛ̀ⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲥ (ⲙ̀ⲙⲏⲧⲣⲟⲡⲟⲗⲓⲧⲏⲥ) ⲁⲃⲃⲁ (...)"
-          #   coptic_english: ""
-          #   arabic: "وشريكة في الخدمة الرسولية أبينا الأسقف (المطران) الأنبا (...)"
-
+          english:
+              - Foremost remember, O Lord, our blessed and honored father, the archbishop, our patriarch, Abba (…),
+              - and his spiritual brothers, the Patriarch of Antioch Mar Ignatius (…), and the Patriarch of Eritrea Abouna (…)
+          arabic:
+              - وأولاً اذكر يا رب بطريركنا الأب المكرم رئيس الكهنة البابا المعظم أنبا (...)،
+              - وأخوية الروحيين مار إغناطيوس (...) بطريرك أنطاكية وأبونا (...) بطريرك إريتريا
+          coptic:
+              - Ⲛ̀ϣⲟⲣⲡ ⲙⲉⲛ ⲁ̀ⲣⲓⲫ̀ⲙⲉⲩⲓ Ⲡ̀ϭⲟⲓⲥ ⲙ̀ⲡⲉⲛⲙⲁⲕⲁⲣⲓⲟⲥ ⲛ̀ⲓⲱⲧ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲛ̀ⲁⲣⲭⲏⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲥ ⲁⲃⲃⲁ (...)
+              - ⲛⲉⲙ ⲛⲉϥⲥ̀ⲛⲏⲟⲩ ⲙ̀ⲡ̀ⲛⲉⲩⲙⲁⲧⲓⲕⲟⲛ ⲡⲓⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ ⲛ̀Ⲧ̀ⲁⲛⲧⲓⲟⲭⲓⲁ Ⲙⲁⲣ Ⲓⲅⲛⲁⲧⲓⲟⲩ (...) ⲛⲉⲙ ⲡⲓⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ ⲛ̀Ⲉ̀ⲣⲓⲧⲣⲉⲁ̀ Ⲁ̀ⲡⲟⲩⲛⲁ (...)
+          coptic_english:
+              - ''
+              - ''
     - speaker: deacon
+      type: verses
       verses:
-          - english: "Pray for our high priest, Pope Abba (…), pope and patriarch and archbishop of the great city of Alexandria,"
-            coptic: "Ⲡ̀ⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲟⲩⲁⲣⲭⲏⲉ̀ⲣⲉⲱⲥ ⲏ̀ⲙⲱⲛ ⲡⲁⲡⲁ ⲁⲃⲃⲁ (...) ⲡⲁⲡⲁ ⲕⲉ ⲡⲁⲧⲣⲓⲁⲣⲭⲟⲩ ⲕⲉ ⲁⲣⲭⲏⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲩ ⲧⲏⲥ ⲙⲉⲅⲁⲗⲟ ⲡⲟⲗⲉⲱⲥ Ⲁ̀ⲗⲉⲝⲁⲛⲇ̀ⲣⲓⲁⲥ"
-            coptic_english: ""
-            arabic: "صلوا من أجل رئيس كهنتنا البابا أنبا (...)، بابا وبطريرك ورئيس أساقفة المدينة العظمى الاسكندرية،"
-
-          - english: "and his spiritual brothers, the Patriarch of Antioch Mar Ignatius (…), and the Patriarch of Eritrea Abouna (…)"
-            coptic: "ⲕⲉ ⲧⲱⲛ ⲁ̀ⲇⲉⲗⲫⲱⲛ ⲁⲩⲧⲟⲩ ⲉⲛ ⲧⲏ ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏ ⲗⲓⲧⲟⲩⲣⲅⲓⲁ Ⲙⲁⲣ Ⲓⲅⲛⲁⲧⲓⲟⲩ (...) ⲧⲟⲩ ⲡⲁⲧⲣⲓⲁⲣⲭⲟⲩ ⲧⲏⲥ Ⲁⲛⲧⲓⲟⲭⲓⲁⲥ ⲕⲉ Ⲁ̀ⲡⲟⲩⲛⲁ (...) ⲧⲟⲩ ⲡⲁⲧⲣⲓⲁⲣⲭⲟⲩ ⲧⲏⲥ Ⲉ̀ⲣⲓⲧⲣⲉⲁⲥ"
-            coptic_english: ""
-            arabic: "وأخوية الروحيين مار إغناطيوس (...) بطريرك أنطاكية وأبونا (...) بطريرك إريتريا"
-
-          # - english: "In the presence of a bishop"
-          #   coptic: "-"
-          #   coptic_english: ""
-          #   arabic: "في حضور الأب الأسقف"
-
-          # - english: "and his partner in the liturgy, our father the bishop (metropolitan), Abba (...)"
-          #   coptic: "Ⲕⲉ ⲧⲟⲩ ⲥⲩⲛⲕⲟⲓⲛⲱⲛⲟⲩ ⲉⲛ ⲧⲏ ⲗⲓⲧⲟⲩⲣⲅⲓⲁ ⲧⲟⲩ ⲡⲁⲧⲣⲟⲥ ⲏ̀ⲙⲱⲛ ⲧⲟⲩ ⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲩ (ⲙⲏⲧⲣⲟⲡⲟⲗⲓⲧⲟⲩ) ⲁⲃⲃⲁ ("
-          #   coptic_english: ""
-          #   arabic: "وشريكة في الخدمة الرسولية أبينا الأسقف (المطران) الأنبا (...)"
-
-          # - english: "And concludes with"
-          #   coptic: ""
-          #   coptic_english: ""
-          #   arabic: "وينهي"
-
-          - english: "and for our orthodox bishops"
-            coptic: ""
-            coptic_english: ""
-            arabic: "وسائر أساقفتنا الارثوذكسيين"
-
+          english:
+              - Pray for our high priest, Pope Abba (…), pope and patriarch and archbishop of the great city of Alexandria,
+              - and his spiritual brothers, the Patriarch of Antioch Mar Ignatius (…), and the Patriarch of Eritrea Abouna (…)
+              - and for our orthodox bishops
+          arabic:
+              - صلوا من أجل رئيس كهنتنا البابا أنبا (...)، بابا وبطريرك ورئيس أساقفة المدينة العظمى الاسكندرية،
+              - وأخوية الروحيين مار إغناطيوس (...) بطريرك أنطاكية وأبونا (...) بطريرك إريتريا
+              - وسائر أساقفتنا الارثوذكسيين
+          coptic:
+              - Ⲡ̀ⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲟⲩⲁⲣⲭⲏⲉ̀ⲣⲉⲱⲥ ⲏ̀ⲙⲱⲛ ⲡⲁⲡⲁ ⲁⲃⲃⲁ (...) ⲡⲁⲡⲁ ⲕⲉ ⲡⲁⲧⲣⲓⲁⲣⲭⲟⲩ ⲕⲉ ⲁⲣⲭⲏⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲩ ⲧⲏⲥ ⲙⲉⲅⲁⲗⲟ ⲡⲟⲗⲉⲱⲥ Ⲁ̀ⲗⲉⲝⲁⲛⲇ̀ⲣⲓⲁⲥ
+              - ⲕⲉ ⲧⲱⲛ ⲁ̀ⲇⲉⲗⲫⲱⲛ ⲁⲩⲧⲟⲩ ⲉⲛ ⲧⲏ ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏ ⲗⲓⲧⲟⲩⲣⲅⲓⲁ Ⲙⲁⲣ Ⲓⲅⲛⲁⲧⲓⲟⲩ (...) ⲧⲟⲩ ⲡⲁⲧⲣⲓⲁⲣⲭⲟⲩ ⲧⲏⲥ Ⲁⲛⲧⲓⲟⲭⲓⲁⲥ ⲕⲉ Ⲁ̀ⲡⲟⲩⲛⲁ (...) ⲧⲟⲩ ⲡⲁⲧⲣⲓⲁⲣⲭⲟⲩ ⲧⲏⲥ Ⲉ̀ⲣⲓⲧⲣⲉⲁⲥ
+              - ''
+          coptic_english:
+              - ''
+              - ''
+              - ''
     - speaker: people
+      type: verses
       verses:
-          - english: "Lord have mercy"
-            coptic: ""
-            coptic_english: ""
-            arabic: "يا ربُّ إرحَم"
+          english:
+              - Lord have mercy
+          arabic:
+              - يا ربُّ إرحَم
+          coptic:
+              - ''
+          coptic_english:
+              - ''
