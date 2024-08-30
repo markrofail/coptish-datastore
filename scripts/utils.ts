@@ -25,6 +25,7 @@ export type SplitVersesSection = Omit<VersesSection, 'verses'> & { verses: strin
 export namespace VersesSection {
     export type V1 = { type: 'verses'; speaker: Speaker; verses: MultiLingualText[] }
     export type V2 = { type: 'verses'; speaker: Speaker; verses: Record<Language, string[]> }
+    export type PreProcessed = { type: 'verses'; speaker: Speaker; verses: MultiLingualText[] }
 }
 
 export type CompoundPrayerSection = { type: 'compound-prayer'; path: string }
@@ -32,7 +33,7 @@ export type ReadingSection = { type: 'reading'; readingType: string }
 
 export type JointSections = JointInfoSection | JointVersesSection | CompoundPrayerSection | ReadingSection
 export type SplitSection = SplitInfoSection | SplitVersesSection | CompoundPrayerSection | ReadingSection
-export type Section = InfoSection | VersesSection | CompoundPrayerSection | ReadingSection
+export type Section = InfoSection | VersesSection.V2 | CompoundPrayerSection | ReadingSection
 
 export class MultiLingualProcessor {
     protected languages: Language[]
