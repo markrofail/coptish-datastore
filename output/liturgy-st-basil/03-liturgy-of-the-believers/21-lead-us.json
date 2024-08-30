@@ -1,0 +1,44 @@
+{
+  "title": {
+    "english": "Lead us",
+    "arabic": ""
+  },
+  "sections": [
+    {
+      "speaker": "priest",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Lead us throughout the way into Your kingdom,",
+          "arabic": "وإهدنا إلى ملكوتك",
+          "coptic": "Ϭⲓⲙⲱⲓⲧ ϧⲁϫⲱⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ",
+          "coptic_english": ""
+        },
+        {
+          "english": "that as in this, so also in all things, Your great and holy name be glorified, blessed, and exalted in everything, honored and blessed with Jesus Christ, Your beloved Son, and the Holy Spirit",
+          "arabic": "لكي وبهذا، كما أيضاً في كل شيء، يتمجد ويتبارك، ويرتفع إسمك العظيم القدوس، في كل شيء، كريم ومبارك، مع يسوع المسيح إبنك الحبيب والروح القدس",
+          "coptic": "Ϩⲓⲛⲁ ⲛⲉⲙ ϧⲉⲛ ⲫⲁⲓ ⲕⲁⲧⲁ ⲫ̀ⲣⲏϯ ⲟⲛ ϧⲉⲛ ϩⲱⲃ ⲛⲓⲃⲉⲛ ⲛ̀ⲧⲉϥϭⲓⲱ̀ⲟⲩ ⲟⲩⲟϩ ⲛ̀ⲧⲉϥϭⲓⲥ̀ⲙⲟⲩ ⲟⲩⲟϩ ⲛ̀ⲧⲉϥϭⲓⲥⲓ ⲛ̀ϫⲉ ⲡⲉⲕⲛⲓϣϯ ⲛ̀ⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ ϧⲉⲛ ϩⲱⲃ ⲛⲓⲃⲉⲛ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲟⲩⲟϩ ⲉⲧⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛⲉⲙ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲡⲉⲕⲙⲉⲛⲣⲓⲧ ⲛ̀Ϣⲏⲣⲓ ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ Ⲉⲑⲟⲩⲁⲃ",
+          "coptic_english": ""
+        },
+        {
+          "english": "Peace be with all",
+          "arabic": "السلام للكل",
+          "coptic": "Ⲓ̀ⲣⲏⲛⲏ ⲡⲁⲥⲓ",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "people",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "And with your spirit",
+          "arabic": "ولروحك أيضاً",
+          "coptic": "Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ",
+          "coptic_english": ""
+        }
+      ]
+    }
+  ]
+}

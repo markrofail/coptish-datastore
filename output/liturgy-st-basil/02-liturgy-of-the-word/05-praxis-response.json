@@ -1,0 +1,38 @@
+{
+  "title": {
+    "english": "Praxis Response",
+    "arabic": "مرد الإبراكسيس"
+  },
+  "sections": [
+    {
+      "speaker": "people",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Hail to you O Mary, the fair dove, who has borne to us, God the Logos",
+          "arabic": "السلام لك يا مريم الحمامة الحسنة التي ولدت لنا الله الكلمة",
+          "coptic": "Ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ ϯϭⲣⲟⲙⲡⲓ ⲉⲑⲛⲉⲥⲱⲥ ⲑⲏⲉ̀ⲧⲁⲥⲙⲓⲥⲓ ⲛⲁⲛ ⲙ̀Ⲫϯ ⲡⲓⲖⲟⲅⲟⲥ",
+          "coptic_english": "Shere Ni Maria: TiEchRombi EthNessos.\n ThiEtasMici Nan EmEfNoti PiLoghos"
+        },
+        {
+          "english": "Hail to Michael, the great archangel, Hail to the chief soldier: of the heavenly hosts",
+          "arabic": "السلام لميخائيل رئيس الملائكة العظيم، السلام لرئيس جندالسموات",
+          "coptic": "Ⲭⲉⲣⲉ Ⲙⲓⲭⲁⲏⲗ: ⲡⲓⲛⲓϣϯ ⲛ̀ⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ: ⲭⲉⲣⲉ ⲡⲓⲁⲣⲭⲓ̀ⲥⲧⲣⲁⲧⲓⲅⲟⲥ: ⲛ̀ⲧⲉ ⲧ̀ϫⲟⲙ ⲛ̀ⲛⲓⲫⲏⲟⲩⲓ",
+          "coptic_english": "Shere Mikhaeel: Pinishti en arshi angelos:\n shere Pi-arshis-tratigos: Ente taghom en-nishowi"
+        },
+        {
+          "english": "Hail to our father Abba Pishoy, the just and perfect man, hail to our father Abba Paul, the beloved of Christ",
+          "arabic": "السلام لأبينا أنبا بيشوي، الرجل البار الكامل، السلام لأبينا أنبا بولا، حبيب المسيح",
+          "coptic": "Ⲭⲉⲣⲉ ⲡⲉⲛⲓⲱⲧ ⲁⲃⲃⲁ Ⲡⲓϣⲱⲓ: ⲡⲓⲑ̀ⲙⲏⲓ ⲡⲓⲣⲱⲙⲓ ⲛ̀ⲧⲉⲗⲓⲟⲥ: ⲭⲉⲣⲉ ⲡⲉⲛⲓⲱⲧ ⲁⲃⲃⲁ Ⲡⲁⲩⲗⲉ: ⲡⲓⲙⲉⲛⲣⲓⲧ ⲛ̀ⲧⲉ Ⲡⲭ̅ⲥ̅",
+          "coptic_english": "Shere Peniot Avva Pishoy: Pi-ethmi piromi entelios:\n shere peniot avva Pavle: pimenrit ente pikhristos"
+        },
+        {
+          "english": "Blessed are You indeed, with Your good Father, and the Holy Spirit, for You have come and saved us. Have mercy on us",
+          "arabic": "مبارك انت مع ابيك الصالح والروح القدس لأنك (قمت) وخلصتنا. ارحمنا",
+          "coptic": "Ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲁ̀ⲗⲏⲑⲱⲥ ⲛⲉⲙ Ⲡⲉⲕⲓⲱⲧ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ ⲛⲉⲙ ⲡⲓⲠ̀ⲛⲉⲩⲙⲁ ⲉ̅ⲑ̅ⲩ̅ ϫⲉ ⲁ̀ⲕⲓ̀ ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ. Ⲛⲁⲓ ⲛⲁⲛ",
+          "coptic_english": "EkEs MaroOt AliThos: Nem Pekiot En AghaThos\n NemPi EpNevMa EthOwab JeAk Tonk Aksoty EmMon NaiNan"
+        }
+      ]
+    }
+  ]
+}

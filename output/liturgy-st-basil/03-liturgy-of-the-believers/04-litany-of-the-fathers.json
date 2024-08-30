@@ -1,0 +1,110 @@
+{
+  "title": {
+    "english": "The Litany for the Fathers",
+    "arabic": "أوشية الآباء"
+  },
+  "sections": [
+    {
+      "speaker": "priest",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Again, let us ask God the Pantocrator, the Father of our Lord, God, and Savior Jesus Christ. We ask and entreat Your goodness, O Lover of Mankind",
+          "arabic": "وأيضا فلنسأل الله ضابط الكل، أبا ربنا وإلهنا ومخلصنا يسوع المسيح نسأل ونطلب من صلاحك يا محب البشر",
+          "coptic": "Ⲡⲁⲗⲓⲛ ⲟⲛ ⲙⲁⲣⲉⲛϯϩⲟ ⲉ̀Ⲫϯ ⲡⲓⲛⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ Ⲫⲓⲱⲧ ⲙ̀Ⲡⲉⲛⲟ̅ⲥ̅ ⲟⲩⲟϩ ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲤⲱⲧⲏⲣ Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅. Ⲧⲉⲛϯϩⲟ ⲟⲩⲟϩ ⲧⲉⲛⲧⲱⲃϩ ⲛ̀ⲧⲉⲕⲙⲉⲧⲁ̀ⲅⲁⲑⲟⲥ ⲡⲓⲙⲁⲓⲣⲱⲙⲓ",
+          "coptic_english": ""
+        },
+        {
+          "english": "Remember, O Lord, our blessed and honored father, the archbishop our patriarch, Abba (Shenouda)",
+          "arabic": "اذكر يا رب بطريركنا الأب المكرم رئيس الكهنة البابا المعظم أنبا (شنودة)",
+          "coptic": "Ⲁⲣⲓⲫ̀ⲙⲉⲩⲓ̀ Ⲡϭⲟⲓⲥ ⲙ̀ⲡⲉⲛⲡⲁⲧⲣⲓⲁⲭⲏⲥ ⲛ̀ⲓⲱⲧ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲛ̀ⲁⲣⲭⲓⲉ̀ⲣⲉⲩⲥ ⲡⲁⲡⲁ ⲁⲃⲃⲁ (Ϣⲉⲛⲟⲩⲇⲁ)",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "If a bishop is present",
+          "arabic": "",
+          "coptic": "",
+          "coptic_english": ""
+        },
+        {
+          "english": "And his partner in the liturgy, our father the bishop, Abba (...)",
+          "arabic": "وشريكة في الخدمة الرسولية أبينا الأسقف المكرم الأنبا (...)",
+          "coptic": "Ⲛⲉⲙ ⲡⲉϥⲕⲉϣ̀ⲫⲏⲣ ⲛ̀ⲗⲓⲧⲟⲩⲣⲅⲟⲥ ⲡⲉⲛⲓⲱⲧ ⲛ̀ⲉⲡⲓⲥⲕⲟⲡⲟⲥ ⲁⲃⲃⲁ (...)",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "deacon",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Pray for our high priest, Papa Abba (Shenouda III), pope and patriarch and archbishop of the great of Alexandria,* and for our orthodox bishops",
+          "arabic": "صلوا من أجل رئيس كهنتنا البابا أنبا )شنودة الثالث( بابا وبطريرك ورئيس أساقفة المدينة العظمي الاسكندرية، * وسائر أساقفتنا الارثوذكسيين",
+          "coptic": "Ⲡⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲟⲩⲁ̀ⲣⲭⲏ ⲉ̀ⲣⲉⲱⲥ ⲏ̀ⲙⲱⲛ ⲡⲁⲡⲁ ⲁⲃⲃⲁ (Ϣⲉⲛⲟⲩⲇⲁ) ⲡⲁⲡⲁ ⲕⲉ ⲡⲁⲧⲣⲓⲁⲣⲭⲟⲩ ⲕⲉ ⲁ̀ⲣⲭⲏ ⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲩ ⲧⲏⲥ ⲙⲉⲅⲁⲗⲟ ⲡⲟⲗⲉⲱⲥ Ⲁⲗⲉⲝⲁⲛⲇ̀ⲣⲓⲁⲥ * ⲕⲉ ⲧⲟⲛ ⲟ̀ⲣⲑⲟⲇⲟⲝⲱⲛ ⲏ̀ⲙⲱⲛ ⲉ̀ⲡⲓⲥⲕⲟⲡⲱⲛ",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "If a bishop is present",
+          "arabic": "",
+          "coptic": "",
+          "coptic_english": ""
+        },
+        {
+          "english": "And his partner in the liturgy, our father the bishop, Abba (...), and for our orthodox bishops",
+          "arabic": "وشريكة في الخدمة الرسولية أبينا الأسقف المكرم الأنبا (...)، وسائر أساقفتنا الارثوذكسيين",
+          "coptic": "ⲕⲉ ⲧⲟⲛ ⲟ̀ⲣⲑⲟⲇⲟⲝⲱⲛ ⲏ̀ⲙⲱⲛ ⲉ̀ⲡⲓⲥⲕⲟⲡⲱⲛ",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "people",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Lord have mercy",
+          "arabic": "يا ربُ إرحم",
+          "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "priest",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "In keeping keep them for us for many years and peaceful times. fulfilling that holy high priesthood with which You have entrusted him from Yourself, according to Your holy and blessed will",
+          "arabic": "حفظاً إحفظهم لنا سنين كثيرة وأزمنة سلامية. مكملين رئاسة الكهنوت المقدسة التي ائتمنتهم عليها من قبـلك، كإرادتك المقدسة الطوباوية",
+          "coptic": "Ϧⲉⲛ ⲟⲩⲁ̀ⲣⲉϩ ⲁ̀ⲣⲉϩ ⲉ̀ⲣⲱⲟⲩ ⲛⲁⲛ ⲙ̀ϩⲁⲛⲙⲏϣ ⲛ̀ⲣⲟⲙⲡⲓ ⲛⲉⲙ ϩⲁⲛⲥⲏⲟⲩ ⲛ̀ϩⲓⲣⲏⲛⲓⲕⲟⲛ. Ⲉϥϫⲱⲕ ⲉ̀ⲃⲟⲗ ⲛ̀ⲑⲏⲉ̅ⲑ̅ⲩ̅ ⲉ̀ⲧⲁⲕⲧⲉⲛϩⲟⲩⲧⲱⲟⲩ ⲉ̀ⲣⲟⲥ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲟⲧⲕ ⲙ̀ⲙⲉⲧⲁ̀ⲣⲭⲏⲉ̀ⲣⲉⲩⲥ ⲕⲁⲧⲁ ⲡⲉⲕⲟⲩⲱϣ ⲉ̅ⲑ̅ⲩ̅ ⲟⲩⲟϩ ⲙ̀ⲙⲁⲕⲁⲣⲓⲟⲛ",
+          "coptic_english": ""
+        },
+        {
+          "english": "Rightly dividing the word of truth, shepherding Your people in purity and righteousness, and all the orthodox bishops, hegumens, priests, and deacons, and all the fullness of Your one, only, holy, catholic, and apostolic Church. Grant them and us peace and safety in every place. Their prayers which they offer on our behalf, and on behalf of all Your people, as well as ours on their behalf, receive upon Your holy, rational Altar of heaven, as a sweet savor of incense. All their enemies, visible and invisible, trample and humiliate under their feet speedily",
+          "arabic": "مفصلا كلمة الحق باستقامة، راعيا شعبك بطهارة وبر. وجميع الاسـاقـفــة الارثوذكسيين، والـقـمـامصة والـقـسـوس والشمـامسة، وكـل امتـلاء كنيستك الواحدة الوحيدة المقدسة الجامعة الرسولية. أنعـم عليـهم وعلينا بالسلام والعافية في كل مـوضــع. وصلواتهم التي يقدمونها عنا، وعن كل شعبك وصلواتنا نحن أيضا عنهم. إقبلها إليك علي مذبحك المقدس الناطق السمائى رائحة بخور. فسائر أعدائهم الذين يرون والذين لا يرون، اسحقهم وأذلهم تحت أرجلهم سريعا",
+          "coptic": "Ⲉⲩϣⲱⲧ ⲉ̀ⲃⲟⲗ ⲙ̀ⲡ̀ⲥⲁϫⲓ ⲡ̀ⲧⲉ ϯⲙⲉⲑⲙⲏⲓ ϧⲉⲛ ⲟⲩⲥⲱⲟⲩⲧⲉⲛ ⲉⲩⲁ̀ⲙⲟⲛⲓ ⲙ̀ⲡⲉⲕⲗⲁⲟⲥ ϧⲉⲛ ⲟⲩⲧⲟⲩⲃⲟ ⲛⲉⲙ ⲟⲩⲙⲉⲑⲙⲏⲓ. Ⲛⲉⲙ ⲛⲓⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲥ ⲧⲏⲣⲟⲩ ⲛ̀ⲟⲣⲑⲟⲇⲟⲝⲟⲥ ⲛⲉⲙ ⲛⲓϩⲏⲅⲟⲩⲙⲉⲛⲟⲥ ⲛⲉⲙ ⲛⲓⲡ̀ⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ ⲛⲉⲙ ⲛⲓⲇⲓⲁ̀ⲕⲱⲛ ⲛⲉⲙ ⲫ̀ⲙⲟϩ ⲧⲏⲣϥ ⲛ̀ⲧⲉ ⲧⲉⲕⲟⲩⲓ̀ ⲙ̀ⲙⲁⲩⲁⲧⲥ ⲉ̅ⲑ̅ⲩ̅ ⲛ̀ⲕⲁⲑⲟⲩⲗⲓⲕⲏ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏ ⲛ̀ⲉ̀ⲕⲕⲗⲏⲥⲓⲁ̀. Ⲉⲕⲉ̀ⲉⲣⲭⲁⲣⲓⲍⲉⲥⲑⲉ ⲛⲱⲟⲩ ⲛⲉⲙⲁⲛ ⲛ̀ⲟⲩϩⲓⲣⲏⲛⲏ ⲛⲉⲙ ⲟⲩⲟⲩϫⲁⲓ ⲉ̀ⲃⲟⲗϧⲉⲛ ⲙⲁⲓ ⲛⲓⲃⲉⲛ. Ⲛⲟⲩⲡ̀ⲣⲟⲥⲉⲩⲭⲏ ⲇⲉ ⲉⲧⲟⲩⲓ̀ⲣⲓ ⲙ̀ⲙⲱⲟⲩ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ ⲛⲉⲙ ⲉ̀ϫⲉⲛ ⲡⲉⲕⲗⲁⲟⲥ ⲧⲏⲣϥ ⲛⲉⲙ ⲛⲟⲩⲛ ϩⲱⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲟⲩ. Ϣⲟⲡⲟⲩ ⲉ̀ⲣⲟⲕ ⲉ̀ϫⲉⲛ ⲡⲉⲕⲑⲩⲥⲓⲁⲥⲧⲏⲣⲓⲟⲛ ⲉ̅ⲑ̅ⲩ̅ ⲛ̀ⲉⲗⲗⲟⲅⲓⲙⲟⲛ ⲛ̀ⲧⲉ ⲧ̀ⲫⲉ ⲉ̀ⲟⲩⲥ̀ⲑⲟⲓ ⲛ̀ⲥ̀ⲑⲟⲓⲛⲟⲩϥⲓ. Ⲛⲟⲩϫⲁϫⲓ ⲙⲉⲛ ⲧⲏⲣⲟⲩ ⲛⲏⲉ̀ⲧⲟⲩⲛⲁⲩ ⲉ̀ⲣⲱⲟⲩ ⲛⲉⲙ ⲛⲏⲉ̀ⲧⲉ ⲛ̀ⲥⲉⲛⲁⲩ ⲉ̀ⲣⲱⲟⲩ ⲁⲛ ϧⲉⲙϧⲱⲙⲟⲩ ⲟⲩⲟϩ ⲙⲁⲑⲉⲃⲓⲱⲟⲩ ⲥⲁⲡⲉⲥⲏⲧ ⲛ̀ⲛⲟⲩϭⲁⲗⲁⲩϫ ⲛ̀ⲭⲱⲗⲉⲙ",
+          "coptic_english": ""
+        },
+        {
+          "english": "N;wou de `areh `erwou qen ouhiryny nem oudikeoc`uny@ qen tek`ekklyci`a =e=;=u",
+          "arabic": "وأما هم فاحفظهم في سلام وعدل في كنيستك المقدسة",
+          "coptic": "Ⲁϣ ϥⲟⲣ ⲧϩⲉⲙⲭ ⲕⲉⲉⲡ ⲧϩⲉⲙ ⲓⲛ ⲡⲉⲁⲥⲉ ⲁⲛⲇ ⲣⲓⲅϩⲧⲉⲟⲩϣⲛⲉϣϣ ⲓⲛ Ⲏⲟⲩⲣ ϩⲟⲗⲏ Ⲥϩⲩⲣⲥϩ",
+          "coptic_english": ""
+        }
+      ]
+    }
+  ]
+}

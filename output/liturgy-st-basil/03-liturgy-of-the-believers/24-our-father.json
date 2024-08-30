@@ -1,0 +1,140 @@
+{
+  "title": {
+    "english": "Our Father",
+    "arabic": "ابانا الذي"
+  },
+  "sections": [
+    {
+      "speaker": "priest",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Have mercy on us, O God, the Father, the Pantocrator. All-Holy Trinity, have mercy on us",
+          "arabic": "إرحمنا يا الله الآب ضابط الكل. أيها الثالوث القدوس إرحمنا",
+          "coptic": "Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ ⲟ̀ Ⲑⲉⲟⲥ ⲟ̀ Ⲡⲁⲧⲏⲣ ⲟ̀ Ⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ. Ⲡⲁⲛⲁ̀ⲅⲓⲁ Ⲧ̀ⲣⲓⲁⲥ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ",
+          "coptic_english": ""
+        },
+        {
+          "english": "O Lord, God of hosts, be with us, for we have no helper in our tribulations and afflictions but You",
+          "arabic": "أيها الرب إله القوات كن معنا، لأنه ليس لنا معين في شدائدنا وضيقاتنا سواك",
+          "coptic": "",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "priest",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Make us worthy to pray thankfully",
+          "arabic": "وإجعلنا مستحقين أن نقول بشكر",
+          "coptic": "",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "people",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Our Father who art in heaven, hallowed be Thy name",
+          "arabic": "أبانا الذي في السموات، ليتقدس إسمك",
+          "coptic": "",
+          "coptic_english": ""
+        },
+        {
+          "english": "Thy kingdom come. Thy will be done, on earth as it is in heaven",
+          "arabic": "ليأت ملكوتك. لتكن مشيئتك، كما في السماء كذلك على الأرض",
+          "coptic": "",
+          "coptic_english": ""
+        },
+        {
+          "english": "Give us this day our daily bread; and forgive us our trespasses, as we forgive those who trespass against us; and lead us not into temptation, but deliver us from the evil one",
+          "arabic": "خبزنا كفافنا أعطنا اليوم. وأغفر لنا ذنوبنا، كما نغفر نحن أيضاً للمذنبين إلينا. ولا تدخلنا في تجربة، لكن نجنا من الشرير",
+          "coptic": "",
+          "coptic_english": ""
+        },
+        {
+          "english": "In Christ Jesus our Lord, for Thine is the kingdom and the power and the glory forever. Amen",
+          "arabic": "بالمسيح يسوع ربنا، لأن لك الملك والقوة والمجد إلى الأبد. آمين",
+          "coptic": "",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "people",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "In Christ Jesus our Lord",
+          "arabic": "بالمسيح يسوع ربنا",
+          "coptic": "Ϧⲉⲛ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ",
+          "coptic_english": "Khen Pikhrestos Esos pen-shois"
+        }
+      ]
+    },
+    {
+      "speaker": "deacon",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Bow your heads to the Lord",
+          "arabic": "إحنوا رؤوسكم للرب",
+          "coptic": "Ⲧⲁⲥ ⲕⲉⲫⲁⲗⲁⲥ ⲩ̀ⲙⲱⲛ ⲧⲱ Ⲕⲩⲣⲓⲱ ⲕ̀ⲗⲓⲛⲁⲧⲉ",
+          "coptic_english": "Tas-kee-falas emon to Kerio eklinate"
+        }
+      ]
+    },
+    {
+      "speaker": "people",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Before You, O Lord",
+          "arabic": "أمامك يا رب",
+          "coptic": "Ⲉ̀ⲛⲱⲡⲓⲟⲛ ⲥⲟⲩ Ⲕⲩⲣⲓⲉ",
+          "coptic_english": "Eno pion Kerie"
+        }
+      ]
+    },
+    {
+      "speaker": "deacon",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Let us attend in the fear of God. Amen",
+          "arabic": "أنصتوا بخوف الله. آمين",
+          "coptic": "Ⲡ̀ⲣⲟⲥⲭⲱⲙⲉⲛ Ⲑⲉⲟⲩ ⲙⲉⲧⲁ ⲫⲟⲃⲟⲩ. Ⲁ̀ⲙⲏⲛ",
+          "coptic_english": "Epros-khomen Theo meta fovo. Amen"
+        }
+      ]
+    },
+    {
+      "speaker": "priest",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Peace be with all",
+          "arabic": "السلام لجميعكم",
+          "coptic": "Ⲓ̀ⲣⲏⲛⲏ ⲡⲁⲥⲓ",
+          "coptic_english": "Ee-ree-nee pasi"
+        }
+      ]
+    },
+    {
+      "speaker": "people",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "And with your spirit",
+          "arabic": "ولروحك أيضاً",
+          "coptic": "Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ",
+          "coptic_english": "Ke to pnevmati soo"
+        }
+      ]
+    }
+  ]
+}

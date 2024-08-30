@@ -1,0 +1,28 @@
+{
+  "title": {
+    "english": "Commemorations for Hator 19",
+    "arabic": "السنكسار هاتور 19"
+  },
+  "commemorations": [
+    {
+      "title": {
+        "english": "1. The Consecration of the Church of St. Sergius and St. Bacchus.",
+        "arabic": "1. تذكار كنيسة القديس سرجيوس وواخس بالرصافة"
+      },
+      "text": {
+        "english": "This day marks the consecration of the church of St. Sergius and St. Bacchus in the city of Rusafa. When St. Sergius was martyred in this city(1), some believers carried his body, prepared it for burial, hid it in their home and lit lamps and candles before it. When the era of persecution ended, they brought the body out and a church was built in the Saint's name. Fifteen bishops and a large number of people gathered on this day and attended the consecration of the church. When the body of the Saint was brought to the church, scented oil flowed forth from it and many sick people who were anointed with it in faith were healed. His blessings be with us. Amen.",
+        "arabic": "في مثل هذا اليوم كرست كنيسة القديسين سرجيوس وواخس بمدينة الرصافة . وذلك انه لما استشهد القديس سرجيوس بهذه المدينة ، اخذ قوم من المؤمنين جسده وكفنوه وأخفوه عندهم ، وكانوا يوقدون أمامه القناديل والشموع حتى انقضي زمن الاضطهاد ، فأظهروه ، وبنيت باسمه كنيسة . وقد حضر تكريسها خمسة عشر أسقفا وجمع كثير من الشعب ، ثم احضروا جسد القديس إليها ، فسال منه دهن شفي الذين تناولوه بإيمان . شفاعته تكون معنا امين ."
+      }
+    },
+    {
+      "title": {
+        "english": "2. The Commemoration of the Preaching of St. Bartholomew, the Apostle.",
+        "arabic": "2. استشهاد القديس أبيبوس"
+      },
+      "text": {
+        "english": "On this day, we also commemorate St. Bartholomew(2), one of the Twelve Apostles, who preached in the oasis of Al-Khargah, where he led the people to the knowledge of God. His prayers be with us and glory be to our God forever. Amen. (1) The account of his martyrdom is mentioned in the Tenth day of Babah. (Vol. I, P. ) (2) The account of his martyrdom is mentioned in the First day of Tute. (Vol. I, P. 1)",
+        "arabic": "تذكار استشهاد القديس أبيبوس . صلواته تكون معنا ولربنا المجد دائما إبديا امين"
+      }
+    }
+  ]
+}
