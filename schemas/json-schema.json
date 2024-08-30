@@ -1,0 +1,93 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+        "title": { "$ref": "#/$defs/multiLingualText" },
+        "occasion": { "$ref": "#/$defs/occasion" },
+        "sections": {
+            "type": "array",
+            "items": {
+                "anyOf": [
+                    { "$ref": "#/$defs/infoSection" },
+                    { "$ref": "#/$defs/versesSection" },
+                    { "$ref": "#/$defs/readingSection" },
+                    { "$ref": "#/$defs/compoundPrayerSection" }
+                ]
+            }
+        }
+    },
+    "$defs": {
+        "multiLingualText": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "english": { "type": "string" },
+                "arabic": { "type": "string" },
+                "coptic": { "type": "string" },
+                "coptic_english": { "type": "string" }
+            },
+            "required": ["english"]
+        },
+        "occasion": {
+            "enum": ["annual", "great-lent"]
+        },
+        "infoSection": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "occasion": { "$ref": "#/$defs/occasion" },
+                "type": { "const": "info" },
+                "text": { "$ref": "#/$defs/multiLingualText" }
+            },
+            "required": ["type", "text"]
+        },
+        "versesSection": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "occasion": { "$ref": "#/$defs/occasion" },
+                "type": { "const": "verses" },
+                "speaker": { "enum": ["people", "priest", "deacon", "reader", ""] },
+                "inaudible": { "type": "boolean" },
+                "verses": {
+                    "type": "array",
+                    "items": { "$ref": "#/$defs/multiLingualText" }
+                }
+            },
+            "required": ["type", "verses"]
+        },
+        "readingSection": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "occasion": { "$ref": "#/$defs/occasion" },
+                "type": { "const": "reading" },
+                "readingType": {
+                    "enum": [
+                        "matins-psalm",
+                        "matins-gospel",
+                        "vespers-psalm",
+                        "vespers-gospel",
+                        "pauline-epistle",
+                        "catholic-epistle",
+                        "acts-of-the-apostles",
+                        "synaxarium",
+                        "liturgy-psalm",
+                        "liturgy-gospel"
+                    ]
+                }
+            },
+            "required": ["type", "readingType"]
+        },
+        "compoundPrayerSection": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "occasion": { "$ref": "#/$defs/occasion" },
+                "type": { "const": "compound-prayer" },
+                "path": { "type": "string" }
+            },
+            "required": ["type", "path"]
+        }
+    }
+}
