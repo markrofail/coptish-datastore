@@ -1,0 +1,28 @@
+{
+  "title": {
+    "english": "Commemorations for Baramouda 18",
+    "arabic": "السنكسار برموده 18"
+  },
+  "commemorations": [
+    {
+      "title": {
+        "english": "1. The Martyrdom of St. Arsenius, Slave of St. Sousnyous.",
+        "arabic": "1. استشهاد أرسانيوس مملوك سوسيتيوس"
+      },
+      "text": {
+        "english": "On this day St. Arsenius, the slave of St. Sousnyous, was martyred. When Emperor Diocletian was torturing St. Sousnyous, St. Sousnyous father told the Emperor that Sousnyous had a slave, whose name is Arsenius and that he worshiped Christ and denounced the worship of the idols. The Emperor brought the slave and asked him about his belief. Arsenius confessed the Divinity of the Lord Christ, and also admonished the Emperor for deserting the worship of the true God and his insistence on worshiping the idols. The Emperor became furious and ordered him to beheaded him before his master, and thus he received the crown of martyrdom. His prayers be with us and Glory be to our God forever. Amen.",
+        "arabic": "في مثل هذا اليوم استشهد القديس ارسانيوس مملوك القديس سوسنيوس وقد شكا والد هذا القديس إلى دقلديانوس الغلام أرسانيوس وقال انه يعبد المسيح وينكر عبادة الأصنام فأحضره الملك وسأله عن معتقده فأعترف بألوهية السيد المسيح ووبخ الملك أيضا علي تركه عبادة الإله الحقيقي وتمسكه بعبادة الأوثان . فاستشاط الملك غضبا وأمر بضرب عنقه أمام سيده ونال إكليل الشهادة . صلاته تكون معنا لربنا المجد دائما , آمين"
+      }
+    },
+    {
+      "title": {
+        "english": "",
+        "arabic": "2. استشهاد اوسابيوس وأبامون الشماس"
+      },
+      "text": {
+        "english": "",
+        "arabic": "في مثل هذا اليوم استشهاد اوسابيوس وأبامون الشماس. صلاتهما تكون معنا و لربنا المجد دائما أبديا آمين ."
+      }
+    }
+  ]
+}

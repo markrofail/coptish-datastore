@@ -1,0 +1,62 @@
+{
+  "title": {
+    "english": "The Litany for the Peace",
+    "arabic": "أوشية السلام"
+  },
+  "sections": [
+    {
+      "speaker": "priest",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Remember, O Lord, the peace of Your one, only, holy, catholic, and apostolic Church—",
+          "arabic": "أذكر يا رب سلام كنيستك الواحدة، الوحيدة المقدسة، الجامعة الرسولية",
+          "coptic": "Ⲁ̀ⲣⲓⲫ̀ⲙⲉⲩⲓ Ⲡ̀ϭⲟⲓⲥ ⲛ̀ϯϩⲓⲣⲏⲛⲏ ⲛ̀ⲧⲉ ⲧⲉⲕⲟⲩⲓ̀ ⲙ̀ⲙⲁⲩⲁⲧⲥ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲕⲁⲑⲟⲗⲓⲕⲏ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏ ⲛ̀Ⲉⲕⲕⲗⲏⲥⲓⲁ",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "deacon",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Pray for the peace of the one holy catholic and apostolic orthodox Church of God",
+          "arabic": "صلوا من أجل سلام الواحدة المقدسة الجامعة الرسولية كنيسة الله الأرثوذكسية",
+          "coptic": "Ⲡ̀ⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲏⲥ ⲓ̀ⲣⲏⲛⲏⲥ ⲧⲏⲥ ⲁ̀ⲅⲓⲁⲥ ⲙⲟⲛⲏⲥ ⲕⲁⲑⲟⲗⲓⲕⲏⲥ ⲕⲉ ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏⲥ ⲟⲣⲑⲟⲇⲟⲝⲟⲩ ⲧⲟⲩ Ⲑⲉⲟⲩ Ⲉⲕⲕⲗⲏⲥⲓⲁⲥ",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "people",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Lord have mercy",
+          "arabic": "يا ربُّ إرحَم",
+          "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "priest",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "this, which You have acquired to Yourself with the precious Blood of Your Christ,",
+          "arabic": "هذه التي اقتنيتها لك بالدم الكريم الذي لمسيحك",
+          "coptic": "Ⲑⲁⲓ ⲉ̀ⲧⲁⲕϫ̀ⲫⲟⲥ ⲛⲁⲕ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲉⲛ Ⲡⲓⲥ̀ⲛⲟϥ ⲉⲧⲧⲁⲓⲏ̀ⲟⲩⲧ ⲛ̀ⲧⲉ Ⲡⲉⲕⲭ̀ⲣⲓⲥⲧⲟⲥ",
+          "coptic_english": ""
+        },
+        {
+          "english": "keep her in peace, with all the orthodox bishops who are in her",
+          "arabic": "إحفظها بسلام، وكل الأساقفة الأرثوذكسيين الذين فيها",
+          "coptic": "Ⲁ̀ⲣⲉϩ ⲉ̀ⲣⲟⲥ ϧⲉⲛ ⲟⲩϩⲓⲣⲏⲛⲏ ⲛⲉⲙ ⲛⲓⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲥ ⲧⲏⲣⲟⲩ ⲛ̀ⲟⲣⲑⲟⲇⲟⲝⲟⲥ ⲉ̀ⲧⲉ ⲛ̀ϧⲏⲧⲥ",
+          "coptic_english": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "title": {
+    "english": "The Anaphora",
+    "arabic": "الأنافورا"
+  },
+  "sections": [
+    {
+      "speaker": "priest",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "The Lord be with you all",
+          "arabic": "الرب مع جميعكم",
+          "coptic": "Ⲟ̀ Ⲕⲩⲣⲓⲟⲥ ⲙⲉⲧⲁ ⲡⲁⲛⲧⲱⲛ ⲩ̀ⲙⲱⲛ",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "people",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "And with your spirit",
+          "arabic": "ومع روحك أيضاً",
+          "coptic": "Ⲕⲉ ⲙⲉⲧⲁ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲟⲥ ⲥⲟⲩ",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "priest",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Lift up your hearts",
+          "arabic": "إرفعوا قلوبكم",
+          "coptic": "Ⲁ̀ⲛⲱ ⲩ̀ⲙⲱⲛ ⲧⲁⲥ ⲕⲁⲣⲇⲓⲁⲥ",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "people",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "We have them with the Lord",
+          "arabic": "هي عند الرب",
+          "coptic": "Ⲉ̀ⲭⲟⲙⲉⲛ ⲡ̀ⲣⲟⲥ ⲧⲟⲛ Ⲕⲩⲣⲓⲟⲛ",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "priest",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Let us give thanks to the Lord",
+          "arabic": "فلنشكر الرب",
+          "coptic": "Ⲉⲩⲭⲁⲣⲓⲥⲧⲏⲥⲱⲙⲉⲛ ⲧⲱ Ⲕⲩⲣⲓⲱ",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "people",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "It is meet and right",
+          "arabic": "مستحقٌ وعادلٌ",
+          "coptic": "Ⲁⲝⲓⲟⲛ ⲕⲉ ⲇⲓⲕⲉⲟⲛ",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "priest",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Meet and right, meet and right; truly, indeed, it is meet and right",
+          "arabic": "مستحقٌ وعادلٌ، مستحقٌ وعادلٌ، لأنه حقاً بالحقيقة مستحقٌ وعادلٌ",
+          "coptic": "Ⲁⲝⲓⲟⲛ ⲕⲉ ⲇⲓⲕⲉⲟⲛ ⲁⲝⲓⲟⲛ ⲕⲉ ⲇⲓⲕⲉⲟⲛ ⲁ̀ⲗⲏⲑⲱⲥ ⲅⲁⲣ ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ ⲁⲝⲓⲟⲛ ⲕⲉ ⲇⲓⲕⲉⲟⲛ",
+          "coptic_english": ""
+        },
+        {
+          "english": "O You, THE BEING, Master, Lord, God of Truth,",
+          "arabic": "أيها الكائن السيد الرب الإله الحق",
+          "coptic": "Ⲫⲏⲉⲧϣⲟⲡ Ⲫ̀ⲛⲏⲃ Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ ⲛ̀ⲧⲉ ϯⲙⲉⲑⲙⲏⲓ",
+          "coptic_english": ""
+        },
+        {
+          "english": "being before the ages and reigning forever;",
+          "arabic": "الكائن قبل الدهـور والمـالك إلى الأبد",
+          "coptic": "Ⲫⲏⲉⲧϣⲟⲡ ϧⲁϫⲱⲟⲩ ⲛ̀ⲛⲓⲉ̀ⲛⲉϩ ⲟⲩⲟϩ ⲉⲧⲟⲓ ⲛ̀ⲟⲩⲣⲟ ϣⲁ ⲉ̀ⲛⲉϩ",
+          "coptic_english": ""
+        },
+        {
+          "english": "who dwell in the highest and look upon the lowly;",
+          "arabic": "الساكـن في الأعالي والناظر إلى المتواضعــات",
+          "coptic": "Ⲫⲏⲉⲧϣⲟⲡ ϧⲉⲛ ⲛⲏⲉⲧϭⲟⲥⲓ ⲟⲩⲟϩ ⲉⲧϫⲟⲩϣⲧ ⲉ̀ϫⲉⲛ ⲛⲏⲉⲧⲑⲉⲃⲓⲏⲟⲩⲧ",
+          "coptic_english": ""
+        },
+        {
+          "english": "who have created the heaven, the earth, the sea, and all that is therein;",
+          "arabic": "الـذي خلــق السماء والأرض والبحر وكل ما فيها",
+          "coptic": "Ⲫⲏⲉ̀ⲧⲁϥⲑⲁⲙⲓⲟ ⲛ̀ⲧ̀ⲫⲉ ⲛⲉⲙ ⲡ̀ⲕⲁϩⲓ ⲛⲉⲙ ⲫ̀ⲓⲟⲙ ⲛⲉⲙ ⲛⲏⲉ̀ⲧⲉ ⲛ̀ϧⲏⲧⲟⲩ ⲧⲏⲣⲟⲩ",
+          "coptic_english": ""
+        },
+        {
+          "english": "the Father of our Lord, God, and Savior Jesus Christ,",
+          "arabic": "أبو ربنا وإلهنا ومخلصنا يسوع المسيح",
+          "coptic": "Ⲫ̀ⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ Ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ",
+          "coptic_english": ""
+        },
+        {
+          "english": "by whom You have created all things, visible and invisible;",
+          "arabic": "هذا الذي خلقت الكل به، ما يرى وما لا يرى",
+          "coptic": "Ⲫⲁⲓ ⲉ̀ⲧⲁⲕⲑⲁⲙⲓⲟ ⲙ̀ⲡ̀ⲧⲏⲣϥ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲟⲧϥ ⲛⲏⲉ̀ⲧⲟⲩⲛⲁⲩ ⲉ̀ⲣⲱⲟⲩ ⲛⲉⲙ ⲛⲏⲉ̀ⲧⲉ ⲛ̀ⲥⲉⲛⲁⲩ ⲉ̀ⲣⲱⲟⲩ ⲁⲛ",
+          "coptic_english": ""
+        },
+        {
+          "english": "who sits upon the throne of His glory; and who is worshiped by all the holy powers",
+          "arabic": "الجالس على كرسى مجده، المسجود له من جميع القوات المقدسة",
+          "coptic": "Ⲫⲏⲉⲧϩⲉⲙⲥⲓ ϩⲓϫⲉⲛ ⲡⲓⲑ̀ⲣⲟⲛⲟⲥ ⲛ̀ⲧⲉ ⲡⲉϥⲱ̀ⲟⲩ ⲫⲏⲉ̀ⲧⲟⲩⲟⲩⲱϣⲧ ⲙ̀ⲙⲟϥ ϩⲓⲧⲉⲛ ϫⲟⲙ ⲛⲓⲃⲉⲛ ⲉⲑⲟⲩⲁⲃ",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "deacon",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "You who are seated, stand",
+          "arabic": "أيها الجلوس قفوا",
+          "coptic": "Ⲓ̀ ⲕⲁⲑⲏⲙⲉⲛⲓ ⲁ̀ⲛⲁⲥⲑⲏⲧⲉ",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "priest",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Before whom stand the angels, the archangels, the principalities, the authorities, the thrones, the dominions, and the powers",
+          "arabic": "الذي يقف أمامه الملائكة ورؤساء الملائكة، والرئاسات والسلطات والكراسي، والربوبيات والقوات",
+          "coptic": "Ⲫⲏⲉ̀ⲧⲟⲩⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧⲟⲩ ⲛⲁϩⲣⲁϥ ⲛ̀ϫⲉ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ ⲛⲉⲙ ⲛⲓⲁⲣⲭⲏⲁⲅⲅⲉⲗⲟⲥ ⲛⲓⲁⲣⲭⲏ ⲛⲓⲉⲝⲟⲩⲥⲓⲁ ⲛⲓⲑ̀ⲣⲟⲛⲟⲥ ⲛⲓⲙⲉⲧϭⲟⲓⲥ ⲛⲓϫⲟⲙ",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "deacon",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Look towards the East",
+          "arabic": "وإلى الشرق انظروا",
+          "coptic": "Ⲓⲥ ⲁ̀ⲛⲁⲧⲟⲗⲁⲥ ⲃ̀ⲗⲉⲯⲁⲧⲉ",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "priest",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "You are He around whom stand the Cherubim full of eyes, and the Seraphim with six wings, praising continuously, without ceasing, saying—",
+          "arabic": "أنت هو الذي يقف حولك الشاروبيم الممتلئون أعينا، والسِّرافيم ذوو الستة الأجنحة، يسبحون على الدوام بغير سكوت قائلين",
+          "coptic": "Ⲛ̀ⲑⲟⲕ ⲅⲁⲣ ⲡⲉ ⲉ̀ⲧⲟⲩⲟ̀ϩⲓ ⲉ̀ⲣⲁⲧⲟⲩ ⲙ̀ⲡⲉⲕⲕⲱϯ ⲛ̀ϫⲉ Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ ⲉⲑⲙⲉϩ ⲙ̀ⲃⲁⲗ ⲛⲉⲙ Ⲛⲓⲥⲉⲣⲁⲫⲓⲙ ⲛⲁ ⲡⲓⲥⲟⲟⲩ ⲛ̀ⲧⲉⲛϩ ⲉⲩⲉⲣϩⲩⲙⲛⲟⲥ ϧⲉⲛ ⲟⲩⲙⲟⲩⲛ ⲉ̀ⲃⲟⲗ ⲛ̀ⲁⲧⲭⲁⲣⲱⲟⲩ ⲉⲩϫⲱ ⲙ̀ⲙⲟⲥ",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "deacon",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Let us attend",
+          "arabic": "ننصت",
+          "coptic": "Ⲡ̀ⲣⲟⲥⲭⲱⲙⲉⲛ",
+          "coptic_english": ""
+        },
+        {
+          "english": "(The people may chant the Watos Aspasmos)",
+          "arabic": "(يمكن أن يقال الأسبسمس الواطس)",
+          "coptic": "-",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "people",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "The Cherubim worship You, and the Seraphim glorify You, proclaiming and saying,",
+          "arabic": "الشاروبيم يسجدون لك، والسِّرافيم يمجدونك، صارخين قائلين",
+          "coptic": "Ⲛⲓⲭⲉⲣⲟⲩⲃⲓⲙ ⲥⲉⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ: ⲛⲉⲙ Ⲛⲓⲥⲉⲣⲁⲫⲓⲙ ⲥⲉϯⲱ̀ⲟⲩ ⲛⲁⲕ: ⲉⲩⲱϣ ⲉ̀ⲃⲟⲗ ⲉⲩϫⲱ ⲙ̀ⲙⲟⲥ",
+          "coptic_english": ""
+        },
+        {
+          "english": "“Holy, holy, holy, Lord of hosts, heaven and earth are full of Your holy glory.”",
+          "arabic": "\"قدوس. قدوس. قدوس. رب الصاباؤت. السماء والأرض مملوءتان من مجدك الأقدس.\"",
+          "coptic": "Ϫⲉ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ: Ⲕⲩⲣⲓⲟⲥ ⲥⲁⲃⲁⲱⲑ: ⲡ̀ⲗⲏⲣⲏⲥ ⲟ̀ ⲟⲩⲣⲁⲛⲟⲥ ⲕⲉ ⲏ̀ ⲅⲏ ⲧⲏⲥ ⲁ̀ⲅⲓⲁⲥ ⲥⲟⲩ ⲇⲟⲝⲏⲥ",
+          "coptic_english": ""
+        }
+      ]
+    }
+  ]
+}

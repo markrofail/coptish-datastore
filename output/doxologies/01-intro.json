@@ -1,0 +1,69 @@
+{
+  "title": {
+    "english": "Introduction",
+    "coptic": "Ⲭⲉⲣⲉ ⲛⲉ ⲧⲉⲛϯϩⲟ ⲉ̀ⲣⲟ",
+    "arabic": "المقدمة"
+  },
+  "sections": [
+    {
+      "speaker": "people",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "In Christ Jesus our Lord. Amen alleluia",
+          "arabic": "بالمسيح يسوع المسيح. آمين هلليلويا",
+          "coptic": "Ϧⲉⲛ Ⲡⲭ̅ⲥ̅ Ⲓⲏ̅ⲥ̅ ⲡⲉⲛⲟ̅ⲥ̅. Ⲁⲙⲏⲛ ⲁ̅ⲗ̅",
+          "coptic_english": "Khen Pikhristos Eesos Penchois. Ameen Alleluya"
+        },
+        {
+          "english": "Hail to you. We ask you, O saint full of glory, the ever-virgin, the Theotokos, the Mother of Christ",
+          "arabic": "السلام لك نسألك أيتها القديسة الممتلئة مجدا, العذراء كل حين. والدة الاله أم المسيح",
+          "coptic": "Ⲭⲉⲣⲉ ⲛⲉ ⲧⲉⲛϯϩⲟ ⲉ̀ⲣⲟ: ⲱ̀ ⲑⲏⲉ̅ⲑ̅ⲩ̅ ⲉⲑⲙⲉϩ ⲛ̀ⲱ̀ⲟⲩ: ⲉ̀ⲧⲟⲓ ⲙ̀Ⲡⲁⲣⲑⲉⲛⲟⲥ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ: ϯⲙⲁⲥⲛⲟⲩϯ ⲑ̀ⲙⲁⲩ ⲙ̀Ⲡⲭ̅ⲥ̅",
+          "coptic_english": "Shere ne tenteeho ero: o the- ethowarab ethmeh eno-ou:\netoy emparthenos enseyou niven: teemacnotee ethmav empikhristos"
+        },
+        {
+          "english": "Lift up our prayers, unto your beloved Son, that He may forgive us our sins",
+          "arabic": "اصعدى صلاتنا الى ابنك الحبيب, ليغفر لنا خطايانا",
+          "coptic": "Ⲁⲛⲓⲟⲩⲓ̀ ⲛ̀ⲧⲉⲡ̀ⲣⲟⲥⲉ̀ⲩⲭⲏ: ⲉ̀ⲡ̀ϣⲱⲓ ϩⲁ ⲡⲉϣⲏⲣⲓ ⲙ̀ⲙⲉⲛⲣⲓⲧ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ",
+          "coptic_english": "Anioyi enten-eprosevshi: epshoi ha pesheeri em-menreet:\nentef ka nennovi nan evol"
+        },
+        {
+          "english": "Hail to the holy Virgin, who has brought forth unto us the true Light, Christ our God",
+          "arabic": "السلام للتى ولدت لنا النور الحقيقى المسيح الهنا العذراء القديسة",
+          "coptic": "Ⲭⲉⲣⲉ ⲑⲏⲉ̀ⲧⲁⲥⲙⲓⲥⲓ ⲛⲁⲛ: ⲙ̀ⲡⲓⲞⲩⲱⲓⲛⲓ ⲛ̀ⲧⲁⲫ̀ⲙⲏⲓ: Ⲡⲭ̅ⲥ̅ ⲡⲉⲛⲚⲟⲩϯ: ϯⲠⲁⲣⲑⲉⲛⲟⲥ ⲉ̅ⲑ̅ⲩ̅",
+          "coptic_english": "Shere the-etasmici nan: empio-oini enta-efmi:\npikhristos pennotee: tee-parthenos ethowab"
+        },
+        {
+          "english": "Ask the Lord on our behalf, the he may have mercy upon our souls, and forgive us our sins",
+          "arabic": "اسألى الرب عنا ليصنع رحمة مع نفوسنا ويغفر لنا خطايانا",
+          "coptic": "Ⲙⲁϯϩⲟ ⲙ̀Ⲡⲟ̅ⲥ̅ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲛ̀ⲧⲉϥⲉ̀ⲣⲟⲩⲛⲁⲓ ⲛⲉⲙ ⲛⲉⲛⲯⲩⲭⲏ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ",
+          "coptic_english": "Matiho em-epchois eh-ehri egon:\nentef-eronai nem nen-epseeshee:entef ka nennovi nan evol"
+        },
+        {
+          "english": "O Virgin Mary, the holy Theotokos, the faithful advocate for mankind",
+          "arabic": "أيتها العذراء مريم والدة الاله القديسة الشفيعة الأمينة لجنس البشر",
+          "coptic": "ϮⲠⲁⲣⲑⲉⲛⲟⲥ Ⲙⲁⲣⲓⲁⲙ: ϯⲑⲉⲟⲧⲟⲕⲟⲥ ⲉ̅ⲑ̅ⲩ̅: ϯⲡ̀ⲣⲟⲥⲧⲁⲧⲏⲥ ⲉ̀ⲧⲉⲛϩⲟⲧ: ⲛ̀ⲧⲉ ⲡ̀ⲅⲉⲛⲟⲥ ⲛ̀ⲧⲉ ϯⲙⲉⲧⲣⲱⲙⲓ",
+          "coptic_english": "Teeparthenos Mariam: Teetheotokos ethowab:\ntee-eproctatees etenhot: ente epgenos ente teemetromi"
+        },
+        {
+          "english": "Intercede on our behalf before Christ to whom you bore, that He may grant us, the forgiveness of our sins",
+          "arabic": "اشفعى فينا أمام المسيح الذى ولدته لكى ينعم لنا بمغفرة خطايانا",
+          "coptic": "Ⲁⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉϫⲱⲛ: ⲛⲁϩⲣⲉⲛ Ⲡⲭ̅ⲥ̅ ⲫⲏⲉ̀ⲧⲁⲣⲉ̀ϫⲫⲟϥ: ϩⲟⲡⲱⲥ ⲛ̀ⲧⲉϥⲉ̀ⲣϩ̀ⲙⲟⲧ ⲛⲁⲛ: ⲙ̀ⲡ̀ⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲧⲉ ⲛⲉⲛⲛⲟⲃⲓ",
+          "coptic_english": "Ari-epresvevin e—ehri egon: nahren pikhristos the-etare-egfof:\nhobos entefer-ehmot nan: empiko evol ente nennovi"
+        },
+        {
+          "english": "Hail to you O Virgin, / the right and true queen, Hail to the pride of our race / who bore to us Immanuel",
+          "arabic": "السلام لك أيتها العذراء الملكة الحقيقية الحقانية. السلام لفخر جنسنا. ولدت لنا عمانوئيل",
+          "coptic": "Ⲭⲉⲣⲉ ⲛⲉ ⲱ̀ ϯⲠⲁⲣⲑⲉⲛⲟⲥ: ϯⲟⲩⲣⲱ ⲙ̀ⲙⲏⲓ ⲛ̀ⲁ̀ⲗⲏⲑⲓⲛⲏ: ⲭⲉⲣⲉ ⲡ̀ϣⲟⲩϣⲟⲩ: ⲛ̀ⲧⲉ ⲡⲉⲛⲅⲉⲛⲟⲥ: ⲁⲣⲉϫ̀ⲫⲟ ⲛⲁⲛ ⲛ̀Ⲉⲙⲙⲁⲛⲟⲩⲏⲗ",
+          "coptic_english": "Shere ne-o teeparthenos: tee-orou em-mee en-aleetheeni:\nShere ebshou-shou ente bengennos: are-egfou nan enemmano-eel"
+        },
+        {
+          "english": "We ask you to remember us, / O our faithful advocate, / before our Lord Jesus Christ, / that He may forgive us our sins",
+          "arabic": "نسألك أن تذكرينا أيتها الشفيعة المؤتمنة أمام ربنا يسوع المسيح ليغفر لنا خطايانا",
+          "coptic": "Ⲧⲉⲛϯϩⲟ ⲁ̀ⲣⲉⲡⲉⲛⲙⲉⲩⲓ̀: ⲱ̀ ϯⲡ̀ⲣⲟⲥⲧⲁⲧⲏⲥ ⲉ̀ⲧⲉⲛϩⲟⲧ: ⲛⲁϩⲣⲉⲛ ⲡⲉⲛⲟ̅ⲥ̅ Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ",
+          "coptic_english": "Tenteeho ari–penmevi: O tee-eprostatees etenhot:\nnahren penchois eesos pikhristos: entef ka nennovi nan evol"
+        }
+      ]
+    }
+  ]
+}

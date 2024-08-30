@@ -1,0 +1,93 @@
+{
+  "title": {
+    "english": "Our Father",
+    "arabic": "ابانا الذي"
+  },
+  "sections": [
+    {
+      "speaker": "people",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Make us worthy to pray thankfully",
+          "arabic": "وإجعلنا مستحقين أن نقول بشكر",
+          "coptic": "",
+          "coptic_english": ""
+        },
+        {
+          "english": "Our Father who art in heaven, hallowed be Thy name",
+          "arabic": "أبانا الذي في السموات، ليتقدس إسمك",
+          "coptic": "",
+          "coptic_english": ""
+        },
+        {
+          "english": "Thy kingdom come. Thy will be done, on earth as it is in heaven",
+          "arabic": "ليأت ملكوتك. لتكن مشيئتك، كما في السماء كذلك على الأرض",
+          "coptic": "",
+          "coptic_english": ""
+        },
+        {
+          "english": "Give us this day our daily bread; and forgive us our trespasses, as we forgive those who trespass against us; and lead us not into temptation, but deliver us from the evil one",
+          "arabic": "خبزنا كفافنا أعطنا اليوم. وأغفر لنا ذنوبنا، كما نغفر نحن أيضاً للمذنبين إلينا. ولا تدخلنا في تجربة، لكن نجنا من الشرير",
+          "coptic": "",
+          "coptic_english": ""
+        },
+        {
+          "english": "In Christ Jesus our Lord, for Thine is the kingdom and the power and the glory forever. Amen",
+          "arabic": "بالمسيح يسوع ربنا، لأن لك الملك والقوة والمجد إلى الأبد. آمين",
+          "coptic": "",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "priest",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "The grace of our Lord, God, and Savior Jesus Christ be with you all",
+          "arabic": "ونعمة ربنا وإلهنا ومخلصنا يسوع المسيح مع جميعكم",
+          "coptic": "Ⲏ̀ ⲭⲁⲣⲓⲥ ⲧⲟⲩ Ⲕⲩⲣⲓⲟⲩ ⲇⲉ ⲕⲉ Ⲑⲉⲟⲩ ⲕⲉ Ⲥⲱⲧⲏⲣⲟⲥ ⲏ̀ⲙⲱⲛ Ⲓⲏⲥⲟⲩ Ⲭ̀ⲣⲓⲥⲧⲟⲩ ⲙⲉⲧⲁ ⲡⲁⲛⲧⲱⲛ ⲩ̀ⲙⲱⲛ",
+          "coptic_english": ""
+        },
+        {
+          "english": "Go in peace. The Lord be with you all",
+          "arabic": "إمضوا بسلام. الرب مع جميعكم",
+          "coptic": "Ⲙⲁϣⲉⲛⲱⲧⲉⲛ ϧⲉⲛ ⲟⲩϩⲓⲣⲏⲛⲏ Ⲡ̀ϭⲟⲓⲥ ⲛⲉⲙⲱⲧⲉⲛ",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "type": "info",
+      "text": {
+        "english": "Or he says",
+        "arabic": "أو يقول"
+      }
+    },
+    {
+      "speaker": "priest",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "The love of God the Father; the grace of the only-begotten Son, our Lord, God, and Savior Jesus Christ; and the communion and gift of the Holy Spirit be with you all. Go in peace. The peace of the Lord be with you all",
+          "arabic": "محبة الله الآب، ونعمة الإبن الوحيد، ربنا وإلهنا وملكنا ومخلصنا يسوع المسيح، وشركة وموهبة الروح القدس تكون مع جميعكم. إمضوا بسلام، سلام الرب مع جميعكم",
+          "coptic": "Ⲏ̀ ⲁ̀ⲅⲁⲡⲏ ⲧⲟⲩ Ⲑⲉⲟⲩ ⲕⲉ Ⲡⲁⲧⲣⲟⲥ ⲕⲉ ⲏ̀ ⲭⲁⲣⲓⲥⲧⲟⲩ ⲙⲟⲛⲟⲅⲉⲛⲟⲩⲥ Ⲩⲓⲟⲩ Ⲕⲩⲣⲓⲟⲩ ⲇⲉ ⲕⲉ Ⲑⲉⲟⲩ ⲕⲉ Ⲥⲱⲧⲏⲣⲟⲥ ⲏ̀ⲙⲱⲛ Ⲓⲏⲥⲟⲩ Ⲭ̀ⲣⲓⲥⲧⲟⲩ ⲕⲉ ⲏ̀ ⲕⲟⲓⲛⲱⲛⲓⲁ ⲕⲉ ⲏ̀ ⲇⲱⲣⲉⲁ̀ ⲧⲟⲩ Ⲁ̀ⲅⲓⲟⲩ Ⲡ̀ⲛⲉⲩⲙⲁⲧⲟⲥ ⲓ̀ⲏ̀ ⲙⲉⲧⲁ ⲡⲁⲛⲧⲱⲛ ⲩ̀ⲙⲱⲛ. Ⲙⲁϣⲉⲛⲱⲧⲉⲛ ϧⲉⲛ ⲟⲩϩⲓⲣⲏⲛⲏ ⲧ̀ϩⲓⲣⲏⲛⲏ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ⲛⲉⲙⲱⲧⲉⲛ ⲧⲏⲣⲟⲩ",
+          "coptic_english": ""
+        }
+      ]
+    },
+    {
+      "speaker": "people",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "And with your spirit",
+          "arabic": "مع روحك أيضاً",
+          "coptic": "Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ",
+          "coptic_english": ""
+        }
+      ]
+    }
+  ]
+}

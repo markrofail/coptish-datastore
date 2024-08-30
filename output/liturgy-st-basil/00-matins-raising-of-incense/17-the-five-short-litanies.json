@@ -1,0 +1,56 @@
+{
+  "title": {
+    "english": "The Five Short Litanies",
+    "arabic": "الخمس أواشي الصغار"
+  },
+  "sections": [
+    {
+      "speaker": "priest",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Let us pray",
+          "arabic": "صلوا",
+          "coptic": "Ϣ̀ⲗⲏⲗ",
+          "coptic_english": "Esh-leel"
+        }
+      ]
+    },
+    {
+      "speaker": "deacon",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Stand up for prayer",
+          "arabic": "للصلاة قفوا",
+          "coptic": "Ⲉ̀ⲡⲓ ⲡ̀ⲣⲟⲥⲉⲩⲭⲏ ⲥ̀ⲧⲁⲑⲏⲧⲉ",
+          "coptic_english": "E-pi eprosevki es-tathee te"
+        }
+      ]
+    },
+    {
+      "speaker": "priest",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Peace be with all",
+          "arabic": "السلام لجميعكم",
+          "coptic": "Ⲓ̀ⲣⲏⲛⲏ ⲡⲁⲥⲓ",
+          "coptic_english": "Ee-ree-nee pasi"
+        }
+      ]
+    },
+    {
+      "speaker": "people",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "And with your spirit",
+          "arabic": "ولروحك أيضاً",
+          "coptic": "Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ",
+          "coptic_english": "Ke to pnevmati soo"
+        }
+      ]
+    }
+  ]
+}

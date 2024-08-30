@@ -1,0 +1,26 @@
+{
+  "title": {
+    "english": "Holy, Holy, Holy",
+    "arabic": "قدوس، قدوس، قدوس"
+  },
+  "sections": [
+    {
+      "speaker": "people",
+      "type": "verses",
+      "verses": [
+        {
+          "english": "Holy, Holy, Holy, is the Lord of Sabaoth. Heaven and earth are full of Your glory and honor. O God, the Father, the pantocrator. O Holy Trinity, have mercy upon us. O Lord, God of hosts, be with us. For we have no helper in our hardships and tribulations but You",
+          "arabic": "قدوس، قدوس، قدوس، رب الصباؤوت. السماء والأرض مملوءتان من مجدك وكرامتك. ارحمنا يا الله الآب ضابط الكل. أيها الثالوث القدوس ارحمنا. أيها الرب إله القوات كن معنا، لأنه ليس لنا معين في شدائدنا وضيقاتنا سواك",
+          "coptic": "",
+          "coptic_english": ""
+        },
+        {
+          "english": "Absolve, forgive and remit, O God, our transgressions; those we have committed willingly and those which we have committed unwillfully, those which we committed knowingly and those which we have committed unknowingly, the hidden and the manifest ones, O Lord forgive us, for the sake of Your holy name which is called upon us. Let it be according to Your mercy, O Lord, not according to our sins",
+          "arabic": "حل واغفر واصفح لنا يا الله عن سيئاتنا، التي صنعناها بإرادتنا والتي صنعناها بغير إرادتنا، التي فعلناها بمعرفة والتي فعلناها بغير معرفة، الخفية والظاهرة. يا رب اغفرها لنا، من أجل اسمك القدوس الذي دعي علينا. كرحمتك يا رب وليس كخطايانا",
+          "coptic": "",
+          "coptic_english": ""
+        }
+      ]
+    }
+  ]
+}
