@@ -50,14 +50,12 @@
     },
     {
       "type": "info",
-      "text": [
-        {
-          "english": "From Paapi 10 to Tobi 10 (October 20/21 to January 18/19), the Litany of the Plants is said",
-          "coptic": "",
-          "coptic_english": "",
-          "arabic": "من 10 بابه إلى 10 طوبة (20/21 أكتوبر - 18/19 يناير)، تقال أوشية الزروع"
-        }
-      ]
+      "text": {
+        "english": "From Paapi 10 to Tobi 10 (October 20/21 to January 18/19), the Litany of the Plants is said",
+        "coptic": "",
+        "coptic_english": "",
+        "arabic": "من 10 بابه إلى 10 طوبة (20/21 أكتوبر - 18/19 يناير)، تقال أوشية الزروع"
+      }
     },
     {
       "speaker": "priest",

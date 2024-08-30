@@ -1,11 +1,13 @@
 {
     "scripts": {
-        "preprocess": "ts-node scripts/merge_verses.ts data"
+        "preprocess": "ts-node scripts/merge_verses.ts data",
+        "validate": "ajv test --spec=draft7 -s \"schemas/json-schema.json\" -d \"output/**/*.json\" --valid"
     },
     "devDependencies": {
         "@types/js-yaml": "^4.0.9",
         "@types/lodash": "^4.17.5",
         "@types/node": "^22.5.0",
+        "ajv-cli": "^5.0.0",
         "commander": "^12.1.0",
         "fs": "^0.0.1-security",
         "js-yaml": "^4.1.0",
