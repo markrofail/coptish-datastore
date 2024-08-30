@@ -1,6 +1,7 @@
 import * as fs from 'fs'
 import * as yaml from 'js-yaml'
 import * as path from 'path'
+import cliProgress from 'cli-progress'
 import { Command } from 'commander'
 import { MultiLingualText, listAllFiles, shortenFilename, MultiLingualProcessor, VersesSection, Section } from './utils'
 
@@ -54,7 +55,13 @@ if (!fs.existsSync(inputFile)) {
 
 const merger = new MultiLingualVerseMerger()
 const files = listAllFiles(inputFile, { predicate: (filePath) => filePath.includes('.yml') })
-files.forEach((file, i) => {
-    console.log(`[preprocessing ${i + 1}/${files.length}] ${shortenFilename(file)}`)
+const progressBar = new cliProgress.SingleBar({}, cliProgress.Presets.shades_classic)
+
+console.log('Preprocessing...')
+progressBar.start(files.length, 0) // start the progress bar with a total value of files.length and start value of 0
+files.forEach((file) => {
+    progressBar.increment()
     merger.transformFile(file)
 })
+
+progressBar.stop()
