@@ -1,21 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
-    "type": "object",
-    "properties": {
-        "title": { "$ref": "#/$defs/multiLingualText" },
-        "occasion": { "$ref": "#/$defs/occasion" },
-        "sections": {
-            "type": "array",
-            "items": {
-                "anyOf": [
-                    { "$ref": "#/$defs/infoSection" },
-                    { "$ref": "#/$defs/versesSection" },
-                    { "$ref": "#/$defs/readingSection" },
-                    { "$ref": "#/$defs/compoundPrayerSection" }
-                ]
-            }
-        }
-    },
+    "oneOf": [{ "$ref": "#/$defs/prayer" }, { "$ref": "#/$defs/reading" }, { "$ref": "#/$defs/synaxarium" }],
     "$defs": {
         "multiLingualText": {
             "type": "object",
@@ -88,6 +73,54 @@
                 "path": { "type": "string" }
             },
             "required": ["type", "path"]
+        },
+        "prayer": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "title": { "$ref": "#/$defs/multiLingualText" },
+                "occasion": { "$ref": "#/$defs/occasion" },
+                "sections": {
+                    "type": "array",
+                    "items": {
+                        "anyOf": [
+                            { "$ref": "#/$defs/infoSection" },
+                            { "$ref": "#/$defs/versesSection" },
+                            { "$ref": "#/$defs/readingSection" },
+                            { "$ref": "#/$defs/compoundPrayerSection" }
+                        ]
+                    }
+                }
+            }
+        },
+        "reading": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "title": { "$ref": "#/$defs/multiLingualText" },
+                "text": { "$ref": "#/$defs/multiLingualText" }
+            },
+            "required": ["title", "text"]
+        },
+        "synaxarium": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["title", "commemorations"],
+            "properties": {
+                "title": { "$ref": "#/$defs/multiLingualText" },
+                "commemorations": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "additionalProperties": false,
+                        "required": ["title", "text"],
+                        "properties": {
+                            "title": { "$ref": "#/$defs/multiLingualText" },
+                            "text": { "$ref": "#/$defs/multiLingualText" }
+                        }
+                    }
+                }
+            }
         }
     }
 }
