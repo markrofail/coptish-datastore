@@ -1,0 +1,92 @@
+title:
+  english: God Have Mercy
+  arabic: اللهُمَّ إرحمنا
+sections:
+  - speaker: priest
+    type: verses
+    verses:
+      - english: O God, have mercy upon us, settle mercy upon us, have compassion upon us
+        arabic: اللهُمَّ إرحمنا، قرر لنا رحمة، تراءف علينا
+        coptic: ϣⲉⲛϩⲏⲧ ϧⲁⲣⲟⲛ
+        coptic_english: ''
+  - speaker: people
+    type: verses
+    verses:
+      - english: Amen
+        arabic: آمين
+        coptic: Ⲁ̀ⲙⲏⲛ
+        coptic_english: ''
+  - speaker: priest
+    type: verses
+    verses:
+      - english: Hear us
+        arabic: وإسمعنا
+        coptic: Ⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲛ
+        coptic_english: ''
+  - speaker: people
+    type: verses
+    verses:
+      - english: Amen
+        arabic: آمين
+        coptic: Ⲁ̀ⲙⲏⲛ
+        coptic_english: ''
+  - speaker: priest
+    type: verses
+    verses:
+      - english: Bless us, keep us, and help us
+        arabic: وباركنا وإحفظنا وأعنا
+        coptic: Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲛ ⲁ̀ⲣⲉϩ ⲉ̀ⲣⲟⲛ ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲛ
+        coptic_english: ''
+  - speaker: people
+    type: verses
+    verses:
+      - english: Amen
+        arabic: آمين
+        coptic: Ⲁ̀ⲙⲏⲛ
+        coptic_english: ''
+  - speaker: priest
+    type: verses
+    verses:
+      - english: Take away Your anger from us, visit us with Your salvation, and forgive us our sins
+        arabic: وإرفع غضبك عنا، وإفتقدنا بخلاصك، وإغفر لنا خطايانا
+        coptic: Ⲱ̀ⲗⲓ ⲙ̀ⲡⲉⲕϫⲱⲛⲧ ⲉ̀ⲃⲟⲗ ϩⲁⲣⲟⲛ ϫⲉⲙⲡⲉⲛϣⲓⲛⲓ ϧⲉⲛ ⲡⲉⲕⲟⲩϫⲁⲓ ⲟⲩⲟϩ ⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ
+        coptic_english: ''
+  - speaker: people
+    type: verses
+    verses:
+      - english: Amen
+        arabic: آمين
+        coptic: Ⲁ̀ⲙⲏⲛ
+        coptic_english: ''
+      - english: Lord have mercy. Lord have mercy. Lord have mercy
+        arabic: يا ربُّ إرحَم. يا ربُّ إرحَم. يا ربُّ إرحَم
+        coptic: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ. Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ. Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ
+        coptic_english: Kerie leison. Kerie leison. Kerie leison
+  - speaker: priest
+    type: verses
+    verses:
+      - english: Let us pray
+        arabic: صلوا
+        coptic: Ϣ̀ⲗⲏⲗ
+        coptic_english: Esh-leel
+  - speaker: deacon
+    type: verses
+    verses:
+      - english: Stand up for prayer
+        arabic: للصلاة قفوا
+        coptic: Ⲉ̀ⲡⲓ ⲡ̀ⲣⲟⲥⲉⲩⲭⲏ ⲥ̀ⲧⲁⲑⲏⲧⲉ
+        coptic_english: E-pi eprosevki es-tathee te
+  - speaker: priest
+    type: verses
+    verses:
+      - english: Peace be with all
+        arabic: السلام لجميعكم
+        coptic: Ⲓ̀ⲣⲏⲛⲏ ⲡⲁⲥⲓ
+        coptic_english: Ee-ree-nee pasi
+  - speaker: people
+    type: verses
+    verses:
+      - english: And with your spirit
+        arabic: ولروحك أيضاً
+        coptic: Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ
+        coptic_english: Ke to pnevmati soo
