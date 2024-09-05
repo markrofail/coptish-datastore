@@ -18,9 +18,10 @@ class MultiLingualVerseMerger extends MultiLingualProcessor {
 
         const outputData = { ...inputData, sections: transformedSections }
 
-        const outputPath = filepath.replace('data/', 'output/').replace('.yml', '.json')
+        const outputPath = filepath.replace('data/', 'output/')
         fs.mkdirSync(path.dirname(outputPath), { recursive: true })
-        fs.writeFileSync(outputPath, JSON.stringify(outputData, null, 2), 'utf-8')
+        fs.writeFileSync(outputPath, yaml.dump(outputData, { lineWidth: 9999 }), 'utf-8')
+        fs.writeFileSync(outputPath.replace('.yml', '.json'), JSON.stringify(outputData, null, 2), 'utf-8')
     }
 
     private transformSections = (sections?: Section[]) =>
