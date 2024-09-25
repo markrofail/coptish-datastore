@@ -30,15 +30,18 @@ class MultiLingualVerseMerger extends MultiLingualProcessor {
     private transformVersesSection = ({ verses, ...rest }: VersesSection.V2): VersesSection.PreProcessed => {
         const englishVerses = verses.english
 
-        Object.entries(verses).map(([language, verses]) => {
-            if (verses.length != englishVerses.length) {
-                throw new Error(
-                    `[ValidationError] different verses lengths:\n\t${language} verses had a length of ${verses.length} while there's ${englishVerses} english verses.\n\tVerses starting with ${verses[0]}`
-                )
+        Object.entries(verses).forEach(([key, value]) => {
+            if (value.length != englishVerses.length) {
+                throw new Error(`[ValidationError] different verses lengths:
+                    ${key} verses had a length of ${value.length} while there's ${englishVerses.length} english verses.
+                    Verses:
+                        english: ${englishVerses?.[0]}
+                        ${key}: ${value?.[0]}
+                    `)
             }
         })
 
-        const transformedVerses: MultiLingualText[] = verses.english.map((_, i) => this.forEachLanguage((language) => verses[language][i]))
+        const transformedVerses: MultiLingualText[] = verses.english.map((_, i) => this.forEachLanguage((language) => verses[language]?.at(i) || ''))
 
         return { ...rest, verses: transformedVerses }
     }
@@ -62,7 +65,12 @@ console.log('Preprocessing...')
 progressBar.start(files.length, 0) // start the progress bar with a total value of files.length and start value of 0
 files.forEach((file) => {
     progressBar.increment()
-    merger.transformFile(file)
+    try {
+        merger.transformFile(file)
+    } catch (e) {
+        console.log(`\nError in ${file}`)
+        console.log(e as Error)
+    }
 })
 
 progressBar.stop()
