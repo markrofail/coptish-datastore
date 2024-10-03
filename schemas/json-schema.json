@@ -9,7 +9,8 @@
                 "english": { "type": "string" },
                 "arabic": { "type": "string" },
                 "coptic": { "type": "string" },
-                "coptic_english": { "type": "string" }
+                "coptic_english": { "type": "string" },
+                "coptic_arabic": { "type": "string" }
             },
             "required": ["english"]
         },
