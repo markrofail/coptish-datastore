@@ -6,6 +6,15 @@
   },
   "sections": [
     {
+      "type": "info",
+      "text": {
+        "english": "The priest raises the incense while the Verses of Cymbals are chanted",
+        "arabic": "يرفع الكاهن بخور وتُرتَّل أرباع الناقوس",
+        "coptic": "",
+        "coptic_english": ""
+      }
+    },
+    {
       "speaker": "people",
       "type": "verses",
       "verses": [
@@ -14,7 +23,13 @@
           "arabic": "يا ربُّ إرحَم",
           "coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ",
           "coptic_english": "Kerie leison"
-        },
+        }
+      ]
+    },
+    {
+      "speaker": "people",
+      "type": "verses",
+      "verses": [
         {
           "english": "O come let us worship, the Holy Trinity, the Father and the Son, and the Holy Spirit",
           "arabic": "تعالوا فلنسجد، للثالوث القدوس، الذي هو الأب والإبن، والروح القدس",
