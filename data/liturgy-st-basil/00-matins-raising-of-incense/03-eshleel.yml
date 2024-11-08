@@ -9,7 +9,7 @@ sections:
           coptic:
               - Ϣ̀ⲗⲏⲗ
           coptic_english:
-              - Esh-leel
+              - Eshlil
     - speaker: deacon
       type: verses
       verses:
@@ -20,7 +20,7 @@ sections:
           coptic:
               - Ⲉ̀ⲡⲓ ⲡ̀ⲣⲟⲥⲉⲩⲭⲏ ⲥ̀ⲧⲁⲑⲏⲧⲉ
           coptic_english:
-              - E-pi eprosevki es-tathee te
+              - Epi Epros evki es-tathee te
     - speaker: priest
       type: verses
       verses:
@@ -42,4 +42,4 @@ sections:
           coptic:
               - Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ
           coptic_english:
-              - Ke to pnevmati soo
+              - Ke to epnevmati so

@@ -1,0 +1,49 @@
+title:
+    english: Our Father
+    arabic: ابانا الذي
+sections:
+    - speaker: priest
+      type: verses
+      verses:
+          english:
+              - Make us worthy to pray thankfully
+          arabic:
+              - وإجعلنا مستحقين أن نقول بشكر
+          coptic:
+              - 'Ⲁ̀ⲣⲓⲧⲉⲛ ⲛ̀ⲉⲙⲡ̀ϣⲁ ⲛ̀ϫⲟⲥ ϧⲉⲛ ⲟⲩϣⲉⲡϩ̀ⲙⲟⲧ'
+          coptic_english:
+              - 'Ariten ne-empsha engos khen o-shepehmot'
+    - speaker: people
+      type: verses
+      verses:
+          english:
+              - Our Father who art in heaven, hallowed be Thy name
+              - Thy kingdom come. Thy will be done, on earth as it is in heaven
+              - Give us this day our daily bread; and forgive us our trespasses, as we forgive those who trespass against us; and lead us not into temptation, but deliver us from the evil one
+              - In Christ Jesus our Lord, for Thine is the kingdom and the power and the glory forever. Amen
+          arabic:
+              - أبانا الذي في السموات، ليتقدس إسمك
+              - ليأت ملكوتك. لتكن مشيئتك، كما في السماء كذلك على الأرض
+              - خبزنا كفافنا أعطنا اليوم. وأغفر لنا ذنوبنا، كما نغفر نحن أيضاً للمذنبين إلينا. ولا تدخلنا في تجربة، لكن نجنا من الشرير
+              - بالمسيح يسوع ربنا، لأن لك الملك والقوة والمجد إلى الأبد. آمين
+          coptic:
+              - 'Ϫⲉ Ⲡⲉⲛⲓⲱⲧ ⲉⲧ ϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ̀: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ'
+              - 'Ⲙⲁⲣⲉⲥⲓ̀ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ. Ⲡⲉⲧⲉϩ ⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ'
+              - 'Ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ. Ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉ̀ⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ. Ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ'
+              - 'Ϧⲉⲛ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ. Ⲁ̀ⲙⲏⲛ'
+          coptic_english:
+              - 'Je Peniot et khen ni-feeowi: maref-toovo enje pekran'
+              - 'Mares-ee enje tek-met-ooro. Peteh nak maref-shopi: emevreeti khen teve nem hijen pikahi'
+              - 'Penoik ente rasti meeif nan emfo-oo. Owoh ka nee et-eron nan evol: em-vreeti hon enten-ko evol ennee ete oo-on entan ero-oo. Owoh emper-enten ekhoon epi-rasmos: alla nahmen evol ha pi-peth-ho-oo'
+              - 'Khen Pekhristos Isos Penchois: je thok te ti-metooro nem tigom nem pi-o-oo sha eneh. Ameen'
+    - speaker: people
+      type: verses
+      verses:
+          english:
+              - In Christ Jesus our Lord
+          arabic:
+              - بالمسيح يسوع ربنا
+          coptic:
+              - Ϧⲉⲛ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ
+          coptic_english:
+              - Khen Pikhrestos Esos pen-shois
