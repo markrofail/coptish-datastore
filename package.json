@@ -1,7 +1,8 @@
 {
     "scripts": {
         "preprocess": "ts-node scripts/preprocess_json.ts data",
-        "validate": "ajv test --spec=draft7 -s \"schemas/json-schema.json\" -d \"output/**/*.json\" --valid"
+        "validate": "ajv test --spec=draft7 -s \"schemas/json-schema.json\" -d \"output/**/*.json\" --valid",
+        "generate:types": "json2ts --input schemas/json-schema.json --output scripts/types.ts"
     },
     "devDependencies": {
         "@types/cli-progress": "^3.11.6",
@@ -13,6 +14,7 @@
         "commander": "^12.1.0",
         "fs": "^0.0.1-security",
         "js-yaml": "^4.1.0",
+        "json-schema-to-typescript": "^15.0.3",
         "lodash": "^4.17.21",
         "ts-node": "^10.9.2",
         "typescript": "^5.5.4"
