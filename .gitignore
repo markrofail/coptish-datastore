@@ -1,2 +1,9 @@
 .DS_Store
 node_modules
+
+# Ignore environment variable files
+.env
+
+# Ignore credentials and tokens
+credentials.json
+token.json
