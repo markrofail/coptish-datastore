@@ -1,0 +1,276 @@
+{
+  "anyOf": [
+    {
+      "$ref": "#/definitions/Prayer"
+    },
+    {
+      "$ref": "#/definitions/Reading"
+    },
+    {
+      "$ref": "#/definitions/Synaxarium"
+    }
+  ],
+  "definitions": {
+    "Prayer": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "$ref": "#/definitions/MultiLingualText"
+        },
+        "occasion": {
+          "$ref": "#/definitions/Occasion"
+        },
+        "sections": {
+          "type": "array",
+          "items": {
+            "anyOf": [
+              {
+                "$ref": "#/definitions/InfoSection"
+              },
+              {
+                "$ref": "#/definitions/VersesSection"
+              },
+              {
+                "$ref": "#/definitions/ReadingSection"
+              },
+              {
+                "$ref": "#/definitions/CompoundPrayerSection"
+              }
+            ]
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "MultiLingualText": {
+      "type": "object",
+      "properties": {
+        "english": {
+          "type": "string"
+        },
+        "arabic": {
+          "type": "string"
+        },
+        "coptic": {
+          "type": "string"
+        },
+        "coptic_english": {
+          "type": "string"
+        },
+        "coptic_arabic": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "english"
+      ]
+    },
+    "Occasion": {
+      "enum": [
+        "annual",
+        "great-lent"
+      ],
+      "type": "string"
+    },
+    "InfoSection": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "const": "info"
+        },
+        "text": {
+          "$ref": "#/definitions/MultiLingualText"
+        },
+        "occasion": {
+          "$ref": "#/definitions/Occasion"
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "text",
+        "type"
+      ]
+    },
+    "VersesSection": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "const": "verses"
+        },
+        "speaker": {
+          "$ref": "#/definitions/Speaker"
+        },
+        "saint": {
+          "$ref": "#/definitions/Saint"
+        },
+        "inaudible": {
+          "type": "boolean"
+        },
+        "verses": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/MultiLingualText"
+          }
+        },
+        "occasion": {
+          "$ref": "#/definitions/Occasion"
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "type",
+        "verses"
+      ]
+    },
+    "Speaker": {
+      "enum": [
+        "",
+        "deacon",
+        "people",
+        "priest",
+        "reader"
+      ],
+      "type": "string"
+    },
+    "Saint": {
+      "enum": [
+        "any-martyr-all",
+        "archangel-gabriel",
+        "archangel-michael",
+        "archangel-raphael",
+        "archangel-suriel",
+        "pope-kyrillos-vi",
+        "st-abanoub",
+        "st-abraam",
+        "st-antony-the-great",
+        "st-athanasius-the-apostolic",
+        "st-bishoy",
+        "st-demiana",
+        "st-george",
+        "st-john-the-baptist",
+        "st-karas-the-anchorite",
+        "st-marina-the-martyr",
+        "st-mark",
+        "st-mary",
+        "st-mina",
+        "st-moses-the-black",
+        "st-paul-the-1st-hermit",
+        "st-philopater-mercurius",
+        "st-reweis-teji",
+        "st-shenouda-the-archimandrite",
+        "st-stephen",
+        "st-thomas-the-hermit",
+        "sts-maximos-and-dometius",
+        "sts-sergios-and-bachus"
+      ],
+      "type": "string"
+    },
+    "ReadingSection": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "const": "reading"
+        },
+        "readingType": {
+          "$ref": "#/definitions/ReadingType"
+        },
+        "occasion": {
+          "$ref": "#/definitions/Occasion"
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "readingType",
+        "type"
+      ]
+    },
+    "ReadingType": {
+      "enum": [
+        "acts-of-the-apostles",
+        "catholic-epistle",
+        "liturgy-gospel",
+        "liturgy-psalm",
+        "matins-gospel",
+        "matins-psalm",
+        "pauline-epistle",
+        "synaxarium",
+        "vespers-gospel",
+        "vespers-psalm"
+      ],
+      "type": "string"
+    },
+    "CompoundPrayerSection": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "const": "compound-prayer"
+        },
+        "path": {
+          "type": "string"
+        },
+        "occasion": {
+          "$ref": "#/definitions/Occasion"
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "path",
+        "type"
+      ]
+    },
+    "Reading": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "$ref": "#/definitions/MultiLingualText"
+        },
+        "text": {
+          "$ref": "#/definitions/MultiLingualText"
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "text",
+        "title"
+      ]
+    },
+    "Synaxarium": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "$ref": "#/definitions/MultiLingualText"
+        },
+        "commemorations": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "title": {
+                "$ref": "#/definitions/MultiLingualText"
+              },
+              "text": {
+                "$ref": "#/definitions/MultiLingualText"
+              }
+            },
+            "additionalProperties": false,
+            "required": [
+              "text",
+              "title"
+            ]
+          }
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "commemorations",
+        "title"
+      ]
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}
