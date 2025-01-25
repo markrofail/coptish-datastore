@@ -2,44 +2,63 @@ sections:
     - speaker: priest
       type: verses
       verses:
-          english:
-              - Let us pray
-          arabic:
-              - صلوا
           coptic:
               - Ϣ̀ⲗⲏⲗ
+
+          english:
+              - Let us pray
           coptic_english:
               - Eshlil
+
+          arabic:
+              - صلِّ
+          coptic_arabic:
+              - إشليل
+
     - speaker: deacon
       type: verses
       verses:
-          english:
-              - Stand up for prayer
-          arabic:
-              - للصلاة قفوا
           coptic:
               - Ⲉ̀ⲡⲓ ⲡ̀ⲣⲟⲥⲉⲩⲭⲏ ⲥ̀ⲧⲁⲑⲏⲧⲉ
+
+          english:
+              - Stand up for prayer
           coptic_english:
               - Epi Epros evki es-tathee te
+
+          arabic:
+              - للصلاةِ قِفُوا
+          coptic_arabic:
+              - إيه بي إبروس إڤكي إسطاثيتيه
+
     - speaker: priest
       type: verses
       verses:
-          english:
-              - Peace be with all
-          arabic:
-              - السلام لجميعكم
           coptic:
               - Ⲓ̀ⲣⲏⲛⲏ ⲡⲁⲥⲓ
+
+          english:
+              - Peace be with all
           coptic_english:
               - Ee-ree-nee pasi
+
+          arabic:
+              - السلامُ للكُلِّ
+          coptic_arabic:
+              - إيريني باسي
+
     - speaker: people
       type: verses
       verses:
-          english:
-              - And with your spirit
-          arabic:
-              - ولروحك أيضاً
           coptic:
               - Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ
+
+          english:
+              - And with your spirit
           coptic_english:
               - Ke to epnevmati so
+
+          arabic:
+              - ولروحك أيضًا
+          coptic_arabic:
+              - كيه طو إبنڤماتي سوو
