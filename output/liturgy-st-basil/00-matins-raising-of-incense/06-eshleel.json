@@ -8,7 +8,8 @@
           "english": "Let us pray",
           "arabic": "صلوا",
           "coptic": "Ϣ̀ⲗⲏⲗ",
-          "coptic_english": "Eshlil"
+          "coptic_english": "Eshlil",
+          "coptic_arabic": ""
         }
       ]
     },
@@ -20,7 +21,8 @@
           "english": "Stand up for prayer",
           "arabic": "للصلاة قفوا",
           "coptic": "Ⲉ̀ⲡⲓ ⲡ̀ⲣⲟⲥⲉⲩⲭⲏ ⲥ̀ⲧⲁⲑⲏⲧⲉ",
-          "coptic_english": "Epi Epros evki es-tathee te"
+          "coptic_english": "Epi Epros evki es-tathee te",
+          "coptic_arabic": ""
         }
       ]
     },
@@ -32,7 +34,8 @@
           "english": "Peace be with all",
           "arabic": "السلام لجميعكم",
           "coptic": "Ⲓ̀ⲣⲏⲛⲏ ⲡⲁⲥⲓ",
-          "coptic_english": "Ee-ree-nee pasi"
+          "coptic_english": "Ee-ree-nee pasi",
+          "coptic_arabic": ""
         }
       ]
     },
@@ -44,7 +47,8 @@
           "english": "And with your spirit",
           "arabic": "ولروحك أيضاً",
           "coptic": "Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ",
-          "coptic_english": "Ke to epnevmati so"
+          "coptic_english": "Ke to epnevmati so",
+          "coptic_arabic": ""
         }
       ]
     }

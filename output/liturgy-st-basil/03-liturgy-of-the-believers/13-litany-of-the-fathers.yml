@@ -9,10 +9,12 @@ sections:
         arabic: وأولاً اذكر يا رب بطريركنا الأب المكرم رئيس الكهنة البابا المعظم أنبا (...)،
         coptic: Ⲛ̀ϣⲟⲣⲡ ⲙⲉⲛ ⲁ̀ⲣⲓⲫ̀ⲙⲉⲩⲓ Ⲡ̀ϭⲟⲓⲥ ⲙ̀ⲡⲉⲛⲙⲁⲕⲁⲣⲓⲟⲥ ⲛ̀ⲓⲱⲧ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲛ̀ⲁⲣⲭⲏⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲥ ⲁⲃⲃⲁ (...)
         coptic_english: ''
+        coptic_arabic: ''
       - english: and his spiritual brothers, the Patriarch of Antioch Mar Ignatius (…), and the Patriarch of Eritrea Abouna (…)
         arabic: وأخوية الروحيين مار إغناطيوس (...) بطريرك أنطاكية وأبونا (...) بطريرك إريتريا
         coptic: ⲛⲉⲙ ⲛⲉϥⲥ̀ⲛⲏⲟⲩ ⲙ̀ⲡ̀ⲛⲉⲩⲙⲁⲧⲓⲕⲟⲛ ⲡⲓⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ ⲛ̀Ⲧ̀ⲁⲛⲧⲓⲟⲭⲓⲁ Ⲙⲁⲣ Ⲓⲅⲛⲁⲧⲓⲟⲩ (...) ⲛⲉⲙ ⲡⲓⲡⲁⲧⲣⲓⲁⲣⲭⲏⲥ ⲛ̀Ⲉ̀ⲣⲓⲧⲣⲉⲁ̀ Ⲁ̀ⲡⲟⲩⲛⲁ (...)
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: deacon
     type: verses
     verses:
@@ -20,14 +22,17 @@ sections:
         arabic: صلوا من أجل رئيس كهنتنا البابا أنبا (...)، بابا وبطريرك ورئيس أساقفة المدينة العظمى الاسكندرية،
         coptic: Ⲡ̀ⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲟⲩⲁⲣⲭⲏⲉ̀ⲣⲉⲱⲥ ⲏ̀ⲙⲱⲛ ⲡⲁⲡⲁ ⲁⲃⲃⲁ (...) ⲡⲁⲡⲁ ⲕⲉ ⲡⲁⲧⲣⲓⲁⲣⲭⲟⲩ ⲕⲉ ⲁⲣⲭⲏⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲩ ⲧⲏⲥ ⲙⲉⲅⲁⲗⲟ ⲡⲟⲗⲉⲱⲥ Ⲁ̀ⲗⲉⲝⲁⲛⲇ̀ⲣⲓⲁⲥ
         coptic_english: ''
+        coptic_arabic: ''
       - english: and his spiritual brothers, the Patriarch of Antioch Mar Ignatius (…), and the Patriarch of Eritrea Abouna (…)
         arabic: وأخوية الروحيين مار إغناطيوس (...) بطريرك أنطاكية وأبونا (...) بطريرك إريتريا
         coptic: ⲕⲉ ⲧⲱⲛ ⲁ̀ⲇⲉⲗⲫⲱⲛ ⲁⲩⲧⲟⲩ ⲉⲛ ⲧⲏ ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏ ⲗⲓⲧⲟⲩⲣⲅⲓⲁ Ⲙⲁⲣ Ⲓⲅⲛⲁⲧⲓⲟⲩ (...) ⲧⲟⲩ ⲡⲁⲧⲣⲓⲁⲣⲭⲟⲩ ⲧⲏⲥ Ⲁⲛⲧⲓⲟⲭⲓⲁⲥ ⲕⲉ Ⲁ̀ⲡⲟⲩⲛⲁ (...) ⲧⲟⲩ ⲡⲁⲧⲣⲓⲁⲣⲭⲟⲩ ⲧⲏⲥ Ⲉ̀ⲣⲓⲧⲣⲉⲁⲥ
         coptic_english: ''
+        coptic_arabic: ''
       - english: and for our orthodox bishops
         arabic: وسائر أساقفتنا الارثوذكسيين
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: people
     type: verses
     verses:
@@ -35,3 +40,4 @@ sections:
         arabic: يا ربُّ إرحَم
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''

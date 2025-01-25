@@ -6,6 +6,7 @@ sections:
         arabic: صلِّ
         coptic: Ϣ̀ⲗⲏⲗ
         coptic_english: Eshlil
+        coptic_arabic: إشليل
   - speaker: deacon
     type: verses
     verses:
@@ -13,6 +14,7 @@ sections:
         arabic: للصلاةِ قِفُوا
         coptic: Ⲉ̀ⲡⲓ ⲡ̀ⲣⲟⲥⲉⲩⲭⲏ ⲥ̀ⲧⲁⲑⲏⲧⲉ
         coptic_english: Epi Epros evki es-tathee te
+        coptic_arabic: إيه بي إبروس إڤكي إسطاثيتيه
   - speaker: priest
     type: verses
     verses:
@@ -20,6 +22,7 @@ sections:
         arabic: السلامُ للكُلِّ
         coptic: Ⲓ̀ⲣⲏⲛⲏ ⲡⲁⲥⲓ
         coptic_english: Ee-ree-nee pasi
+        coptic_arabic: إيريني باسي
   - speaker: people
     type: verses
     verses:
@@ -27,3 +30,4 @@ sections:
         arabic: ولروحك أيضًا
         coptic: Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ
         coptic_english: Ke to epnevmati so
+        coptic_arabic: كيه طو إبنڤماتي سوو

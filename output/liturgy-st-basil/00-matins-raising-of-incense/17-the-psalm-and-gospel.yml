@@ -9,6 +9,7 @@ sections:
         arabic: قفوا بخوف الله لسماع الإنجيل المقدس
         coptic: Ⲥ̀ⲧⲁⲑⲏⲧⲉ ⲙⲉⲧⲁ ⲫⲟⲃⲟⲩ Ⲑⲉⲟⲩ ⲁ̀ⲕⲟⲩⲥⲱⲙⲉⲛ ⲧⲟⲩ ⲁ̀ⲅⲓⲟⲩ ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲩ
         coptic_english: Sta-thee-te meta fovo Theo, ako-somen to agio evan-geleio
+        coptic_arabic: ''
   - speaker: priest
     type: verses
     verses:
@@ -16,6 +17,7 @@ sections:
         arabic: مبارك الآتي بإسم رب القوات. يا رب بارك الفصل من الإنجيل المقدس من القديس (...)
         coptic: Ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ ⲫⲏⲉⲑⲛⲏⲟⲩ ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲧⲉ ⲛⲓϫⲟⲙ. Ⲕⲩⲣⲓⲉ ⲉⲩⲗⲟⲅⲏⲥⲟⲛ ⲉⲕ ⲧⲟⲩ ⲕⲁⲧⲁ (...) ⲁ̀ⲅⲓⲟⲩ ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲧⲟ ⲁ̀ⲛⲁⲅⲛⲱⲥⲙⲁ
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: people
     type: verses
     verses:
@@ -23,6 +25,7 @@ sections:
         arabic: المجد لك يا رب
         coptic: Ⲇⲟⲝⲁ ⲥⲓ Ⲕⲩⲣⲓⲉ
         coptic_english: ''
+        coptic_arabic: ''
   - type: reading
     readingType: matins-psalm
   - speaker: people
@@ -32,6 +35,7 @@ sections:
         arabic: هلليلويا
         coptic: Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ
         coptic_english: Alleluia
+        coptic_arabic: ''
   - speaker: reader
     type: verses
     verses:
@@ -39,6 +43,7 @@ sections:
         arabic: قفوا بخوف الله لسماع الإنجيل المقدس، فصل من الإنجيل لمعلمنا مار (...) البشير، بركته على جميعنا
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
   - type: reading
     readingType: matins-gospel
   - speaker: people
@@ -48,3 +53,4 @@ sections:
         arabic: والمجد لله دائماً
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''

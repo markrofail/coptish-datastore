@@ -14,7 +14,8 @@
           "english": "Let us worship our Savior, the Good One and Lover of Mankind, for He had compassion on us, and has come and saved us",
           "arabic": "فلنسجد لمخلصنا، محب البشر الصالح، لأنه تراءف علينا، أتى وخلصنا",
           "coptic": "Ⲙⲁⲣⲉⲛⲟⲩⲱϣⲧ ⲙ̀Ⲡⲉⲛⲥⲱⲧⲏⲣ: Ⲡⲓⲙⲁⲓⲣⲱⲙⲓ ⲛ̀ⲁ̀ⲅⲁⲑⲟⲥ: ϫⲉ ⲛ̀ⲑⲟϥ ⲁϥϣⲉⲛϩⲏⲧ ϧⲁⲣⲟⲛ: ⲁϥⲓ̀ ⲟⲩⲟϩ ⲁϥⲥⲱϯ ⲙ̀ⲙⲟⲛ",
-          "coptic_english": "Maren-oo-osht empensoteer: pi-mairomi en-aghathos:\nje enthof afshenheet kharon: afi ow-oh afsotee em-mon"
+          "coptic_english": "Maren-oo-osht empensoteer: pi-mairomi en-aghathos:\nje enthof afshenheet kharon: afi ow-oh afsotee em-mon",
+          "coptic_arabic": ""
         }
       ]
     },
@@ -27,7 +28,8 @@
           "english": "Our Father who art in heaven, hallowed be Your name, may Your kingdom come, for Yours is the glory forever.",
           "arabic": "أبانا الذي في السموات، ليتقدس إسمك، ليأت ملكوتك، لأن لك المجد إلي الابد.",
           "coptic": "Ϫⲉ ⲡⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟ̀ⲩⲓ̀ ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ ⲙⲁⲣⲉⲥⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟ̀ⲩⲣⲟ ϫⲉ ⲫⲱⲕ ⲡⲉ ⲡⲓⲱ̀ⲟ̀ⲩ ϣⲁ ⲛⲓⲉ̀ⲛⲉϩ.",
-          "coptic_english": "Je peniot etkhenne fe-owi, maref tovo enje pekran\nmares-e enje tekmetoro, je fok pe pi-o-oo sha-ni eneh\n"
+          "coptic_english": "Je peniot etkhenne fe-owi, maref tovo enje pekran\nmares-e enje tekmetoro, je fok pe pi-o-oo sha-ni eneh\n",
+          "coptic_arabic": ""
         }
       ]
     },
@@ -39,25 +41,29 @@
           "english": "Intercede on our behalf, O the Lady of us all the Theotokos, Mary the Mother of our Savior, that He may forgive us our sins",
           "arabic": "إشفعي فينا أمام الرب، يا سيدتنا كلنا السيدة والدة الإله، مريم أم مخلصنا، ليغفر لنا خطايانا",
           "coptic": "Ⲁ̀ⲣⲓⲡ̀ⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲱ̀ ⲧⲉⲛϭⲟⲓⲥ ⲛ̀ⲛⲏⲃ ⲧⲏⲣⲉⲛ Ϯⲑⲉⲟ̀ⲧⲟⲕⲟⲥ: Ⲙⲁⲣⲓⲁ Ⲑ̀ⲙⲁⲩ ⲙ̀Ⲡⲉⲛⲥⲱⲧⲏⲣ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ",
-          "coptic_english": "Ari-epresvevin eh-ehri egon: o tenchois en-nev tee-ren tee theotokos:\nMaria ethmav empensoteer: entef ka nennovi nan evol"
+          "coptic_english": "Ari-epresvevin eh-ehri egon: o tenchois en-nev tee-ren tee theotokos:\nMaria ethmav empensoteer: entef ka nennovi nan evol",
+          "coptic_arabic": ""
         },
         {
           "english": "Intercede on our behalf, O holy archangel, Michael the head of the heavenly, that He may forgive us our sins",
           "arabic": "اشفع فينا أمام الرب يا رئيس الملائكة الطاهر ميخائيل رئيس السمائيين ليغفر لنا خطايانا",
           "coptic": "Ⲁⲣⲓⲡⲣⲉⲥⲃⲉⲩⲓⲛ ⲉ̀ϩ̀ⲣⲏⲓ ⲉϫⲱⲛ: ⲱ ⲡⲓⲁ̀ⲣⲭⲏⲁ̀ⲅⲅⲉⲗⲟⲥ ⲉ̅ⲑ̅ⲩ̅: Ⲙⲓⲭⲁⲏⲗ ⲡ̀ⲁ̀ⲣⲭⲱⲛ ⲛ̀ⲛⲁ ⲛⲓⲫⲏⲟⲩⲓ: ⲛ̀ⲧⲉϥⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ",
-          "coptic_english": "Ari-epresvevin eh-ehri egon: o pi-arshe angelos ethowap:\nmikhaeel eparkhon en-na-nifee-owi: entef ka nennovi nan evol"
+          "coptic_english": "Ari-epresvevin eh-ehri egon: o pi-arshe angelos ethowap:\nmikhaeel eparkhon en-na-nifee-owi: entef ka nennovi nan evol",
+          "coptic_arabic": ""
         },
         {
           "english": "Pray to the Lord on our behalf, O my lords and fathers who loved their children, Abba Pishoy and Abba Paul, that He may forgive us our sins",
           "arabic": "طلبا من ربنا عنا، يا سيدي الأبوين، محبي أولادهما، أنبا بيشوي وأنبا بولا، ليغفر لنا خطايانا",
           "coptic": "Ⲧⲱⲃϩ ⲙ̀Ⲡⲟ̅ⲥ̅ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ: ⲱ̀ ⲛⲁⲟ̅ⲥ̅ ⲛ̀ⲓⲟϯ ⲙ̀ⲙⲁⲓⲛⲟⲩϣⲏⲣⲓ: ⲁⲃⲃⲁ Ⲡⲓϣⲱⲓ ⲛⲉⲙ ⲁⲃⲃⲁ Ⲡⲁⲩⲗⲉ: ⲛ̀ⲧⲉϥ ⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ",
-          "coptic_english": "Tov em-epchois eh-ehri egon: o nachois en-yote em-maino-sheeri:\nAvva Pishoy nem Avva Pavle: entef ka nennovi nan evol"
+          "coptic_english": "Tov em-epchois eh-ehri egon: o nachois en-yote em-maino-sheeri:\nAvva Pishoy nem Avva Pavle: entef ka nennovi nan evol",
+          "coptic_arabic": ""
         },
         {
           "english": "Blessed be the Father and the Son, / and the Holy Spirit, / the perfect Trinity, / we worship Him and glorify Him",
           "arabic": "لأنه مبارك الآب والإبن، والروح القدس، الثالوث الكامل، نسجد له ونمجده",
           "coptic": "Ϫⲉ ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ Ⲫ̀ⲓⲱⲧ ⲛⲉⲙ Ⲡ̀ϣⲏⲣⲓ: ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ Ⲉⲑⲟⲩⲁⲃ: Ϯⲧ̀ⲣⲓⲁⲥ ⲉⲧϫⲏⲕ ⲉ̀ⲃⲟⲗ: ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲥ ⲧⲉⲛϯⲱ̀ⲟⲩ ⲛⲁⲥ",
-          "coptic_english": "Je ef-esmar-o-ot enje efiot nem ep-sheeri: nem pi-epnevma ethowab:\ntee-etriac etjeek evol: ten-o-osht em-moc tentee-oo nac"
+          "coptic_english": "Je ef-esmar-o-ot enje efiot nem ep-sheeri: nem pi-epnevma ethowab:\ntee-etriac etjeek evol: ten-o-osht em-moc tentee-oo nac",
+          "coptic_arabic": ""
         }
       ]
     }

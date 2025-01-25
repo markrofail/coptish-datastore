@@ -9,10 +9,12 @@ sections:
         arabic: إرحمنا يا الله الآب ضابط الكل. أيها الثالوث القدوس إرحمنا
         coptic: Ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ ⲟ̀ Ⲑⲉⲟⲥ ⲟ̀ Ⲡⲁⲧⲏⲣ ⲟ̀ Ⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ. Ⲡⲁⲛⲁ̀ⲅⲓⲁ Ⲧ̀ⲣⲓⲁⲥ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ ⲏ̀ⲙⲁⲥ
         coptic_english: ''
+        coptic_arabic: ''
       - english: O Lord, God of hosts, be with us, for we have no helper in our tribulations and afflictions but You
         arabic: أيها الرب إله القوات كن معنا، لأنه ليس لنا معين في شدائدنا وضيقاتنا سواك
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: priest
     type: verses
     verses:
@@ -20,6 +22,7 @@ sections:
         arabic: وإجعلنا مستحقين أن نقول بشكر
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: people
     type: verses
     verses:
@@ -27,18 +30,22 @@ sections:
         arabic: أبانا الذي في السموات، ليتقدس إسمك
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
       - english: Thy kingdom come. Thy will be done, on earth as it is in heaven
         arabic: ليأت ملكوتك. لتكن مشيئتك، كما في السماء كذلك على الأرض
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
       - english: Give us this day our daily bread; and forgive us our trespasses, as we forgive those who trespass against us; and lead us not into temptation, but deliver us from the evil one
         arabic: خبزنا كفافنا أعطنا اليوم. وأغفر لنا ذنوبنا، كما نغفر نحن أيضاً للمذنبين إلينا. ولا تدخلنا في تجربة، لكن نجنا من الشرير
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
       - english: In Christ Jesus our Lord, for Thine is the kingdom and the power and the glory forever. Amen
         arabic: بالمسيح يسوع ربنا، لأن لك الملك والقوة والمجد إلى الأبد. آمين
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: people
     type: verses
     verses:
@@ -46,6 +53,7 @@ sections:
         arabic: بالمسيح يسوع ربنا
         coptic: Ϧⲉⲛ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ
         coptic_english: Khen Pikhrestos Esos pen-shois
+        coptic_arabic: ''
   - speaker: deacon
     type: verses
     verses:
@@ -53,6 +61,7 @@ sections:
         arabic: إحنوا رؤوسكم للرب
         coptic: Ⲧⲁⲥ ⲕⲉⲫⲁⲗⲁⲥ ⲩ̀ⲙⲱⲛ ⲧⲱ Ⲕⲩⲣⲓⲱ ⲕ̀ⲗⲓⲛⲁⲧⲉ
         coptic_english: Tas-kee-falas emon to Kerio eklinate
+        coptic_arabic: ''
   - speaker: people
     type: verses
     verses:
@@ -60,6 +69,7 @@ sections:
         arabic: أمامك يا رب
         coptic: Ⲉ̀ⲛⲱⲡⲓⲟⲛ ⲥⲟⲩ Ⲕⲩⲣⲓⲉ
         coptic_english: Eno pion Kerie
+        coptic_arabic: ''
   - speaker: deacon
     type: verses
     verses:
@@ -67,6 +77,7 @@ sections:
         arabic: أنصتوا بخوف الله. آمين
         coptic: Ⲡ̀ⲣⲟⲥⲭⲱⲙⲉⲛ Ⲑⲉⲟⲩ ⲙⲉⲧⲁ ⲫⲟⲃⲟⲩ. Ⲁ̀ⲙⲏⲛ
         coptic_english: Epros-khomen Theo meta fovo. Amen
+        coptic_arabic: ''
   - speaker: priest
     type: verses
     verses:
@@ -74,6 +85,7 @@ sections:
         arabic: السلام لجميعكم
         coptic: Ⲓ̀ⲣⲏⲛⲏ ⲡⲁⲥⲓ
         coptic_english: Ee-ree-nee pasi
+        coptic_arabic: ''
   - speaker: people
     type: verses
     verses:
@@ -81,3 +93,4 @@ sections:
         arabic: ولروحك أيضاً
         coptic: Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ
         coptic_english: Ke to pnevmati soo
+        coptic_arabic: ''

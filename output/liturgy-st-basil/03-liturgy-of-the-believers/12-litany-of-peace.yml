@@ -9,6 +9,7 @@ sections:
         arabic: أذكر يا رب سلام كنيستك الواحدة، الوحيدة المقدسة، الجامعة الرسولية
         coptic: Ⲁ̀ⲣⲓⲫ̀ⲙⲉⲩⲓ Ⲡ̀ϭⲟⲓⲥ ⲛ̀ϯϩⲓⲣⲏⲛⲏ ⲛ̀ⲧⲉ ⲧⲉⲕⲟⲩⲓ̀ ⲙ̀ⲙⲁⲩⲁⲧⲥ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲕⲁⲑⲟⲗⲓⲕⲏ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏ ⲛ̀Ⲉⲕⲕⲗⲏⲥⲓⲁ
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: deacon
     type: verses
     verses:
@@ -16,6 +17,7 @@ sections:
         arabic: صلوا من أجل سلام الواحدة المقدسة الجامعة الرسولية كنيسة الله الأرثوذكسية
         coptic: Ⲡ̀ⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲏⲥ ⲓ̀ⲣⲏⲛⲏⲥ ⲧⲏⲥ ⲁ̀ⲅⲓⲁⲥ ⲙⲟⲛⲏⲥ ⲕⲁⲑⲟⲗⲓⲕⲏⲥ ⲕⲉ ⲁ̀ⲡⲟⲥⲧⲟⲗⲓⲕⲏⲥ ⲟⲣⲑⲟⲇⲟⲝⲟⲩ ⲧⲟⲩ Ⲑⲉⲟⲩ Ⲉⲕⲕⲗⲏⲥⲓⲁⲥ
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: people
     type: verses
     verses:
@@ -23,6 +25,7 @@ sections:
         arabic: يا ربُّ إرحَم
         coptic: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: priest
     type: verses
     verses:
@@ -30,7 +33,9 @@ sections:
         arabic: هذه التي اقتنيتها لك بالدم الكريم الذي لمسيحك
         coptic: Ⲑⲁⲓ ⲉ̀ⲧⲁⲕϫ̀ⲫⲟⲥ ⲛⲁⲕ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲉⲛ Ⲡⲓⲥ̀ⲛⲟϥ ⲉⲧⲧⲁⲓⲏ̀ⲟⲩⲧ ⲛ̀ⲧⲉ Ⲡⲉⲕⲭ̀ⲣⲓⲥⲧⲟⲥ
         coptic_english: ''
+        coptic_arabic: ''
       - english: keep her in peace, with all the orthodox bishops who are in her
         arabic: إحفظها بسلام، وكل الأساقفة الأرثوذكسيين الذين فيها
         coptic: Ⲁ̀ⲣⲉϩ ⲉ̀ⲣⲟⲥ ϧⲉⲛ ⲟⲩϩⲓⲣⲏⲛⲏ ⲛⲉⲙ ⲛⲓⲉ̀ⲡⲓⲥⲕⲟⲡⲟⲥ ⲧⲏⲣⲟⲩ ⲛ̀ⲟⲣⲑⲟⲇⲟⲝⲟⲥ ⲉ̀ⲧⲉ ⲛ̀ϧⲏⲧⲥ
         coptic_english: ''
+        coptic_arabic: ''

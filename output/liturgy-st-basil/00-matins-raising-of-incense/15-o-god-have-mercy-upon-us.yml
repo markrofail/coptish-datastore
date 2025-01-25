@@ -9,6 +9,7 @@ sections:
         arabic: اللهُمَّ إرحمنا، قرر لنا رحمة، تراءف علينا
         coptic: ϣⲉⲛϩⲏⲧ ϧⲁⲣⲟⲛ
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: people
     type: verses
     verses:
@@ -16,6 +17,7 @@ sections:
         arabic: آمين
         coptic: Ⲁ̀ⲙⲏⲛ
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: priest
     type: verses
     verses:
@@ -23,6 +25,7 @@ sections:
         arabic: وإسمعنا
         coptic: Ⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲛ
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: people
     type: verses
     verses:
@@ -30,6 +33,7 @@ sections:
         arabic: آمين
         coptic: Ⲁ̀ⲙⲏⲛ
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: priest
     type: verses
     verses:
@@ -37,6 +41,7 @@ sections:
         arabic: وباركنا وإحفظنا وأعنا
         coptic: Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲛ ⲁ̀ⲣⲉϩ ⲉ̀ⲣⲟⲛ ⲁ̀ⲣⲓⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲛ
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: people
     type: verses
     verses:
@@ -44,6 +49,7 @@ sections:
         arabic: آمين
         coptic: Ⲁ̀ⲙⲏⲛ
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: priest
     type: verses
     verses:
@@ -51,6 +57,7 @@ sections:
         arabic: وإرفع غضبك عنا، وإفتقدنا بخلاصك، وإغفر لنا خطايانا
         coptic: Ⲱ̀ⲗⲓ ⲙ̀ⲡⲉⲕϫⲱⲛⲧ ⲉ̀ⲃⲟⲗ ϩⲁⲣⲟⲛ ϫⲉⲙⲡⲉⲛϣⲓⲛⲓ ϧⲉⲛ ⲡⲉⲕⲟⲩϫⲁⲓ ⲟⲩⲟϩ ⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: people
     type: verses
     verses:
@@ -58,10 +65,12 @@ sections:
         arabic: آمين
         coptic: Ⲁ̀ⲙⲏⲛ
         coptic_english: ''
+        coptic_arabic: ''
       - english: Lord have mercy. Lord have mercy. Lord have mercy
         arabic: يا ربُّ إرحَم. يا ربُّ إرحَم. يا ربُّ إرحَم
         coptic: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ. Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ. Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ
         coptic_english: Kerie leison. Kerie leison. Kerie leison
+        coptic_arabic: ''
   - speaker: priest
     type: verses
     verses:
@@ -69,6 +78,7 @@ sections:
         arabic: صلوا
         coptic: Ϣ̀ⲗⲏⲗ
         coptic_english: Esh-leel
+        coptic_arabic: ''
   - speaker: deacon
     type: verses
     verses:
@@ -76,6 +86,7 @@ sections:
         arabic: للصلاة قفوا
         coptic: Ⲉ̀ⲡⲓ ⲡ̀ⲣⲟⲥⲉⲩⲭⲏ ⲥ̀ⲧⲁⲑⲏⲧⲉ
         coptic_english: E-pi eprosevki es-tathee te
+        coptic_arabic: ''
   - speaker: priest
     type: verses
     verses:
@@ -83,6 +94,7 @@ sections:
         arabic: السلام لجميعكم
         coptic: Ⲓ̀ⲣⲏⲛⲏ ⲡⲁⲥⲓ
         coptic_english: Ee-ree-nee pasi
+        coptic_arabic: ''
   - speaker: people
     type: verses
     verses:
@@ -90,3 +102,4 @@ sections:
         arabic: ولروحك أيضاً
         coptic: Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ
         coptic_english: Ke to pnevmati soo
+        coptic_arabic: ''

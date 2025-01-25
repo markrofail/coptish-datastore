@@ -19,6 +19,9 @@ sections:
           Ai-nahti ethve fai, ai-saji khen ou-gom, ethve pek-nishti ennai, Epshois ente ni-gom.
 
           Voithin eroi pashois, Esos pi-ref-shenhit, ethriti-ow-ou enta-shois, tek-mav en-shelet.
+        coptic_arabic: |-
+          آمناهتي إثفي فاي: آيساجي خين أوجوم: إثفي بيكنيشتي إنناي: إبشويس إنتي نيجوم.
+          بوإيثين إروي باشويس: إيسوس بيريفشينهيت: إثريتي أوأو إنتاشويس: تيكماف إنشيليت.
       - english: |-
           For truly, this Virgin, who is full of honor, was greatly exalted. 
 
@@ -34,6 +37,9 @@ sections:
           Ge ghar alithos, asit-shisi ema-show, enje tai Parthenos, ethmeh en-taio.
 
           Daveed af-saji eth-vits, je apshois sowtp en-Seion, afei af-shopi en-khits, sha-entef-sowti emmon.
+        coptic_arabic: |-
+          جي غار آليثوس: آسشيسي إماشو: إنجي تايبارثينوس: إثميه إنتايو.
+          دافيد آفساجي إثفيتس: جي آبشويس سوتب إنسيون: آفئي آفشوبي إنخيتس: شا إنتيفسوتي إممون.
       - english: |-
           This is Mary, who brought unto us, the eternal, freedom.
 
@@ -49,6 +55,9 @@ sections:
           Ei-te thai te Maria, ei-tas-eini sharon, enti-eilev-theria, en-ei-owneion.
 
           Zakharias afgos, je ti-likhinia ennoub, thr-eitav-thameios, khen han-jig ennoub.
+        coptic_arabic: |-
+          إتي ثاي تي ماريا: إتاسئيني شارون: إنتي إليثيريا: إن إيأونيون.
+          زاخارياس آفجوس: جي تي ليخنيا إننوب: ثي إتافثاميوس: خين هانجيج إننوب.
       - english: |-
           Isaiah said to us, with a joyful voice, that "She will give birth to, Emmanuel for us." 
 
@@ -64,6 +73,9 @@ sections:
           Esa-eiyas afgos nan, khen ou-esmi en-thelil, je es-ei-misi nan, Enemmano-eel.
 
           Thai te Yero-salim, etpolis Em-pennouti, ep-harma en-ni-Sherubim, et-oi en-otho enriti.
+        coptic_arabic: |-
+          إيسائياس آفجوس نان: خين أوإسمي إنثيليل: جي إسئيميسي نان: إن إممانوئيل.
+          ثاي تي يروساليم: إتبوليس إمبيننوتي: إبهارما إن نيخيروبيم: إتوي إنأوثو إنريتي.
       - english: |-
           Ezekiel has witnessed, and revealed this to us, saying "I saw a door, to the east.
 
@@ -79,6 +91,9 @@ sections:
           Ezekeil af-er-methre, af-ou-onh nan emfai, je ai-nav ei-ou-pili, ensani-manshai.
 
           Kirios pi-ref-nohem, afshe e-khon sharos, as-ohi es-shotem, em-pes riti kalows.
+        coptic_arabic: |-
+          يزيكييل آفئيرميثري: آفؤونه نان إمفاي: جي آيناف إأوبيلي: إنسا نيمانشاي.
+          كيريوس بيريفنوهيم: آفشي إخون شاروس: آسأوهي إسشوتيم: إمبيسريتي كالوس.
       - english: |-
           All the nations sing, with different tongues, to the Theotokos, the Mother of the Messiah. 
 
@@ -94,6 +109,9 @@ sections:
           Laos niven se-hos, nem ni-aspi enlas, e-ti-Theotokos, ethmav em-Masias.
 
           Maria ti-semne, ep-ou-nof enni-zikeous, owoh en-a-lithini, efrashi enni-pistos.
+        coptic_arabic: |-
+          لاؤس نيفين سيهوس: نيم نيآسبي إنلاس: إتي ثيؤطوكوس: إثماف إمماسياس.
+          ماريا تي سيمني: إبؤنوف إن نيذيكيؤس: أووه إن آليثيني: إفراشي إن نيبيستوس.
       - english: |-
           You are the tabernacle, and the ark, which Moses has made, with great honor.
 
@@ -109,6 +127,9 @@ sections:
           Entho te-ti-eskini, e-ta Moysis thamios, khen ou-nishti en-timi, owoh enti-kivo-tos.
 
           Etsa epshoi enni-mev-e, en-e-pouranion, enje pai-hob en-eshfiri, ente pi-eilas-terion.
+        coptic_arabic: |-
+          إنثو تي تي إسكيني: إتا مويسيس ثاميوس: خين أونيشتي إنتيمي: أووه إنتي كيفوتوس.
+          نا إبشوي إنيميفئي: إن إبورانيون: إنجي باي هوب إن إشفيري: إنتي بي إيلاستيريون.
       - english: |-
           Great is the glory, of your virginity, O full of glory, O Saint Mary. 
 
@@ -124,6 +145,9 @@ sections:
           Ou-nishti pe ep-ow-ou, ente ti-parthineia, ew-thia-ethmeh en-ow-ou, ti-agia Maria.
 
           Pistam-nos etta-iout, owoh ti-likhneia, ti-shouri et-touveioot, ethmeh enevlogia.
+        coptic_arabic: |-
+          أونيشتي بي إبؤأو: إنتي تيبارثينيا: أو ثي إثميه إن أوأو: تي آجيا ماريا.
+          بي إستامنوس إتتايوت: أووه تي ليخنيا: تي شوري إتتوفيوت: إثميه إن إفلوجيا.
       - english: |-
           All the high names, of the incorporeal, did not reach the height, of your blessedness. 
 
@@ -139,6 +163,9 @@ sections:
           Ran niven etit-shosi, ente ni-asow-matos, empou eshvoh epchisi, ente ne-makaris-mos.
 
           Seten-thownti epishvowt, ente A-aron, e-taf-firi evol afrowt, owoh afti-karpon.
+        coptic_arabic: |-
+          ران نيفين إتشوسي: إنتي ني آسوماتوس: إمبو إشفوه إبشيسي: إنتي نيماكاريسموس.
+          سي تين ثونتي إبي إشفوت: إنتي آآرون: إتاففيري إفول آفروت: أووه آفتي كاربون.
       - english: |-
           You are exalted, more than the Cherubim, and honored more, than the Seraphim. 
 
@@ -154,6 +181,9 @@ sections:
           Tit-shosi e-ma-show, eihoteni-Sherubim, ti-tayout enhou-o, en-ni-Seraphim.
 
           Ei-yos Theos pennouti, ari-misi emmof, tenti-ow-ou naf hos nouti, owoh ten-ou-owsht emmof.
+        coptic_arabic: |-
+          تي شوسي إماشو: إهوتي نيخيروبيم: تي تايوت إنهوفو: إنيسيرافيم.
+          إيوس ثيؤس بيننوتي: آريميسي إمموف: تين تي أوأو ناف هوس نوتي: أووه تين أووشت إمموف.
       - english: |-
           He who abides in light, whom no one can approach, showed us His miracles, and you fed Him. 
 
@@ -171,6 +201,9 @@ sections:
           Shere ne Maria, tit-sherompi ethne-sows, ethmeh en-sophia,
 
           ethmav en-Esos Pekhrestos.
+        coptic_arabic: |-
+          في إتشوب خين بي أوويني: إن آتشخونت إروف: آفؤونه إن نيفميني: آريتي إروتي إروف.
+          شيري ني ماريا: تي إشرومبي إثنيسوس: إثميه إنسوفيا: إثماف إن إيسوس بيخريستوس.
       - english: |-
           For the rest of our days, we will praise you, O full of glory, and clothed with purity. 
 
@@ -186,3 +219,6 @@ sections:
           Ep-sepi ente nen-eiho-ou, ten-erfomin emmo, ow-thia-ethmeh en-ow-ou, te-golh empi-touvo.
 
           Ow-ou-enhit pi-mai-romi, e-ehri eijen pek-vowk, kow nan evol en-nennovi, owoh shop-ten erok.
+        coptic_arabic: |-
+          بسيبي إنتي نين إهوأو: تين إريفومين إممو: أو ثي إثميه إن أوأو: تيجوله إمبي توفو.
+          أوأونهيت بيمايرومي: إإهري إجين بيكفوك: كو نان إفول إن نيننوفي: أووه شوبتين إروك.

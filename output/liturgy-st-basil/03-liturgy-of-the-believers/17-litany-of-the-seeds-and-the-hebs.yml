@@ -14,6 +14,7 @@ sections:
         arabic: تفضل يا رب مياه النهر في هذه السنة، باركها
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: deacon
     type: verses
     verses:
@@ -21,6 +22,7 @@ sections:
         arabic: أُطلبوا عن صعود مياه الأنهار في هذا السنة، لكيْ يباركها المسيح إلهنا، ويصعدها كمقدارها، ويفرِّح وجه الأرض، ويعولنا نحن بني البشر، ويعطي النجاة للبهائم، ويغفر لنا خطايانا
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: people
     type: verses
     verses:
@@ -28,6 +30,7 @@ sections:
         arabic: يا ربُّ إرحَم (3)
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
   - type: info
     text:
       english: From Paapi 10 to Tobi 10 (October 20/21 to January 18/19), the Litany of the Plants is said
@@ -41,6 +44,7 @@ sections:
         arabic: تفضل يا رب، الزروع والعشب ونبات الحقل في هذه السنة، باركها
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: deacon
     type: verses
     verses:
@@ -48,6 +52,7 @@ sections:
         arabic: أُطلبوا عن الزروع والعشب ونبات الحقل، في هذه السنة، لكيْ يباركها المسيح إلهنا، لتنمو وتكثر إلى أن تكمل بثمرة عظيمة، ويتحنن على جبلته التي صنعتها يداه، ويغفر لنا خطايانا
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: people
     type: verses
     verses:
@@ -55,6 +60,7 @@ sections:
         arabic: يا ربُّ إرحَم (3)
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
   - type: info
     text:
       english: From Tobi 11 to Paoni 11 (January 19/20 to June 18), the Litany of the Fruits is said
@@ -68,6 +74,7 @@ sections:
         arabic: تفضل يا رب أهوية السماء وثمرات الأرض، في هذه السنة، باركها
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: deacon
     type: verses
     verses:
@@ -75,6 +82,7 @@ sections:
         arabic: أُطلبوا عن أهوية السماء، وثمرات الأرض والشجر والكروم، وكل شجرة مثمرة في كل المسكونة، لكي يباركها المسيح إلهنا، ويكملها سالمة بغير ألم، ويغفر لنا خطايانا
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: people
     type: verses
     verses:
@@ -82,6 +90,7 @@ sections:
         arabic: يا ربُّ إرحَم (3)
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
   - type: info
     text:
       english: The three litanies may be combined as follows
@@ -95,6 +104,7 @@ sections:
         arabic: تفضل يا رب أهوية السماء وثمرات الأرض صعود مياه الأنهار والزروع والعشب ونبات الحقل في هذه السنة، باركها
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: deacon
     type: verses
     verses:
@@ -102,6 +112,7 @@ sections:
         arabic: أُطلبوا عن أهوية السماء، وثمرات الأرض، وصعود مياه الأنهار، والزروع والعشب ونبات الحقل، في هذه السنة لكي يباركها المسيح إلهنا، ويتحنن على جبلته التي صنعتها يداه، ويغفر لنا خطايانا
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: people
     type: verses
     verses:
@@ -109,6 +120,7 @@ sections:
         arabic: يا ربُّ إرحَم (3)
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
   - type: info
     text:
       english: After any one of the litanies, the priest continues with the following
@@ -122,22 +134,27 @@ sections:
         arabic: اصعِدْها كمقدارِها كنعمَتِكَ، فَرِّحْ وجهَ الأرضِ، ليُرْوَ حرثُها ولتكثرَ أثمارُها
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
       - english: Prepare it for sowing and harvesting. Manage our lives as deemed fit
         arabic: أعِدَّها للزرعِ والحصادِ، ودَبِّر حياتَنا كما يليق
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
       - english: Bless the crown of the year with Your goodness for the sake of the poor of Your people, the widow, the orphan, the traveler, the stranger, and for the sake of all of us who entreat You and seek Your holy name
         arabic: بَارِكْ إكليلَ السنةِ بصلاحِكَ، من أجلِ فقراءِ شعبِكَ، من أجلِ الأرملةِ واليتيمِ والغريبِ والضيفِ، ومن أجلِنا كُلِّنا نحنُ الذين نرجوكَ ونطلبُ إسمَكَ القدوس
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
       - english: For the eyes of everyone wait upon You, for You give them their food in due season
         arabic: لأن أعينَ الكلِّ تترجاكَ، لأنَّكَ أنتَ الذي تُعطِيهم طعامَهم في حينٍ حسنٍ
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
       - english: Deal with us according to Your goodness, O You who give food to all flesh. Fill our hearts with joy and gladness, that we too, having sufficiency in everything always, may abound in every good deed
         arabic: إصنع معنا حَسَبَ صلاحِكَ، يا مُعطِياً طعاماً لكلِّ جسدٍ. املأ قلوبَنا فرحاً ونعيماً، لكي نحنُ أيضاً إذ تكونَ لنا الكفايةُ في كلِّ شيءٍ، كلَّ حينٍ، نزدادَ في كلِّ عملٍ صالحٍ
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: people
     type: verses
     verses:
@@ -145,3 +162,4 @@ sections:
         arabic: يا ربُّ إرحَم
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''

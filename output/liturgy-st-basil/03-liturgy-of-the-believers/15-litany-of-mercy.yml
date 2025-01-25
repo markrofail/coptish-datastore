@@ -8,10 +8,12 @@ sections:
         arabic: وكل الخدام، وكل الذين في البتولية وطهارة كل شعبك المؤمن
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
       - english: (Remember, O Lord, to have mercy upon us all.)
         arabic: (أذكر يا رب أن ترحمنا كلنا معاً)
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: people
     type: verses
     verses:
@@ -19,3 +21,4 @@ sections:
         arabic: إرحمنا يا الله الآب، ضابط الكل
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''

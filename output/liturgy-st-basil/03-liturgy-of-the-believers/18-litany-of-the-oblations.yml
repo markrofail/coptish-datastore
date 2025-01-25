@@ -9,6 +9,7 @@ sections:
         arabic: أذكر يا رب الذين قدموا لك هذه القرابين، والذين قدمت عنهم، والذين قدمت بواسطتهم، اعطهم كلهم الأجر السمائي
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: deacon
     type: verses
     verses:
@@ -16,6 +17,7 @@ sections:
         arabic: صلوا من أجل هذه القرابين المقدسة الكريمة، وتقدماتنا، والذين قدموها
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
   - speaker: people
     type: verses
     verses:
@@ -23,3 +25,4 @@ sections:
         arabic: يا ربُّ إرحَم
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''

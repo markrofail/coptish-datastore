@@ -9,6 +9,7 @@ sections:
         arabic: بولس عبد ربنا يسوع المسيح. الرسول المدعو المفرز لكرازة الله
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
   - type: reading
     readingType: pauline-epistle
   - speaker: reader
@@ -18,3 +19,4 @@ sections:
         arabic: نعمة الله الآب تكون مع جميعكم آمين
         coptic: ''
         coptic_english: ''
+        coptic_arabic: ''
