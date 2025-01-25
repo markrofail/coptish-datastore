@@ -1,7 +1,7 @@
 import * as fs from 'fs'
 import * as path from 'path'
 
-export const LANGUAGES = ['english', 'arabic', 'coptic', 'coptic_english'] as const
+export const LANGUAGES = ['english', 'arabic', 'coptic', 'coptic_english', 'coptic_arabic'] as const
 export type Language = (typeof LANGUAGES)[number]
 
 export const LANGUAGE_CODE_MAP: Record<Language, string> = {
@@ -9,6 +9,7 @@ export const LANGUAGE_CODE_MAP: Record<Language, string> = {
     arabic: 'ar',
     coptic: 'co',
     coptic_english: 'co-en',
+    coptic_arabic: 'co-ar',
 }
 
 export type MultiLingualText = Record<Language, string>
