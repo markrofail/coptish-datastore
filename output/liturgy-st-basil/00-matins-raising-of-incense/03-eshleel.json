@@ -6,7 +6,7 @@
       "verses": [
         {
           "english": "Let us pray",
-          "arabic": "صلوا",
+          "arabic": "صلِّ",
           "coptic": "Ϣ̀ⲗⲏⲗ",
           "coptic_english": "Eshlil"
         }
@@ -18,7 +18,7 @@
       "verses": [
         {
           "english": "Stand up for prayer",
-          "arabic": "للصلاة قفوا",
+          "arabic": "للصلاةِ قِفُوا",
           "coptic": "Ⲉ̀ⲡⲓ ⲡ̀ⲣⲟⲥⲉⲩⲭⲏ ⲥ̀ⲧⲁⲑⲏⲧⲉ",
           "coptic_english": "Epi Epros evki es-tathee te"
         }
@@ -30,7 +30,7 @@
       "verses": [
         {
           "english": "Peace be with all",
-          "arabic": "السلام لجميعكم",
+          "arabic": "السلامُ للكُلِّ",
           "coptic": "Ⲓ̀ⲣⲏⲛⲏ ⲡⲁⲥⲓ",
           "coptic_english": "Ee-ree-nee pasi"
         }
@@ -42,7 +42,7 @@
       "verses": [
         {
           "english": "And with your spirit",
-          "arabic": "ولروحك أيضاً",
+          "arabic": "ولروحك أيضًا",
           "coptic": "Ⲕⲉ ⲧⲱ ⲡ̀ⲛⲉⲩⲙⲁⲧⲓ ⲥⲟⲩ",
           "coptic_english": "Ke to epnevmati so"
         }
