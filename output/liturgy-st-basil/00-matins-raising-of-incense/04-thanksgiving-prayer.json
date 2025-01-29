@@ -9,25 +9,81 @@
       "type": "verses",
       "verses": [
         {
-          "english": "Let us give thanks to the beneficent and merciful God, the Father of our Lord, God, and Savior Jesus Christ",
-          "arabic": "فلنشكر صانع الخيرات الرحوم : الله أبا ربنا وإلهنا ومخلصنا يسوع المسيح",
-          "coptic": "Ⲙⲁⲣⲉⲛϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧϥ ⲙ̀ⲡⲓⲣⲉϥⲉⲣⲡⲉⲑⲛⲁⲛⲉϥ ⲟⲩⲟϩ ⲛ̀ⲛⲁⲏⲧ Ⲫ̀ⲛⲟⲩϯ Ⲫ̀ⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ Ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅",
-          "coptic_english": "Maren-shepehmot entotf empiref-erpeth-nanev owoh enna-eet evnouti eyot empenchois owoh penoti owoh pensotir Isos pi-Ekhristos",
-          "coptic_arabic": "مارين شيب إهموت إنطوطف إم بي ريف إر بيثنانيف أووه إننائيت : إفنووتي إفيوت إم بين شويس أووه بين نووتي أووه بين سوتير إيسوس بي إخريستوس"
+          "english": "Let us give thanks to the beneficent and merciful:",
+          "arabic": "فلنشكر صانع الخيرات الرحوم :",
+          "coptic": "Ⲙⲁⲣⲉⲛϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧϥ ⲙ̀ⲡⲓⲣⲉϥⲉⲣⲡⲉⲑⲛⲁⲛⲉϥ ⲟⲩⲟϩ ⲛ̀ⲛⲁⲏⲧ:",
+          "coptic_english": "Maren-shepehmot entotf empiref-erpeth-nanev owoh enna-eet:",
+          "coptic_arabic": "مارين شيب إهموت إنطوطف إم بي ريف إر بيثنانيف أووه إننائيت :"
         },
         {
-          "english": "For He has covered us, helped us, guarded us, accepted us to Himself, spared us, supported us, and has brought us to this hour",
-          "arabic": "لأنه سترنا : وأعاننا : وحفظنا : وقبلنا إليه : وشفق علينا : وعضَّدنا وأتى بنا إلى هذه الساعة",
-          "coptic": "Ϫⲉ ⲁϥⲉⲣⲥ̀ⲕⲉⲡⲁⲍⲓⲛ ⲉ̀ϫⲱⲛ ⲁϥⲉⲣⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲛ ⲁϥⲁ̀ⲣⲉϩ ⲉ̀ⲣⲟⲛ ⲁϥϣⲟⲡⲧⲉⲛ ⲉ̀ⲣⲟϥ ⲁϥϯⲁ̀ⲥⲟ ⲉ̀ⲣⲟⲛ ⲁϥϯⲧⲟⲧⲉⲛ ⲁϥⲉⲛⲧⲉⲛ ϣⲁ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ⲧⲁⲓⲟⲩⲛⲟⲩ ⲑⲁⲓ",
-          "coptic_english": "Je Af-erske-pazin egon afer-voithin eron af-areh eron af-shopten erof afti-aso eron, afti-toten afenten sha e-ehrei etai-ono thai",
-          "coptic_arabic": "چيه أف إر إسكيه بازين إيه جون : أف إر ڤويثين إيرون : أف أريه إيرون : أف شوبتين إيروف : أف تي آسو إيرون : أف تي توتين أف إنتين شا إيه إهري إيه طاي أوو نوو ثاي"
+          "english": "God the Father of our Lord, God, and Savior Jesus Christ",
+          "arabic": "الله أبا ربنا وإلهنا ومخلصنا يسوع المسيح",
+          "coptic": "Ⲫ̀ⲛⲟⲩϯ Ⲫ̀ⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ Ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏ̅ⲥ̅ Ⲡⲭ̅ⲥ̅",
+          "coptic_english": "evnouti eyot empenchois owoh penoti owoh pensotir Isos pi-Ekhristos",
+          "coptic_arabic": "إفنووتي إفيوت إم بين شويس أووه بين نووتي أووه بين سوتير إيسوس بي إخريستوس"
         },
         {
-          "english": "Let us also ask Him, the Lord our God, the Pantocrator, to guard us in all peace this holy day and all the days of our life",
-          "arabic": "هو أيضًا فلنسأله أن يحفظنا في هذا اليوم المقدس وكل أيام حياتنا : بكل سلام : ضابط الكل الرب إلهنا",
-          "coptic": "Ⲛ̀ⲑⲟϥ ⲟⲛ ⲙⲁⲣⲉⲛϯϩⲟ ⲉ̀ⲣⲟϥ ϩⲟⲡⲱⲥ ⲛ̀ⲧⲉϥⲁ̀ⲣⲉϩ ⲉ̀ⲣⲟⲛ ϧⲉⲛ ⲡⲁⲓⲉ̀ϩⲟⲟⲩ ⲉⲑⲟⲩⲁⲃ ⲫⲁⲓ ⲛⲉⲙ ⲛⲓⲉ̀ϩⲟⲟⲩ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲉ ⲡⲉⲛⲱⲛϧ ϧⲉⲛ ϩⲓⲣⲏⲛⲏ ⲛⲓⲃⲉⲛ ⲛ̀ϫⲉ Ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ Ⲡ̀ϭⲟⲓⲥ Ⲡⲉⲛⲛⲟⲩϯ",
-          "coptic_english": "Enthof on maren-tiho erof hopos entef-areh eron khen pai-eh-ooo ethowab fai nem ni-eho-oo tiro ente pen-onkh khen hirini niven enje pi-pantokrator Epchois pennoti",
-          "coptic_arabic": "إنثوف أون مارين تيهو إيروف هوبوس إنتيف آريه إيرون خين باي إيه هو أوو إثؤواب فاي نيم ني إيه هو أوو تيروو إنتيه بين أونخ : خين هيريني نيڤين : إنچيه بي باندوكراطور إبشويس بين نووتي"
+          "english": "For He has covered us:",
+          "arabic": "لأنه سترنا :",
+          "coptic": "Ϫⲉ ⲁϥⲉⲣⲥ̀ⲕⲉⲡⲁⲍⲓⲛ ⲉ̀ϫⲱⲛ",
+          "coptic_english": "Je Af-erske-pazin egon:",
+          "coptic_arabic": "چيه أف إر إسكيه بازين إيه جون :"
+        },
+        {
+          "english": "helped us:",
+          "arabic": "وأعاننا :",
+          "coptic": "ⲁϥⲉⲣⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲛ",
+          "coptic_english": "afer-voithin eron:",
+          "coptic_arabic": "أف إر ڤويثين إيرون :"
+        },
+        {
+          "english": "guarded us:",
+          "arabic": "وحفظنا :",
+          "coptic": "ⲁϥⲁ̀ⲣⲉϩ ⲉ̀ⲣⲟⲛ",
+          "coptic_english": "af-areh eron:",
+          "coptic_arabic": "أف أريه إيرون :"
+        },
+        {
+          "english": "accepted us to Himself:",
+          "arabic": "وقبلنا إليه :",
+          "coptic": "ⲁϥϣⲟⲡⲧⲉⲛ ⲉ̀ⲣⲟϥ",
+          "coptic_english": "af-shopten erof:",
+          "coptic_arabic": "أف شوبتين إيروف :"
+        },
+        {
+          "english": "spared us:",
+          "arabic": "وشفق علينا :",
+          "coptic": "ⲁϥϯⲁ̀ⲥⲟ ⲉ̀ⲣⲟⲛ",
+          "coptic_english": "afti-aso eron:",
+          "coptic_arabic": "أف تي آسو إيرون :"
+        },
+        {
+          "english": "supported us, and has brought us to this hour",
+          "arabic": "وعضَّدنا وأتى بنا إلى هذه الساعة",
+          "coptic": "ⲁϥϯⲧⲟⲧⲉⲛ ⲁϥⲉⲛⲧⲉⲛ ϣⲁ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ⲧⲁⲓⲟⲩⲛⲟⲩ ⲑⲁⲓ",
+          "coptic_english": "afti-toten afenten sha e-ehrei etai-ono thai",
+          "coptic_arabic": "أف تي توتين أف إنتين شا إيه إهري إيه طاي أوو نوو ثاي"
+        },
+        {
+          "english": "Let us also ask Him, to guard us this holy day and all the days of our life:",
+          "arabic": "هو أيضًا فلنسأله أن يحفظنا في هذا اليوم المقدس وكل أيام حياتنا :",
+          "coptic": "Ⲛ̀ⲑⲟϥ ⲟⲛ ⲙⲁⲣⲉⲛϯϩⲟ ⲉ̀ⲣⲟϥ ϩⲟⲡⲱⲥ ⲛ̀ⲧⲉϥⲁ̀ⲣⲉϩ ⲉ̀ⲣⲟⲛ ϧⲉⲛ ⲡⲁⲓⲉ̀ϩⲟⲟⲩ ⲉⲑⲟⲩⲁⲃ ⲫⲁⲓ ⲛⲉⲙ ⲛⲓⲉ̀ϩⲟⲟⲩ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲉ ⲡⲉⲛⲱⲛϧ",
+          "coptic_english": "Enthof on maren-tiho erof hopos entef-areh eron khen pai-eh-ooo ethowab fai nem ni-eho-oo tiro ente pen-onkh:",
+          "coptic_arabic": "إنثوف أون مارين تيهو إيروف هوبوس إنتيف آريه إيرون خين باي إيه هو أوو إثؤواب فاي نيم ني إيه هو أوو تيروو إنتيه بين أونخ :"
+        },
+        {
+          "english": "in all peace:",
+          "arabic": "بكل سلام :",
+          "coptic": "ϧⲉⲛ ϩⲓⲣⲏⲛⲏ ⲛⲓⲃⲉⲛ",
+          "coptic_english": "khen hirini niven:",
+          "coptic_arabic": "خين هيريني نيڤين :"
+        },
+        {
+          "english": "the Lord our God, the Pantocrator",
+          "arabic": "ضابط الكل الرب إلهنا",
+          "coptic": "ⲛ̀ϫⲉ Ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ Ⲡ̀ϭⲟⲓⲥ Ⲡⲉⲛⲛⲟⲩϯ",
+          "coptic_english": "enje pi-pantokrator Epchois pennoti",
+          "coptic_arabic": "إنچيه بي باندوكراطور إبشويس بين نووتي"
         }
       ]
     },
@@ -62,11 +118,18 @@
       "type": "verses",
       "verses": [
         {
-          "english": "O Master, Lord, God the Pantocrator, the Father of our Lord, God, and Savior Jesus Christ",
-          "arabic": "أيها السيد الرب الإله ضابط الكل : أبو ربنا وإلهنا ومخلصنا يسوع المسيح",
-          "coptic": "Ⲫ̀ⲛⲏⲃ Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ Ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ Ⲫ̀ⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ Ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ",
-          "coptic_english": "Evneeb Epchois evnouti pi-pantocrator eviot empen-chois owoh pennoti owoh pensotir Isos pi-ekhristos",
-          "coptic_arabic": "إفنيب إبشويس إفنووتي بي باندوكراطور : إفيوت إم بين شويس أووه بين نووتي أووه بين سوتير إيسوس بي إخريستوس"
+          "english": "O Master, Lord, God the Pantocrator:",
+          "arabic": "أيها السيد الرب الإله ضابط الكل :",
+          "coptic": "Ⲫ̀ⲛⲏⲃ Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ Ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ:",
+          "coptic_english": "Evneeb Epchois evnouti pi-pantocrator:",
+          "coptic_arabic": "إفنيب إبشويس إفنووتي بي باندوكراطور :"
+        },
+        {
+          "english": "the Father of our Lord, God, and Savior Jesus Christ",
+          "arabic": "أبو ربنا وإلهنا ومخلصنا يسوع المسيح",
+          "coptic": "Ⲫ̀ⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ Ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ",
+          "coptic_english": "eviot empen-chois owoh pennoti owoh pensotir Isos pi-ekhristos",
+          "coptic_arabic": "إفيوت إم بين شويس أووه بين نووتي أووه بين سوتير إيسوس بي إخريستوس"
         },
         {
           "english": "We thank You for everything, concerning everything, and in everything",
@@ -76,11 +139,53 @@
           "coptic_arabic": "تين شيب إهموت إنطوطك كاطا هوب نيڤين نيم إثڤيه هوب نيڤين خين هوب نيڤين"
         },
         {
-          "english": "For You have covered us, helped us, guarded us, accepted us to Yourself, spared us, supported us, and have brought us to this hour",
-          "arabic": "لأنك سترتنا : وأعنتنا : وحفظتنا : وقبِلتنا إليك : وشفقت علينا : وعضَّدتنا : وأتيتَ بنا إلى هذه الساعة.",
-          "coptic": "Ϫⲉ ⲁⲕⲉⲣⲥ̀ⲕⲉⲡⲁⲍⲓⲛ ⲉ̀ϫⲱⲛ ⲁⲕⲉⲣⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲛ ⲁⲕⲁ̀ⲣⲉϩ ⲉ̀ⲣⲟⲛ ⲁⲕϣⲟⲡⲧⲉⲛ ⲉ̀ⲣⲟⲕ ⲁⲕϯⲁ̀ⲥⲟ ⲉ̀ⲣⲟⲛ ⲁⲕϯⲧⲟⲧⲉⲛ ⲁⲕⲉⲛⲧⲉⲛ ϣⲁ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ⲧⲁⲓⲟⲩⲛⲟⲩ ⲑⲁⲓ",
-          "coptic_english": "Je Akerske pazin egon ak-er-voithin eron ak-areh eron ak-shopten erok akti-aso eron akti-toten akenten sha e-hri etai-ono thai",
-          "coptic_arabic": "چيه أك إر إسكيه بازين إيجون : أك إر ڤويثين إيرون : أك آريه إيرون : أك شوبتين إيه روك : أكتي آسو إيرون : أك تي توتين : أك إنتين شا إيه إهري إيه طاي أوو نوو ثاي"
+          "english": "For You have covered us :",
+          "arabic": "لأنك سترتنا :",
+          "coptic": "Ϫⲉ ⲁⲕⲉⲣⲥ̀ⲕⲉⲡⲁⲍⲓⲛ ⲉ̀ϫⲱⲛ :",
+          "coptic_english": "Je Akerske pazin egon :",
+          "coptic_arabic": "چيه أك إر إسكيه بازين إيجون :"
+        },
+        {
+          "english": "helped us :",
+          "arabic": "وأعنتنا :",
+          "coptic": "ⲁⲕⲉⲣⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲛ :",
+          "coptic_english": "ak-er-voithin eron :",
+          "coptic_arabic": "أك إر ڤويثين إيرون :"
+        },
+        {
+          "english": "guarded us :",
+          "arabic": "وحفظتنا :",
+          "coptic": "ⲁⲕⲁ̀ⲣⲉϩ ⲉ̀ⲣⲟⲛ :",
+          "coptic_english": "ak-areh eron :",
+          "coptic_arabic": "أك آريه إيرون :"
+        },
+        {
+          "english": "accepted us to Yourself :",
+          "arabic": "وقبِلتنا إليك :",
+          "coptic": "ⲁⲕϣⲟⲡⲧⲉⲛ ⲉ̀ⲣⲟⲕ :",
+          "coptic_english": "ak-shopten erok :",
+          "coptic_arabic": "أك شوبتين إيه روك :"
+        },
+        {
+          "english": "spared us :",
+          "arabic": "وشفقت علينا :",
+          "coptic": "ⲁⲕϯⲁ̀ⲥⲟ ⲉ̀ⲣⲟⲛ :",
+          "coptic_english": "akti-aso eron :",
+          "coptic_arabic": "أكتي آسو إيرون :"
+        },
+        {
+          "english": "supported us :",
+          "arabic": "وعضَّدتنا :",
+          "coptic": "ⲁⲕϯⲧⲟⲧⲉⲛ :",
+          "coptic_english": "akti-toten :",
+          "coptic_arabic": "أك تي توتين :"
+        },
+        {
+          "english": "and have brought us to this hour :",
+          "arabic": "وأتيتَ بنا إلى هذه الساعة",
+          "coptic": "ⲁⲕⲉⲛⲧⲉⲛ ϣⲁ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ⲧⲁⲓⲟⲩⲛⲟⲩ ⲑⲁⲓ",
+          "coptic_english": "akenten sha e-hri etai-ono thai",
+          "coptic_arabic": "أك إنتين شا إيه إهري إيه طاي أوو نوو ثاي"
         }
       ]
     },
@@ -89,11 +194,39 @@
       "type": "verses",
       "verses": [
         {
-          "english": "Pray that God may have mercy and compassion on us, hear us, help us and accept the supplications and prayers of His saints, for that which is good on our behalf at all times",
-          "arabic": "اُطلبوا لكي يرحمنا الله : ويتراءف علينا : ويسمعنا : ويعيننا : ويقبل سؤالات وطلبات قديسيه منهم بالصلاح عنا في كل حين :.",
-          "coptic": "Ⲧⲱⲃϩ ϩⲓⲛⲁ ⲛ̀ⲧⲉ Ⲫ̀ⲛⲟⲩϯ ⲛⲁⲓ ⲛⲁⲛ ⲛ̀ⲧⲉϥϣⲉⲛϩⲏⲧ ϧⲁⲣⲟⲛ ⲛ̀ⲧⲉϥⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲛ ⲛ̀ⲧⲉϥⲉⲣⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲛ ⲛ̀ⲧⲉϥϭⲓ ⲛ̀ⲛⲓϯϩⲟ ⲛⲉⲙ ⲛⲓⲧⲱⲃϩ ⲛ̀ⲧⲉ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲁϥ ⲛ̀ⲧⲟⲧⲟⲩ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ ⲉ̀ⲡⲓⲁ̀ⲅⲁⲑⲟⲛ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ",
-          "coptic_english": "Tobh hina ente Evnouty nai nan. entef shenheet kharon entef sotem eron. entef ervoithin eron. entef echi khen nityho nem nitobh. ente ni Ethowab entak, entoto e ehri egon epi aghathon ensio niven",
-          "coptic_arabic": "طوبه هينا إنتيه إفنووتي ناي نان : إنتيف شينهيت خارون : إنتيف سوتيم إيرون : إنتيف إر ڤويثين إيرون : إنتيف تشي إن ني تيهو نيم ني طوبه إنتيه ني إثؤواب إنطاك إنطو طوو إيه إهري إيجون إيه بي آغاثون إن سيوو نيڤين :"
+          "english": "Pray that God may have mercy:",
+          "arabic": "اُطلبوا لكي يرحمنا الله :",
+          "coptic": "Ⲧⲱⲃϩ ϩⲓⲛⲁ ⲛ̀ⲧⲉ Ⲫ̀ⲛⲟⲩϯ ⲛⲁⲓ ⲛⲁⲛ:",
+          "coptic_english": "Tobh hina ente Evnouty nai nan:",
+          "coptic_arabic": "طوبه هينا إنتيه إفنووتي ناي نان :"
+        },
+        {
+          "english": "and compassion on us:",
+          "arabic": "ويتراءف علينا :",
+          "coptic": "ⲛ̀ⲧⲉϥϣⲉⲛϩⲏⲧ ϧⲁⲣⲟⲛ:",
+          "coptic_english": "entef shenheet kharon:",
+          "coptic_arabic": "إنتيف شينهيت خارون :"
+        },
+        {
+          "english": "hear us:",
+          "arabic": "ويسمعنا :",
+          "coptic": "ⲛ̀ⲧⲉϥⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲛ:",
+          "coptic_english": "entef sotem eron:",
+          "coptic_arabic": "إنتيف سوتيم إيرون :"
+        },
+        {
+          "english": "help us:",
+          "arabic": "ويعيننا :",
+          "coptic": "ⲛ̀ⲧⲉϥⲉⲣⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲛ:",
+          "coptic_english": "entef ervoithin eron:",
+          "coptic_arabic": "إنتيف إر ڤويثين إيرون :"
+        },
+        {
+          "english": "and accept the supplications and prayers of His saints, for that which is good on our behalf at all times:",
+          "arabic": "ويقبل سؤالات وطلبات قديسيه منهم بالصلاح عنا في كل حين",
+          "coptic": "ⲛ̀ⲧⲉϥϭⲓ ⲛ̀ⲛⲓϯϩⲟ ⲛⲉⲙ ⲛⲓⲧⲱⲃϩ ⲛ̀ⲧⲉ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲁϥ ⲛ̀ⲧⲟⲧⲟⲩ ⲉ̀ϩ̀ⲣⲏⲓ ⲉ̀ϫⲱⲛ ⲉ̀ⲡⲓⲁ̀ⲅⲁⲑⲟⲛ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ:",
+          "coptic_english": "entef echi khen nityho nem nitobh. ente ni Ethowab entak, entoto e ehri egon epi aghathon ensio niven:",
+          "coptic_arabic": "إنتيف تشي إن ني تيهو نيم ني طوبه إنتيه ني إثؤواب إنطاك إنطو طوو إيه إهري إيجون إيه بي آغاثون إن سيوو نيڤين :"
         },
         {
           "english": "And forgive us our sins",
@@ -122,30 +255,79 @@
       "type": "verses",
       "verses": [
         {
-          "english": "Therefore, we ask and entreat Your goodness, O Lover of Mankind, grant us to complete this holy day and all the days of our life in all peace with Your fear",
-          "arabic": "من أجل هذا نسأل ونطلب من صلاحك يا محب البشر : امنحنا أن نكمل هذا اليوم المقدس : وكل أيام حياتنا : بكل سلامٍ مع خوفك",
-          "coptic": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛϯϩⲟ ⲟⲩⲟϩ ⲧⲉⲛⲧⲱⲃϩ ⲛ̀ⲧⲉⲕⲙⲉⲧⲁ̀ⲅⲁⲑⲟⲥ Ⲡⲓⲙⲁⲓⲣⲱⲙⲓ ⲙⲏⲓⲥ ⲛⲁⲛ ⲉⲑⲣⲉⲛϫⲱⲕ ⲉ̀ⲃⲟⲗ ⲙ̀ⲡⲁⲓ ⲕⲉ ⲉ̀ϩⲟⲟⲩ ⲉⲑⲟⲩⲁⲃ ⲫⲁⲓ ⲛⲉⲙ ⲛⲓⲉ̀ϩⲟⲟⲩ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲉ ⲡⲉⲛⲱⲛϧ ϧⲉⲛ ϩⲓⲣⲏⲛⲏ ⲛⲓⲃⲉⲛ ⲛⲉⲙ ⲧⲉⲕϩⲟϯ",
-          "coptic_english": "Ethve fai tenty ho owoh tentobh entek met agha-thos pi mai romy, meis nan ethrengok evol khen pai ke eho-o Ethowab fai, nem ni eho-o Ethowab fai, nem ni eho-o tiro ente pen onkh, khen hiriny niven nem tekhoty",
-          "coptic_arabic": "إثڤيه فاي تين تيهو أووه تين طوبه إن تيك ميت أغاثوس بي ماي رومي : ميس نان إثرين جوك إيڤول إم باي كيه إيهوؤو إثؤواب فاي : نيم ني إيهوؤو تيروو إنتيه بين أونخ : خين هيريني نيڤين نيم تيك هوتي"
+          "english": "Therefore, we ask and entreat Your goodness, O Lover of Mankind:",
+          "arabic": "من أجل هذا نسأل ونطلب من صلاحك يا محب البشر :",
+          "coptic": "Ⲉⲑⲃⲉ ⲫⲁⲓ ⲧⲉⲛϯϩⲟ ⲟⲩⲟϩ ⲧⲉⲛⲧⲱⲃϩ ⲛ̀ⲧⲉⲕⲙⲉⲧⲁ̀ⲅⲁⲑⲟⲥ Ⲡⲓⲙⲁⲓⲣⲱⲙⲓ:",
+          "coptic_english": "Ethve fai tenty ho owoh tentobh entek met agha-thos pi mai romy:",
+          "coptic_arabic": "إثڤيه فاي تين تيهو أووه تين طوبه إن تيك ميت أغاثوس بي ماي رومي :"
         },
         {
-          "english": "All envy, all temptation, all the work of Satan, the counsel of wicked men and the rising up of enemies, hidden and manifest",
-          "arabic": "كل حسد : وكل تجربة : وكل فعل الشيطان : ومؤامرة الناس الأشرار : وقيام الأعداء الخفيين والظاهرين.",
-          "coptic": "Ⲫ̀ⲑⲟⲛⲟⲥ ⲛⲓⲃⲉⲛ ⲡⲓⲣⲁⲥⲙⲟⲥ ⲛⲓⲃⲉⲛ ⲉ̀ⲛⲉⲣⲅⲓⲁ ⲛⲓⲃⲉⲛ ⲛ̀ⲧⲉ Ⲡ̀ⲥⲁⲧⲁⲛⲁⲥ ⲡ̀ⲥⲟϭⲛⲓ ⲛ̀ⲧⲉ ϩⲁⲛⲣⲱⲙⲓ ⲉⲩϩⲱⲟⲩ ⲛⲉⲙ ⲡ̀ⲧⲱⲛϥ ⲉ̀ⲡ̀ϣⲱⲓ ⲛ̀ⲧⲉ ϩⲁⲛϫⲁϫⲓ ⲛⲏⲉⲧϩⲏⲡ ⲛⲉⲙ ⲛⲏⲉⲑⲟⲩⲱⲛϩ ⲉ̀ⲃⲟⲗ",
-          "coptic_english": "Efthonos niven pirasmos niven en ergia niven ente epsatanas, epsotchni ente han romy efho-o nem eptonf e-epshoi ente han gagi ni entheeb nem ni eth-o-onh evol",
-          "coptic_arabic": "إف ثونوس نيڤين : بي راسموس نيڤين : إن إرجيا نيڤين إنتيه إبصاطاناس : إبسوتشني إنتيه هان رومي إفهو أوو : نيم إبطونف إيه إبشوي إنتيه هان جاچي ني إتهيب نيم ني إث أوو أونه إيڤول"
+          "english": "grant us to complete this holy day:",
+          "arabic": "امنحنا أن نكمل هذا اليوم المقدس :",
+          "coptic": "ⲙⲏⲓⲥ ⲛⲁⲛ ⲉⲑⲣⲉⲛϫⲱⲕ ⲉ̀ⲃⲟⲗ ⲙ̀ⲡⲁⲓ ⲕⲉ ⲉ̀ϩⲟⲟⲩ ⲉⲑⲟⲩⲁⲃ ⲫⲁⲓ:",
+          "coptic_english": "meis nan ethrengok evol khen pai ke eho-o Ethowab fai, nem ni eho-o Ethowab fai:",
+          "coptic_arabic": "ميس نان إثرين جوك إيڤول إم باي كيه إيهوؤو إثؤواب فاي :"
+        },
+        {
+          "english": "and all the days of our life in:",
+          "arabic": "وكل أيام حياتنا :",
+          "coptic": "ⲛⲉⲙ ⲛⲓⲉ̀ϩⲟⲟⲩ ⲧⲏⲣⲟⲩ ⲛ̀ⲧⲉ ⲡⲉⲛⲱⲛϧ:",
+          "coptic_english": "nem ni eho-o tiro ente pen onkh:",
+          "coptic_arabic": "نيم ني إيهوؤو تيروو إنتيه بين أونخ :"
+        },
+        {
+          "english": "all peace with Your fear:",
+          "arabic": "بكل سلامٍ مع خوفك",
+          "coptic": "ϧⲉⲛ ϩⲓⲣⲏⲛⲏ ⲛⲓⲃⲉⲛ ⲛⲉⲙ ⲧⲉⲕϩⲟϯ",
+          "coptic_english": "khen hiriny niven nem tek hoty",
+          "coptic_arabic": "خين هيريني نيڤين نيم تيك هوتي"
+        },
+        {
+          "english": "All envy:",
+          "arabic": "كل حسد :",
+          "coptic": "Ⲫ̀ⲑⲟⲛⲟⲥ ⲛⲓⲃⲉⲛ:",
+          "coptic_english": "Efthonos niven:",
+          "coptic_arabic": "إف ثونوس نيڤين :"
+        },
+        {
+          "english": "all temptation:",
+          "arabic": "وكل تجربة :",
+          "coptic": "ⲡⲓⲣⲁⲥⲙⲟⲥ ⲛⲓⲃⲉⲛ:",
+          "coptic_english": "pirasmos niven:",
+          "coptic_arabic": "بي راسموس نيڤين :"
+        },
+        {
+          "english": "all the work of Satan:",
+          "arabic": "وكل فعل الشيطان :",
+          "coptic": "ⲉ̀ⲛⲉⲣⲅⲓⲁ ⲛⲓⲃⲉⲛ ⲛ̀ⲧⲉ Ⲡ̀ⲥⲁⲧⲁⲛⲁⲥ:",
+          "coptic_english": "en ergia niven ente epsatanas:",
+          "coptic_arabic": "إن إرجيا نيڤين إنتيه إبصاطاناس :"
+        },
+        {
+          "english": "the counsel of wicked men:",
+          "arabic": "ومؤامرة الناس الأشرار :",
+          "coptic": "ⲡ̀ⲥⲟϭⲛⲓ ⲛ̀ⲧⲉ ϩⲁⲛⲣⲱⲙⲓ ⲉⲩϩⲱⲟⲩ:",
+          "coptic_english": "epsotchni ente han romy efho-o:",
+          "coptic_arabic": "إبسوتشني إنتيه هان رومي إفهو أوو :"
+        },
+        {
+          "english": "and the rising up of enemies, hidden and manifest",
+          "arabic": "وقيام الأعداء الخفيين والظاهرين",
+          "coptic": "ⲛⲉⲙ ⲡ̀ⲧⲱⲛϥ ⲉ̀ⲡ̀ϣⲱⲓ ⲛ̀ⲧⲉ ϩⲁⲛϫⲁϫⲓ ⲛⲏⲉⲧϩⲏⲡ ⲛⲉⲙ ⲛⲏⲉⲑⲟⲩⲱⲛϩ ⲉ̀ⲃⲟⲗ",
+          "coptic_english": "nem eptonf e-epshoi ente han gagi ni entheeb nem ni eth-o-onh evol",
+          "coptic_arabic": "نيم إبطونف إيه إبشوي إنتيه هان جاچي ني إتهيب نيم ني إث أوو أونه إيڤول"
         },
         {
           "english": "Take them away from us",
           "arabic": "انزعها عنا",
-          "coptic": "Ⲁ̀ⲗⲓⲧⲟⲩ ⲉ̀ⲃⲟⲗ ϩⲁⲣⲟⲛ ⲛⲉⲙ",
+          "coptic": "Ⲁ̀ⲗⲓⲧⲟⲩ ⲉ̀ⲃⲟⲗ ϩⲁⲣⲟⲛ",
           "coptic_english": "Alito evol haron",
           "coptic_arabic": "أليتوو إيڤول هارون"
         },
         {
           "english": "And from all Your people,",
           "arabic": "وعن سائر شعبك",
-          "coptic": "ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲉⲕⲗⲁⲟⲥ ⲧⲏⲣϥ",
+          "coptic": "ⲛⲉⲙ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲉⲕⲗⲁⲟⲥ ⲧⲏⲣϥ",
           "coptic_english": "Nem evol ha peklaos tirf",
           "coptic_arabic": "نيم إيڤول ها بيك لاؤس تيرف"
         },
@@ -161,14 +343,35 @@
           "arabic": "وعن موضعك المقدس هذا",
           "coptic": "ⲛⲉⲙ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲁⲓⲙⲁ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲁⲕ ⲫⲁⲓ",
           "coptic_english": "Nem evol hapai ma Ethowab entak vai",
-          "coptic_arabic": "نيم إيڤول ها باي ما إثؤواب إنطاك فاي."
+          "coptic_arabic": "نيم إيڤول ها باي ما إثؤواب إنطاك فاي"
         },
         {
-          "english": "But those things which are good and profitable do provide for us, for it is You who have given us the authority to tread on serpents and scorpions, and upon all the power of the enemy",
-          "arabic": "وأما الصالحات والنافعات فارزقنا إياها : لأنك أنت الذي أعطيتنا السلطان : أن ندوس على الحيات والعقارب : وعلى كل قوة العدو",
-          "coptic": "Ⲛⲏ ⲇⲉ ⲉⲑⲛⲁⲛⲉⲩ ⲛⲉⲙ ⲛⲏⲉ̀ⲧⲉⲣⲛⲟϥⲣⲓ ⲥⲁϩⲛⲓ ⲙ̀ⲙⲱⲟⲩ ⲛⲁⲛ ϫⲉ ⲛ̀ⲑⲟⲕ ⲡⲉ ⲉ̀ⲧⲁⲕϯ ⲙ̀ⲡⲓⲉⲣϣⲓϣⲓ ⲛⲁⲛ ⲉ̀ϩⲱⲙⲓ ⲉ̀ϫⲉⲛ ⲛⲓϩⲟϥ ⲛⲉⲙ ⲛⲓϭⲗⲏ ⲛⲉⲙ ⲉ̀ϫⲉⲛ ϯϫⲟⲙ ⲧⲏⲣⲥ ⲛ̀ⲧⲉ ⲡⲓϫⲁϫⲓ",
-          "coptic_english": "Ni zi ethnanev nem ni et ernofri sahni em-mo-o nan je enthonk pe etakty empi ershishy nan ehomi ejen ni hob nem ni etchelil nem ejen ti gom tirs ente pi gagi",
-          "coptic_arabic": "ني ذيه إثنانيڤ نيم ني إت إر نوفري صاهني إم مو أوو نان : چيه إنثوك بيه إت أكتي إم بي إر شيشي نان : إيه هومي إيچين ني هوف نيم ني تشلي : نيم إيچين تي جوم تيرس إنتيه بي جاچي"
+          "english": "But those things which are good and profitable do provide for us:",
+          "arabic": "وأما الصالحات والنافعات فارزقنا إياها :",
+          "coptic": "Ⲛⲏ ⲇⲉ ⲉⲑⲛⲁⲛⲉⲩ ⲛⲉⲙ ⲛⲏⲉ̀ⲧⲉⲣⲛⲟϥⲣⲓ ⲥⲁϩⲛⲓ ⲙ̀ⲙⲱⲟⲩ ⲛⲁⲛ",
+          "coptic_english": "Ni zi ethnanev nem ni et ernofri sahni em-mo-o nan",
+          "coptic_arabic": "ني ذيه إثنانيڤ نيم ني إت إر نوفري صاهني إم مو أوو نان :"
+        },
+        {
+          "english": "for it is You who have given us the authority:",
+          "arabic": "لأنك أنت الذي أعطيتنا السلطان :",
+          "coptic": "ϫⲉ ⲛ̀ⲑⲟⲕ ⲡⲉ ⲉ̀ⲧⲁⲕϯ ⲙ̀ⲡⲓⲉⲣϣⲓϣⲓ ⲛⲁⲛ",
+          "coptic_english": "je enthonk pe etakty empi ershishy nan",
+          "coptic_arabic": "چيه إنثوك بيه إت أكتي إم بي إر شيشي نان :"
+        },
+        {
+          "english": "to tread on serpents and scorpions:",
+          "arabic": "أن ندوس على الحيات والعقارب :",
+          "coptic": "ⲉ̀ϩⲱⲙⲓ ⲉ̀ϫⲉⲛ ⲛⲓϩⲟϥ ⲛⲉⲙ ⲛⲓϭⲗⲏ",
+          "coptic_english": "ehomi ejen ni hob nem ni etchelil:",
+          "coptic_arabic": "إيه هومي إيچين ني هوف نيم ني تشلي :"
+        },
+        {
+          "english": "and upon all the power of the enemy",
+          "arabic": "وعلى كل قوة العدو",
+          "coptic": "ⲛⲉⲙ ⲉ̀ϫⲉⲛ ϯϫⲟⲙ ⲧⲏⲣⲥ ⲛ̀ⲧⲉ ⲡⲓϫⲁϫⲓ",
+          "coptic_english": "nem ejen ti gom tirs ente pi gagi",
+          "coptic_arabic": "نيم إيچين تي جوم تيرس إنتيه بي جاچي"
         }
       ]
     }
