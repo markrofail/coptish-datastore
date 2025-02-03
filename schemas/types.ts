@@ -3,7 +3,7 @@ export type Root = Prayer | Reading | Synaxarium
 export interface Prayer {
     title?: MultiLingualText
     occasion?: Occasion
-    sections?: (InfoSection | VersesSection | ReadingSection | CompoundPrayerSection)[]
+    sections?: (VersesSection | InfoSection | ReadingSection | CompoundPrayerSection)[]
 }
 
 export type Occasion = 'annual' | 'great-lent'

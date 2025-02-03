@@ -2,10 +2,16 @@ import * as TJS from 'typescript-json-schema'
 import * as fs from 'fs'
 import * as path from 'path'
 
-const INPUT_TYPES = path.resolve(__dirname, '../schemas/types.ts')
-const OUTPUT_SCHEMA = path.resolve(__dirname, '../schemas/schema.json')
+const typesToJsonSchema = ({ inputPath, outputPath, rootType }: { inputPath: string; outputPath: string; rootType: string }) => {
+    const absoluteInputPath = path.resolve(__dirname, inputPath)
+    const program = TJS.getProgramFromFiles([absoluteInputPath])
+    const schema = TJS.generateSchema(program, rootType, { required: true, noExtraProps: true, titles: true })
 
-const program = TJS.getProgramFromFiles([INPUT_TYPES])
-const schema = TJS.generateSchema(program, 'Root', {required: true, noExtraProps: true})
+    const stringifiedSchema = JSON.stringify(schema, null, 2).replaceAll('anyOf', 'oneOf')
+    const absoluteOutputPath = path.resolve(__dirname, outputPath)
+    console.log({ absoluteInputPath, absoluteOutputPath })
+    fs.writeFileSync(absoluteOutputPath, stringifiedSchema)
+}
 
-fs.writeFileSync(OUTPUT_SCHEMA, JSON.stringify(schema, null, 2))
+typesToJsonSchema({ rootType: 'Root', inputPath: '../schemas/types.ts', outputPath: '../schemas/schema.json' })
+typesToJsonSchema({ rootType: 'RawPrayer', inputPath: '../schemas/raw_types.ts', outputPath: '../schemas/raw_schema.json' })
