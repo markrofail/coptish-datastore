@@ -1,89 +1,37 @@
 {
-  "oneOf": [
-    {
-      "$ref": "#/definitions/Prayer"
-    },
-    {
-      "$ref": "#/definitions/Reading"
-    },
-    {
-      "$ref": "#/definitions/Synaxarium"
-    }
-  ],
-  "definitions": {
-    "Prayer": {
-      "title": "Prayer",
-      "type": "object",
-      "properties": {
-        "title": {
-          "$ref": "#/definitions/MultiLingualText",
-          "title": "title"
-        },
-        "occasion": {
-          "$ref": "#/definitions/Occasion",
-          "title": "occasion"
-        },
-        "sections": {
-          "type": "array",
-          "items": {
-            "oneOf": [
-              {
-                "$ref": "#/definitions/VersesSection"
-              },
-              {
-                "$ref": "#/definitions/InfoSection"
-              },
-              {
-                "$ref": "#/definitions/ReadingSection"
-              },
-              {
-                "$ref": "#/definitions/CompoundPrayerSection"
-              }
-            ]
+  "type": "object",
+  "properties": {
+    "sections": {
+      "type": "array",
+      "items": {
+        "oneOf": [
+          {
+            "$ref": "#/definitions/VersesSection"
           },
-          "title": "sections"
-        }
+          {
+            "$ref": "#/definitions/InfoSection"
+          },
+          {
+            "$ref": "#/definitions/ReadingSection"
+          },
+          {
+            "$ref": "#/definitions/CompoundPrayerSection"
+          }
+        ]
       },
-      "additionalProperties": false
+      "title": "sections"
     },
-    "MultiLingualText": {
-      "title": "MultiLingualText",
-      "type": "object",
-      "properties": {
-        "english": {
-          "type": "string",
-          "title": "english"
-        },
-        "arabic": {
-          "type": "string",
-          "title": "arabic"
-        },
-        "coptic": {
-          "type": "string",
-          "title": "coptic"
-        },
-        "coptic_english": {
-          "type": "string",
-          "title": "coptic_english"
-        },
-        "coptic_arabic": {
-          "type": "string",
-          "title": "coptic_arabic"
-        }
-      },
-      "additionalProperties": false,
-      "required": [
-        "english"
-      ]
+    "title": {
+      "$ref": "#/definitions/MultiLingualText",
+      "title": "title"
     },
-    "Occasion": {
-      "title": "Occasion",
-      "enum": [
-        "annual",
-        "great-lent"
-      ],
-      "type": "string"
-    },
+    "occasion": {
+      "$ref": "#/definitions/Occasion",
+      "title": "occasion"
+    }
+  },
+  "additionalProperties": false,
+  "definitions": {
     "VersesSection": {
       "title": "VersesSection",
       "type": "object",
@@ -165,6 +113,44 @@
         "st-thomas-the-hermit",
         "sts-maximos-and-dometius",
         "sts-sergios-and-bachus"
+      ],
+      "type": "string"
+    },
+    "MultiLingualText": {
+      "title": "MultiLingualText",
+      "type": "object",
+      "properties": {
+        "english": {
+          "type": "string",
+          "title": "english"
+        },
+        "arabic": {
+          "type": "string",
+          "title": "arabic"
+        },
+        "coptic": {
+          "type": "string",
+          "title": "coptic"
+        },
+        "coptic_english": {
+          "type": "string",
+          "title": "coptic_english"
+        },
+        "coptic_arabic": {
+          "type": "string",
+          "title": "coptic_arabic"
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "english"
+      ]
+    },
+    "Occasion": {
+      "title": "Occasion",
+      "enum": [
+        "annual",
+        "great-lent"
       ],
       "type": "string"
     },
@@ -254,62 +240,6 @@
       "required": [
         "path",
         "type"
-      ]
-    },
-    "Reading": {
-      "title": "Reading",
-      "type": "object",
-      "properties": {
-        "title": {
-          "$ref": "#/definitions/MultiLingualText",
-          "title": "title"
-        },
-        "text": {
-          "$ref": "#/definitions/MultiLingualText",
-          "title": "text"
-        }
-      },
-      "additionalProperties": false,
-      "required": [
-        "text",
-        "title"
-      ]
-    },
-    "Synaxarium": {
-      "title": "Synaxarium",
-      "type": "object",
-      "properties": {
-        "title": {
-          "$ref": "#/definitions/MultiLingualText",
-          "title": "title"
-        },
-        "commemorations": {
-          "type": "array",
-          "items": {
-            "type": "object",
-            "properties": {
-              "title": {
-                "$ref": "#/definitions/MultiLingualText",
-                "title": "title"
-              },
-              "text": {
-                "$ref": "#/definitions/MultiLingualText",
-                "title": "text"
-              }
-            },
-            "additionalProperties": false,
-            "required": [
-              "text",
-              "title"
-            ]
-          },
-          "title": "commemorations"
-        }
-      },
-      "additionalProperties": false,
-      "required": [
-        "commemorations",
-        "title"
       ]
     }
   },
