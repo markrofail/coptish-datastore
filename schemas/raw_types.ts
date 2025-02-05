@@ -1,15 +1,19 @@
-import { Prayer, VersesSection, MultiLingualText, CompoundPrayerSection, InfoSection, ReadingSection } from './types'
+import * as BaseTypes from './types'
 
-export interface RawPrayer extends Omit<Prayer, 'sections'> {
-    sections?: (VersesSection | InfoSection | ReadingSection | CompoundPrayerSection)[]
+export type RawRoot = Prayer | BaseTypes.Reading | BaseTypes.Synaxarium
+
+export interface Prayer extends Omit<BaseTypes.Prayer, 'sections'> {
+    sections?: (VersesSection | BaseTypes.InfoSection | BaseTypes.ReadingSection | BaseTypes.CompoundPrayerSection)[]
 }
 
-export interface RawVersesSection extends Omit<VersesSection, 'verses'> {
+export interface VersesSection extends Omit<BaseTypes.VersesSection, 'verses'> {
     verses: MultiLingualTextArray
 }
 
-export type MultiLingualTextArray = ConvertToArray<MultiLingualText>
-
-type ConvertToArray<T> = {
-    [K in keyof T]: T[K] extends string ? string[] : T[K] extends string | undefined ? string[] | undefined : T[K]
+export type MultiLingualTextArray = {
+    [K in keyof BaseTypes.MultiLingualText]: BaseTypes.MultiLingualText[K] extends string
+        ? string[]
+        : BaseTypes.MultiLingualText[K] extends string | undefined
+        ? string[] | undefined
+        : BaseTypes.MultiLingualText[K]
 }

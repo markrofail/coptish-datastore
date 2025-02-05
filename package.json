@@ -1,5 +1,6 @@
 {
     "scripts": {
+        "data:validate": "ajv test --spec=draft7 -s \"schemas/raw_schema.json\" -d \"data/**/*.json\" --valid",
         "output:generate": "ts-node scripts/preprocess_json.ts data",
         "output:validate": "ajv test --spec=draft7 -s \"schemas/schema.json\" -d \"output/**/*.json\" --valid",
         "schema:generate": "ts-node scripts/generate_json_schema.ts"

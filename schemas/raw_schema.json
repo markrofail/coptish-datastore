@@ -1,120 +1,34 @@
 {
-  "type": "object",
-  "properties": {
-    "sections": {
-      "type": "array",
-      "items": {
-        "oneOf": [
-          {
-            "$ref": "#/definitions/VersesSection"
-          },
-          {
-            "$ref": "#/definitions/InfoSection"
-          },
-          {
-            "$ref": "#/definitions/ReadingSection"
-          },
-          {
-            "$ref": "#/definitions/CompoundPrayerSection"
-          }
-        ]
-      },
-      "title": "sections"
+  "oneOf": [
+    {
+      "$ref": "#/definitions/Reading"
     },
-    "title": {
-      "$ref": "#/definitions/MultiLingualText",
-      "title": "title"
+    {
+      "$ref": "#/definitions/Synaxarium"
     },
-    "occasion": {
-      "$ref": "#/definitions/Occasion",
-      "title": "occasion"
+    {
+      "$ref": "#/definitions/Prayer"
     }
-  },
-  "additionalProperties": false,
+  ],
   "definitions": {
-    "VersesSection": {
-      "title": "VersesSection",
+    "Reading": {
+      "title": "Reading",
       "type": "object",
       "properties": {
-        "type": {
-          "type": "string",
-          "const": "verses",
-          "title": "type"
+        "title": {
+          "$ref": "#/definitions/MultiLingualText",
+          "title": "title"
         },
-        "speaker": {
-          "$ref": "#/definitions/Speaker",
-          "title": "speaker"
-        },
-        "saint": {
-          "$ref": "#/definitions/Saint",
-          "title": "saint"
-        },
-        "inaudible": {
-          "type": "boolean",
-          "title": "inaudible"
-        },
-        "verses": {
-          "type": "array",
-          "items": {
-            "$ref": "#/definitions/MultiLingualText"
-          },
-          "title": "verses"
-        },
-        "occasion": {
-          "$ref": "#/definitions/Occasion",
-          "title": "occasion"
+        "text": {
+          "$ref": "#/definitions/MultiLingualText",
+          "title": "text"
         }
       },
       "additionalProperties": false,
       "required": [
-        "type",
-        "verses"
+        "text",
+        "title"
       ]
-    },
-    "Speaker": {
-      "title": "Speaker",
-      "enum": [
-        "",
-        "deacon",
-        "people",
-        "priest",
-        "reader"
-      ],
-      "type": "string"
-    },
-    "Saint": {
-      "title": "Saint",
-      "enum": [
-        "any-martyr-all",
-        "archangel-gabriel",
-        "archangel-michael",
-        "archangel-raphael",
-        "archangel-suriel",
-        "pope-kyrillos-vi",
-        "st-abanoub",
-        "st-abraam",
-        "st-antony-the-great",
-        "st-athanasius-the-apostolic",
-        "st-bishoy",
-        "st-demiana",
-        "st-george",
-        "st-john-the-baptist",
-        "st-karas-the-anchorite",
-        "st-marina-the-martyr",
-        "st-mark",
-        "st-mary",
-        "st-mina",
-        "st-moses-the-black",
-        "st-paul-the-1st-hermit",
-        "st-philopater-mercurius",
-        "st-reweis-teji",
-        "st-shenouda-the-archimandrite",
-        "st-stephen",
-        "st-thomas-the-hermit",
-        "sts-maximos-and-dometius",
-        "sts-sergios-and-bachus"
-      ],
-      "type": "string"
     },
     "MultiLingualText": {
       "title": "MultiLingualText",
@@ -146,13 +60,77 @@
         "english"
       ]
     },
-    "Occasion": {
-      "title": "Occasion",
-      "enum": [
-        "annual",
-        "great-lent"
-      ],
-      "type": "string"
+    "Synaxarium": {
+      "title": "Synaxarium",
+      "type": "object",
+      "properties": {
+        "title": {
+          "$ref": "#/definitions/MultiLingualText",
+          "title": "title"
+        },
+        "commemorations": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "title": {
+                "$ref": "#/definitions/MultiLingualText",
+                "title": "title"
+              },
+              "text": {
+                "$ref": "#/definitions/MultiLingualText",
+                "title": "text"
+              }
+            },
+            "additionalProperties": false,
+            "required": [
+              "text",
+              "title"
+            ]
+          },
+          "title": "commemorations"
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "commemorations",
+        "title"
+      ]
+    },
+    "Prayer": {
+      "title": "Prayer",
+      "type": "object",
+      "properties": {
+        "sections": {
+          "type": "array",
+          "items": {
+            "oneOf": [
+              {
+                "$ref": "#/definitions/InfoSection"
+              },
+              {
+                "$ref": "#/definitions/ReadingSection"
+              },
+              {
+                "$ref": "#/definitions/CompoundPrayerSection"
+              },
+              {
+                "$ref": "#/definitions/VersesSection"
+              }
+            ]
+          },
+          "title": "sections"
+        },
+        "title": {
+          "$ref": "#/definitions/MultiLingualText",
+          "title": "title"
+        },
+        "occasion": {
+          "$ref": "#/definitions/Occasion",
+          "title": "occasion"
+        }
+      },
+      "additionalProperties": false
     },
     "InfoSection": {
       "title": "InfoSection",
@@ -177,6 +155,14 @@
         "text",
         "type"
       ]
+    },
+    "Occasion": {
+      "title": "Occasion",
+      "enum": [
+        "annual",
+        "great-lent"
+      ],
+      "type": "string"
     },
     "ReadingSection": {
       "title": "ReadingSection",
@@ -241,6 +227,132 @@
         "path",
         "type"
       ]
+    },
+    "VersesSection": {
+      "title": "VersesSection",
+      "type": "object",
+      "properties": {
+        "verses": {
+          "$ref": "#/definitions/MultiLingualTextArray",
+          "title": "verses"
+        },
+        "type": {
+          "type": "string",
+          "const": "verses",
+          "title": "type"
+        },
+        "speaker": {
+          "$ref": "#/definitions/Speaker",
+          "title": "speaker"
+        },
+        "saint": {
+          "$ref": "#/definitions/Saint",
+          "title": "saint"
+        },
+        "inaudible": {
+          "type": "boolean",
+          "title": "inaudible"
+        },
+        "occasion": {
+          "$ref": "#/definitions/Occasion",
+          "title": "occasion"
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "type",
+        "verses"
+      ]
+    },
+    "MultiLingualTextArray": {
+      "title": "MultiLingualTextArray",
+      "type": "object",
+      "properties": {
+        "english": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "title": "english"
+        },
+        "arabic": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "title": "arabic"
+        },
+        "coptic": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "title": "coptic"
+        },
+        "coptic_english": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "title": "coptic_english"
+        },
+        "coptic_arabic": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "title": "coptic_arabic"
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "english"
+      ]
+    },
+    "Speaker": {
+      "title": "Speaker",
+      "enum": [
+        "",
+        "deacon",
+        "people",
+        "priest",
+        "reader"
+      ],
+      "type": "string"
+    },
+    "Saint": {
+      "title": "Saint",
+      "enum": [
+        "any-martyr-all",
+        "archangel-gabriel",
+        "archangel-michael",
+        "archangel-raphael",
+        "archangel-suriel",
+        "pope-kyrillos-vi",
+        "st-abanoub",
+        "st-abraam",
+        "st-antony-the-great",
+        "st-athanasius-the-apostolic",
+        "st-bishoy",
+        "st-demiana",
+        "st-george",
+        "st-john-the-baptist",
+        "st-karas-the-anchorite",
+        "st-marina-the-martyr",
+        "st-mark",
+        "st-mary",
+        "st-mina",
+        "st-moses-the-black",
+        "st-paul-the-1st-hermit",
+        "st-philopater-mercurius",
+        "st-reweis-teji",
+        "st-shenouda-the-archimandrite",
+        "st-stephen",
+        "st-thomas-the-hermit",
+        "sts-maximos-and-dometius",
+        "sts-sergios-and-bachus"
+      ],
+      "type": "string"
     }
   },
   "$schema": "http://json-schema.org/draft-07/schema#"
