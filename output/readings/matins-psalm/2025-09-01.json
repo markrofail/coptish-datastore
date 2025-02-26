@@ -3,8 +3,10 @@
     "english": "Psalm 145:10 - 145:11 - 145:19 - 145:20",
     "arabic": "مزامير ١٤٥:١٠ - ١٤٥:١١ - ١٤٥:١٩ - ١٤٥:٢٠"
   },
-  "text": {
-    "english": "All Your works shall praise You, O LORD, And Your saints shall bless You. They shall speak of the glory of Your kingdom, And talk of Your power, He will fulfill the desire of those who fear Him; He also will hear their cry and save them. The LORD preserves all who love Him, But all the wicked He will destroy.",
-    "arabic": "يحمدك يا رب كل أعمالك ويباركك أتقياؤك بمجد ملكك ينطقون وبجبروتك يتكلمون يعمل رضى خائفيه ويسمع تضرعهم فيخلصهم يحفظ الرب كل محبيه ويهلك جميع الأشرار"
-  }
+  "text": [
+    {
+      "english": "All Your works shall praise You, O LORD, And Your saints shall bless You. They shall speak of the glory of Your kingdom, And talk of Your power, He will fulfill the desire of those who fear Him; He also will hear their cry and save them. The LORD preserves all who love Him, But all the wicked He will destroy.",
+      "arabic": "يحمدك يا رب كل أعمالك ويباركك أتقياؤك بمجد ملكك ينطقون وبجبروتك يتكلمون يعمل رضى خائفيه ويسمع تضرعهم فيخلصهم يحفظ الرب كل محبيه ويهلك جميع الأشرار"
+    }
+  ]
 }

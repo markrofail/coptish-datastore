@@ -3,8 +3,10 @@
     "english": "Psalm 89:52 - 89:49",
     "arabic": "مزامير ٨٩:٥٢ - ٨٩:٤٩"
   },
-  "text": {
-    "english": "Blessed be the LORD forevermore! Amen and Amen. Lord, where are Your former lovingkindnesses, Which You swore to David in Your truth?",
-    "arabic": "مباركٌ الرب إلى الدهر آمين فآمين أين مراحمك الأول يا رب التي حلفت بها لداود بأمانتك"
-  }
+  "text": [
+    {
+      "english": "Blessed be the LORD forevermore! Amen and Amen. Lord, where are Your former lovingkindnesses, Which You swore to David in Your truth?",
+      "arabic": "مباركٌ الرب إلى الدهر آمين فآمين أين مراحمك الأول يا رب التي حلفت بها لداود بأمانتك"
+    }
+  ]
 }

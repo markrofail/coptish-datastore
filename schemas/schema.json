@@ -12,16 +12,13 @@
   ],
   "definitions": {
     "Prayer": {
-      "title": "Prayer",
       "type": "object",
       "properties": {
         "title": {
-          "$ref": "#/definitions/MultiLingualText",
-          "title": "title"
+          "$ref": "#/definitions/MultiLingualText"
         },
         "occasion": {
-          "$ref": "#/definitions/Occasion",
-          "title": "occasion"
+          "$ref": "#/definitions/Occasion"
         },
         "sections": {
           "type": "array",
@@ -40,44 +37,33 @@
                 "$ref": "#/definitions/CompoundPrayerSection"
               }
             ]
-          },
-          "title": "sections"
+          }
         }
       },
       "additionalProperties": false
     },
     "MultiLingualText": {
-      "title": "MultiLingualText",
       "type": "object",
       "properties": {
         "english": {
-          "type": "string",
-          "title": "english"
+          "type": "string"
         },
         "arabic": {
-          "type": "string",
-          "title": "arabic"
+          "type": "string"
         },
         "coptic": {
-          "type": "string",
-          "title": "coptic"
+          "type": "string"
         },
         "coptic_english": {
-          "type": "string",
-          "title": "coptic_english"
+          "type": "string"
         },
         "coptic_arabic": {
-          "type": "string",
-          "title": "coptic_arabic"
+          "type": "string"
         }
       },
-      "additionalProperties": false,
-      "required": [
-        "english"
-      ]
+      "additionalProperties": false
     },
     "Occasion": {
-      "title": "Occasion",
       "enum": [
         "annual",
         "great-lent"
@@ -85,36 +71,29 @@
       "type": "string"
     },
     "VersesSection": {
-      "title": "VersesSection",
       "type": "object",
       "properties": {
         "type": {
           "type": "string",
-          "const": "verses",
-          "title": "type"
+          "const": "verses"
         },
         "speaker": {
-          "$ref": "#/definitions/Speaker",
-          "title": "speaker"
+          "$ref": "#/definitions/Speaker"
         },
         "saint": {
-          "$ref": "#/definitions/Saint",
-          "title": "saint"
+          "$ref": "#/definitions/Saint"
         },
         "inaudible": {
-          "type": "boolean",
-          "title": "inaudible"
+          "type": "boolean"
         },
         "verses": {
           "type": "array",
           "items": {
             "$ref": "#/definitions/MultiLingualText"
-          },
-          "title": "verses"
+          }
         },
         "occasion": {
-          "$ref": "#/definitions/Occasion",
-          "title": "occasion"
+          "$ref": "#/definitions/Occasion"
         }
       },
       "additionalProperties": false,
@@ -124,9 +103,7 @@
       ]
     },
     "Speaker": {
-      "title": "Speaker",
       "enum": [
-        "",
         "deacon",
         "people",
         "priest",
@@ -135,7 +112,6 @@
       "type": "string"
     },
     "Saint": {
-      "title": "Saint",
       "enum": [
         "any-martyr-all",
         "archangel-gabriel",
@@ -169,21 +145,17 @@
       "type": "string"
     },
     "InfoSection": {
-      "title": "InfoSection",
       "type": "object",
       "properties": {
         "type": {
           "type": "string",
-          "const": "info",
-          "title": "type"
+          "const": "info"
         },
         "text": {
-          "$ref": "#/definitions/MultiLingualText",
-          "title": "text"
+          "$ref": "#/definitions/MultiLingualText"
         },
         "occasion": {
-          "$ref": "#/definitions/Occasion",
-          "title": "occasion"
+          "$ref": "#/definitions/Occasion"
         }
       },
       "additionalProperties": false,
@@ -193,21 +165,17 @@
       ]
     },
     "ReadingSection": {
-      "title": "ReadingSection",
       "type": "object",
       "properties": {
         "type": {
           "type": "string",
-          "const": "reading",
-          "title": "type"
+          "const": "reading"
         },
         "readingType": {
-          "$ref": "#/definitions/ReadingType",
-          "title": "readingType"
+          "$ref": "#/definitions/ReadingType"
         },
         "occasion": {
-          "$ref": "#/definitions/Occasion",
-          "title": "occasion"
+          "$ref": "#/definitions/Occasion"
         }
       },
       "additionalProperties": false,
@@ -217,7 +185,6 @@
       ]
     },
     "ReadingType": {
-      "title": "ReadingType",
       "enum": [
         "acts-of-the-apostles",
         "catholic-epistle",
@@ -233,21 +200,17 @@
       "type": "string"
     },
     "CompoundPrayerSection": {
-      "title": "CompoundPrayerSection",
       "type": "object",
       "properties": {
         "type": {
           "type": "string",
-          "const": "compound-prayer",
-          "title": "type"
+          "const": "compound-prayer"
         },
         "path": {
-          "type": "string",
-          "title": "path"
+          "type": "string"
         },
         "occasion": {
-          "$ref": "#/definitions/Occasion",
-          "title": "occasion"
+          "$ref": "#/definitions/Occasion"
         }
       },
       "additionalProperties": false,
@@ -257,16 +220,16 @@
       ]
     },
     "Reading": {
-      "title": "Reading",
       "type": "object",
       "properties": {
         "title": {
-          "$ref": "#/definitions/MultiLingualText",
-          "title": "title"
+          "$ref": "#/definitions/MultiLingualText"
         },
         "text": {
-          "$ref": "#/definitions/MultiLingualText",
-          "title": "text"
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/MultiLingualText"
+          }
         }
       },
       "additionalProperties": false,
@@ -276,12 +239,10 @@
       ]
     },
     "Synaxarium": {
-      "title": "Synaxarium",
       "type": "object",
       "properties": {
         "title": {
-          "$ref": "#/definitions/MultiLingualText",
-          "title": "title"
+          "$ref": "#/definitions/MultiLingualText"
         },
         "commemorations": {
           "type": "array",
@@ -289,12 +250,10 @@
             "type": "object",
             "properties": {
               "title": {
-                "$ref": "#/definitions/MultiLingualText",
-                "title": "title"
+                "$ref": "#/definitions/MultiLingualText"
               },
               "text": {
-                "$ref": "#/definitions/MultiLingualText",
-                "title": "text"
+                "$ref": "#/definitions/MultiLingualText"
               }
             },
             "additionalProperties": false,
@@ -302,8 +261,7 @@
               "text",
               "title"
             ]
-          },
-          "title": "commemorations"
+          }
         }
       },
       "additionalProperties": false,

@@ -3,8 +3,10 @@
     "english": "Romans 4:1-8",
     "arabic": "رومية ٤:١-٨"
   },
-  "text": {
-    "english": "What then shall we say that Abraham our father has found according to the flesh? For if Abraham was justified by works, he has something to boast about, but not before God. For what does the Scripture say? \"Abraham believed God, and it was accounted to him for righteousness.\" Now to him who works, the wages are not counted as grace but as debt. But to him who does not work but believes on Him who justifies the ungodly, his faith is accounted for righteousness, just as David also describes the blessedness of the man to whom God imputes righteousness apart from works: \"Blessed are those whose lawless deeds are forgiven, And whose sins are covered; Blessed is the man to whom the LORD shall not impute sin.\"",
-    "arabic": "فماذا نقول إن أبانا إبراهيم قد وجد حسب الجسد لأنه إن كان إبراهيم قد تبرر بالأعمال فله فخرٌ - ولكن ليس لدى الله لأنه ماذا يقول الكتاب فآمن إبراهيم بالله فحسب له براً أما الذي يعمل فلا تحسب له الأجرة على سبيل نعمةٍ بل على سبيل دينٍ وأما الذي لا يعمل ولكن يؤمن بالذي يبرر الفاجر فإيمانه يحسب له براً كما يقول داود أيضاً في تطويب الإنسان الذي يحسب له الله براً بدون أعمالٍ: طوبى للذين غفرت آثامهم وسترت خطاياهم طوبى للرجل الذي لا يحسب له الرب خطيةً"
-  }
+  "text": [
+    {
+      "english": "What then shall we say that Abraham our father has found according to the flesh? For if Abraham was justified by works, he has something to boast about, but not before God. For what does the Scripture say? \"Abraham believed God, and it was accounted to him for righteousness.\" Now to him who works, the wages are not counted as grace but as debt. But to him who does not work but believes on Him who justifies the ungodly, his faith is accounted for righteousness, just as David also describes the blessedness of the man to whom God imputes righteousness apart from works: \"Blessed are those whose lawless deeds are forgiven, And whose sins are covered; Blessed is the man to whom the LORD shall not impute sin.\"",
+      "arabic": "فماذا نقول إن أبانا إبراهيم قد وجد حسب الجسد لأنه إن كان إبراهيم قد تبرر بالأعمال فله فخرٌ - ولكن ليس لدى الله لأنه ماذا يقول الكتاب فآمن إبراهيم بالله فحسب له براً أما الذي يعمل فلا تحسب له الأجرة على سبيل نعمةٍ بل على سبيل دينٍ وأما الذي لا يعمل ولكن يؤمن بالذي يبرر الفاجر فإيمانه يحسب له براً كما يقول داود أيضاً في تطويب الإنسان الذي يحسب له الله براً بدون أعمالٍ: طوبى للذين غفرت آثامهم وسترت خطاياهم طوبى للرجل الذي لا يحسب له الرب خطيةً"
+    }
+  ]
 }

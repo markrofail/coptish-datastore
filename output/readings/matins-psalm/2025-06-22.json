@@ -3,8 +3,10 @@
     "english": "Psalm 37:22-23",
     "arabic": "مزامير ٣٧:٢٢-٢٣"
   },
-  "text": {
-    "english": "For those blessed by Him shall inherit the earth, But those cursed by Him shall be cut off. The steps of a good man are ordered by the LORD, And He delights in his way.",
-    "arabic": "لأن المباركين منه يرثون الأرض والملعونين منه يقطعون من قبل الرب تتثبت خطوات الإنسان وفي طريقه يسر"
-  }
+  "text": [
+    {
+      "english": "For those blessed by Him shall inherit the earth, But those cursed by Him shall be cut off. The steps of a good man are ordered by the LORD, And He delights in his way.",
+      "arabic": "لأن المباركين منه يرثون الأرض والملعونين منه يقطعون من قبل الرب تتثبت خطوات الإنسان وفي طريقه يسر"
+    }
+  ]
 }

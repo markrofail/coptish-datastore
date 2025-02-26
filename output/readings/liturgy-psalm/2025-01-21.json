@@ -3,8 +3,10 @@
     "english": "Psalm 77:14 - 16",
     "arabic": "مزامير ٧٧:١٤-١٦"
   },
-  "text": {
-    "english": "You are the God who does wonders; You have declared Your strength among the peoples. You have with Your arm redeemed Your people, The waters saw You, they were afraid;",
-    "arabic": "أنت الإله الصانع العجائب عرفت بين الشعوب قوتك فككت بذراعك شعبك بني يعقوب ويوسف سلاه أبصرتك المياه يا الله أبصرتك المياه ففزعت ارتعدت أيضاً اللجج"
-  }
+  "text": [
+    {
+      "english": "You are the God who does wonders; You have declared Your strength among the peoples. You have with Your arm redeemed Your people, The waters saw You, they were afraid;",
+      "arabic": "أنت الإله الصانع العجائب عرفت بين الشعوب قوتك فككت بذراعك شعبك بني يعقوب ويوسف سلاه أبصرتك المياه يا الله أبصرتك المياه ففزعت ارتعدت أيضاً اللجج"
+    }
+  ]
 }

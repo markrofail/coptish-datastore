@@ -1,47 +1,52 @@
 title:
-    english: The Gloria
-    arabic: تسبحة الملائكة
+  english: The Gloria
+  arabic: تسبحة الملائكة
 sections:
-    - speaker: people
-      type: verses
-      verses:
-          english:
-              - Let us praise with the angels saying, “Glory to God in the highest, peace on earth, and goodwill toward men.”
-              - We praise You. We bless You. We serve You. We worship You. We confess to You. We proclaim Your glory. We thank You for Your great glory
-              - O Lord who reigns over the heavens, God the Father, the Almighty. O Lord, the one only-begotten Son, Jesus Christ, and the Holy Spirit
-              - O Lord God, Lamb of God, Son of the Father, who bears the sins of the world, have mercy on us
-              - O who bears the sins of the world, accept our supplications. O who sits at the right hand of His Father, have mercy on us
-              - You alone are holy; You alone are the Most High, my Lord Jesus Christ, and the Holy Spirit. Glory to God the Father. Amen
-              - Every day I will bless You and praise Your holy name forever and unto the ages of all ages. Amen
-              - Since the night my spirit seeks You early, O my God, for Your commandments are a light on the earth
-              - I continually pursue Your ways for You have become a help to me. In the morning You hear my voice. Early, I stand before You, and You see me
-          arabic:
-              - فَلْنُسبِّحْ مَعَ الملائِكةِ قائِلينَ "المجْدُ للهِ في الأعالِي، وعَلَى الأرْضِ السَّلامُ، وَفي النَّاسِ المسَرَّةُ."
-              - نُسَبِّحُكَ. نُبارِكُكَ. نَخْدِمُكَ. نَسْجُدُ لَكَ. نَعْترِفُ لكَ. نَنْطِقُ بمَجْدِكَ. نَشْكُرُكَ مِنْ أجْل عِظَمِ مَجْدِكَ
-              - أيُّها الرَّبُّ المالِكُ عَلَى السَّمواتِ، اللهُ الآبُ ضابِطُ الكُلِّ، والرَّبُّ الإبْنُ الواحِدُ الوَحيدُ يسوعُ المسيحُ، والرُّوحُ القُدُسُ
-              - أيُّها الرِّبُّ الإلَهُ، حَمَلُ اللهِ، إبْنُ الآبِ، رافِعُ خَطِيَّةِ العالَمِ، إرْحَمْنا
-              - يا حَامِلَ خطيَّةِ العالَمِ، إقْبَلْ طِلَباتِنا إليْكَ. أيُّها الجالسُ عَنْ يَمينِ أبيهِ، إرْحَمْنا
-              - أنْتَ وحْدَكَ القُدُّوسُ. أنْتَ وحْدَكَ العَالِيُّ، يا رَبِّي يسوعُ المسيحُ، والرُّوحُ القُدُسُ. مَجْداً للهِ الآبِ. آمين
-              - أُبارِكُكَ كُلَّ يَومٍ، وأُسَبِّحُ إسْمَكَ القُدّوسَ، إلَى الأبَدِ وإلَى أبَدِ الأبَدِ. آمين
-              - مُنْذُ اللَّيلِ رُوحِي تُبَكِّرُ إليْكَ يا إلَهي، لأنَّ أوامِرَكَ هِيَ نورٌ عَلَى الأرْضِ
-              - كُنْتُ أتْلو في طُرقِكَ، لأنَّكَ صِرْتَ لِى مُعيناً. باكراً يا ربُّ تَسْمعُ صَوْتِي، بالغَداةِ أقِفُ أمامَكَ وتَراني
-          coptic:
-              - Ⲙⲁⲣⲉⲛϩⲱⲥ ⲛⲉⲙ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ ϫⲉ ⲟⲩⲱ̀ⲟⲩ ⲙ̀Ⲫ̀ⲛⲟⲩϯ ϧⲉⲛ ⲛⲏⲉⲧϭⲟⲥⲓ ⲛⲉⲙ ⲟⲩϩⲓⲣⲏⲛⲏ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ ⲛⲉⲙ ⲟⲩϯⲙⲁϯ ϧⲉⲛ ⲛⲓⲣⲱⲙⲓ
-              - Ⲧⲉⲛϩⲱⲥ ⲉ̀ⲣⲟⲕ ⲧⲉⲛⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲕ ⲧⲉⲛϣⲉⲙϣⲓ ⲙ̀ⲙⲟⲕ ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ ⲧⲉⲛⲟⲩⲱⲛϩ ⲛⲁⲕ ⲉ̀ⲃⲟⲗ ⲧⲉⲛⲥⲁϫⲓ ϧⲉⲛ ⲡⲉⲕⲱ̀ⲟⲩ ⲧⲉⲛϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ ⲉⲑⲃⲉ ⲡⲉⲕⲛⲓϣϯ ⲛ̀ⲱ̀ⲟⲩ
-              - Ⲡ̀ϭⲟⲓⲥ Ⲡⲓⲟⲩⲣⲟ ⲉⲧ ϩⲓϫⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ̀ Ⲫ̀ⲛⲟⲩϯ Ⲫ̀ⲓⲱⲧ Ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ Ⲡ̀ϭⲟⲓⲥ Ⲡ̀ϣⲏⲣⲓ ⲙ̀ⲙⲁⲩⲁⲧϥ ⲡⲓⲙⲟⲛⲟⲅⲉⲛⲏⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ Ⲉⲑⲟⲩⲁⲃ
-              - Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ Ⲡⲓϩⲏⲓⲃ ⲛ̀ⲧⲉ Ⲫ̀ⲛⲟⲩϯ Ⲡⲓϣⲏⲣⲓ ⲛ̀ⲧⲉ Ⲫ̀ⲓⲱⲧ ⲫⲏⲉⲧⲱ̀ⲗⲓ ⲙ̀ⲫ̀ⲛⲟⲃⲓ ⲛ̀ⲧⲉ ⲡⲓⲕⲟⲥⲙⲟⲥ ⲛⲁⲓ ⲛⲁⲛ
-              - Ⲫⲏⲉⲧⲱ̀ⲗⲓ ⲙ̀ⲫ̀ⲛⲟⲃⲓ ⲛ̀ⲧⲉ ⲡⲓⲕⲟⲥⲙⲟⲥ ϣⲉⲡ ⲛⲉⲛϯϩⲟ ⲉ̀ⲣⲟⲕ. Ⲫⲏⲉⲧϩⲉⲙⲥⲓ ⲥⲁⲟⲩⲓ̀ⲛⲁⲙ ⲙ̀Ⲡⲉϥⲓⲱⲧ ⲛⲁⲓ ⲛⲁⲛ
-              - Ⲛ̀ⲑⲟⲕ ⲙ̀ⲙⲁⲩⲁⲧⲕ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲑⲟⲕ ⲙ̀ⲙⲁⲩⲁⲧⲕ ⲉⲧϭⲟⲥⲓ Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ Ⲉⲑⲟⲩⲁⲃ. Ⲉ̀ⲟⲩⲱ̀ⲟⲩ ⲙ̀Ⲫ̀ⲛⲟⲩϯ Ⲫ̀ⲓⲱⲧ. Ⲁ̀ⲙⲏⲛ
-              - Ϯⲛⲁⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲕ ⲙ̀ⲙⲏⲛⲓ ⲙ̀ⲙⲏⲛⲓ ϯⲛⲁⲥ̀ⲙⲟⲩ ⲉ̀ⲡⲉⲕⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ ϣⲁ ⲉ̀ⲛⲉϩ ⲛⲉⲙ ϣⲁ ⲉ̀ⲛⲉϩ ⲛ̀ⲧⲉ ⲛⲓⲉ̀ⲛⲉϩ. Ⲁ̀ⲙⲏⲛ
-              - Ⲓⲥϫⲉⲛ ϫⲱⲣϩ ⲁ̀ ⲡⲁⲡ̀ⲛⲉⲩⲙⲁ ϣⲱⲣⲡ ⲙ̀ⲙⲟϥ ϩⲁⲣⲟⲕ Ⲡⲁⲛⲟⲩϯ ϫⲉ ϩⲁⲛⲟⲩⲱⲓⲛⲓ ⲛⲉ ⲛⲉⲕⲟⲩⲁϩⲥⲁϩⲛⲓ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ
-              - Ⲛⲁⲓⲉⲣⲙⲉⲗⲉⲧⲁⲛ ϩⲓϫⲉⲛ ⲛⲉⲕⲙⲱⲓⲧ ϫⲉ ⲁⲕϣⲱⲡⲓ ⲛⲏⲓ ⲛ̀ⲟⲩⲃⲟⲏ̀ⲑⲟⲥ. Ϩⲁⲛⲁ̀ⲧⲟⲟⲩⲓ̀ Ⲡ̀ϭⲟⲓⲥ ⲉⲕⲉ̀ⲥⲱⲧⲉⲙ ⲉ̀ⲧ̀ⲥ̀ⲙⲏ ϣⲱⲣⲡ ⲉⲓⲉ̀ⲧⲁϩⲟⲓ ⲛⲁϩⲣⲁⲕ ⲉⲕⲉ̀ⲛⲁⲩ ⲉ̀ⲣⲟⲓ
-          coptic_english:
-              - ''
-              - ''
-              - ''
-              - ''
-              - ''
-              - ''
-              - ''
-              - ''
-              - ''
+  - speaker: people
+    type: verses
+    verses:
+      - english: Let us praise with the angels saying, “Glory to God in the highest, peace on earth, and goodwill toward men.”
+        arabic: فَلْنُسبِّحْ مَعَ الملائِكةِ قائِلينَ "المجْدُ للهِ في الأعالِي، وعَلَى الأرْضِ السَّلامُ، وَفي النَّاسِ المسَرَّةُ."
+        coptic: Ⲙⲁⲣⲉⲛϩⲱⲥ ⲛⲉⲙ ⲛⲓⲁⲅⲅⲉⲗⲟⲥ ϫⲉ ⲟⲩⲱ̀ⲟⲩ ⲙ̀Ⲫ̀ⲛⲟⲩϯ ϧⲉⲛ ⲛⲏⲉⲧϭⲟⲥⲓ ⲛⲉⲙ ⲟⲩϩⲓⲣⲏⲛⲏ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ ⲛⲉⲙ ⲟⲩϯⲙⲁϯ ϧⲉⲛ ⲛⲓⲣⲱⲙⲓ
+        coptic_english: ''
+        coptic_arabic: ''
+      - english: We praise You. We bless You. We serve You. We worship You. We confess to You. We proclaim Your glory. We thank You for Your great glory
+        arabic: نُسَبِّحُكَ. نُبارِكُكَ. نَخْدِمُكَ. نَسْجُدُ لَكَ. نَعْترِفُ لكَ. نَنْطِقُ بمَجْدِكَ. نَشْكُرُكَ مِنْ أجْل عِظَمِ مَجْدِكَ
+        coptic: Ⲧⲉⲛϩⲱⲥ ⲉ̀ⲣⲟⲕ ⲧⲉⲛⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲕ ⲧⲉⲛϣⲉⲙϣⲓ ⲙ̀ⲙⲟⲕ ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ ⲧⲉⲛⲟⲩⲱⲛϩ ⲛⲁⲕ ⲉ̀ⲃⲟⲗ ⲧⲉⲛⲥⲁϫⲓ ϧⲉⲛ ⲡⲉⲕⲱ̀ⲟⲩ ⲧⲉⲛϣⲉⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧⲕ ⲉⲑⲃⲉ ⲡⲉⲕⲛⲓϣϯ ⲛ̀ⲱ̀ⲟⲩ
+        coptic_english: ''
+        coptic_arabic: ''
+      - english: O Lord who reigns over the heavens, God the Father, the Almighty. O Lord, the one only-begotten Son, Jesus Christ, and the Holy Spirit
+        arabic: أيُّها الرَّبُّ المالِكُ عَلَى السَّمواتِ، اللهُ الآبُ ضابِطُ الكُلِّ، والرَّبُّ الإبْنُ الواحِدُ الوَحيدُ يسوعُ المسيحُ، والرُّوحُ القُدُسُ
+        coptic: Ⲡ̀ϭⲟⲓⲥ Ⲡⲓⲟⲩⲣⲟ ⲉⲧ ϩⲓϫⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ̀ Ⲫ̀ⲛⲟⲩϯ Ⲫ̀ⲓⲱⲧ Ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ Ⲡ̀ϭⲟⲓⲥ Ⲡ̀ϣⲏⲣⲓ ⲙ̀ⲙⲁⲩⲁⲧϥ ⲡⲓⲙⲟⲛⲟⲅⲉⲛⲏⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ Ⲉⲑⲟⲩⲁⲃ
+        coptic_english: ''
+        coptic_arabic: ''
+      - english: O Lord God, Lamb of God, Son of the Father, who bears the sins of the world, have mercy on us
+        arabic: أيُّها الرِّبُّ الإلَهُ، حَمَلُ اللهِ، إبْنُ الآبِ، رافِعُ خَطِيَّةِ العالَمِ، إرْحَمْنا
+        coptic: Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ Ⲡⲓϩⲏⲓⲃ ⲛ̀ⲧⲉ Ⲫ̀ⲛⲟⲩϯ Ⲡⲓϣⲏⲣⲓ ⲛ̀ⲧⲉ Ⲫ̀ⲓⲱⲧ ⲫⲏⲉⲧⲱ̀ⲗⲓ ⲙ̀ⲫ̀ⲛⲟⲃⲓ ⲛ̀ⲧⲉ ⲡⲓⲕⲟⲥⲙⲟⲥ ⲛⲁⲓ ⲛⲁⲛ
+        coptic_english: ''
+        coptic_arabic: ''
+      - english: O who bears the sins of the world, accept our supplications. O who sits at the right hand of His Father, have mercy on us
+        arabic: يا حَامِلَ خطيَّةِ العالَمِ، إقْبَلْ طِلَباتِنا إليْكَ. أيُّها الجالسُ عَنْ يَمينِ أبيهِ، إرْحَمْنا
+        coptic: Ⲫⲏⲉⲧⲱ̀ⲗⲓ ⲙ̀ⲫ̀ⲛⲟⲃⲓ ⲛ̀ⲧⲉ ⲡⲓⲕⲟⲥⲙⲟⲥ ϣⲉⲡ ⲛⲉⲛϯϩⲟ ⲉ̀ⲣⲟⲕ. Ⲫⲏⲉⲧϩⲉⲙⲥⲓ ⲥⲁⲟⲩⲓ̀ⲛⲁⲙ ⲙ̀Ⲡⲉϥⲓⲱⲧ ⲛⲁⲓ ⲛⲁⲛ
+        coptic_english: ''
+        coptic_arabic: ''
+      - english: You alone are holy; You alone are the Most High, my Lord Jesus Christ, and the Holy Spirit. Glory to God the Father. Amen
+        arabic: أنْتَ وحْدَكَ القُدُّوسُ. أنْتَ وحْدَكَ العَالِيُّ، يا رَبِّي يسوعُ المسيحُ، والرُّوحُ القُدُسُ. مَجْداً للهِ الآبِ. آمين
+        coptic: Ⲛ̀ⲑⲟⲕ ⲙ̀ⲙⲁⲩⲁⲧⲕ ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲑⲟⲕ ⲙ̀ⲙⲁⲩⲁⲧⲕ ⲉⲧϭⲟⲥⲓ Ⲡⲁϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ Ⲉⲑⲟⲩⲁⲃ. Ⲉ̀ⲟⲩⲱ̀ⲟⲩ ⲙ̀Ⲫ̀ⲛⲟⲩϯ Ⲫ̀ⲓⲱⲧ. Ⲁ̀ⲙⲏⲛ
+        coptic_english: ''
+        coptic_arabic: ''
+      - english: Every day I will bless You and praise Your holy name forever and unto the ages of all ages. Amen
+        arabic: أُبارِكُكَ كُلَّ يَومٍ، وأُسَبِّحُ إسْمَكَ القُدّوسَ، إلَى الأبَدِ وإلَى أبَدِ الأبَدِ. آمين
+        coptic: Ϯⲛⲁⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲟⲕ ⲙ̀ⲙⲏⲛⲓ ⲙ̀ⲙⲏⲛⲓ ϯⲛⲁⲥ̀ⲙⲟⲩ ⲉ̀ⲡⲉⲕⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ ϣⲁ ⲉ̀ⲛⲉϩ ⲛⲉⲙ ϣⲁ ⲉ̀ⲛⲉϩ ⲛ̀ⲧⲉ ⲛⲓⲉ̀ⲛⲉϩ. Ⲁ̀ⲙⲏⲛ
+        coptic_english: ''
+        coptic_arabic: ''
+      - english: Since the night my spirit seeks You early, O my God, for Your commandments are a light on the earth
+        arabic: مُنْذُ اللَّيلِ رُوحِي تُبَكِّرُ إليْكَ يا إلَهي، لأنَّ أوامِرَكَ هِيَ نورٌ عَلَى الأرْضِ
+        coptic: Ⲓⲥϫⲉⲛ ϫⲱⲣϩ ⲁ̀ ⲡⲁⲡ̀ⲛⲉⲩⲙⲁ ϣⲱⲣⲡ ⲙ̀ⲙⲟϥ ϩⲁⲣⲟⲕ Ⲡⲁⲛⲟⲩϯ ϫⲉ ϩⲁⲛⲟⲩⲱⲓⲛⲓ ⲛⲉ ⲛⲉⲕⲟⲩⲁϩⲥⲁϩⲛⲓ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ
+        coptic_english: ''
+        coptic_arabic: ''
+      - english: I continually pursue Your ways for You have become a help to me. In the morning You hear my voice. Early, I stand before You, and You see me
+        arabic: كُنْتُ أتْلو في طُرقِكَ، لأنَّكَ صِرْتَ لِى مُعيناً. باكراً يا ربُّ تَسْمعُ صَوْتِي، بالغَداةِ أقِفُ أمامَكَ وتَراني
+        coptic: Ⲛⲁⲓⲉⲣⲙⲉⲗⲉⲧⲁⲛ ϩⲓϫⲉⲛ ⲛⲉⲕⲙⲱⲓⲧ ϫⲉ ⲁⲕϣⲱⲡⲓ ⲛⲏⲓ ⲛ̀ⲟⲩⲃⲟⲏ̀ⲑⲟⲥ. Ϩⲁⲛⲁ̀ⲧⲟⲟⲩⲓ̀ Ⲡ̀ϭⲟⲓⲥ ⲉⲕⲉ̀ⲥⲱⲧⲉⲙ ⲉ̀ⲧ̀ⲥ̀ⲙⲏ ϣⲱⲣⲡ ⲉⲓⲉ̀ⲧⲁϩⲟⲓ ⲛⲁϩⲣⲁⲕ ⲉⲕⲉ̀ⲛⲁⲩ ⲉ̀ⲣⲟⲓ
+        coptic_english: ''
+        coptic_arabic: ''

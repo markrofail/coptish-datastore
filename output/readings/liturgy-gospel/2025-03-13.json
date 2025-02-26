@@ -3,8 +3,10 @@
     "english": "John 12:44-50",
     "arabic": "يوحنا ١٢:٤٤-٥٠"
   },
-  "text": {
-    "english": "Then Jesus cried out and said, \"He who believes in Me, believes not in Me but in Him who sent Me. And he who sees Me sees Him who sent Me. I have come as a light into the world, that whoever believes in Me should not abide in darkness. And if anyone hears My words and does not believe, I do not judge him; for I did not come to judge the world but to save the world. He who rejects Me, and does not receive My words, has that which judges him--the word that I have spoken will judge him in the last day. For I have not spoken on My own authority; but the Father who sent Me gave Me a command, what I should say and what I should speak. And I know that His command is everlasting life. Therefore, whatever I speak, just as the Father has told Me, so I speak.\"",
-    "arabic": "فنادى يسوع: الذي يؤمن بي ليس يؤمن بي بل بالذي أرسلني والذي يراني يرى الذي أرسلني أنا قد جئت نوراً إلى العالم حتى كل من يؤمن بي لا يمكث في الظلمة وإن سمع أحدٌ كلامي ولم يؤمن فأنا لا أدينه لأني لم آت لأدين العالم بل لأخلص العالم من رذلني ولم يقبل كلامي فله من يدينه الكلام الذي تكلمت به هو يدينه في اليوم الأخير لأني لم أتكلم من نفسي لكن الآب الذي أرسلني هو أعطاني وصيةً: ماذا أقول وبماذا أتكلم وأنا أعلم أن وصيته هي حياةٌ أبديةٌ فما أتكلم أنا به فكما قال لي الآب هكذا أتكلم"
-  }
+  "text": [
+    {
+      "english": "Then Jesus cried out and said, \"He who believes in Me, believes not in Me but in Him who sent Me. And he who sees Me sees Him who sent Me. I have come as a light into the world, that whoever believes in Me should not abide in darkness. And if anyone hears My words and does not believe, I do not judge him; for I did not come to judge the world but to save the world. He who rejects Me, and does not receive My words, has that which judges him--the word that I have spoken will judge him in the last day. For I have not spoken on My own authority; but the Father who sent Me gave Me a command, what I should say and what I should speak. And I know that His command is everlasting life. Therefore, whatever I speak, just as the Father has told Me, so I speak.\"",
+      "arabic": "فنادى يسوع: الذي يؤمن بي ليس يؤمن بي بل بالذي أرسلني والذي يراني يرى الذي أرسلني أنا قد جئت نوراً إلى العالم حتى كل من يؤمن بي لا يمكث في الظلمة وإن سمع أحدٌ كلامي ولم يؤمن فأنا لا أدينه لأني لم آت لأدين العالم بل لأخلص العالم من رذلني ولم يقبل كلامي فله من يدينه الكلام الذي تكلمت به هو يدينه في اليوم الأخير لأني لم أتكلم من نفسي لكن الآب الذي أرسلني هو أعطاني وصيةً: ماذا أقول وبماذا أتكلم وأنا أعلم أن وصيته هي حياةٌ أبديةٌ فما أتكلم أنا به فكما قال لي الآب هكذا أتكلم"
+    }
+  ]
 }

@@ -3,8 +3,10 @@
     "english": "Psalm 40:5 - 40:16",
     "arabic": "مزامير ٤٠:٥ - ٤٠:١٦"
   },
-  "text": {
-    "english": "Many, O LORD my God, are Your wonderful works Which You have done; And Your thoughts toward us Cannot be recounted to You in order; If I would declare and speak of them, They are more than can be numbered. Let all those who seek You rejoice and be glad in You; Let such as love Your salvation say continually, \"The LORD be magnified!\"",
-    "arabic": "كثيراً ما جعلت أنت أيها الرب إلهي عجائبك وأفكارك من جهتنا لا تقوم لديك لأخبرن وأتكلمن بها زادت عن أن تعد ليبتهج ويفرح بك جميع طالبيك ليقل أبداً محبو خلاصك: يتعظم الرب"
-  }
+  "text": [
+    {
+      "english": "Many, O LORD my God, are Your wonderful works Which You have done; And Your thoughts toward us Cannot be recounted to You in order; If I would declare and speak of them, They are more than can be numbered. Let all those who seek You rejoice and be glad in You; Let such as love Your salvation say continually, \"The LORD be magnified!\"",
+      "arabic": "كثيراً ما جعلت أنت أيها الرب إلهي عجائبك وأفكارك من جهتنا لا تقوم لديك لأخبرن وأتكلمن بها زادت عن أن تعد ليبتهج ويفرح بك جميع طالبيك ليقل أبداً محبو خلاصك: يتعظم الرب"
+    }
+  ]
 }

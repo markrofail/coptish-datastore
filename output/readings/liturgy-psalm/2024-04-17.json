@@ -3,8 +3,10 @@
     "english": "Psalm 9:11 - 9:12",
     "arabic": "مزامير ٩:١١ - ٩:١٢"
   },
-  "text": {
-    "english": "Sing praises to the LORD, who dwells in Zion! Declare His deeds among the people. When He avenges blood, He remembers them; He does not forget the cry of the humble.",
-    "arabic": "رنموا للرب الساكن في صهيون أخبروا بين الشعوب بأفعاله لأنه مطالبٌ بالدماء ذكرهم لم ينس صراخ المساكين"
-  }
+  "text": [
+    {
+      "english": "Sing praises to the LORD, who dwells in Zion! Declare His deeds among the people. When He avenges blood, He remembers them; He does not forget the cry of the humble.",
+      "arabic": "رنموا للرب الساكن في صهيون أخبروا بين الشعوب بأفعاله لأنه مطالبٌ بالدماء ذكرهم لم ينس صراخ المساكين"
+    }
+  ]
 }

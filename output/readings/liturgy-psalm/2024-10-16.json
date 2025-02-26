@@ -3,8 +3,10 @@
     "english": "Psalm 77:14-16",
     "arabic": "مزامير ٧٧:١٤-١٦"
   },
-  "text": {
-    "english": "You are the God who performs miracles; you display your power among the peoples. With your mighty arm you redeemed your people, The waters saw you and writhed.",
-    "arabic": "أنت الإله الصانع العجائب عرفت بين الشعوب قوتك فككت بذراعك شعبك بني يعقوب ويوسف سلاه أبصرتك المياه يا الله أبصرتك المياه ففزعت ارتعدت أيضاً اللجج"
-  }
+  "text": [
+    {
+      "english": "You are the God who performs miracles; you display your power among the peoples. With your mighty arm you redeemed your people, The waters saw you and writhed.",
+      "arabic": "أنت الإله الصانع العجائب عرفت بين الشعوب قوتك فككت بذراعك شعبك بني يعقوب ويوسف سلاه أبصرتك المياه يا الله أبصرتك المياه ففزعت ارتعدت أيضاً اللجج"
+    }
+  ]
 }

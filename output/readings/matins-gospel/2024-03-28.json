@@ -3,8 +3,10 @@
     "english": "Luke 20:20-26",
     "arabic": "لوقا ٢٠:٢٠-٢٦"
   },
-  "text": {
-    "english": "So they watched Him, and sent spies who pretended to be righteous, that they might seize on His words, in order to deliver Him to the power and the authority of the governor. Then they asked Him, saying, \"Teacher, we know that You say and teach rightly, and You do not show personal favoritism, but teach the way of God in truth: Is it lawful for us to pay taxes to Caesar or not?\" But He perceived their craftiness, and said to them, \"Why do you test Me? Show Me a denarius. Whose image and inscription does it have?\" They answered and said, \"Caesar's.\" And He said to them, \"Render therefore to Caesar the things that are Caesar's, and to God the things that are God's.\" But they could not catch Him in His words in the presence of the people. And they marveled at His answer and kept silent.",
-    "arabic": "فراقبوه وأرسلوا جواسيس يتراءون أنهم أبرارٌ لكي يمسكوه بكلمةٍ حتى يسلموه إلى حكم الوالي وسلطانه فسألوه: يا معلم نعلم أنك بالاستقامة تتكلم وتعلم ولا تقبل الوجوه بل بالحق تعلم طريق الله أيجوز لنا أن نعطي جزيةً لقيصر أم لا فشعر بمكرهم وقال لهم: لماذا تجربونني أروني ديناراً لمن الصورة والكتابة فأجابوا: لقيصر فقال لهم: أعطوا إذاً ما لقيصر لقيصر وما لله لله فلم يقدروا أن يمسكوه بكلمةٍ قدام الشعب وتعجبوا من جوابه وسكتوا"
-  }
+  "text": [
+    {
+      "english": "So they watched Him, and sent spies who pretended to be righteous, that they might seize on His words, in order to deliver Him to the power and the authority of the governor. Then they asked Him, saying, \"Teacher, we know that You say and teach rightly, and You do not show personal favoritism, but teach the way of God in truth: Is it lawful for us to pay taxes to Caesar or not?\" But He perceived their craftiness, and said to them, \"Why do you test Me? Show Me a denarius. Whose image and inscription does it have?\" They answered and said, \"Caesar's.\" And He said to them, \"Render therefore to Caesar the things that are Caesar's, and to God the things that are God's.\" But they could not catch Him in His words in the presence of the people. And they marveled at His answer and kept silent.",
+      "arabic": "فراقبوه وأرسلوا جواسيس يتراءون أنهم أبرارٌ لكي يمسكوه بكلمةٍ حتى يسلموه إلى حكم الوالي وسلطانه فسألوه: يا معلم نعلم أنك بالاستقامة تتكلم وتعلم ولا تقبل الوجوه بل بالحق تعلم طريق الله أيجوز لنا أن نعطي جزيةً لقيصر أم لا فشعر بمكرهم وقال لهم: لماذا تجربونني أروني ديناراً لمن الصورة والكتابة فأجابوا: لقيصر فقال لهم: أعطوا إذاً ما لقيصر لقيصر وما لله لله فلم يقدروا أن يمسكوه بكلمةٍ قدام الشعب وتعجبوا من جوابه وسكتوا"
+    }
+  ]
 }

@@ -3,8 +3,10 @@
     "english": "Psalm 34:17,18",
     "arabic": "مزامير ٣٤:١٧-١٨"
   },
-  "text": {
-    "english": "The righteous cry out, and the LORD hears, And delivers them out of all their troubles. The LORD is near to those who have a broken heart, And saves such as have a contrite spirit.",
-    "arabic": "أولئك صرخوا والرب سمع ومن كل شدائدهم أنقذهم قريبٌ هو الرب من المنكسري القلوب ويخلص المنسحقي الروح"
-  }
+  "text": [
+    {
+      "english": "The righteous cry out, and the LORD hears, And delivers them out of all their troubles. The LORD is near to those who have a broken heart, And saves such as have a contrite spirit.",
+      "arabic": "أولئك صرخوا والرب سمع ومن كل شدائدهم أنقذهم قريبٌ هو الرب من المنكسري القلوب ويخلص المنسحقي الروح"
+    }
+  ]
 }

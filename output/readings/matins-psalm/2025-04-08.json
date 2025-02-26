@@ -3,8 +3,10 @@
     "english": "Psalm 38:18 - 38:19",
     "arabic": "مزامير ٣٨:١٨ - ٣٨:١٩"
   },
-  "text": {
-    "english": "For I will declare my iniquity; I will be in anguish over my sin. But my enemies are vigorous, and they are strong; And those who hate me wrongfully have multiplied.",
-    "arabic": "لأنني أخبر بإثمي وأغتم من خطيتي وأما أعدائي فأحياءٌ عظموا والذين يبغضونني ظلماً كثروا"
-  }
+  "text": [
+    {
+      "english": "For I will declare my iniquity; I will be in anguish over my sin. But my enemies are vigorous, and they are strong; And those who hate me wrongfully have multiplied.",
+      "arabic": "لأنني أخبر بإثمي وأغتم من خطيتي وأما أعدائي فأحياءٌ عظموا والذين يبغضونني ظلماً كثروا"
+    }
+  ]
 }

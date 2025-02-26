@@ -3,8 +3,10 @@
     "english": "Psalm 86:14",
     "arabic": "مزامير ٨٦:١٤"
   },
-  "text": {
-    "english": "O God, the proud have risen against me, And a mob of violent men have sought my life, And have not set You before them.",
-    "arabic": "اللهم المتكبرون قد قاموا علي وجماعة العتاة طلبوا نفسي ولم يجعلوك أمامهم"
-  }
+  "text": [
+    {
+      "english": "O God, the proud have risen against me, And a mob of violent men have sought my life, And have not set You before them.",
+      "arabic": "اللهم المتكبرون قد قاموا علي وجماعة العتاة طلبوا نفسي ولم يجعلوك أمامهم"
+    }
+  ]
 }

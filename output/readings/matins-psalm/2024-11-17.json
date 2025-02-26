@@ -3,8 +3,10 @@
     "english": "Psalm 67:6-7",
     "arabic": "مزامير ٦٧:٦-٧"
   },
-  "text": {
-    "english": "Then the earth shall yield her increase; God, our own God, shall bless us. God shall bless us, And all the ends of the earth shall fear Him.",
-    "arabic": "الأرض أعطت غلتها يباركنا الله إلهنا يباركنا الله وتخشاه كل أقاصي الأرض"
-  }
+  "text": [
+    {
+      "english": "Then the earth shall yield her increase; God, our own God, shall bless us. God shall bless us, And all the ends of the earth shall fear Him.",
+      "arabic": "الأرض أعطت غلتها يباركنا الله إلهنا يباركنا الله وتخشاه كل أقاصي الأرض"
+    }
+  ]
 }

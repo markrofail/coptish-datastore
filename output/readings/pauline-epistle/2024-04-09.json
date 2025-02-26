@@ -3,8 +3,10 @@
     "english": "Philippians 2:22-26",
     "arabic": "فيلبي ٢:٢٢-٢٦"
   },
-  "text": {
-    "english": "But you know his proven character, that as a son with his father he served with me in the gospel. Therefore I hope to send him at once, as soon as I see how it goes with me. But I trust in the Lord that I myself shall also come shortly. Yet I considered it necessary to send to you Epaphroditus, my brother, fellow worker, and fellow soldier, but your messenger and the one who ministered to my need; since he was longing for you all, and was distressed because you had heard that he was sick.",
-    "arabic": "وأما اختباره فأنتم تعرفون أنه كولدٍ مع أبٍ خدم معي لأجل الإنجيل هذا أرجو أن أرسله أول ما أرى أحوالي حالاً وأثق بالرب أني أنا أيضاً سآتي إليكم سريعاً ولكني حسبت من اللازم أن أرسل إليكم أبفرودتس أخي والعامل معي والمتجند معي ورسولكم والخادم لحاجتي إذ كان مشتاقاً إلى جميعكم ومغموماً لأنكم سمعتم أنه كان مريضاً"
-  }
+  "text": [
+    {
+      "english": "But you know his proven character, that as a son with his father he served with me in the gospel. Therefore I hope to send him at once, as soon as I see how it goes with me. But I trust in the Lord that I myself shall also come shortly. Yet I considered it necessary to send to you Epaphroditus, my brother, fellow worker, and fellow soldier, but your messenger and the one who ministered to my need; since he was longing for you all, and was distressed because you had heard that he was sick.",
+      "arabic": "وأما اختباره فأنتم تعرفون أنه كولدٍ مع أبٍ خدم معي لأجل الإنجيل هذا أرجو أن أرسله أول ما أرى أحوالي حالاً وأثق بالرب أني أنا أيضاً سآتي إليكم سريعاً ولكني حسبت من اللازم أن أرسل إليكم أبفرودتس أخي والعامل معي والمتجند معي ورسولكم والخادم لحاجتي إذ كان مشتاقاً إلى جميعكم ومغموماً لأنكم سمعتم أنه كان مريضاً"
+    }
+  ]
 }

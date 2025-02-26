@@ -3,8 +3,10 @@
     "english": "Mark9:38-42",
     "arabic": "مرقس ٩:٣٨-٤٢"
   },
-  "text": {
-    "english": "Now John answered Him, saying, \"Teacher, we saw someone who does not follow us casting out demons in Your name, and we forbade him because he does not follow us.\" But Jesus said, \"Do not forbid him, for no one who works a miracle in My name can soon afterward speak evil of Me. For he who is not against us is on our side. For whoever gives you a cup of water to drink in My name, because you belong to Christ, assuredly, I say to you, he will by no means lose his reward. \"But whoever causes one of these little ones who believe in Me to stumble, it would be better for him if a millstone were hung around his neck, and he were thrown into the sea.",
-    "arabic": "فقال يسوع: لا تمنعوه لأنه ليس أحدٌ يصنع قوةً باسمي ويستطيع سريعاً أن يقول علي شراً لأن من ليس علينا فهو معنا لأن من سقاكم كأس ماءٍ باسمي لأنكم للمسيح فالحق أقول لكم إنه لا يضيع أجره ومن أعثر أحد الصغار المؤمنين بي فخيرٌ له لو طوق عنقه بحجر رحًى وطرح في البحر وإن أعثرتك يدك فاقطعها خيرٌ لك أن تدخل الحياة أقطع من أن تكون لك يدان وتمضي إلى جهنم إلى النار التي لا تطفأ"
-  }
+  "text": [
+    {
+      "english": "Now John answered Him, saying, \"Teacher, we saw someone who does not follow us casting out demons in Your name, and we forbade him because he does not follow us.\" But Jesus said, \"Do not forbid him, for no one who works a miracle in My name can soon afterward speak evil of Me. For he who is not against us is on our side. For whoever gives you a cup of water to drink in My name, because you belong to Christ, assuredly, I say to you, he will by no means lose his reward. \"But whoever causes one of these little ones who believe in Me to stumble, it would be better for him if a millstone were hung around his neck, and he were thrown into the sea.",
+      "arabic": "فقال يسوع: لا تمنعوه لأنه ليس أحدٌ يصنع قوةً باسمي ويستطيع سريعاً أن يقول علي شراً لأن من ليس علينا فهو معنا لأن من سقاكم كأس ماءٍ باسمي لأنكم للمسيح فالحق أقول لكم إنه لا يضيع أجره ومن أعثر أحد الصغار المؤمنين بي فخيرٌ له لو طوق عنقه بحجر رحًى وطرح في البحر وإن أعثرتك يدك فاقطعها خيرٌ لك أن تدخل الحياة أقطع من أن تكون لك يدان وتمضي إلى جهنم إلى النار التي لا تطفأ"
+    }
+  ]
 }

@@ -3,8 +3,10 @@
     "english": "Psalm 118:24 - 118:25 - 118:27",
     "arabic": "مزامير ١١٨:٢٤ - ١١٨:٢٥ - ١١٨:٢٧"
   },
-  "text": {
-    "english": "This is the day the LORD has made; We will rejoice and be glad in it. Save now, I pray, O LORD; O LORD, I pray, send now prosperity. God is the LORD, And He has given us light;",
-    "arabic": "هذا هو اليوم الذي صنعه الرب نبتهج ونفرح فيه آه يا رب خلص آه يا رب أنقذ الرب هو الله وقد أنار لنا أوثقوا الذبيحة بربطٍ إلى قرون المذبح"
-  }
+  "text": [
+    {
+      "english": "This is the day the LORD has made; We will rejoice and be glad in it. Save now, I pray, O LORD; O LORD, I pray, send now prosperity. God is the LORD, And He has given us light;",
+      "arabic": "هذا هو اليوم الذي صنعه الرب نبتهج ونفرح فيه آه يا رب خلص آه يا رب أنقذ الرب هو الله وقد أنار لنا أوثقوا الذبيحة بربطٍ إلى قرون المذبح"
+    }
+  ]
 }

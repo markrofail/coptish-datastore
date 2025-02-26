@@ -3,8 +3,10 @@
     "english": "Psalm 105:36 - 105:38",
     "arabic": "مزامير ١٠٥:٣٦ - ١٠٥:٣٨"
   },
-  "text": {
-    "english": "He also destroyed all the firstborn in their land, The first of all their strength. Egypt was glad when they departed, For the fear of them had fallen upon them.",
-    "arabic": "قتل كل بكرٍ في أرضهم أوائل كل قوتهم فرحت مصر بخروجهم لأن رعبهم سقط عليهم"
-  }
+  "text": [
+    {
+      "english": "He also destroyed all the firstborn in their land, The first of all their strength. Egypt was glad when they departed, For the fear of them had fallen upon them.",
+      "arabic": "قتل كل بكرٍ في أرضهم أوائل كل قوتهم فرحت مصر بخروجهم لأن رعبهم سقط عليهم"
+    }
+  ]
 }

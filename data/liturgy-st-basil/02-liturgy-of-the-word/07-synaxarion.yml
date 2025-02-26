@@ -1,6 +1,6 @@
 title:
-    english: The Synaxarium
-    arabic: السنكسار
+  english: The Synaxarium
+  arabic: السنكسار
 sections:
-    - type: reading
-      readingType: synaxarium
+  - type: reading
+    readingType: synaxarium

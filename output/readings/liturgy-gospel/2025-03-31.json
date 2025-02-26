@@ -3,8 +3,10 @@
     "english": "Luke 13:1-5",
     "arabic": "لوقا ١٣:١-٥"
   },
-  "text": {
-    "english": "There were present at that season some who told Him about the Galileans whose blood Pilate had mingled with their sacrifices. And Jesus answered and said to them, \"Do you suppose that these Galileans were worse sinners than all other Galileans, because they suffered such things? I tell you, no; but unless you repent you will all likewise perish. Or those eighteen on whom the tower in Siloam fell and killed them, do you think that they were worse sinners than all other men who dwelt in Jerusalem? I tell you, no; but unless you repent you will all likewise perish.\"",
-    "arabic": "وكان حاضراً في ذلك الوقت قومٌ يخبرونه عن الجليليين الذين خلط بيلاطس دمهم بذبائحهم فقال يسوع لهم: أتظنون أن هؤلاء الجليليين كانوا خطاةً أكثر من كل الجليليين لأنهم كابدوا مثل هذا كلا أقول لكم بل إن لم تتوبوا فجميعكم كذلك تهلكون أو أولئك الثمانية عشر الذين سقط عليهم البرج في سلوام وقتلهم أتظنون أن هؤلاء كانوا مذنبين أكثر من جميع الناس الساكنين في أورشليم كلا أقول لكم بل إن لم تتوبوا فجميعكم كذلك تهلكون"
-  }
+  "text": [
+    {
+      "english": "There were present at that season some who told Him about the Galileans whose blood Pilate had mingled with their sacrifices. And Jesus answered and said to them, \"Do you suppose that these Galileans were worse sinners than all other Galileans, because they suffered such things? I tell you, no; but unless you repent you will all likewise perish. Or those eighteen on whom the tower in Siloam fell and killed them, do you think that they were worse sinners than all other men who dwelt in Jerusalem? I tell you, no; but unless you repent you will all likewise perish.\"",
+      "arabic": "وكان حاضراً في ذلك الوقت قومٌ يخبرونه عن الجليليين الذين خلط بيلاطس دمهم بذبائحهم فقال يسوع لهم: أتظنون أن هؤلاء الجليليين كانوا خطاةً أكثر من كل الجليليين لأنهم كابدوا مثل هذا كلا أقول لكم بل إن لم تتوبوا فجميعكم كذلك تهلكون أو أولئك الثمانية عشر الذين سقط عليهم البرج في سلوام وقتلهم أتظنون أن هؤلاء كانوا مذنبين أكثر من جميع الناس الساكنين في أورشليم كلا أقول لكم بل إن لم تتوبوا فجميعكم كذلك تهلكون"
+    }
+  ]
 }

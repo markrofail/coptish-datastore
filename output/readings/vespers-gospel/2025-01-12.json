@@ -3,8 +3,10 @@
     "english": "Luke 4:40-44",
     "arabic": "لوقا ٤:٤٠-٤٤"
   },
-  "text": {
-    "english": "When the sun was setting, all those who had any that were sick with various diseases brought them to Him; and He laid His hands on every one of them and healed them. And demons also came out of many, crying out and saying, \"You are the Christ, the Son of God!\" And He, rebuking them, did not allow them to speak, for they knew that He was the Christ. Now when it was day, He departed and went into a deserted place. And the crowd sought Him and came to Him, and tried to keep Him from leaving them; but He said to them, \"I must preach the kingdom of God to the other cities also, because for this purpose I have been sent.\" And He was preaching in the synagogues of Galilee.",
-    "arabic": "وعند غروب الشمس جميع الذين كان عندهم سقماء بأمراضٍ مختلفةٍ قدموهم إليه فوضع يديه على كل واحدٍ منهم وشفاهم وكانت شياطين أيضاً تخرج من كثيرين وهي تصرخ وتقول: أنت المسيح ابن الله فانتهرهم ولم يدعهم يتكلمون لأنهم عرفوه أنه المسيح ولما صار النهار خرج وذهب إلى موضعٍ خلاءٍ وكان الجموع يفتشون عليه فجاءوا إليه وأمسكوه لئلا يذهب عنهم فقال لهم: إنه ينبغي لي أن أبشر المدن الأخر أيضاً بملكوت الله لأني لهذا قد أرسلت فكان يكرز في مجامع الجليل"
-  }
+  "text": [
+    {
+      "english": "When the sun was setting, all those who had any that were sick with various diseases brought them to Him; and He laid His hands on every one of them and healed them. And demons also came out of many, crying out and saying, \"You are the Christ, the Son of God!\" And He, rebuking them, did not allow them to speak, for they knew that He was the Christ. Now when it was day, He departed and went into a deserted place. And the crowd sought Him and came to Him, and tried to keep Him from leaving them; but He said to them, \"I must preach the kingdom of God to the other cities also, because for this purpose I have been sent.\" And He was preaching in the synagogues of Galilee.",
+      "arabic": "وعند غروب الشمس جميع الذين كان عندهم سقماء بأمراضٍ مختلفةٍ قدموهم إليه فوضع يديه على كل واحدٍ منهم وشفاهم وكانت شياطين أيضاً تخرج من كثيرين وهي تصرخ وتقول: أنت المسيح ابن الله فانتهرهم ولم يدعهم يتكلمون لأنهم عرفوه أنه المسيح ولما صار النهار خرج وذهب إلى موضعٍ خلاءٍ وكان الجموع يفتشون عليه فجاءوا إليه وأمسكوه لئلا يذهب عنهم فقال لهم: إنه ينبغي لي أن أبشر المدن الأخر أيضاً بملكوت الله لأني لهذا قد أرسلت فكان يكرز في مجامع الجليل"
+    }
+  ]
 }

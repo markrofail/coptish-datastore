@@ -3,8 +3,10 @@
     "english": "Psalm 97:6 - 97:4",
     "arabic": "مزامير ٩٧:٦ - ٩٧:٤"
   },
-  "text": {
-    "english": "The heavens declare His righteousness, And all the peoples see His glory. His lightnings light the world; The earth sees and trembles.",
-    "arabic": "أخبرت السماوات بعدله ورأى جميع الشعوب مجده أضاءت بروقه المسكونة رأت الأرض وارتعدت"
-  }
+  "text": [
+    {
+      "english": "The heavens declare His righteousness, And all the peoples see His glory. His lightnings light the world; The earth sees and trembles.",
+      "arabic": "أخبرت السماوات بعدله ورأى جميع الشعوب مجده أضاءت بروقه المسكونة رأت الأرض وارتعدت"
+    }
+  ]
 }

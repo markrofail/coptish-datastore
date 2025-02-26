@@ -3,8 +3,10 @@
     "english": "Psalm 138:1-2",
     "arabic": "مزامير ١٣٨:١-٢"
   },
-  "text": {
-    "english": "I will praise You with my whole heart; Before the gods I will sing praises to You. I will worship toward Your holy temple,",
-    "arabic": "أحمدك من كل قلبي قدام الآلهة أرنم لك أسجد في هيكل قدسك وأحمد اسمك على رحمتك وحقك لأنك قد عظمت كلمتك على كل اسمك"
-  }
+  "text": [
+    {
+      "english": "I will praise You with my whole heart; Before the gods I will sing praises to You. I will worship toward Your holy temple,",
+      "arabic": "أحمدك من كل قلبي قدام الآلهة أرنم لك أسجد في هيكل قدسك وأحمد اسمك على رحمتك وحقك لأنك قد عظمت كلمتك على كل اسمك"
+    }
+  ]
 }

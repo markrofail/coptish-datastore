@@ -3,8 +3,10 @@
     "english": "Psalm 119:130",
     "arabic": "مزامير ١١٩:١٣٠"
   },
-  "text": {
-    "english": "The entrance of Your words gives light; It gives understanding to the simple.",
-    "arabic": "فتح كلامك ينير يعقل الجهال"
-  }
+  "text": [
+    {
+      "english": "The entrance of Your words gives light; It gives understanding to the simple.",
+      "arabic": "فتح كلامك ينير يعقل الجهال"
+    }
+  ]
 }

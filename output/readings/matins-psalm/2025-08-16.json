@@ -3,8 +3,10 @@
     "english": "Psalm 146:1 - 146:5",
     "arabic": "مزامير ١٤٦:١ - ١٤٦:٥"
   },
-  "text": {
-    "english": "Praise the LORD! Praise the LORD, O my soul! Happy is he who has the God of Jacob for his help, Whose hope is in the LORD his God,",
-    "arabic": "هللويا سبحي يا نفسي الرب طوبى لمن إله يعقوب معينه ورجاؤه على الرب إلهه"
-  }
+  "text": [
+    {
+      "english": "Praise the LORD! Praise the LORD, O my soul! Happy is he who has the God of Jacob for his help, Whose hope is in the LORD his God,",
+      "arabic": "هللويا سبحي يا نفسي الرب طوبى لمن إله يعقوب معينه ورجاؤه على الرب إلهه"
+    }
+  ]
 }

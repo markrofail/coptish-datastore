@@ -3,8 +3,10 @@
     "english": "Psalm 34:19 - 68:3",
     "arabic": "مزامير ٣٤:١٩ - ٦٨:٣"
   },
-  "text": {
-    "english": "Many are the afflictions of the righteous, But the LORD delivers him out of them all. But let the righteous be glad; Let them rejoice before God; Yes, let them rejoice exceedingly.",
-    "arabic": "كثيرةٌ هي بلايا الصديق ومن جميعها ينجيه الرب والصديقون يفرحون يبتهجون أمام الله ويطفرون فرحاً"
-  }
+  "text": [
+    {
+      "english": "Many are the afflictions of the righteous, But the LORD delivers him out of them all. But let the righteous be glad; Let them rejoice before God; Yes, let them rejoice exceedingly.",
+      "arabic": "كثيرةٌ هي بلايا الصديق ومن جميعها ينجيه الرب والصديقون يفرحون يبتهجون أمام الله ويطفرون فرحاً"
+    }
+  ]
 }

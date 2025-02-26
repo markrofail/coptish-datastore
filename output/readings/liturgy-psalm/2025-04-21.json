@@ -3,8 +3,10 @@
     "english": "Psalm 104:24 - 104:31",
     "arabic": "مزامير ١٠٤:٢٤ - ١٠٤:٣١"
   },
-  "text": {
-    "english": "O LORD, how manifold are Your works! In wisdom You have made them all. The earth is full of Your possessions-- May the glory of the LORD endure forever; May the LORD rejoice in His works.",
-    "arabic": "ما أعظم أعمالك يا رب كلها بحكمةٍ صنعت ملآنةٌ الأرض من غناك يكون مجد الرب إلى الدهر يفرح الرب بأعماله"
-  }
+  "text": [
+    {
+      "english": "O LORD, how manifold are Your works! In wisdom You have made them all. The earth is full of Your possessions-- May the glory of the LORD endure forever; May the LORD rejoice in His works.",
+      "arabic": "ما أعظم أعمالك يا رب كلها بحكمةٍ صنعت ملآنةٌ الأرض من غناك يكون مجد الرب إلى الدهر يفرح الرب بأعماله"
+    }
+  ]
 }

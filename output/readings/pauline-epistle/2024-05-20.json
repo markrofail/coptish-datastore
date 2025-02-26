@@ -3,8 +3,10 @@
     "english": "Rom 2:4-7",
     "arabic": "رومية ٢:٤-٧"
   },
-  "text": {
-    "english": "Or do you despise the riches of His goodness, forbearance, and longsuffering, not knowing that the goodness of God leads you to repentance? But in accordance with your hardness and your impenitent heart you are treasuring up for yourself wrath in the day of wrath and revelation of the righteous judgment of God, who \"will render to each one according to his deeds\": eternal life to those who by patient continuance in doing good seek for glory, honor, and immortality;",
-    "arabic": "أم تستهين بغنى لطفه وإمهاله وطول أناته غير عالمٍ أن لطف الله إنما يقتادك إلى التوبة ولكنك من أجل قساوتك وقلبك غير التائب تذخر لنفسك غضباً في يوم الغضب واستعلان دينونة الله العادلة الذي سيجازي كل واحدٍ حسب أعماله أما الذين بصبرٍ في العمل الصالح يطلبون المجد والكرامة والبقاء فبالحياة الأبدية"
-  }
+  "text": [
+    {
+      "english": "Or do you despise the riches of His goodness, forbearance, and longsuffering, not knowing that the goodness of God leads you to repentance? But in accordance with your hardness and your impenitent heart you are treasuring up for yourself wrath in the day of wrath and revelation of the righteous judgment of God, who \"will render to each one according to his deeds\": eternal life to those who by patient continuance in doing good seek for glory, honor, and immortality;",
+      "arabic": "أم تستهين بغنى لطفه وإمهاله وطول أناته غير عالمٍ أن لطف الله إنما يقتادك إلى التوبة ولكنك من أجل قساوتك وقلبك غير التائب تذخر لنفسك غضباً في يوم الغضب واستعلان دينونة الله العادلة الذي سيجازي كل واحدٍ حسب أعماله أما الذين بصبرٍ في العمل الصالح يطلبون المجد والكرامة والبقاء فبالحياة الأبدية"
+    }
+  ]
 }

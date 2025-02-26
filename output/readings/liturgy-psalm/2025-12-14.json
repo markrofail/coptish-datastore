@@ -3,8 +3,10 @@
     "english": "Psalm 102:13 - 102:16",
     "arabic": "مزامير ١٠٢:١٣ - ١٠٢:١٦"
   },
-  "text": {
-    "english": "You will arise and have mercy on Zion; For the time to favor her, Yes, the set time, has come. For the LORD shall build up Zion; He shall appear in His glory.",
-    "arabic": "أنت تقوم وترحم صهيون لأنه وقت الرأفة لأنه جاء الميعاد إذا بنى الرب صهيون يرى بمجده"
-  }
+  "text": [
+    {
+      "english": "You will arise and have mercy on Zion; For the time to favor her, Yes, the set time, has come. For the LORD shall build up Zion; He shall appear in His glory.",
+      "arabic": "أنت تقوم وترحم صهيون لأنه وقت الرأفة لأنه جاء الميعاد إذا بنى الرب صهيون يرى بمجده"
+    }
+  ]
 }

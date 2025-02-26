@@ -3,8 +3,10 @@
     "english": "Psalm 31:26 - 31:19",
     "arabic": "مزامير ٣١:٢٦ - ٣١:١٩"
   },
-  "text": {
-    "english": "Oh, how great is Your goodness, Which You have laid up for those who fear You, Which You have prepared for those who trust in You In the presence of the sons of men!",
-    "arabic": "ما أعظم جودك الذي ذخرته لخائفيك وفعلته للمتكلين عليك تجاه بني البشر"
-  }
+  "text": [
+    {
+      "english": "Oh, how great is Your goodness, Which You have laid up for those who fear You, Which You have prepared for those who trust in You In the presence of the sons of men!",
+      "arabic": "ما أعظم جودك الذي ذخرته لخائفيك وفعلته للمتكلين عليك تجاه بني البشر"
+    }
+  ]
 }

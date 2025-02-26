@@ -3,8 +3,10 @@
     "english": "Psalm 18:37 - 18:40",
     "arabic": "مزامير ١٨:٣٧ - ١٨:٤٠"
   },
-  "text": {
-    "english": "I have pursued my enemies and overtaken them; Neither did I turn back again till they were destroyed. You have also given me the necks of my enemies, So that I destroyed those who hated me.",
-    "arabic": "أتبع أعدائي فأدركهم ولا أرجع حتى أفنيهم وتعطيني أقفية أعدائي ومبغضي أفنيهم"
-  }
+  "text": [
+    {
+      "english": "I have pursued my enemies and overtaken them; Neither did I turn back again till they were destroyed. You have also given me the necks of my enemies, So that I destroyed those who hated me.",
+      "arabic": "أتبع أعدائي فأدركهم ولا أرجع حتى أفنيهم وتعطيني أقفية أعدائي ومبغضي أفنيهم"
+    }
+  ]
 }

@@ -3,8 +3,10 @@
     "english": "Psalm 25:7 - 25:8 - 25:11",
     "arabic": "مزامير ٢٥:٧ - ٢٥:٨ - ٢٥:١١"
   },
-  "text": {
-    "english": "Do not remember the sins of my youth, nor my transgressions; According to Your mercy remember me, For Your goodness' sake, O LORD. Good and upright is the LORD; Therefore He teaches sinners in the way. For Your name's sake, O LORD, Pardon my iniquity, for it is great.",
-    "arabic": "لا تذكر خطايا صباي ولا معاصي كرحمتك اذكرني أنت من أجل جودك يا رب الرب صالحٌ ومستقيمٌ لذلك يعلم الخطاة الطريق من أجل اسمك يا رب اغفر إثمي لأنه عظيمٌ"
-  }
+  "text": [
+    {
+      "english": "Do not remember the sins of my youth, nor my transgressions; According to Your mercy remember me, For Your goodness' sake, O LORD. Good and upright is the LORD; Therefore He teaches sinners in the way. For Your name's sake, O LORD, Pardon my iniquity, for it is great.",
+      "arabic": "لا تذكر خطايا صباي ولا معاصي كرحمتك اذكرني أنت من أجل جودك يا رب الرب صالحٌ ومستقيمٌ لذلك يعلم الخطاة الطريق من أجل اسمك يا رب اغفر إثمي لأنه عظيمٌ"
+    }
+  ]
 }

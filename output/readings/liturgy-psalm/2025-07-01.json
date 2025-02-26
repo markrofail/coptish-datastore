@@ -3,8 +3,10 @@
     "english": "Psalm 61:1-3",
     "arabic": "مزامير ٦١:١-٣"
   },
-  "text": {
-    "english": "Hear my cry, O God; Attend to my prayer. Lead me to the rock that is higher than I. A strong tower from the enemy.",
-    "arabic": "اسمع يا الله صراخي واصغ إلى صلاتي من أقصى الأرض أدعوك إذا غشي على قلبي إلى صخرةٍ أرفع مني تهديني لأنك كنت ملجأً لي برج قوةٍ من وجه العدو"
-  }
+  "text": [
+    {
+      "english": "Hear my cry, O God; Attend to my prayer. Lead me to the rock that is higher than I. A strong tower from the enemy.",
+      "arabic": "اسمع يا الله صراخي واصغ إلى صلاتي من أقصى الأرض أدعوك إذا غشي على قلبي إلى صخرةٍ أرفع مني تهديني لأنك كنت ملجأً لي برج قوةٍ من وجه العدو"
+    }
+  ]
 }

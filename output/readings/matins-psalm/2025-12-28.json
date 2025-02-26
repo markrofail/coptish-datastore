@@ -3,8 +3,10 @@
     "english": "Psalm 85:7 - 85:8",
     "arabic": "مزامير ٨٥:٧ - ٨٥:٨"
   },
-  "text": {
-    "english": "Show us Your mercy, LORD, And grant us Your salvation. I will hear what God the LORD will speak, For He will speak peace To His people and to His saints; But let them not turn back to folly.",
-    "arabic": "أرنا يا رب رحمتك وأعطنا خلاصك إني أسمع ما يتكلم به الله الرب لأنه يتكلم بالسلام لشعبه ولأتقيائه فلا يرجعن إلى الحماقة"
-  }
+  "text": [
+    {
+      "english": "Show us Your mercy, LORD, And grant us Your salvation. I will hear what God the LORD will speak, For He will speak peace To His people and to His saints; But let them not turn back to folly.",
+      "arabic": "أرنا يا رب رحمتك وأعطنا خلاصك إني أسمع ما يتكلم به الله الرب لأنه يتكلم بالسلام لشعبه ولأتقيائه فلا يرجعن إلى الحماقة"
+    }
+  ]
 }

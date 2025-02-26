@@ -3,8 +3,10 @@
     "english": "John 4:19-24",
     "arabic": "يوحنا ٤:١٩-٢٤"
   },
-  "text": {
-    "english": "The woman said to Him, \"Sir, I perceive that You are a prophet. Our fathers worshiped on this mountain, and you Jews say that in Jerusalem is the place where one ought to worship.\" Jesus said to her, \"Woman, believe Me, the hour is coming when you will neither on this mountain, nor in Jerusalem, worship the Father. You worship what you do not know; we know what we worship, for salvation is of the Jews. But the hour is coming, and now is, when the true worshipers will worship the Father in spirit and truth; for the Father is seeking such to worship Him. God is Spirit, and those who worship Him must worship in spirit and truth.\"",
-    "arabic": "قالت له المرأة: يا سيد أرى أنك نبيٌ آباؤنا سجدوا في هذا الجبل وأنتم تقولون إن في أورشليم الموضع الذي ينبغي أن يسجد فيه قال لها يسوع: يا امرأة صدقيني أنه تأتي ساعةٌ لا في هذا الجبل ولا في أورشليم تسجدون للآب أنتم تسجدون لما لستم تعلمون أما نحن فنسجد لما نعلم - لأن الخلاص هو من اليهود ولكن تأتي ساعةٌ وهي الآن حين الساجدون الحقيقيون يسجدون للآب بالروح والحق لأن الآب طالبٌ مثل هؤلاء الساجدين له الله روحٌ والذين يسجدون له فبالروح والحق ينبغي أن يسجدوا"
-  }
+  "text": [
+    {
+      "english": "The woman said to Him, \"Sir, I perceive that You are a prophet. Our fathers worshiped on this mountain, and you Jews say that in Jerusalem is the place where one ought to worship.\" Jesus said to her, \"Woman, believe Me, the hour is coming when you will neither on this mountain, nor in Jerusalem, worship the Father. You worship what you do not know; we know what we worship, for salvation is of the Jews. But the hour is coming, and now is, when the true worshipers will worship the Father in spirit and truth; for the Father is seeking such to worship Him. God is Spirit, and those who worship Him must worship in spirit and truth.\"",
+      "arabic": "قالت له المرأة: يا سيد أرى أنك نبيٌ آباؤنا سجدوا في هذا الجبل وأنتم تقولون إن في أورشليم الموضع الذي ينبغي أن يسجد فيه قال لها يسوع: يا امرأة صدقيني أنه تأتي ساعةٌ لا في هذا الجبل ولا في أورشليم تسجدون للآب أنتم تسجدون لما لستم تعلمون أما نحن فنسجد لما نعلم - لأن الخلاص هو من اليهود ولكن تأتي ساعةٌ وهي الآن حين الساجدون الحقيقيون يسجدون للآب بالروح والحق لأن الآب طالبٌ مثل هؤلاء الساجدين له الله روحٌ والذين يسجدون له فبالروح والحق ينبغي أن يسجدوا"
+    }
+  ]
 }

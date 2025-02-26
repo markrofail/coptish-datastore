@@ -3,8 +3,10 @@
     "english": "1Cor 3:1-8",
     "arabic": "١ كورنثوس ٣:١-٨"
   },
-  "text": {
-    "english": "And I, brethren, could not speak to you as to spiritual people but as to carnal, as to babes in Christ. I fed you with milk and not with solid food; for until now you were not able to receive it, and even now you are still not able; for you are still carnal. For where there are envy, strife, and divisions among you, are you not carnal and behaving like mere men? For when one says, \"I am of Paul,\" and another, \"I am of Apollos,\" are you not carnal? Who then is Paul, and who is Apollos, but ministers through whom you believed, as the Lord gave to each one? I planted, Apollos watered, but God gave the increase. So then neither he who plants is anything, nor he who waters, but God who gives the increase. Now he who plants and he who waters are one, and each one will receive his own reward according to his own labor.",
-    "arabic": "وأنا أيها الإخوة لم أستطع أن أكلمكم كروحيين بل كجسديين كأطفالٍ في المسيح سقيتكم لبناً لا طعاماً لأنكم لم تكونوا بعد تستطيعون بل الآن أيضاً لا تستطيعون لأنكم بعد جسديون فإنه إذ فيكم حسدٌ وخصامٌ وانشقاقٌ ألستم جسديين وتسلكون بحسب البشر لأنه متى قال واحدٌ: أنا لبولس وآخر: أنا لأبلوس أفلستم جسديين فمن هو بولس ومن هو أبلوس بل خادمان آمنتم بواسطتهما وكما أعطى الرب لكل واحدٍ: أنا غرست وأبلوس سقى لكن الله كان ينمي إذاً ليس الغارس شيئاً ولا الساقي بل الله الذي ينمي والغارس والساقي هما واحدٌ ولكن كل واحدٍ سيأخذ أجرته بحسب تعبه"
-  }
+  "text": [
+    {
+      "english": "And I, brethren, could not speak to you as to spiritual people but as to carnal, as to babes in Christ. I fed you with milk and not with solid food; for until now you were not able to receive it, and even now you are still not able; for you are still carnal. For where there are envy, strife, and divisions among you, are you not carnal and behaving like mere men? For when one says, \"I am of Paul,\" and another, \"I am of Apollos,\" are you not carnal? Who then is Paul, and who is Apollos, but ministers through whom you believed, as the Lord gave to each one? I planted, Apollos watered, but God gave the increase. So then neither he who plants is anything, nor he who waters, but God who gives the increase. Now he who plants and he who waters are one, and each one will receive his own reward according to his own labor.",
+      "arabic": "وأنا أيها الإخوة لم أستطع أن أكلمكم كروحيين بل كجسديين كأطفالٍ في المسيح سقيتكم لبناً لا طعاماً لأنكم لم تكونوا بعد تستطيعون بل الآن أيضاً لا تستطيعون لأنكم بعد جسديون فإنه إذ فيكم حسدٌ وخصامٌ وانشقاقٌ ألستم جسديين وتسلكون بحسب البشر لأنه متى قال واحدٌ: أنا لبولس وآخر: أنا لأبلوس أفلستم جسديين فمن هو بولس ومن هو أبلوس بل خادمان آمنتم بواسطتهما وكما أعطى الرب لكل واحدٍ: أنا غرست وأبلوس سقى لكن الله كان ينمي إذاً ليس الغارس شيئاً ولا الساقي بل الله الذي ينمي والغارس والساقي هما واحدٌ ولكن كل واحدٍ سيأخذ أجرته بحسب تعبه"
+    }
+  ]
 }

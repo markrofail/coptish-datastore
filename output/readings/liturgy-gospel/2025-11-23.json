@@ -3,8 +3,10 @@
     "english": "Mt 13:1-9",
     "arabic": "متى ١٣:١-٩"
   },
-  "text": {
-    "english": "On the same day Jesus went out of the house and sat by the sea. And great multitudes were gathered together to Him, so that He got into a boat and sat; and the whole multitude stood on the shore. Then He spoke many things to them in parables, saying: \"Behold, a sower went out to sow. And as he sowed, some seed fell by the wayside; and the birds came and devoured them. Some fell on stony places, where they did not have much earth; and they immediately sprang up because they had no depth of earth. But when the sun was up they were scorched, and because they had no root they withered away. And some fell among thorns, and the thorns sprang up and choked them. But others fell on good ground and yielded a crop: some a hundredfold, some sixty, some thirty. He who has ears to hear, let him hear!\"",
-    "arabic": "في ذلك اليوم خرج يسوع من البيت وجلس عند البحر فاجتمع إليه جموعٌ كثيرةٌ حتى إنه دخل السفينة وجلس والجمع كله وقف على الشاطئ فكلمهم كثيراً بأمثالٍ قائلاً: هوذا الزارع قد خرج ليزرع وفيما هو يزرع سقط بعضٌ على الطريق فجاءت الطيور وأكلته وسقط آخر على الأماكن المحجرة حيث لم تكن له تربةٌ كثيرةٌ فنبت حالاً إذ لم يكن له عمق أرضٍ ولكن لما أشرقت الشمس احترق وإذ لم يكن له أصلٌ جف وسقط آخر على الشوك فطلع الشوك وخنقه وسقط آخر على الأرض الجيدة فأعطى ثمراً بعضٌ مئةً وآخر ستين وآخر ثلاثين من له أذنان للسمع فليسمع"
-  }
+  "text": [
+    {
+      "english": "On the same day Jesus went out of the house and sat by the sea. And great multitudes were gathered together to Him, so that He got into a boat and sat; and the whole multitude stood on the shore. Then He spoke many things to them in parables, saying: \"Behold, a sower went out to sow. And as he sowed, some seed fell by the wayside; and the birds came and devoured them. Some fell on stony places, where they did not have much earth; and they immediately sprang up because they had no depth of earth. But when the sun was up they were scorched, and because they had no root they withered away. And some fell among thorns, and the thorns sprang up and choked them. But others fell on good ground and yielded a crop: some a hundredfold, some sixty, some thirty. He who has ears to hear, let him hear!\"",
+      "arabic": "في ذلك اليوم خرج يسوع من البيت وجلس عند البحر فاجتمع إليه جموعٌ كثيرةٌ حتى إنه دخل السفينة وجلس والجمع كله وقف على الشاطئ فكلمهم كثيراً بأمثالٍ قائلاً: هوذا الزارع قد خرج ليزرع وفيما هو يزرع سقط بعضٌ على الطريق فجاءت الطيور وأكلته وسقط آخر على الأماكن المحجرة حيث لم تكن له تربةٌ كثيرةٌ فنبت حالاً إذ لم يكن له عمق أرضٍ ولكن لما أشرقت الشمس احترق وإذ لم يكن له أصلٌ جف وسقط آخر على الشوك فطلع الشوك وخنقه وسقط آخر على الأرض الجيدة فأعطى ثمراً بعضٌ مئةً وآخر ستين وآخر ثلاثين من له أذنان للسمع فليسمع"
+    }
+  ]
 }

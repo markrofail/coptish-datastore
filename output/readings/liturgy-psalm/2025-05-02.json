@@ -3,8 +3,10 @@
     "english": "Psalm 9:10-11",
     "arabic": "مزامير ٩:١٠-١١"
   },
-  "text": {
-    "english": "And those who know Your name will put their trust in You; For You, LORD, have not forsaken those who seek You. Sing praises to the LORD, who dwells in Zion! Declare His deeds among the people.",
-    "arabic": "ويتكل عليك العارفون اسمك لأنك لم تترك طالبيك يا رب رنموا للرب الساكن في صهيون أخبروا بين الشعوب بأفعاله"
-  }
+  "text": [
+    {
+      "english": "And those who know Your name will put their trust in You; For You, LORD, have not forsaken those who seek You. Sing praises to the LORD, who dwells in Zion! Declare His deeds among the people.",
+      "arabic": "ويتكل عليك العارفون اسمك لأنك لم تترك طالبيك يا رب رنموا للرب الساكن في صهيون أخبروا بين الشعوب بأفعاله"
+    }
+  ]
 }

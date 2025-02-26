@@ -3,8 +3,10 @@
     "english": "Psalm 74:2 - 74:12",
     "arabic": "مزامير ٧٤:٢ - ٧٤:١٢"
   },
-  "text": {
-    "english": "Remember Your congregation, which You have purchased of old, The tribe of Your inheritance, which You have redeemed-- This Mount Zion where You have dwelt. For God is my King from of old, Working salvation in the midst of the earth.",
-    "arabic": "اذكر جماعتك التي اقتنيتها منذ القدم وفديتها سبط ميراثك جبل صهيون هذا الذي سكنت فيه والله ملكي منذ القدم فاعل الخلاص في وسط الأرض"
-  }
+  "text": [
+    {
+      "english": "Remember Your congregation, which You have purchased of old, The tribe of Your inheritance, which You have redeemed-- This Mount Zion where You have dwelt. For God is my King from of old, Working salvation in the midst of the earth.",
+      "arabic": "اذكر جماعتك التي اقتنيتها منذ القدم وفديتها سبط ميراثك جبل صهيون هذا الذي سكنت فيه والله ملكي منذ القدم فاعل الخلاص في وسط الأرض"
+    }
+  ]
 }

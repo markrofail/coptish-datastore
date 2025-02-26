@@ -3,8 +3,10 @@
     "english": "Matthew 9:10-15",
     "arabic": "متى ٩:١٠-١٥"
   },
-  "text": {
-    "english": "Now it happened, as Jesus sat at the table in the house, that behold, many tax collectors and sinners came and sat down with Him and His disciples. And when the Pharisees saw it, they said to His disciples, \"Why does your Teacher eat with tax collectors and sinners?\" When Jesus heard that, He said to them, \"Those who are well have no need of a physician, but those who are sick. But go and learn what this means: \"I desire mercy and not sacrifice.' For I did not come to call the righteous, but sinners, to repentance.\" Then the disciples of John came to Him, saying, \"Why do we and the Pharisees fast often, but Your disciples do not fast?\" And Jesus said to them, \"Can the friends of the bridegroom mourn as long as the bridegroom is with them? But the days will come when the bridegroom will be taken away from them, and then they will fast.",
-    "arabic": "وبينما هو متكئٌ في البيت إذا عشارون وخطاةٌ كثيرون قد جاءوا واتكأوا مع يسوع وتلاميذه فلما نظر الفريسيون قالوا لتلاميذه: لماذا يأكل معلمكم مع العشارين والخطاة فلما سمع يسوع قال لهم: لا يحتاج الأصحاء إلى طبيبٍ بل المرضى فاذهبوا وتعلموا ما هو: إني أريد رحمةً لا ذبيحةً لأني لم آت لأدعو أبراراً بل خطاةً إلى التوبة حينئذٍ أتى إليه تلاميذ يوحنا قائلين: لماذا نصوم نحن والفريسيون كثيراً وأما تلاميذك فلا يصومون فقال لهم يسوع: هل يستطيع بنو العرس أن ينوحوا ما دام العريس معهم ولكن ستأتي أيامٌ حين يرفع العريس عنهم فحينئذٍ يصومون"
-  }
+  "text": [
+    {
+      "english": "Now it happened, as Jesus sat at the table in the house, that behold, many tax collectors and sinners came and sat down with Him and His disciples. And when the Pharisees saw it, they said to His disciples, \"Why does your Teacher eat with tax collectors and sinners?\" When Jesus heard that, He said to them, \"Those who are well have no need of a physician, but those who are sick. But go and learn what this means: \"I desire mercy and not sacrifice.' For I did not come to call the righteous, but sinners, to repentance.\" Then the disciples of John came to Him, saying, \"Why do we and the Pharisees fast often, but Your disciples do not fast?\" And Jesus said to them, \"Can the friends of the bridegroom mourn as long as the bridegroom is with them? But the days will come when the bridegroom will be taken away from them, and then they will fast.",
+      "arabic": "وبينما هو متكئٌ في البيت إذا عشارون وخطاةٌ كثيرون قد جاءوا واتكأوا مع يسوع وتلاميذه فلما نظر الفريسيون قالوا لتلاميذه: لماذا يأكل معلمكم مع العشارين والخطاة فلما سمع يسوع قال لهم: لا يحتاج الأصحاء إلى طبيبٍ بل المرضى فاذهبوا وتعلموا ما هو: إني أريد رحمةً لا ذبيحةً لأني لم آت لأدعو أبراراً بل خطاةً إلى التوبة حينئذٍ أتى إليه تلاميذ يوحنا قائلين: لماذا نصوم نحن والفريسيون كثيراً وأما تلاميذك فلا يصومون فقال لهم يسوع: هل يستطيع بنو العرس أن ينوحوا ما دام العريس معهم ولكن ستأتي أيامٌ حين يرفع العريس عنهم فحينئذٍ يصومون"
+    }
+  ]
 }

@@ -3,8 +3,10 @@
     "english": "Mark6:30-34",
     "arabic": "مرقس ٦:٣٠-٣٤"
   },
-  "text": {
-    "english": "Then the apostles gathered to Jesus and told Him all things, both what they had done and what they had taught. And He said to them, \"Come aside by yourselves to a deserted place and rest a while.\" For there were many coming and going, and they did not even have time to eat. So they departed to a deserted place in the boat by themselves. But the multitudes saw them departing, and many knew Him and ran there on foot from all the cities. They arrived before them and came together to Him. And Jesus, when He came out, saw a great multitude and was moved with compassion for them, because they were like sheep not having a shepherd. So He began to teach them many things.",
-    "arabic": "واجتمع الرسل إلى يسوع وأخبروه بكل شيءٍ كل ما فعلوا وكل ما علموا فقال لهم: تعالوا أنتم منفردين إلى موضعٍ خلاءٍ واستريحوا قليلاً لأن القادمين والذاهبين كانوا كثيرين ولم تتيسر لهم فرصةٌ للأكل فمضوا في السفينة إلى موضعٍ خلاءٍ منفردين فرآهم الجموع منطلقين وعرفه كثيرون فتراكضوا إلى هناك من جميع المدن مشاةً وسبقوهم واجتمعوا إليه فلما خرج يسوع رأى جمعاً كثيراً فتحنن عليهم إذ كانوا كخرافٍ لا راعي لها فابتدأ يعلمهم كثيراً"
-  }
+  "text": [
+    {
+      "english": "Then the apostles gathered to Jesus and told Him all things, both what they had done and what they had taught. And He said to them, \"Come aside by yourselves to a deserted place and rest a while.\" For there were many coming and going, and they did not even have time to eat. So they departed to a deserted place in the boat by themselves. But the multitudes saw them departing, and many knew Him and ran there on foot from all the cities. They arrived before them and came together to Him. And Jesus, when He came out, saw a great multitude and was moved with compassion for them, because they were like sheep not having a shepherd. So He began to teach them many things.",
+      "arabic": "واجتمع الرسل إلى يسوع وأخبروه بكل شيءٍ كل ما فعلوا وكل ما علموا فقال لهم: تعالوا أنتم منفردين إلى موضعٍ خلاءٍ واستريحوا قليلاً لأن القادمين والذاهبين كانوا كثيرين ولم تتيسر لهم فرصةٌ للأكل فمضوا في السفينة إلى موضعٍ خلاءٍ منفردين فرآهم الجموع منطلقين وعرفه كثيرون فتراكضوا إلى هناك من جميع المدن مشاةً وسبقوهم واجتمعوا إليه فلما خرج يسوع رأى جمعاً كثيراً فتحنن عليهم إذ كانوا كخرافٍ لا راعي لها فابتدأ يعلمهم كثيراً"
+    }
+  ]
 }

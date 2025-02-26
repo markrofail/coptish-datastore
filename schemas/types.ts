@@ -16,7 +16,7 @@ export interface InfoSection extends AbstractPrayerSection {
     text: MultiLingualText
 }
 
-export type Speaker = 'people' | 'priest' | 'deacon' | 'reader' | ''
+export type Speaker = 'people' | 'priest' | 'deacon' | 'reader'
 
 export type Saint =
     | 'st-mark'
@@ -80,7 +80,7 @@ export interface CompoundPrayerSection extends AbstractPrayerSection {
 
 export interface Reading {
     title: MultiLingualText
-    text: MultiLingualText
+    text: MultiLingualText[]
 }
 
 export interface Synaxarium {
@@ -92,7 +92,7 @@ export interface Synaxarium {
 }
 
 export interface MultiLingualText {
-    english: string
+    english?: string
     arabic?: string
     coptic?: string
     coptic_english?: string

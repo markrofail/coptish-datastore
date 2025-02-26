@@ -3,8 +3,10 @@
     "english": "Matthew 15:32-38",
     "arabic": "متى ١٥:٣٢-٣٨"
   },
-  "text": {
-    "english": "Now Jesus called His disciples to Himself and said, \"I have compassion on the multitude, because they have now continued with Me three days and have nothing to eat. And I do not want to send them away hungry, lest they faint on the way.\" Then His disciples said to Him, \"Where could we get enough bread in the wilderness to fill such a great multitude?\" Jesus said to them, \"How many loaves do you have?\" And they said, \"Seven, and a few little fish.\" So He commanded the multitude to sit down on the ground. And He took the seven loaves and the fish and gave thanks, broke them and gave them to His disciples; and the disciples gave to the multitude. So they all ate and were filled, and they took up seven large baskets full of the fragments that were left. Now those who ate were four thousand men, besides women and children.",
-    "arabic": "وأما يسوع فدعا تلاميذه وقال: إني أشفق على الجمع لأن الآن لهم ثلاثة أيامٍ يمكثون معي وليس لهم ما يأكلون ولست أريد أن أصرفهم صائمين لئلا يخوروا في الطريق فقال له تلاميذه: من أين لنا في البرية خبزٌ بهذا المقدار حتى يشبع جمعاً هذا عدده فقال لهم يسوع: كم عندكم من الخبز فقالوا: سبعةٌ وقليلٌ من صغار السمك فأمر الجموع أن يتكئوا على الأرض وأخذ السبع خبزاتٍ والسمك وشكر وكسر وأعطى تلاميذه والتلاميذ أعطوا الجمع فأكل الجميع وشبعوا ثم رفعوا ما فضل من الكسر سبعة سلالٍ مملوءةٍ والآكلون كانوا أربعة آلاف رجلٍ ما عدا النساء والأولاد"
-  }
+  "text": [
+    {
+      "english": "Now Jesus called His disciples to Himself and said, \"I have compassion on the multitude, because they have now continued with Me three days and have nothing to eat. And I do not want to send them away hungry, lest they faint on the way.\" Then His disciples said to Him, \"Where could we get enough bread in the wilderness to fill such a great multitude?\" Jesus said to them, \"How many loaves do you have?\" And they said, \"Seven, and a few little fish.\" So He commanded the multitude to sit down on the ground. And He took the seven loaves and the fish and gave thanks, broke them and gave them to His disciples; and the disciples gave to the multitude. So they all ate and were filled, and they took up seven large baskets full of the fragments that were left. Now those who ate were four thousand men, besides women and children.",
+      "arabic": "وأما يسوع فدعا تلاميذه وقال: إني أشفق على الجمع لأن الآن لهم ثلاثة أيامٍ يمكثون معي وليس لهم ما يأكلون ولست أريد أن أصرفهم صائمين لئلا يخوروا في الطريق فقال له تلاميذه: من أين لنا في البرية خبزٌ بهذا المقدار حتى يشبع جمعاً هذا عدده فقال لهم يسوع: كم عندكم من الخبز فقالوا: سبعةٌ وقليلٌ من صغار السمك فأمر الجموع أن يتكئوا على الأرض وأخذ السبع خبزاتٍ والسمك وشكر وكسر وأعطى تلاميذه والتلاميذ أعطوا الجمع فأكل الجميع وشبعوا ثم رفعوا ما فضل من الكسر سبعة سلالٍ مملوءةٍ والآكلون كانوا أربعة آلاف رجلٍ ما عدا النساء والأولاد"
+    }
+  ]
 }

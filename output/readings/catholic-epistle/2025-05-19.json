@@ -3,8 +3,10 @@
     "english": "1John 3:21-24",
     "arabic": "١ يوحنا ٣:٢١-٢٤"
   },
-  "text": {
-    "english": "Beloved, if our heart does not condemn us, we have confidence toward God. And whatever we ask we receive from Him, because we keep His commandments and do those things that are pleasing in His sight. And this is His commandment: that we should believe on the name of His Son Jesus Christ and love one another, as He gave us commandment. Now he who keeps His commandments abides in Him, and He in him. And by this we know that He abides in us, by the Spirit whom He has given us.",
-    "arabic": "أيها الأحباء إن لم تلمنا قلوبنا فلنا ثقةٌ من نحو الله ومهما سألنا ننال منه لأننا نحفظ وصاياه ونعمل الأعمال المرضية أمامه وهذه هي وصيته: أن نؤمن باسم ابنه يسوع المسيح ونحب بعضنا بعضاً كما أعطانا وصيةً ومن يحفظ وصاياه يثبت فيه وهو فيه وبهذا نعرف أنه يثبت فينا: من الروح الذي أعطانا"
-  }
+  "text": [
+    {
+      "english": "Beloved, if our heart does not condemn us, we have confidence toward God. And whatever we ask we receive from Him, because we keep His commandments and do those things that are pleasing in His sight. And this is His commandment: that we should believe on the name of His Son Jesus Christ and love one another, as He gave us commandment. Now he who keeps His commandments abides in Him, and He in him. And by this we know that He abides in us, by the Spirit whom He has given us.",
+      "arabic": "أيها الأحباء إن لم تلمنا قلوبنا فلنا ثقةٌ من نحو الله ومهما سألنا ننال منه لأننا نحفظ وصاياه ونعمل الأعمال المرضية أمامه وهذه هي وصيته: أن نؤمن باسم ابنه يسوع المسيح ونحب بعضنا بعضاً كما أعطانا وصيةً ومن يحفظ وصاياه يثبت فيه وهو فيه وبهذا نعرف أنه يثبت فينا: من الروح الذي أعطانا"
+    }
+  ]
 }

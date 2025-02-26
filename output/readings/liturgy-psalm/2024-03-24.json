@@ -3,8 +3,10 @@
     "english": "Psalm 27:8-10",
     "arabic": "مزامير ٢٧:٨-١٠"
   },
-  "text": {
-    "english": "When You said, \"Seek My face,\" My heart said to You, \"Your face, LORD, I will seek.\" Do not hide Your face from me; Do not turn Your servant away in anger; You have been my help; Do not leave me nor forsake me, O God of my salvation. When my father and my mother forsake me, Then the LORD will take care of me.",
-    "arabic": "لك قال قلبي: قلت اطلبوا وجهي وجهك يا رب أطلب لا تحجب وجهك عني لا تخيب بسخطٍ عبدك قد كنت عوني فلا ترفضني ولا تتركني يا إله خلاصي إن أبي وأمي قد تركاني والرب يضمني"
-  }
+  "text": [
+    {
+      "english": "When You said, \"Seek My face,\" My heart said to You, \"Your face, LORD, I will seek.\" Do not hide Your face from me; Do not turn Your servant away in anger; You have been my help; Do not leave me nor forsake me, O God of my salvation. When my father and my mother forsake me, Then the LORD will take care of me.",
+      "arabic": "لك قال قلبي: قلت اطلبوا وجهي وجهك يا رب أطلب لا تحجب وجهك عني لا تخيب بسخطٍ عبدك قد كنت عوني فلا ترفضني ولا تتركني يا إله خلاصي إن أبي وأمي قد تركاني والرب يضمني"
+    }
+  ]
 }

@@ -3,8 +3,10 @@
     "english": "Psalm 7:6 - 7:8",
     "arabic": "مزامير ٧:٦ - ٧:٨"
   },
-  "text": {
-    "english": "Arise, O LORD, in Your anger; Lift Yourself up because of the rage of my enemies; Rise up for me to the judgment You have commanded! The LORD shall judge the peoples; Judge me, O LORD, according to my righteousness, And according to my integrity within me.",
-    "arabic": "قم يا رب بغضبك ارتفع على سخط مضايقي وانتبه لي بالحق أوصيت الرب يدين الشعوب اقض لي يا رب كحقي ومثل كمالي الذي في"
-  }
+  "text": [
+    {
+      "english": "Arise, O LORD, in Your anger; Lift Yourself up because of the rage of my enemies; Rise up for me to the judgment You have commanded! The LORD shall judge the peoples; Judge me, O LORD, according to my righteousness, And according to my integrity within me.",
+      "arabic": "قم يا رب بغضبك ارتفع على سخط مضايقي وانتبه لي بالحق أوصيت الرب يدين الشعوب اقض لي يا رب كحقي ومثل كمالي الذي في"
+    }
+  ]
 }

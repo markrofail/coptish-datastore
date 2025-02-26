@@ -3,8 +3,10 @@
     "english": "Psalm 5:3 - 5:4",
     "arabic": "مزامير ٥:٣ - ٥:٤"
   },
-  "text": {
-    "english": "My voice You shall hear in the morning, O LORD; In the morning I will direct it to You, And I will look up. For You are not a God who takes pleasure in wickedness, Nor shall evil dwell with You.",
-    "arabic": "يا رب بالغداة تسمع صوتي بالغداة أوجه صلاتي نحوك وأنتظر لأنك أنت لست إلهاً يسر بالشر لا يساكنك الشرير"
-  }
+  "text": [
+    {
+      "english": "My voice You shall hear in the morning, O LORD; In the morning I will direct it to You, And I will look up. For You are not a God who takes pleasure in wickedness, Nor shall evil dwell with You.",
+      "arabic": "يا رب بالغداة تسمع صوتي بالغداة أوجه صلاتي نحوك وأنتظر لأنك أنت لست إلهاً يسر بالشر لا يساكنك الشرير"
+    }
+  ]
 }

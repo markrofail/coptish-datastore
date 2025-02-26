@@ -3,8 +3,10 @@
     "english": "Luke 13:18-22",
     "arabic": "لوقا ١٣:١٨-٢٢"
   },
-  "text": {
-    "english": "Then He said, \"What is the kingdom of God like? And to what shall I compare it? It is like a mustard seed, which a man took and put in his garden; and it grew and became a large tree, and the birds of the air nested in its branches.\" And again He said, \"To what shall I liken the kingdom of God? It is like leaven, which a woman took and hid in three measures of meal till it was all leavened.\" And He went through the cities and villages, teaching, and journeying toward Jerusalem.",
-    "arabic": "فقال: ماذا يشبه ملكوت الله وبماذا أشبهه يشبه حبة خردلٍ أخذها إنسانٌ وألقاها في بستانه فنمت وصارت شجرةً كبيرةً وتآوت طيور السماء في أغصانها وقال أيضاً: بماذا أشبه ملكوت الله يشبه خميرةً أخذتها امرأةٌ وخبأتها في ثلاثة أكيال دقيقٍ حتى اختمر الجميع واجتاز في مدنٍ وقرًى يعلم ويسافر نحو أورشليم"
-  }
+  "text": [
+    {
+      "english": "Then He said, \"What is the kingdom of God like? And to what shall I compare it? It is like a mustard seed, which a man took and put in his garden; and it grew and became a large tree, and the birds of the air nested in its branches.\" And again He said, \"To what shall I liken the kingdom of God? It is like leaven, which a woman took and hid in three measures of meal till it was all leavened.\" And He went through the cities and villages, teaching, and journeying toward Jerusalem.",
+      "arabic": "فقال: ماذا يشبه ملكوت الله وبماذا أشبهه يشبه حبة خردلٍ أخذها إنسانٌ وألقاها في بستانه فنمت وصارت شجرةً كبيرةً وتآوت طيور السماء في أغصانها وقال أيضاً: بماذا أشبه ملكوت الله يشبه خميرةً أخذتها امرأةٌ وخبأتها في ثلاثة أكيال دقيقٍ حتى اختمر الجميع واجتاز في مدنٍ وقرًى يعلم ويسافر نحو أورشليم"
+    }
+  ]
 }

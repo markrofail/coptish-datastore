@@ -3,8 +3,10 @@
     "english": "Psalm 18:34,39",
     "arabic": "مزامير ١٨:٣٤-٣٩"
   },
-  "text": {
-    "english": "He teaches my hands to make war, So that my arms can bend a bow of bronze. For You have armed me with strength for the battle; You have subdued under me those who rose up against me.",
-    "arabic": "الذي يعلم يدي القتال فتحنى بذراعي قوسٌ من نحاسٍ وتجعل لي ترس خلاصك ويمينك تعضدني ولطفك يعظمني توسع خطواتي تحتي فلم تتقلقل عقباي أتبع أعدائي فأدركهم ولا أرجع حتى أفنيهم أسحقهم فلا يستطيعون القيام يسقطون تحت رجلي تمنطقني بقوةٍ للقتال تصرع تحتي القائمين علي"
-  }
+  "text": [
+    {
+      "english": "He teaches my hands to make war, So that my arms can bend a bow of bronze. For You have armed me with strength for the battle; You have subdued under me those who rose up against me.",
+      "arabic": "الذي يعلم يدي القتال فتحنى بذراعي قوسٌ من نحاسٍ وتجعل لي ترس خلاصك ويمينك تعضدني ولطفك يعظمني توسع خطواتي تحتي فلم تتقلقل عقباي أتبع أعدائي فأدركهم ولا أرجع حتى أفنيهم أسحقهم فلا يستطيعون القيام يسقطون تحت رجلي تمنطقني بقوةٍ للقتال تصرع تحتي القائمين علي"
+    }
+  ]
 }

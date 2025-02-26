@@ -3,8 +3,10 @@
     "english": "Psalm 16:9",
     "arabic": "مزامير ١٦:٩"
   },
-  "text": {
-    "english": "Therefore my heart is glad, and my glory rejoices; My flesh also will rest in hope.",
-    "arabic": "لذلك فرح قلبي وابتهجت روحي جسدي أيضاً يسكن مطمئناً"
-  }
+  "text": [
+    {
+      "english": "Therefore my heart is glad, and my glory rejoices; My flesh also will rest in hope.",
+      "arabic": "لذلك فرح قلبي وابتهجت روحي جسدي أيضاً يسكن مطمئناً"
+    }
+  ]
 }

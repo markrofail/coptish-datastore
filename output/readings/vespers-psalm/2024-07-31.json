@@ -3,8 +3,10 @@
     "english": "Psalm 68:65 - 68:3",
     "arabic": "مزامير ٦٨:٦٥ - ٦٨:٣"
   },
-  "text": {
-    "english": "But let the righteous be glad; Let them rejoice before God; Yes, let them rejoice exceedingly.",
-    "arabic": "والصديقون يفرحون يبتهجون أمام الله ويطفرون فرحاً"
-  }
+  "text": [
+    {
+      "english": "But let the righteous be glad; Let them rejoice before God; Yes, let them rejoice exceedingly.",
+      "arabic": "والصديقون يفرحون يبتهجون أمام الله ويطفرون فرحاً"
+    }
+  ]
 }
