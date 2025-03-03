@@ -3,47 +3,75 @@ import * as yaml from 'js-yaml'
 import * as path from 'path'
 import cliProgress from 'cli-progress'
 import { Command } from 'commander'
-import { MultiLingualText, listAllFiles, shortenFilename, MultiLingualProcessor, VersesSection, Section } from './utils'
+import { Language, listAllFiles, MultiLingualProcessor, MultiLingualText, Section } from './utils'
+import { VersesSection } from '../schemas/types'
+import { MultiLingualTextArray, Reading as RawReading, Prayer as RawPrayer, RawRoot, VersesSection as RawVersesSection } from '../schemas/raw_types'
+import { range } from 'lodash'
 
-type InputFile = {
-    title?: MultiLingualText
-    sections?: Section[]
-}
+const isReadingT = (input: RawRoot): input is RawReading => input.hasOwnProperty('text')
+const isPrayerT = (input: RawRoot): input is RawPrayer => input.hasOwnProperty('sections')
 
 class MultiLingualVerseMerger extends MultiLingualProcessor {
     transformFile = (filepath: string) => {
-        const inputData = yaml.load(fs.readFileSync(filepath, 'utf-8')) as InputFile
+        const inputData = yaml.load(fs.readFileSync(filepath, 'utf-8')) as RawRoot
 
-        const transformedSections = this.transformSections(inputData.sections)
+        let outputData
+        if (isPrayerT(inputData)) {
+            const transformedSections = this.transformSections(inputData.sections)
+            outputData = { ...inputData, sections: transformedSections }
+        }
 
-        const outputData = { ...inputData, sections: transformedSections }
+        if (isReadingT(inputData)) {
+            const transformedText = this.transformText(inputData.text)
+            outputData = { ...inputData, text: transformedText }
+        }
 
-        const outputPath = filepath.replace('data/', 'output/')
-        fs.mkdirSync(path.dirname(outputPath), { recursive: true })
-        fs.writeFileSync(outputPath, yaml.dump(outputData, { lineWidth: 9999 }), 'utf-8')
-        fs.writeFileSync(outputPath.replace('.yml', '.json'), JSON.stringify(outputData, null, 2), 'utf-8')
+        if (outputData) {
+            const outputPath = filepath.replace('data/', 'output/')
+            fs.mkdirSync(path.dirname(outputPath), { recursive: true })
+            fs.writeFileSync(outputPath, yaml.dump(outputData, { lineWidth: 9999 }), 'utf-8')
+            fs.writeFileSync(outputPath.replace('.yml', '.json'), JSON.stringify(outputData, null, 2), 'utf-8')
+        }
     }
 
-    private transformSections = (sections?: Section[]) =>
-        sections && sections.map((section) => (section.type === 'verses' ? this.transformVersesSection(section as VersesSection.V2) : section))
+    private transformSections = (sections?: RawPrayer['sections']) =>
+        sections && sections.map((section) => (section.type === 'verses' ? this.transformVersesSection(section as RawVersesSection) : section))
 
-    private transformVersesSection = ({ verses, ...rest }: VersesSection.V2): VersesSection.PreProcessed => {
-        const englishVerses = verses.english
+    private transformVersesSection = ({ verses, ...rest }: RawVersesSection): VersesSection => {
+        const languages = Object.keys(verses) as Language[]
+        const maxLength = Math.max(...languages.map((language) => verses[language]?.length || 0))
 
         Object.entries(verses).forEach(([key, value]) => {
-            if (value.length != englishVerses.length) {
+            if (value.length != 0 && value.length != maxLength) {
                 throw new Error(`[ValidationError] different verses lengths:
-                    ${key} verses had a length of ${value.length} while there's ${englishVerses.length} english verses.
+                    ${key} verses had a length of ${value.length} while there's ${maxLength} english verses.
                     Verses:
-                        english: ${englishVerses?.[0]}
                         ${key}: ${value?.[0]}
                     `)
             }
         })
 
-        const transformedVerses: MultiLingualText[] = verses.english.map((_, i) => this.forEachLanguage((language) => verses[language]?.at(i) || ''))
+        const transformedVerses: MultiLingualText[] = range(0, maxLength).map((i) => this.forEachLanguage((language) => verses[language]?.at(i) || ''))
 
         return { ...rest, verses: transformedVerses }
+    }
+
+    private transformText = (data: MultiLingualTextArray): MultiLingualText[] => {
+        const languages = Object.keys(data) as Language[]
+        const maxLength = Math.max(...languages.map((language) => data[language]?.length || 0))
+        const result: MultiLingualText[] = []
+
+        for (let i = 0; i < maxLength; i++) {
+            const item = {} as any
+            for (const language of languages) {
+                if (data[language] && data[language][i] !== undefined) {
+                    item[language] = data[language][i]
+                }
+            }
+            result.push(item)
+        }
+
+        return result
     }
 }
 

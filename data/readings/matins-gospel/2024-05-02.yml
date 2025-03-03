@@ -2,5 +2,8 @@ title:
   english: ''
   arabic: ''
 text:
-  - english: ''
-    arabic: ''
+  english: []
+  arabic: []
+  coptic: []
+  coptic_english: []
+  coptic_arabic: []
