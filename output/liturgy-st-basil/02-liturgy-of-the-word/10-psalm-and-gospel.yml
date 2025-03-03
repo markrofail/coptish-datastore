@@ -1,0 +1,64 @@
+title:
+  english: The Psalm and Gospel
+  arabic: المزمور والإنجيل
+sections:
+  - speaker: deacon
+    type: verses
+    verses:
+      - english: Stand in the fear of God. Let us hear the Holy Gospel
+        arabic: قفوا بخوف الله لسماع الإنجيل المقدس
+        coptic: Ⲥ̀ⲧⲁⲑⲏⲧⲉ ⲙⲉⲧⲁ ⲫⲟⲃⲟⲩ Ⲑⲉⲟⲩ ⲁ̀ⲕⲟⲩⲥⲱⲙⲉⲛ ⲧⲟⲩ ⲁ̀ⲅⲓⲟⲩ ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲩ
+        coptic_english: Sta-thee-te meta fovo Theo, ako-somen to agio evan-geleio
+        coptic_arabic: ''
+  - speaker: priest
+    type: verses
+    verses:
+      - english: Blessed is He who comes in the name of the Lord of powers. Bless, O Lord, the reading of the Holy Gospel according to Saint (...)
+        arabic: مبارك الآتي بإسم رب القوات. يا رب بارك الفصل من الإنجيل المقدس من القديس (...)
+        coptic: Ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ ⲫⲏⲉⲑⲛⲏⲟⲩ ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲧⲉ ⲛⲓϫⲟⲙ. Ⲕⲩⲣⲓⲉ ⲉⲩⲗⲟⲅⲏⲥⲟⲛ ⲉⲕ ⲧⲟⲩ ⲕⲁⲧⲁ (...) ⲁ̀ⲅⲓⲟⲩ ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲧⲟ ⲁ̀ⲛⲁⲅⲛⲱⲥⲙⲁ
+        coptic_english: ''
+        coptic_arabic: ''
+  - speaker: people
+    type: verses
+    verses:
+      - english: Glory to You, O Lord
+        arabic: المجد لك يا رب
+        coptic: Ⲇⲟⲝⲁ ⲥⲓ Ⲕⲩⲣⲓⲉ
+        coptic_english: ''
+        coptic_arabic: ''
+  - speaker: reader
+    type: verses
+    verses:
+      - english: Stand up in the fear of God and listen to the Holy Gospel. A reading from the Gospel according to Saint (...), may his blessings, be with us all. Amen.
+        arabic: قفوا بخوف الله لسماع الإنجيل المقدس، فصل من الإنجيل لمعلمنا مار (...) البشير، بركته على جميعنا
+        coptic: ''
+        coptic_english: ''
+        coptic_arabic: ''
+  - type: reading
+    readingType: liturgy-psalm
+  - speaker: people
+    type: verses
+    verses:
+      - english: Alleluia
+        arabic: هلليلويا
+        coptic: Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ
+        coptic_english: Alleluia
+        coptic_arabic: ''
+  - speaker: reader
+    type: verses
+    verses:
+      - english: Blessed is He who comes in the name of the Lord of powers. Bless, O Lord, the reading of the Holy Gospel according to Saint (...)
+        arabic: مبارك الآتي بإسم رب القوات. يا رب بارك الفصل من الإنجيل المقدس من القديس (...)
+        coptic: Ϥ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ ⲛ̀ϫⲉ ⲫⲏⲉⲑⲛⲏⲟⲩ ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ̀Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲧⲉ ⲛⲓϫⲟⲙ. Ⲕⲩⲣⲓⲉ ⲉⲩⲗⲟⲅⲏⲥⲟⲛ ⲉⲕ ⲧⲟⲩ ⲕⲁⲧⲁ (...) ⲁ̀ⲅⲓⲟⲩ ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲧⲟ ⲁ̀ⲛⲁⲅⲛⲱⲥⲙⲁ
+        coptic_english: ''
+        coptic_arabic: ''
+  - type: reading
+    readingType: liturgy-gospel
+  - speaker: people
+    type: verses
+    verses:
+      - english: Glory be to God forever
+        arabic: والمجد لله دائماً
+        coptic: ''
+        coptic_english: ''
+        coptic_arabic: ''

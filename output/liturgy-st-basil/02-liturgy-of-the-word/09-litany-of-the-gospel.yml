@@ -1,0 +1,61 @@
+title:
+  english: The Litany for the Gospel
+  arabic: أوشية الإنجيل
+sections:
+  - speaker: priest
+    type: verses
+    verses:
+      - english: O Master, Lord Jesus Christ our God, who said to His saintly, honored Disciples and holy Apostles,
+        arabic: أيها السيد الرب يسوع المسيح إلهنا، الذي قال لتلاميذه القديسين ورسله الأطهار المكرمين
+        coptic: Ⲫ̀ⲛⲏⲃ Ⲡ̀ϭⲟⲓⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ Ⲡⲉⲛⲛⲟⲩϯ ⲫⲏⲉ̀ⲧⲁϥϫⲟⲥ ⲛ̀ⲛⲉϥⲁ̀ⲅⲓⲟⲥ ⲉⲧⲧⲁⲓⲏⲟⲩⲧ ⲙ̀ⲙⲁⲑⲏⲧⲏⲥ ⲟⲩⲟϩ ⲛ̀ⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ ⲉⲑⲟⲩⲁⲃ
+        coptic_english: ''
+        coptic_arabic: ''
+      - english: “Many prophets and righteous men have desired to see the things which you see, and have not seen them, and to hear the things which you hear and have not heard them
+        arabic: '"إن أنبياء وأبراراً كثيرين إشتهوا أن يروا ما أنتم ترون ولم يروا، وأن يسمعوا ما أنتم تسمعون ولم يسمعوا'
+        coptic: Ϫⲉ ϩⲁⲛⲙⲏϣ ⲙ̀ⲡ̀ⲣⲟⲫⲏⲧⲏⲥ ⲛⲉⲙ ϩⲁⲛⲑ̀ⲙⲏⲓ ⲁⲩⲉⲣⲉ̀ⲡⲓⲑⲩⲙⲓⲛ ⲉ̀ⲛⲁⲩ ⲉ̀ⲛⲏⲉ̀ⲧⲉⲧⲉⲛⲛⲁⲩ ⲉ̀ⲣⲱⲟⲩ ⲟⲩⲟϩ ⲙ̀ⲡⲟⲩⲛⲁⲩ ⲟⲩⲟϩ ⲉ̀ⲥⲱⲧⲉⲙ ⲉ̀ⲛⲏⲉ̀ⲧⲉⲧⲉⲛⲥⲱⲧⲉⲙ ⲉ̀ⲣⲱⲟⲩ ⲟⲩⲟϩ ⲙ̀ⲡⲟⲩⲥⲱⲧⲉⲙ
+        coptic_english: ''
+        coptic_arabic: ''
+      - english: But as for you, blessed are your eyes, for they see, and your ears for they hear”
+        arabic: أما أنتم فطوبى لأعينكم لأنها تبصر، ولآذانكم لأنها تسمع"
+        coptic: Ⲛ̀ⲑⲱⲧⲉⲛ ⲇⲉ ⲱ̀ⲟⲩⲛⲓⲁⲧⲟⲩ ⲛ̀ⲛⲉⲧⲉⲛⲃⲁⲗ ϫⲉ ⲥⲉⲛⲁⲩ ⲛⲉⲙ ⲛⲉⲧⲉⲛⲙⲁϣϫ ϫⲉ ⲥⲉⲥⲱⲧⲉⲙ
+        coptic_english: ''
+        coptic_arabic: ''
+      - english: May we be worthy to hear and to act according to Your Holy Gospels, through the prayers of Your saints
+        arabic: فلنستحق أن نسمع ونعمل بأناجيلك المقدسة بطلبات قديسيك
+        coptic: Ⲙⲁⲣⲉⲛⲉⲣⲡ̀ⲉⲙⲡ̀ϣⲁ ⲛ̀ⲥⲱⲧⲉⲙ ⲟⲩⲟϩ ⲉ̀ⲓ̀ⲣⲓ ⲛ̀ⲛⲉⲕⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ ⲉⲑⲟⲩⲁⲃ ϧⲉⲛ ⲛⲓⲧⲱⲃϩ ⲛ̀ⲧⲉ ⲛⲏⲉⲑⲟⲩⲁⲃ ⲛ̀ⲧⲁⲕ
+        coptic_english: ''
+        coptic_arabic: ''
+  - speaker: deacon
+    type: verses
+    verses:
+      - english: Pray for the Holy Gospel
+        arabic: صلوا من أجل الإنجيل المقدس
+        coptic: Ⲡ̀ⲣⲟⲥⲉⲩⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲟⲩ ⲁ̀ⲅⲓⲟⲩ ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲩ
+        coptic_english: ''
+        coptic_arabic: ''
+  - speaker: people
+    type: verses
+    verses:
+      - english: Lord have mercy
+        arabic: يا ربُّ إرحَم
+        coptic: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ
+        coptic_english: Kerie leison
+        coptic_arabic: ''
+  - speaker: priest
+    type: verses
+    verses:
+      - english: Remember also, O our Master, all those who have bidden us to remember them in our supplications and prayers which we offer up unto You, O Lord our God
+        arabic: أُذكر أيضاً يا سيدنا كل الذين أوصونا أن نذكرهم في تضرعاتنا وطلباتنا التي نصعدها إليك أيها الرب إلهنا.
+        coptic: Ⲁ̀ⲣⲓⲫ̀ⲙⲉⲩⲓ ⲇⲉ ⲟⲛ Ⲡⲉⲛⲛⲏⲃ ⲛ̀ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ ⲉ̀ⲧⲁⲩϩⲟⲛϩⲉⲛ ⲛⲁⲛ ⲉ̀ⲉⲣⲡⲟⲩⲙⲉⲩⲓ ϧⲉⲛ ⲛⲉⲛϯϩⲟ ⲛⲉⲙ ⲛⲉⲛⲧⲱⲃϩ ⲉ̀ⲧⲉⲛⲓ̀ⲣⲓ ⲙ̀ⲙⲱⲟⲩ ⲉ̀ⲡ̀ϣⲱⲓ ϩⲁⲣⲟⲕ Ⲡ̀ϭⲟⲓⲥ Ⲡⲉⲛⲛⲟⲩϯ
+        coptic_english: ''
+        coptic_arabic: ''
+      - english: Those who already fallen asleep, repose them. Those who are sick, heal them
+        arabic: الذين سبقوا فرقدوا، نيحهم. المرضى إشفهم
+        coptic: Ⲛⲏⲉ̀ⲧⲁⲩⲉⲣϣⲟⲣⲡ ⲛ̀ⲉⲛⲕⲟⲧ ⲙⲁⲙ̀ⲧⲟⲛ ⲛⲱⲟⲩ. Ⲛⲏⲉⲧϣⲱⲛⲓ ⲙⲁⲧⲁⲗϭⲱⲟⲩ
+        coptic_english: ''
+        coptic_arabic: ''
+      - english: For You are the life of us all, the salvation of us all, the hope of us all, the healing of us all, and the resurrection of us all
+        arabic: لأنك أنت حياتنا كلنا، وخلاصنا كلنا، ورجاؤنا كلنا، وشفاؤنا كلنا، وقيامتنا كلنا
+        coptic: Ϫⲉ ⲛ̀ⲑⲟⲕ ⲅⲁⲣ ⲡⲉ ⲡⲉⲛⲱⲛϧ ⲧⲏⲣⲟⲩ ⲛⲉⲙ ⲡⲉⲛⲟⲩϫⲁⲓ ⲧⲏⲣⲟⲩ ⲛⲉⲙ ⲧⲉⲛϩⲉⲗⲡⲓⲥ ⲧⲏⲣⲟⲩ ⲛⲉⲙ ⲡⲉⲛⲧⲁⲗϭⲟ ⲧⲏⲣⲟⲩ ⲛⲉⲙ ⲧⲉⲛⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ ⲧⲏⲣⲉⲛ
+        coptic_english: ''
+        coptic_arabic: ''
