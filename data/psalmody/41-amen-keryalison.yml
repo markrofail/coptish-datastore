@@ -3,83 +3,88 @@ title:
 sections:
   - type: verses
     verses:
-      - english: 'O God have mercy on us. '
-        arabic: 'يا الله إرحمنا. '
-        coptic: 'Ⲫ̀ⲛⲟⲩϯ ⲛⲁⲓ ⲛⲁⲛ. '
-        coptic_english: Efnouti nai nan.
-        coptic_arabic: 'فنوتي ناي نان. '
-      - english: 'O God hear us. '
-        arabic: 'يا الله إسمعنا. '
-        coptic: Ⲫ̀ⲛⲟⲩϯ ⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲛ.
-        coptic_english: Efnouti sowtem eron.
-        coptic_arabic: فنوتي سوتيم إرون.
-      - english: 'O God look to us. '
-        arabic: 'يا الله أُنظر إلينا. '
-        coptic: 'Ⲫ̀ⲛⲟⲩϯ ⲥⲟⲙⲥ ⲉ̀ⲣⲟⲛ. '
-        coptic_english: Efnouti soms eron.
-        coptic_arabic: 'فنوتي سومس إرون. '
-      - english: 'O God behold us. '
-        arabic: 'يا الله إطَّلع علينا. '
-        coptic: Ⲫ̀ⲛⲟⲩϯ ϫⲟⲩϣⲧ ⲉ̀ⲣⲟⲛ.
-        coptic_english: Efnouti gousht eron.
-        coptic_arabic: فنوتي جوشت إرون.
-      - english: 'O God have compassion on us. '
-        arabic: 'يا الله تراءف علينا. '
-        coptic: 'Ⲫ̀ⲛⲟⲩϯ ϣⲉⲛϩⲏⲧ ϧⲁⲣⲟⲩⲛ. '
-        coptic_english: Efnouti shen-hit kharon.
-        coptic_arabic: 'فنوتي شينهيت خارون. '
-      - english: 'We are Your people. '
-        arabic: 'نحن شعبك. '
-        coptic: 'Ⲁ̀ⲛⲟⲛ ϧⲁ ⲡⲉⲕⲗⲁⲟⲥ. '
-        coptic_english: Anon kha-pek-laos.
-        coptic_arabic: 'أنون خا بيكلاوس. '
-      - english: 'We are Your creation. '
-        arabic: 'نحن جبلتك. '
-        coptic: 'Ⲁ̀ⲛⲟⲛ ϧⲁ ⲡⲉⲕⲡ̀ⲗⲁⲥⲙⲁ. '
-        coptic_english: Anon kha-pek-eplasma.
-        coptic_arabic: 'أنون خا بيكبلاسما. '
-      - english: Deliver us from our enemies.
-        arabic: 'نجنا من أعدائنا. '
-        coptic: 'Ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲉⲛϫⲁϫⲓ. '
-        coptic_english: Nahmen evol khen nen-gaji.
-        coptic_arabic: 'ناهمين إفول خين نينجاجي. '
-      - english: 'Deliver us from inflation. '
-        arabic: 'نجنا من الغلاء. '
-        coptic: 'Ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲟⲩϩ̀ⲃⲱⲛ. '
-        coptic_english: Nahmen evol ha-ou-eh-vown.
-        coptic_arabic: 'ناهمين إفول ها أوهفون. '
-      - english: 'We are Your servants. '
-        arabic: 'نحن عبيدك. '
-        coptic: Ⲁ̀ⲛⲟⲛ ϧⲁ ⲛⲉⲕⲉ̀ⲃⲓⲁⲓⲕ.
-        coptic_english: Anon kha nek-eve-aik.
-        coptic_arabic: أنون خا نيكإفيايك.
-      - english: You are the Son of God.
-        arabic: 'أنت إبن الله. '
-        coptic: 'Ⲩ̀ⲓⲟⲥ Ⲑⲉⲟⲥ ⲛ̀ⲑⲟⲕ. '
-        coptic_english: Eyos Theos enthok.
-        coptic_arabic: 'إيوس ثيؤس إنثوك. '
-      - english: 'We believe in You. '
-        arabic: 'آمنا بك. '
-        coptic: 'Ⲁⲛⲛⲁϩϯ ⲉ̀ⲣⲟⲕ. '
-        coptic_english: An-nahti erok.
-        coptic_arabic: 'أنناهتي إروك. '
-      - english: 'For You have (risen/come) and saved us. '
-        arabic: 'لأنك (قُمت/أتيت) وخلَّصتنا. '
-        coptic: 'Ϫⲉ (ⲁⲕⲧⲱⲛⲕ/ⲁⲕⲓ̀) ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ. '
-        coptic_english: Je (ak-ee) aksowti emmon.
-        coptic_arabic: 'جي (أكتونك/أكئي) أكسوتي إممون. '
-      - english: 'Visit us with Your salvation. '
-        arabic: 'تعهدنا بخلاصك. '
-        coptic: 'Ϫⲉⲙⲡⲉⲛϣⲓⲛⲓ ϧⲉⲛ ⲡⲉⲕⲟⲩϫⲁⲓ. '
-        coptic_english: Gem-pen-shini khen pek-ougai.
-        coptic_arabic: 'جيمبينشيني خين بيكوجاي. '
-      - english: 'And forgive us our sins. '
-        arabic: 'وإغفر لنا خطايانا. '
-        coptic: 'Ⲟⲩⲟϩ ⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ. '
-        coptic_english: Owoh ka nennovi nan evol.
-        coptic_arabic: 'أووه خا نيننوفي نان إفول. '
-      - english: Kerie leysoun.
-        arabic: 'كيريي ليسون. '
-        coptic: 'Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ. '
-        coptic_english: Kerie leysoun.
-        coptic_arabic: 'كيريي إليسون. '
+      english:
+        - 'O God have mercy on us. '
+        - 'O God hear us. '
+        - 'O God look to us. '
+        - 'O God behold us. '
+        - 'O God have compassion on us. '
+        - 'We are Your people. '
+        - 'We are Your creation. '
+        - Deliver us from our enemies.
+        - 'Deliver us from inflation. '
+        - 'We are Your servants. '
+        - You are the Son of God.
+        - 'We believe in You. '
+        - 'For You have (risen/come) and saved us. '
+        - 'Visit us with Your salvation. '
+        - 'And forgive us our sins. '
+        - Kerie leysoun.
+      arabic:
+        - 'يا الله إرحمنا. '
+        - 'يا الله إسمعنا. '
+        - 'يا الله أُنظر إلينا. '
+        - 'يا الله إطَّلع علينا. '
+        - 'يا الله تراءف علينا. '
+        - 'نحن شعبك. '
+        - 'نحن جبلتك. '
+        - 'نجنا من أعدائنا. '
+        - 'نجنا من الغلاء. '
+        - 'نحن عبيدك. '
+        - 'أنت إبن الله. '
+        - 'آمنا بك. '
+        - 'لأنك (قُمت/أتيت) وخلَّصتنا. '
+        - 'تعهدنا بخلاصك. '
+        - 'وإغفر لنا خطايانا. '
+        - 'كيريي ليسون. '
+      coptic:
+        - 'Ⲫ̀ⲛⲟⲩϯ ⲛⲁⲓ ⲛⲁⲛ. '
+        - Ⲫ̀ⲛⲟⲩϯ ⲥⲱⲧⲉⲙ ⲉ̀ⲣⲟⲛ.
+        - 'Ⲫ̀ⲛⲟⲩϯ ⲥⲟⲙⲥ ⲉ̀ⲣⲟⲛ. '
+        - Ⲫ̀ⲛⲟⲩϯ ϫⲟⲩϣⲧ ⲉ̀ⲣⲟⲛ.
+        - 'Ⲫ̀ⲛⲟⲩϯ ϣⲉⲛϩⲏⲧ ϧⲁⲣⲟⲩⲛ. '
+        - 'Ⲁ̀ⲛⲟⲛ ϧⲁ ⲡⲉⲕⲗⲁⲟⲥ. '
+        - 'Ⲁ̀ⲛⲟⲛ ϧⲁ ⲡⲉⲕⲡ̀ⲗⲁⲥⲙⲁ. '
+        - 'Ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲛⲉⲛϫⲁϫⲓ. '
+        - 'Ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲟⲩϩ̀ⲃⲱⲛ. '
+        - Ⲁ̀ⲛⲟⲛ ϧⲁ ⲛⲉⲕⲉ̀ⲃⲓⲁⲓⲕ.
+        - 'Ⲩ̀ⲓⲟⲥ Ⲑⲉⲟⲥ ⲛ̀ⲑⲟⲕ. '
+        - 'Ⲁⲛⲛⲁϩϯ ⲉ̀ⲣⲟⲕ. '
+        - 'Ϫⲉ (ⲁⲕⲧⲱⲛⲕ/ⲁⲕⲓ̀) ⲁⲕⲥⲱϯ ⲙ̀ⲙⲟⲛ. '
+        - 'Ϫⲉⲙⲡⲉⲛϣⲓⲛⲓ ϧⲉⲛ ⲡⲉⲕⲟⲩϫⲁⲓ. '
+        - 'Ⲟⲩⲟϩ ⲭⲁ ⲛⲉⲛⲛⲟⲃⲓ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ. '
+        - 'Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ. '
+      coptic_english:
+        - Efnouti nai nan.
+        - Efnouti sowtem eron.
+        - Efnouti soms eron.
+        - Efnouti gousht eron.
+        - Efnouti shen-hit kharon.
+        - Anon kha-pek-laos.
+        - Anon kha-pek-eplasma.
+        - Nahmen evol khen nen-gaji.
+        - Nahmen evol ha-ou-eh-vown.
+        - Anon kha nek-eve-aik.
+        - Eyos Theos enthok.
+        - An-nahti erok.
+        - Je (ak-ee) aksowti emmon.
+        - Gem-pen-shini khen pek-ougai.
+        - Owoh ka nennovi nan evol.
+        - Kerie leysoun.
+      coptic_arabic:
+        - 'فنوتي ناي نان. '
+        - فنوتي سوتيم إرون.
+        - 'فنوتي سومس إرون. '
+        - فنوتي جوشت إرون.
+        - 'فنوتي شينهيت خارون. '
+        - 'أنون خا بيكلاوس. '
+        - 'أنون خا بيكبلاسما. '
+        - 'ناهمين إفول خين نينجاجي. '
+        - 'ناهمين إفول ها أوهفون. '
+        - أنون خا نيكإفيايك.
+        - 'إيوس ثيؤس إنثوك. '
+        - 'أنناهتي إروك. '
+        - 'جي (أكتونك/أكئي) أكسوتي إممون. '
+        - 'جيمبينشيني خين بيكوجاي. '
+        - 'أووه خا نيننوفي نان إفول. '
+        - 'كيريي إليسون. '

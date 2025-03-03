@@ -10,27 +10,42 @@ sections:
   - speaker: priest
     type: verses
     verses:
-      - english: Graciously accord, O Lord, to bless the waters of the river this year
-        arabic: تفضل يا رب مياه النهر في هذه السنة، باركها
-        coptic: ''
-        coptic_english: ''
-        coptic_arabic: ''
+      english:
+        - Graciously accord, O Lord, to bless the waters of the river this year
+      arabic:
+        - تفضل يا رب مياه النهر في هذه السنة، باركها
+      coptic:
+        - ''
+      coptic_english:
+        - ''
+      coptic_arabic:
+        - ''
   - speaker: deacon
     type: verses
     verses:
-      - english: Pray for the rising of the waters of the rivers this year, that Christ our God may bless them and raise them according to their measure, that He may give joy to the face of the earth, sustain us, the sons of men, save the cattle, and forgive us our sins
-        arabic: أُطلبوا عن صعود مياه الأنهار في هذا السنة، لكيْ يباركها المسيح إلهنا، ويصعدها كمقدارها، ويفرِّح وجه الأرض، ويعولنا نحن بني البشر، ويعطي النجاة للبهائم، ويغفر لنا خطايانا
-        coptic: ''
-        coptic_english: ''
-        coptic_arabic: ''
+      english:
+        - Pray for the rising of the waters of the rivers this year, that Christ our God may bless them and raise them according to their measure, that He may give joy to the face of the earth, sustain us, the sons of men, save the cattle, and forgive us our sins
+      arabic:
+        - أُطلبوا عن صعود مياه الأنهار في هذا السنة، لكيْ يباركها المسيح إلهنا، ويصعدها كمقدارها، ويفرِّح وجه الأرض، ويعولنا نحن بني البشر، ويعطي النجاة للبهائم، ويغفر لنا خطايانا
+      coptic:
+        - ''
+      coptic_english:
+        - ''
+      coptic_arabic:
+        - ''
   - speaker: people
     type: verses
     verses:
-      - english: Lord have mercy (3)
-        arabic: يا ربُّ إرحَم (3)
-        coptic: ''
-        coptic_english: ''
-        coptic_arabic: ''
+      english:
+        - Lord have mercy (3)
+      arabic:
+        - يا ربُّ إرحَم (3)
+      coptic:
+        - ''
+      coptic_english:
+        - ''
+      coptic_arabic:
+        - ''
   - type: info
     text:
       english: From Paapi 10 to Tobi 10 (October 20/21 to January 18/19), the Litany of the Plants is said
@@ -40,27 +55,42 @@ sections:
   - speaker: priest
     type: verses
     verses:
-      - english: Graciously accord, O Lord, to bless the seeds, the herbs, and the plants of the field this year
-        arabic: تفضل يا رب، الزروع والعشب ونبات الحقل في هذه السنة، باركها
-        coptic: ''
-        coptic_english: ''
-        coptic_arabic: ''
+      english:
+        - Graciously accord, O Lord, to bless the seeds, the herbs, and the plants of the field this year
+      arabic:
+        - تفضل يا رب، الزروع والعشب ونبات الحقل في هذه السنة، باركها
+      coptic:
+        - ''
+      coptic_english:
+        - ''
+      coptic_arabic:
+        - ''
   - speaker: deacon
     type: verses
     verses:
-      - english: Pray for the seeds, the herbs, and the plants of the field this year, that Christ our God may bless them to grow and multiply unto perfection with great fruit, have compassion on His creation which His hands have made, and forgive us our sins
-        arabic: أُطلبوا عن الزروع والعشب ونبات الحقل، في هذه السنة، لكيْ يباركها المسيح إلهنا، لتنمو وتكثر إلى أن تكمل بثمرة عظيمة، ويتحنن على جبلته التي صنعتها يداه، ويغفر لنا خطايانا
-        coptic: ''
-        coptic_english: ''
-        coptic_arabic: ''
+      english:
+        - Pray for the seeds, the herbs, and the plants of the field this year, that Christ our God may bless them to grow and multiply unto perfection with great fruit, have compassion on His creation which His hands have made, and forgive us our sins
+      arabic:
+        - أُطلبوا عن الزروع والعشب ونبات الحقل، في هذه السنة، لكيْ يباركها المسيح إلهنا، لتنمو وتكثر إلى أن تكمل بثمرة عظيمة، ويتحنن على جبلته التي صنعتها يداه، ويغفر لنا خطايانا
+      coptic:
+        - ''
+      coptic_english:
+        - ''
+      coptic_arabic:
+        - ''
   - speaker: people
     type: verses
     verses:
-      - english: Lord have mercy (3)
-        arabic: يا ربُّ إرحَم (3)
-        coptic: ''
-        coptic_english: ''
-        coptic_arabic: ''
+      english:
+        - Lord have mercy (3)
+      arabic:
+        - يا ربُّ إرحَم (3)
+      coptic:
+        - ''
+      coptic_english:
+        - ''
+      coptic_arabic:
+        - ''
   - type: info
     text:
       english: From Tobi 11 to Paoni 11 (January 19/20 to June 18), the Litany of the Fruits is said
@@ -70,27 +100,42 @@ sections:
   - speaker: priest
     type: verses
     verses:
-      - english: Graciously accord, O Lord, to bless the air of heaven and the fruits of the earth this year
-        arabic: تفضل يا رب أهوية السماء وثمرات الأرض، في هذه السنة، باركها
-        coptic: ''
-        coptic_english: ''
-        coptic_arabic: ''
+      english:
+        - Graciously accord, O Lord, to bless the air of heaven and the fruits of the earth this year
+      arabic:
+        - تفضل يا رب أهوية السماء وثمرات الأرض، في هذه السنة، باركها
+      coptic:
+        - ''
+      coptic_english:
+        - ''
+      coptic_arabic:
+        - ''
   - speaker: deacon
     type: verses
     verses:
-      - english: Pray for the air of heaven, the fruits of the earth, the trees, the vines, and for every fruit-bearing tree in all the world, that Christ our God may bless them, bring them to perfection in peace without harm, and forgive us our sins
-        arabic: أُطلبوا عن أهوية السماء، وثمرات الأرض والشجر والكروم، وكل شجرة مثمرة في كل المسكونة، لكي يباركها المسيح إلهنا، ويكملها سالمة بغير ألم، ويغفر لنا خطايانا
-        coptic: ''
-        coptic_english: ''
-        coptic_arabic: ''
+      english:
+        - Pray for the air of heaven, the fruits of the earth, the trees, the vines, and for every fruit-bearing tree in all the world, that Christ our God may bless them, bring them to perfection in peace without harm, and forgive us our sins
+      arabic:
+        - أُطلبوا عن أهوية السماء، وثمرات الأرض والشجر والكروم، وكل شجرة مثمرة في كل المسكونة، لكي يباركها المسيح إلهنا، ويكملها سالمة بغير ألم، ويغفر لنا خطايانا
+      coptic:
+        - ''
+      coptic_english:
+        - ''
+      coptic_arabic:
+        - ''
   - speaker: people
     type: verses
     verses:
-      - english: Lord have mercy (3)
-        arabic: يا ربُّ إرحَم (3)
-        coptic: ''
-        coptic_english: ''
-        coptic_arabic: ''
+      english:
+        - Lord have mercy (3)
+      arabic:
+        - يا ربُّ إرحَم (3)
+      coptic:
+        - ''
+      coptic_english:
+        - ''
+      coptic_arabic:
+        - ''
   - type: info
     text:
       english: The three litanies may be combined as follows
@@ -100,27 +145,42 @@ sections:
   - speaker: priest
     type: verses
     verses:
-      - english: Graciously accord, O Lord, to bless the air of heaven, the fruits of the earth, the waters of the river, the seeds, the herbs, and the plants of the field this year
-        arabic: تفضل يا رب أهوية السماء وثمرات الأرض صعود مياه الأنهار والزروع والعشب ونبات الحقل في هذه السنة، باركها
-        coptic: ''
-        coptic_english: ''
-        coptic_arabic: ''
+      english:
+        - Graciously accord, O Lord, to bless the air of heaven, the fruits of the earth, the waters of the river, the seeds, the herbs, and the plants of the field this year
+      arabic:
+        - تفضل يا رب أهوية السماء وثمرات الأرض صعود مياه الأنهار والزروع والعشب ونبات الحقل في هذه السنة، باركها
+      coptic:
+        - ''
+      coptic_english:
+        - ''
+      coptic_arabic:
+        - ''
   - speaker: deacon
     type: verses
     verses:
-      - english: Pray for the air of heaven, the fruits of the earth, the rising of the waters of the rivers, the seeds, the herbs, and the plants of the field, that Christ our God may bless them, have compassion on His creation which His hands have made, and forgive us our sins
-        arabic: أُطلبوا عن أهوية السماء، وثمرات الأرض، وصعود مياه الأنهار، والزروع والعشب ونبات الحقل، في هذه السنة لكي يباركها المسيح إلهنا، ويتحنن على جبلته التي صنعتها يداه، ويغفر لنا خطايانا
-        coptic: ''
-        coptic_english: ''
-        coptic_arabic: ''
+      english:
+        - Pray for the air of heaven, the fruits of the earth, the rising of the waters of the rivers, the seeds, the herbs, and the plants of the field, that Christ our God may bless them, have compassion on His creation which His hands have made, and forgive us our sins
+      arabic:
+        - أُطلبوا عن أهوية السماء، وثمرات الأرض، وصعود مياه الأنهار، والزروع والعشب ونبات الحقل، في هذه السنة لكي يباركها المسيح إلهنا، ويتحنن على جبلته التي صنعتها يداه، ويغفر لنا خطايانا
+      coptic:
+        - ''
+      coptic_english:
+        - ''
+      coptic_arabic:
+        - ''
   - speaker: people
     type: verses
     verses:
-      - english: Lord have mercy (3)
-        arabic: يا ربُّ إرحَم (3)
-        coptic: ''
-        coptic_english: ''
-        coptic_arabic: ''
+      english:
+        - Lord have mercy (3)
+      arabic:
+        - يا ربُّ إرحَم (3)
+      coptic:
+        - ''
+      coptic_english:
+        - ''
+      coptic_arabic:
+        - ''
   - type: info
     text:
       english: After any one of the litanies, the priest continues with the following
@@ -130,36 +190,46 @@ sections:
   - speaker: priest
     type: verses
     verses:
-      - english: Raise them to their measure according to Your grace. Give joy to the face of the earth. May its furrows be abundantly watered and its fruits be plentiful
-        arabic: اصعِدْها كمقدارِها كنعمَتِكَ، فَرِّحْ وجهَ الأرضِ، ليُرْوَ حرثُها ولتكثرَ أثمارُها
-        coptic: ''
-        coptic_english: ''
-        coptic_arabic: ''
-      - english: Prepare it for sowing and harvesting. Manage our lives as deemed fit
-        arabic: أعِدَّها للزرعِ والحصادِ، ودَبِّر حياتَنا كما يليق
-        coptic: ''
-        coptic_english: ''
-        coptic_arabic: ''
-      - english: Bless the crown of the year with Your goodness for the sake of the poor of Your people, the widow, the orphan, the traveler, the stranger, and for the sake of all of us who entreat You and seek Your holy name
-        arabic: بَارِكْ إكليلَ السنةِ بصلاحِكَ، من أجلِ فقراءِ شعبِكَ، من أجلِ الأرملةِ واليتيمِ والغريبِ والضيفِ، ومن أجلِنا كُلِّنا نحنُ الذين نرجوكَ ونطلبُ إسمَكَ القدوس
-        coptic: ''
-        coptic_english: ''
-        coptic_arabic: ''
-      - english: For the eyes of everyone wait upon You, for You give them their food in due season
-        arabic: لأن أعينَ الكلِّ تترجاكَ، لأنَّكَ أنتَ الذي تُعطِيهم طعامَهم في حينٍ حسنٍ
-        coptic: ''
-        coptic_english: ''
-        coptic_arabic: ''
-      - english: Deal with us according to Your goodness, O You who give food to all flesh. Fill our hearts with joy and gladness, that we too, having sufficiency in everything always, may abound in every good deed
-        arabic: إصنع معنا حَسَبَ صلاحِكَ، يا مُعطِياً طعاماً لكلِّ جسدٍ. املأ قلوبَنا فرحاً ونعيماً، لكي نحنُ أيضاً إذ تكونَ لنا الكفايةُ في كلِّ شيءٍ، كلَّ حينٍ، نزدادَ في كلِّ عملٍ صالحٍ
-        coptic: ''
-        coptic_english: ''
-        coptic_arabic: ''
+      english:
+        - Raise them to their measure according to Your grace. Give joy to the face of the earth. May its furrows be abundantly watered and its fruits be plentiful
+        - Prepare it for sowing and harvesting. Manage our lives as deemed fit
+        - Bless the crown of the year with Your goodness for the sake of the poor of Your people, the widow, the orphan, the traveler, the stranger, and for the sake of all of us who entreat You and seek Your holy name
+        - For the eyes of everyone wait upon You, for You give them their food in due season
+        - Deal with us according to Your goodness, O You who give food to all flesh. Fill our hearts with joy and gladness, that we too, having sufficiency in everything always, may abound in every good deed
+      arabic:
+        - اصعِدْها كمقدارِها كنعمَتِكَ، فَرِّحْ وجهَ الأرضِ، ليُرْوَ حرثُها ولتكثرَ أثمارُها
+        - أعِدَّها للزرعِ والحصادِ، ودَبِّر حياتَنا كما يليق
+        - بَارِكْ إكليلَ السنةِ بصلاحِكَ، من أجلِ فقراءِ شعبِكَ، من أجلِ الأرملةِ واليتيمِ والغريبِ والضيفِ، ومن أجلِنا كُلِّنا نحنُ الذين نرجوكَ ونطلبُ إسمَكَ القدوس
+        - لأن أعينَ الكلِّ تترجاكَ، لأنَّكَ أنتَ الذي تُعطِيهم طعامَهم في حينٍ حسنٍ
+        - إصنع معنا حَسَبَ صلاحِكَ، يا مُعطِياً طعاماً لكلِّ جسدٍ. املأ قلوبَنا فرحاً ونعيماً، لكي نحنُ أيضاً إذ تكونَ لنا الكفايةُ في كلِّ شيءٍ، كلَّ حينٍ، نزدادَ في كلِّ عملٍ صالحٍ
+      coptic:
+        - ''
+        - ''
+        - ''
+        - ''
+        - ''
+      coptic_english:
+        - ''
+        - ''
+        - ''
+        - ''
+        - ''
+      coptic_arabic:
+        - ''
+        - ''
+        - ''
+        - ''
+        - ''
   - speaker: people
     type: verses
     verses:
-      - english: Lord have mercy
-        arabic: يا ربُّ إرحَم
-        coptic: ''
-        coptic_english: ''
-        coptic_arabic: ''
+      english:
+        - Lord have mercy
+      arabic:
+        - يا ربُّ إرحَم
+      coptic:
+        - ''
+      coptic_english:
+        - ''
+      coptic_arabic:
+        - ''

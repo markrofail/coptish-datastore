@@ -13,3 +13,4 @@ const typesToJsonSchema = ({ inputPath, outputPath, rootType }: { inputPath: str
 }
 
 typesToJsonSchema({ rootType: 'Root', inputPath: '../schemas/types.ts', outputPath: '../schemas/schema.json' })
+typesToJsonSchema({ rootType: 'RawRoot', inputPath: '../schemas/raw_types.ts', outputPath: '../schemas/raw_schema.json' })

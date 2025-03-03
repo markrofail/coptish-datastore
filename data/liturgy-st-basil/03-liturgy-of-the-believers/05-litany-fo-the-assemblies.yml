@@ -5,126 +5,161 @@ sections:
   - speaker: priest
     type: verses
     verses:
-      - english: Again, let us ask God the Pantocrator, the Father of our Lord, God, and Savior Jesus Christ
-        arabic: وأيضاً فلنسأل الله الضابط الكل، أبا ربنا وإلهنا ومخلصنا يسوع المسيح
-        coptic: Ⲡⲁⲗⲓⲛ ⲟⲛ ⲙⲁⲣⲉⲛϯϩⲟ ⲉ̀Ⲫ̀ⲛⲟⲩϯ Ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ Ⲫ̀ⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ Ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ
-        coptic_english: ''
-        coptic_arabic: ''
-      - english: We ask and entreat Your goodness, O Lover of Mankind, remember, O Lord, our assemblies
-        arabic: نسأل ونطلب من صلاحك يا محب البشر، أُذكر يا رب إجتماعاتنا
-        coptic: Ⲧⲉⲛϯϩⲟ ⲟⲩⲟϩ ⲧⲉⲛⲧⲱⲃϩ ⲛ̀ⲧⲉⲕⲙⲉⲧⲁ̀ⲅⲁⲑⲟⲥ Ⲡⲓⲙⲁⲓⲣⲱⲙⲓ ⲁ̀ⲣⲓⲫ̀ⲙⲉⲩⲓ Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲛⲉⲛϫⲓⲛⲑⲱⲟⲩϯ
-        coptic_english: ''
-        coptic_arabic: ''
-      - english: Bless them
-        arabic: باركها
-        coptic: Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲱⲟⲩ
-        coptic_english: ''
-        coptic_arabic: ''
+      english:
+        - Again, let us ask God the Pantocrator, the Father of our Lord, God, and Savior Jesus Christ
+        - We ask and entreat Your goodness, O Lover of Mankind, remember, O Lord, our assemblies
+        - Bless them
+      arabic:
+        - وأيضاً فلنسأل الله الضابط الكل، أبا ربنا وإلهنا ومخلصنا يسوع المسيح
+        - نسأل ونطلب من صلاحك يا محب البشر، أُذكر يا رب إجتماعاتنا
+        - باركها
+      coptic:
+        - Ⲡⲁⲗⲓⲛ ⲟⲛ ⲙⲁⲣⲉⲛϯϩⲟ ⲉ̀Ⲫ̀ⲛⲟⲩϯ Ⲡⲓⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ Ⲫ̀ⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ Ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ
+        - Ⲧⲉⲛϯϩⲟ ⲟⲩⲟϩ ⲧⲉⲛⲧⲱⲃϩ ⲛ̀ⲧⲉⲕⲙⲉⲧⲁ̀ⲅⲁⲑⲟⲥ Ⲡⲓⲙⲁⲓⲣⲱⲙⲓ ⲁ̀ⲣⲓⲫ̀ⲙⲉⲩⲓ Ⲡ̀ϭⲟⲓⲥ ⲛ̀ⲛⲉⲛϫⲓⲛⲑⲱⲟⲩϯ
+        - Ⲥ̀ⲙⲟⲩ ⲉ̀ⲣⲱⲟⲩ
+      coptic_english:
+        - ''
+        - ''
+        - ''
+      coptic_arabic:
+        - ''
+        - ''
+        - ''
   - speaker: deacon
     type: verses
     verses:
-      - english: Pray for this holy church and for our assemblies
-        arabic: صلوا من أجل هذه الكنيسة المقدسة وإجتماعاتنا
-        coptic: Ⲡ̀ⲣⲟⲥⲉⲩⲉⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲏⲥ ⲁ̀ⲅⲓⲁⲥ ⲉⲕⲕⲗⲏⲥⲓⲁⲥ ⲧⲁⲩⲧⲏⲥ ⲕⲉ ⲧⲱⲛ ⲥⲩⲛⲉ̀ⲗⲉⲩⲥⲉⲱⲛ ⲏ̀ⲙⲱⲛ
-        coptic_english: ''
-        coptic_arabic: ''
+      english:
+        - Pray for this holy church and for our assemblies
+      arabic:
+        - صلوا من أجل هذه الكنيسة المقدسة وإجتماعاتنا
+      coptic:
+        - Ⲡ̀ⲣⲟⲥⲉⲩⲉⲝⲁⲥⲑⲉ ⲩ̀ⲡⲉⲣ ⲧⲏⲥ ⲁ̀ⲅⲓⲁⲥ ⲉⲕⲕⲗⲏⲥⲓⲁⲥ ⲧⲁⲩⲧⲏⲥ ⲕⲉ ⲧⲱⲛ ⲥⲩⲛⲉ̀ⲗⲉⲩⲥⲉⲱⲛ ⲏ̀ⲙⲱⲛ
+      coptic_english:
+        - ''
+      coptic_arabic:
+        - ''
   - speaker: people
     type: verses
     verses:
-      - english: Lord have mercy
-        arabic: يا ربُّ إرحَم
-        coptic: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ
-        coptic_english: Kerie leison
-        coptic_arabic: ''
+      english:
+        - Lord have mercy
+      arabic:
+        - يا ربُّ إرحَم
+      coptic:
+        - Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ
+      coptic_english:
+        - Kerie leison
+      coptic_arabic:
+        - ''
   - speaker: priest
     type: verses
     verses:
-      - english: Grant that they may be to us without obstacle or hindrance, that we may hold them according to Your holy and blessed will
-        arabic: أعط أن تكون لنا بغير مانع ولا عائق، لنصنعها كمشيئتك المقدسة الطوباوية
-        coptic: Ⲙⲏⲓⲥ ⲉⲑⲣⲟⲩϣⲱⲡⲓ ⲛⲁⲛ ⲛ̀ⲁⲧⲉⲣⲕⲱⲗⲓⲛ ⲛ̀ⲁⲧⲧⲁϩⲛⲟ ⲉⲑⲣⲉⲛⲁⲓⲧⲟⲩ ⲕⲁⲧⲁ ⲡⲉⲕⲟⲩⲱϣ ⲉⲑⲟⲩⲁⲃ ⲟⲩⲟϩ ⲙ̀ⲙⲁⲕⲁⲣⲓⲟⲛ
-        coptic_english: ''
-        coptic_arabic: ''
-      - english: houses of prayer, houses of purity, houses of blessing. Grant them to us, O Lord, and Your servants who shall come after us, forever
-        arabic: بيوت صلاة، بيوت طهارة، بيوت بركة، أنعم بها لنا يا رب، ولعبيدك الآتين بعدنا إلى الأبد
-        coptic: Ϩⲁⲛⲏⲓ ⲛ̀ⲉⲩⲭⲏ ϩⲁⲛⲏⲓ ⲛ̀ⲧⲟⲩⲃⲟ ϩⲁⲛⲏⲓ ⲛ̀ⲥ̀ⲙⲟⲩ ⲁ̀ⲣⲓⲭⲁⲣⲓⲍⲉⲥⲑⲉ ⲙ̀ⲙⲱⲟⲩ ⲛⲁⲛ Ⲡ̀ϭⲟⲓⲥ ⲛⲉⲙ ⲛⲉⲕⲉ̀ⲃⲓⲁⲓⲕ ⲉⲑⲛⲏⲟⲩ ⲙⲉⲛⲉⲛⲥⲱⲛ ϣⲁ ⲉ̀ⲛⲉϩ
-        coptic_english: ''
-        coptic_arabic: ''
-      - english: The following may be said
-        arabic: يمكن يقال الآتي
-        coptic: ''
-        coptic_english: ''
-        coptic_arabic: ''
-      - english: The worship of idols, utterly uproot from the world
-        arabic: عبادة الأوثان بتمامها، إقلعها من العالم
-        coptic: Ϯⲙⲉⲧϣⲁⲙϣⲉ ⲓ̀ⲇⲱⲗⲟⲛ ϧⲉⲛ ⲟⲩϫⲱⲕ ϥⲟϫⲥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲡⲓⲕⲟⲥⲙⲟⲥ
-        coptic_english: ''
-        coptic_arabic: ''
-      - english: Satan and all his evil powers, trample and humiliate under our feet speedily
-        arabic: الشيطان وكل قواته الشريرة، إسحقهم وأذلهم تحت أقدامنا سريعاً
-        coptic: Ⲡ̀ⲥⲁⲧⲁⲛⲁⲥ ⲛⲉⲙ ϫⲟⲙ ⲛⲓⲃⲉⲛ ⲉⲧϩⲱⲟⲩ ⲛ̀ⲧⲁϥ ϧⲉⲙϧⲱⲙⲟⲩ ⲟⲩⲟϩ ⲙⲁⲑⲉⲃⲓⲱⲟⲩ ⲥⲁⲡⲉⲥⲏⲧ ⲛ̀ⲛⲉⲛϭⲁⲗⲁⲩϫ ⲛ̀ⲭⲱⲗⲉⲙ
-        coptic_english: ''
-        coptic_arabic: ''
-      - english: All offenses and their instigators, do abolish. May all dissensions of corrupt heresies cease
-        arabic: الشكوك وفاعليها إبطلهم. ولينقض إفتراقات فساد البدع
-        coptic: Ⲛⲓⲥ̀ⲕⲁⲛⲇⲁⲗⲟⲛ ⲛⲉⲙ ⲛⲏⲉⲧⲓ̀ⲣⲓ ⲙ̀ⲙⲱⲟⲩ ⲕⲟⲣϥⲟⲩ ⲙⲁⲣⲟⲩⲕⲏⲛ ⲛ̀ϫⲉ ⲛⲓⲫⲱⲣϫ ⲙ̀ⲡ̀ⲧⲁⲕⲟ ⲛ̀ⲧⲉ ⲛⲓϩⲉⲣⲉⲥⲓⲥ
-        coptic_english: ''
-        coptic_arabic: ''
-      - english: The enemies of Your holy Church, O Lord, as at all times, now also humiliate
-        arabic: أعداء كنيستك المقدسة يا رب، مثل كل زمان، الآن أيضاً أذلهم
-        coptic: Ⲛⲓϫⲁϫⲓ ⲛ̀ⲧⲉ Ⲧⲉⲕⲉⲕⲕⲗⲏⲥⲓⲁ ⲉⲑⲟⲩⲁⲃ Ⲡ̀ϭⲟⲓⲥ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ ⲛⲉⲙ ϯⲛⲟⲩ ⲙⲁⲑⲉⲃⲓⲱⲟⲩ
-        coptic_english: ''
-        coptic_arabic: ''
-      - english: Strip their vanity, show them their weakness speedily
-        arabic: حل تعاظمهم، عرفهم ضعفهم سريعاً
-        coptic: Ⲃⲱⲗ ⲛ̀ⲧⲟⲩⲙⲉⲧϭⲁⲥⲓϩⲏⲧ ⲉ̀ⲃⲟⲗ ⲙⲁⲧⲁⲙⲱⲟⲩ ⲉ̀ⲧⲟⲩⲙⲉⲧϫⲱⲃ ⲛ̀ⲭⲱⲗⲉⲙ
-        coptic_english: ''
-        coptic_arabic: ''
-      - english: Bring to naught their envy, their intrigues, their madness, their wickedness, and their slander, which they commit against us
-        arabic: أبطل حسدهم، وسعايتهم، وجنونهم، وشرهم، ونميمتهم التي يصنعونها فينا
-        coptic: Ⲕⲱⲣϥ ⲛ̀ⲛⲟⲩⲫ̀ⲑⲟⲛⲟⲥ ⲛ̀ⲟⲩⲉ̀ⲡⲓⲃⲟⲗⲏ ⲛ̀ⲟⲩⲙⲁⲛⲕⲁⲛⲓⲁ ⲛ̀ⲟⲩⲕⲁⲕⲟⲩⲣⲅⲓⲁ ⲛ̀ⲟⲩⲕⲁⲧⲁⲗⲁⲗⲓⲁ ⲉ̀ⲧⲟⲩⲓ̀ⲣⲓ ⲙ̀ⲙⲱⲟⲩ ϧⲁⲣⲟⲛ
-        coptic_english: ''
-        coptic_arabic: ''
-      - english: O Lord, bring them all to no avail. Disperse their counsel, O God, who dispersed the counsel of Ahithophel
-        arabic: يا رب إجعلهم كلهم كلا شئ، وبدد مشورتهم يا الله الذي بدد مشورة أخيتوفل
-        coptic: Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓⲧⲟⲩ ⲧⲏⲣⲟⲩ ⲛ̀ⲁⲡⲣⲁⲕⲧⲟⲛ ⲟⲩⲟϩ ϫⲱⲣ ⲉ̀ⲃⲟⲗ ⲙ̀ⲡⲟⲩⲥⲟϭⲛⲓ Ⲫ̀ⲛⲟⲩϯ ⲫⲏⲉ̀ⲧⲁϥϫⲱⲣ ⲉ̀ⲃⲟⲗ ⲙ̀ⲡ̀ⲥⲟϭⲛⲓ ⲛ̀Ⲁ̀ⲭⲓⲧⲟⲫⲉⲗ
-        coptic_english: ''
-        coptic_arabic: ''
+      english:
+        - Grant that they may be to us without obstacle or hindrance, that we may hold them according to Your holy and blessed will
+        - houses of prayer, houses of purity, houses of blessing. Grant them to us, O Lord, and Your servants who shall come after us, forever
+        - The following may be said
+        - The worship of idols, utterly uproot from the world
+        - Satan and all his evil powers, trample and humiliate under our feet speedily
+        - All offenses and their instigators, do abolish. May all dissensions of corrupt heresies cease
+        - The enemies of Your holy Church, O Lord, as at all times, now also humiliate
+        - Strip their vanity, show them their weakness speedily
+        - Bring to naught their envy, their intrigues, their madness, their wickedness, and their slander, which they commit against us
+        - O Lord, bring them all to no avail. Disperse their counsel, O God, who dispersed the counsel of Ahithophel
+      arabic:
+        - أعط أن تكون لنا بغير مانع ولا عائق، لنصنعها كمشيئتك المقدسة الطوباوية
+        - بيوت صلاة، بيوت طهارة، بيوت بركة، أنعم بها لنا يا رب، ولعبيدك الآتين بعدنا إلى الأبد
+        - يمكن يقال الآتي
+        - عبادة الأوثان بتمامها، إقلعها من العالم
+        - الشيطان وكل قواته الشريرة، إسحقهم وأذلهم تحت أقدامنا سريعاً
+        - الشكوك وفاعليها إبطلهم. ولينقض إفتراقات فساد البدع
+        - أعداء كنيستك المقدسة يا رب، مثل كل زمان، الآن أيضاً أذلهم
+        - حل تعاظمهم، عرفهم ضعفهم سريعاً
+        - أبطل حسدهم، وسعايتهم، وجنونهم، وشرهم، ونميمتهم التي يصنعونها فينا
+        - يا رب إجعلهم كلهم كلا شئ، وبدد مشورتهم يا الله الذي بدد مشورة أخيتوفل
+      coptic:
+        - Ⲙⲏⲓⲥ ⲉⲑⲣⲟⲩϣⲱⲡⲓ ⲛⲁⲛ ⲛ̀ⲁⲧⲉⲣⲕⲱⲗⲓⲛ ⲛ̀ⲁⲧⲧⲁϩⲛⲟ ⲉⲑⲣⲉⲛⲁⲓⲧⲟⲩ ⲕⲁⲧⲁ ⲡⲉⲕⲟⲩⲱϣ ⲉⲑⲟⲩⲁⲃ ⲟⲩⲟϩ ⲙ̀ⲙⲁⲕⲁⲣⲓⲟⲛ
+        - Ϩⲁⲛⲏⲓ ⲛ̀ⲉⲩⲭⲏ ϩⲁⲛⲏⲓ ⲛ̀ⲧⲟⲩⲃⲟ ϩⲁⲛⲏⲓ ⲛ̀ⲥ̀ⲙⲟⲩ ⲁ̀ⲣⲓⲭⲁⲣⲓⲍⲉⲥⲑⲉ ⲙ̀ⲙⲱⲟⲩ ⲛⲁⲛ Ⲡ̀ϭⲟⲓⲥ ⲛⲉⲙ ⲛⲉⲕⲉ̀ⲃⲓⲁⲓⲕ ⲉⲑⲛⲏⲟⲩ ⲙⲉⲛⲉⲛⲥⲱⲛ ϣⲁ ⲉ̀ⲛⲉϩ
+        - ''
+        - Ϯⲙⲉⲧϣⲁⲙϣⲉ ⲓ̀ⲇⲱⲗⲟⲛ ϧⲉⲛ ⲟⲩϫⲱⲕ ϥⲟϫⲥ ⲉ̀ⲃⲟⲗ ϧⲉⲛ ⲡⲓⲕⲟⲥⲙⲟⲥ
+        - Ⲡ̀ⲥⲁⲧⲁⲛⲁⲥ ⲛⲉⲙ ϫⲟⲙ ⲛⲓⲃⲉⲛ ⲉⲧϩⲱⲟⲩ ⲛ̀ⲧⲁϥ ϧⲉⲙϧⲱⲙⲟⲩ ⲟⲩⲟϩ ⲙⲁⲑⲉⲃⲓⲱⲟⲩ ⲥⲁⲡⲉⲥⲏⲧ ⲛ̀ⲛⲉⲛϭⲁⲗⲁⲩϫ ⲛ̀ⲭⲱⲗⲉⲙ
+        - Ⲛⲓⲥ̀ⲕⲁⲛⲇⲁⲗⲟⲛ ⲛⲉⲙ ⲛⲏⲉⲧⲓ̀ⲣⲓ ⲙ̀ⲙⲱⲟⲩ ⲕⲟⲣϥⲟⲩ ⲙⲁⲣⲟⲩⲕⲏⲛ ⲛ̀ϫⲉ ⲛⲓⲫⲱⲣϫ ⲙ̀ⲡ̀ⲧⲁⲕⲟ ⲛ̀ⲧⲉ ⲛⲓϩⲉⲣⲉⲥⲓⲥ
+        - Ⲛⲓϫⲁϫⲓ ⲛ̀ⲧⲉ Ⲧⲉⲕⲉⲕⲕⲗⲏⲥⲓⲁ ⲉⲑⲟⲩⲁⲃ Ⲡ̀ϭⲟⲓⲥ ⲙ̀ⲫ̀ⲣⲏϯ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ ⲛⲉⲙ ϯⲛⲟⲩ ⲙⲁⲑⲉⲃⲓⲱⲟⲩ
+        - Ⲃⲱⲗ ⲛ̀ⲧⲟⲩⲙⲉⲧϭⲁⲥⲓϩⲏⲧ ⲉ̀ⲃⲟⲗ ⲙⲁⲧⲁⲙⲱⲟⲩ ⲉ̀ⲧⲟⲩⲙⲉⲧϫⲱⲃ ⲛ̀ⲭⲱⲗⲉⲙ
+        - Ⲕⲱⲣϥ ⲛ̀ⲛⲟⲩⲫ̀ⲑⲟⲛⲟⲥ ⲛ̀ⲟⲩⲉ̀ⲡⲓⲃⲟⲗⲏ ⲛ̀ⲟⲩⲙⲁⲛⲕⲁⲛⲓⲁ ⲛ̀ⲟⲩⲕⲁⲕⲟⲩⲣⲅⲓⲁ ⲛ̀ⲟⲩⲕⲁⲧⲁⲗⲁⲗⲓⲁ ⲉ̀ⲧⲟⲩⲓ̀ⲣⲓ ⲙ̀ⲙⲱⲟⲩ ϧⲁⲣⲟⲛ
+        - Ⲡ̀ϭⲟⲓⲥ ⲁ̀ⲣⲓⲧⲟⲩ ⲧⲏⲣⲟⲩ ⲛ̀ⲁⲡⲣⲁⲕⲧⲟⲛ ⲟⲩⲟϩ ϫⲱⲣ ⲉ̀ⲃⲟⲗ ⲙ̀ⲡⲟⲩⲥⲟϭⲛⲓ Ⲫ̀ⲛⲟⲩϯ ⲫⲏⲉ̀ⲧⲁϥϫⲱⲣ ⲉ̀ⲃⲟⲗ ⲙ̀ⲡ̀ⲥⲟϭⲛⲓ ⲛ̀Ⲁ̀ⲭⲓⲧⲟⲫⲉⲗ
+      coptic_english:
+        - ''
+        - ''
+        - ''
+        - ''
+        - ''
+        - ''
+        - ''
+        - ''
+        - ''
+        - ''
+      coptic_arabic:
+        - ''
+        - ''
+        - ''
+        - ''
+        - ''
+        - ''
+        - ''
+        - ''
+        - ''
+        - ''
   - speaker: people
     type: verses
     verses:
-      - english: Lord have mercy
-        arabic: يا ربُّ إرحَم
-        coptic: Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ
-        coptic_english: Kerie leison
-        coptic_arabic: ''
+      english:
+        - Lord have mercy
+      arabic:
+        - يا ربُّ إرحَم
+      coptic:
+        - Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ
+      coptic_english:
+        - Kerie leison
+      coptic_arabic:
+        - ''
   - speaker: priest
     type: verses
     verses:
-      - english: Arise, O Lord God, let all Your enemies be scattered, and let all who hate Your holy name flee before Your face
-        arabic: قم أيها الرب الإله. وليتفرق جميع أعدائك. وليهرب من قدام وجهك كل مبغضي إسمك القدوس
-        coptic: Ⲧⲱⲛⲕ Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ ⲙⲁⲣⲟⲩϫⲱⲣ ⲉ̀ⲃⲟⲗ ⲛ̀ϫⲉ ⲛⲉⲕϫⲁϫⲓ ⲧⲏⲣⲟⲩ ⲙⲁⲣⲟⲩⲫⲱⲧ ⲉ̀ⲃⲟⲗ ϧⲁⲧ̀ϩⲏ ⲙ̀ⲡⲉⲕϩⲟ ⲛ̀ϫⲉ ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ ⲉⲑⲙⲟⲥϯ ⲙ̀ⲡⲉⲕⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ
-        coptic_english: ''
-        coptic_arabic: ''
-      - english: But let Your people be in blessing, thousands of thousands and ten thousand times ten thousand doing Your will,
-        arabic: وأما شعبك فليكن بالبركة، ألوف ألوف وربوات ربوات، يصنعون إرادَتك
-        coptic: Ⲡⲉⲕⲗⲁⲟⲥ ⲇⲉ ⲙⲁⲣⲉϥϣⲱⲡⲓ ϧⲉⲛ ⲡⲓⲥ̀ⲙⲟⲩ ⲉ̀ϩⲁⲛⲁⲛϣⲟ ⲛ̀ϣⲟ ⲛⲉⲙ ϩⲁⲛⲑ̀ⲃⲁ ⲛ̀ⲑ̀ⲃⲁ ⲉⲩⲓ̀ⲣⲓ ⲙ̀ⲡⲉⲕⲟⲩⲱϣ
-        coptic_english: ''
-        coptic_arabic: ''
-      - english: by the grace, compassion and love-of-mankind, of Your only-begotten Son, our Lord, God, and Savior, Jesus Christ
-        arabic: بالنعمة والرأفات ومحبة البشر اللواتي لإبنك الوحيد ربنا وإلهنا ومخلصنا يسوع المسيح
-        coptic: Ϧⲉⲛ ⲡⲓϩ̀ⲙⲟⲧ ⲛⲉⲙ ⲛⲓⲙⲉⲧϣⲉⲛϩⲏⲧ ⲛⲉⲙ ϯⲙⲉⲧⲙⲁⲓⲣⲱⲙⲓ ⲛ̀ⲧⲉ ⲡⲉⲕⲙⲟⲛⲟⲅⲉⲛⲏⲥ ⲛ̀Ϣⲏⲣⲓ Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ Ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ
-        coptic_english: ''
-        coptic_arabic: ''
-      - english: Through whom the glory, the honor, the dominion, and the worship are due unto You, with Him and the Holy Spirit, the Giver of Life, who is of one essence with You, now and at all times, and unto the age of all ages. Amen
-        arabic: هذا الذي من قبله المجد والإكرام والعزة والسجود تليق بك معه، مع الروح القدس المحيي المساوي لك. الآن وكل أوان وإلى دهر الدهور. آمين
-        coptic: Ⲫⲁⲓ ⲉ̀ⲧⲉ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲟⲧϥ ⲉ̀ⲣⲉ ⲡⲓⲱ̀ⲟⲩ ⲛⲉⲙ ⲡⲓⲧⲁⲓⲟ ⲛⲉⲙ ⲡⲓⲁ̀ⲙⲁϩⲓ ⲛⲉⲙ ϯⲡ̀ⲣⲟⲥⲕⲩⲛⲏⲥⲓⲥ ⲉⲣⲡ̀ⲣⲉⲡⲓ ⲛⲁⲕ ⲛⲉⲙⲁϥ ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ Ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲣⲉϥⲧⲁⲛϧⲟ ⲟⲩⲟϩ ⲛ̀ⲟ̀ⲙⲟⲟⲩⲥⲓⲟⲥ ⲛⲉⲙⲁⲕ. Ϯⲛⲟⲩ ⲛⲉⲙ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ ⲛⲉⲙ ϣⲁ ⲉ̀ⲛⲉϩ ⲛ̀ⲧⲉ ⲛⲓⲉ̀ⲛⲉϩ ⲧⲏⲣⲟⲩ ⲁ̀ⲙⲏⲛ
-        coptic_english: ''
-        coptic_arabic: ''
+      english:
+        - Arise, O Lord God, let all Your enemies be scattered, and let all who hate Your holy name flee before Your face
+        - But let Your people be in blessing, thousands of thousands and ten thousand times ten thousand doing Your will,
+        - by the grace, compassion and love-of-mankind, of Your only-begotten Son, our Lord, God, and Savior, Jesus Christ
+        - Through whom the glory, the honor, the dominion, and the worship are due unto You, with Him and the Holy Spirit, the Giver of Life, who is of one essence with You, now and at all times, and unto the age of all ages. Amen
+      arabic:
+        - قم أيها الرب الإله. وليتفرق جميع أعدائك. وليهرب من قدام وجهك كل مبغضي إسمك القدوس
+        - وأما شعبك فليكن بالبركة، ألوف ألوف وربوات ربوات، يصنعون إرادَتك
+        - بالنعمة والرأفات ومحبة البشر اللواتي لإبنك الوحيد ربنا وإلهنا ومخلصنا يسوع المسيح
+        - هذا الذي من قبله المجد والإكرام والعزة والسجود تليق بك معه، مع الروح القدس المحيي المساوي لك. الآن وكل أوان وإلى دهر الدهور. آمين
+      coptic:
+        - Ⲧⲱⲛⲕ Ⲡ̀ϭⲟⲓⲥ Ⲫ̀ⲛⲟⲩϯ ⲙⲁⲣⲟⲩϫⲱⲣ ⲉ̀ⲃⲟⲗ ⲛ̀ϫⲉ ⲛⲉⲕϫⲁϫⲓ ⲧⲏⲣⲟⲩ ⲙⲁⲣⲟⲩⲫⲱⲧ ⲉ̀ⲃⲟⲗ ϧⲁⲧ̀ϩⲏ ⲙ̀ⲡⲉⲕϩⲟ ⲛ̀ϫⲉ ⲟⲩⲟⲛ ⲛⲓⲃⲉⲛ ⲉⲑⲙⲟⲥϯ ⲙ̀ⲡⲉⲕⲣⲁⲛ ⲉⲑⲟⲩⲁⲃ
+        - Ⲡⲉⲕⲗⲁⲟⲥ ⲇⲉ ⲙⲁⲣⲉϥϣⲱⲡⲓ ϧⲉⲛ ⲡⲓⲥ̀ⲙⲟⲩ ⲉ̀ϩⲁⲛⲁⲛϣⲟ ⲛ̀ϣⲟ ⲛⲉⲙ ϩⲁⲛⲑ̀ⲃⲁ ⲛ̀ⲑ̀ⲃⲁ ⲉⲩⲓ̀ⲣⲓ ⲙ̀ⲡⲉⲕⲟⲩⲱϣ
+        - Ϧⲉⲛ ⲡⲓϩ̀ⲙⲟⲧ ⲛⲉⲙ ⲛⲓⲙⲉⲧϣⲉⲛϩⲏⲧ ⲛⲉⲙ ϯⲙⲉⲧⲙⲁⲓⲣⲱⲙⲓ ⲛ̀ⲧⲉ ⲡⲉⲕⲙⲟⲛⲟⲅⲉⲛⲏⲥ ⲛ̀Ϣⲏⲣⲓ Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ Ⲡⲉⲛⲛⲟⲩϯ ⲟⲩⲟϩ Ⲡⲉⲛⲥⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ
+        - Ⲫⲁⲓ ⲉ̀ⲧⲉ ⲉ̀ⲃⲟⲗ ϩⲓⲧⲟⲧϥ ⲉ̀ⲣⲉ ⲡⲓⲱ̀ⲟⲩ ⲛⲉⲙ ⲡⲓⲧⲁⲓⲟ ⲛⲉⲙ ⲡⲓⲁ̀ⲙⲁϩⲓ ⲛⲉⲙ ϯⲡ̀ⲣⲟⲥⲕⲩⲛⲏⲥⲓⲥ ⲉⲣⲡ̀ⲣⲉⲡⲓ ⲛⲁⲕ ⲛⲉⲙⲁϥ ⲛⲉⲙ Ⲡⲓⲡ̀ⲛⲉⲩⲙⲁ Ⲉⲑⲟⲩⲁⲃ ⲛ̀ⲣⲉϥⲧⲁⲛϧⲟ ⲟⲩⲟϩ ⲛ̀ⲟ̀ⲙⲟⲟⲩⲥⲓⲟⲥ ⲛⲉⲙⲁⲕ. Ϯⲛⲟⲩ ⲛⲉⲙ ⲛ̀ⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ ⲛⲉⲙ ϣⲁ ⲉ̀ⲛⲉϩ ⲛ̀ⲧⲉ ⲛⲓⲉ̀ⲛⲉϩ ⲧⲏⲣⲟⲩ ⲁ̀ⲙⲏⲛ
+      coptic_english:
+        - ''
+        - ''
+        - ''
+        - ''
+      coptic_arabic:
+        - ''
+        - ''
+        - ''
+        - ''
   - speaker: deacon
     type: verses
     verses:
-      - english: In the wisdom of God, let us attend. Lord have mercy. Lord have mercy. Truly—
-        arabic: إنصتوا بحكمة الله. يا رب إرحم، يا ربُّ إرحَم. بالحقيقة —
-        coptic: Ⲉⲛⲥⲟⲫⲓⲁ Ⲑⲉⲟⲩ ⲡ̀ⲣⲟⲥⲭⲱⲙⲉⲛ. Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ. Ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ—
-        coptic_english: ''
-        coptic_arabic: ''
+      english:
+        - In the wisdom of God, let us attend. Lord have mercy. Lord have mercy. Truly—
+      arabic:
+        - إنصتوا بحكمة الله. يا رب إرحم، يا ربُّ إرحَم. بالحقيقة —
+      coptic:
+        - Ⲉⲛⲥⲟⲫⲓⲁ Ⲑⲉⲟⲩ ⲡ̀ⲣⲟⲥⲭⲱⲙⲉⲛ. Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏ̀ⲥⲟⲛ. Ϧⲉⲛ ⲟⲩⲙⲉⲑⲙⲏⲓ—
+      coptic_english:
+        - ''
+      coptic_arabic:
+        - ''

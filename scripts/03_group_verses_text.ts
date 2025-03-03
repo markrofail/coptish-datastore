@@ -19,7 +19,8 @@ class MultiLingualVerseSplitter extends MultiLingualProcessor {
     }
 
     private transformSections = (sections?: Section[]) =>
-        sections && sections.map((section) => (!section.type || section.type === 'verses' ? this.transformVersesSection(section as VersesSection.V1) : section))
+        sections &&
+        sections.map((section) => (!section.type || section.type === 'verses' ? this.transformVersesSection(section as unknown as VersesSection.V1) : section))
 
     private transformVersesSection = ({ verses, type, ...rest }: VersesSection.V1): VersesSection.V2 => ({
         ...rest,
