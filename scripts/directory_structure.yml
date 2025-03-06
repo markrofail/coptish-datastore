@@ -1,0 +1,975 @@
+- HCA-Jonah-Fast:
+      - name: index.yml
+        content: |
+            title:
+                 english: HCA - Readings of Jonah's Fast
+                 arabic: HCA - قراءات صوم يونان
+      - HCA-01-First-Day:
+            - name: index.yml
+              content: |
+                  title:
+                      english: HCA-01 - The First Day of Jonah's Fast
+                      arabic: HCA-01 - اليوم الأول من صوم يونان النبي
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCA-02-Second-Day:
+            - name: index.yml
+              content: |
+                  title:
+                      english: HCA-02 - The Second Day of Jonah's Fast
+                      arabic: HCA-02 - اليوم الثاني من صوم يونان النبي
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCA-03-Third-Day:
+            - name: index.yml
+              content: |
+                  title:
+                      english: HCA-03 - The Third Day of Jonah's Fast
+                      arabic: HCA-03 - اليوم الثالث من صوم يونان النبي
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCA-04-Passover:
+            - name: index.yml
+              content: |
+                  title:
+                      english: HCA-04 - Thursday - Jonah's Passover
+                      arabic: HCA-04 - يوم الخميس - فصح يونان
+            - index.yml
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+- HCB-Eve-Week:
+      - name: index.yml
+        content: |
+            title:
+                english: HCB - Readings of the Eve of the Great Lent
+                arabic: HCB - قراءات رفاع الصوم الكبير
+      - HCB-01-Saturday:
+            - name: index.yml
+              content: |
+                  title:
+                      english: HCB-01 - Saturday of the Eve of the Great Lent
+                      arabic: HCB-01 - سبت رفاع الصوم المقدس
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCB-02-Sunday:
+            - name: index.yml
+              content: |
+                  title:
+                      english: HCB-02 - Sunday of the Eve of the Great Lent
+                      arabic: HCB-02 - أحد رفاع الصوم المقدس
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+- HCC-First-Week:
+      - name: index.yml
+        content: |
+            title:
+              english: HCC - Readings of the First Week
+              arabic: HCC - قراءات الأسبوع الأول
+      - HCC-01-Monday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCC-01 - Monday of the First Week
+                    arabic: HCC-01 - يوم الإثنين من الأسبوع الأول
+            - index.yml
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCC-02-Tuesday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCC-02 - Tuesday of the First Week
+                    arabic: HCC-02 - يوم الثلاثاء من الأسبوع الأول
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCC-03-Wednesday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCC-03 - Wednesday of the First Week
+                    arabic: HCC-03 - يوم الأربعاء من الأسبوع الأول
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCC-04-Thursday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCC-04 - Thursday of the First Week
+                    arabic: HCC-04 - يوم الخميس من الأسبوع الأول
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCC-05-Friday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCC-05 - Friday of the First Week
+                    arabic: HCC-05 - يوم الجمعة من الأسبوع الأول
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCC-06-Saturday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCC-06 - Saturday of the First Week
+                    arabic: HCC-06 - يوم السبت من الأسبوع الأول
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCC-07-Sunday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCC-07 - Sunday of the First Week
+                    arabic: HCC-07 - يوم الأحد من الأسبوع الأول
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+- HCD-Second-Week:
+      - name: index.yml
+        content: |
+            title:
+              english: HCD - Readings of the Second Week
+              arabic: HCD - قراءات الأسبوع الثاني
+      - HCD-01-Monday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCD-01 - Monday of the Second Week
+                    arabic: HCD-01 - يوم الإثنين من الأسبوع الثاني
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCD-02-Tuesday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCD-02 - Tuesday of the Second Week
+                    arabic: HCD-01 - يوم الثلاثاء من الأسبوع الثلاثاء
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCD-03-Wednesday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCD-03 - Wednesday of the Second Week
+                    arabic: HCD-03 - يوم الأربعاء من الأسبوع الثلاثاء
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCD-04-Thursday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCD-04 - Thursday of the Second Week
+                    arabic: HCD-04 - يوم الخميس من الأسبوع الثلاثاء
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCD-05-Friday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCD-05 - Friday of the Second Week
+                    arabic: HCD-05 - يوم الجمعة من الأسبوع الثلاثاء
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCD-06-Saturday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCD-06 - Saturday of the Second Week
+                    arabic: HCD-06 - يوم السبت من الأسبوع الثلاثاء
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCD-07-Sunday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCD-07 - Sunday of the Second Week
+                    arabic: HCD-07 - يوم الأحد من الأسبوع الثلاثاء
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+- HCE-Third-Week:
+      - name: index.yml
+        content: |
+            title:
+              english: HCE - Readings of the Third Week
+              arabic: HCE - قراءات الأسبوع الثالث
+      - HCE-01-Monday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCE-01 - Monday of the Third Week
+                    arabic: HCE-01 - يوم الإثنين من الأسبوع الثالث
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCE-02-Tuesday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCE-02 - Tuesday of the Third Week
+                    arabic: HCE-02 - يوم الثلاثاء من الأسبوع الثالث
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCE-03-Wednesday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCE-03 - Wednesday of the Third Week
+                    arabic: HCE-03 - يوم الأربعاء من الأسبوع الثالث
+            - index.yml
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCE-04-Thursday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCE-04 - Thursday of the Third Week
+                    arabic: HCE-04 - يوم الخميس من الأسبوع الثالث
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCE-05-Friday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCE-05 - Friday of the Third Week
+                    arabic: HCE-05 - يوم الجمعة من الأسبوع الثالث
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCE-06-Saturday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCE-06 - Saturday of the Third Week
+                    arabic: HCE-06 - يوم السبت من الأسبوع الثالث
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCE-07-Sunday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCE-07 - Sunday of the Third Week
+                    arabic: HCE-07 - يوم الأحد من الأسبوع الثالث
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+- HCF-Fourth-Week:
+      - name: index.yml
+        content: |
+            title:
+              english: HCF - Readings of the Fourth Week
+              arabic: HCF - قراءات الأسبوع الرابع
+      - HCF-01-Monday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCF-01 - Monday of the Fourth Week
+                    arabic: HCF-01 - يوم الإثنين من الأسبوع الرابع
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCF-02-Tuesday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCF-02 - Tuesday of the Fourth Week
+                    arabic: HCF-02 - يوم الثلاثاء من الأسبوع الرابع
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCF-03-Wednesday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCF-03 - Wednesday of the Fourth Week
+                    arabic: HCF-03 - يوم الأربعاء من الأسبوع الرابع
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCF-04-Thursday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCF-04 - Thursday of the Fourth Week
+                    arabic: HCF-04 - يوم الخميس من الأسبوع الرابع
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCF-05-Friday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCF-05 - Friday of the Fourth Week
+                    arabic: HCF-05 - يوم الجمعة من الأسبوع الرابع
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCF-06-Saturday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCF-06 - Saturday of the Fourth Week
+                    arabic: HCF-06 - يوم السبت من الأسبوع الرابع
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCF-07-Sunday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCF-07 - Sunday of the Fourth Week
+                    arabic: HCF-07 - يوم الأحد من الأسبوع الرابع
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+- HCG-Fifth-Week:
+      - name: index.yml
+        content: |
+            title:
+              english: HCG - Readings of the Fifth Week
+              arabic: HCG - قراءات الأسبوع الخامس
+      - HCG-01-Monday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCG-01 - Monday of the Fifth Week
+                    arabic: HCG-01 - يوم الإثنين من الأسبوع الخامس
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCG-02-Tuesday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCG-02 - Tuesday of the Fifth Week
+                    arabic: HCG-02 - يوم الثلاثاء من الأسبوع الخامس
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCG-03-Wednesday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCG-03 - Wednesday of the Fifth Week
+                    arabic: HCG-03 - يوم الأربعاء من الأسبوع الخامس
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCG-04-Thursday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCG-04 - Thursday of the Fifth Week
+                    arabic: HCG-04 - يوم الخميس من الأسبوع الخامس
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCG-05-Friday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCG-05 - Friday of the Fifth Week
+                    arabic: HCG-05 - يوم الجمعة من الأسبوع الخامس
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCG-06-Saturday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCG-06 - Saturday of the Fifth Week
+                    arabic: HCG-06 - يوم السبت من الأسبوع الخامس
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCG-07-Sunday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCG-07 - Sunday of the Fifth Week
+                    arabic: HCG-07 - يوم الأحد من الأسبوع الخامس
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+- HCH-Sixth-Week:
+      - name: index.yml
+        content: |
+            title:
+              english: HCH - Readings of the Sixth Week
+              arabic: HCH - قراءات الأسبوع السادس
+      - HCH-01-Monday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCH-01 - Monday of the Sixth Week
+                    arabic: HCH-01 - يوم الإثنين من الأسبوع السادس
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCH-02-Tuesday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCH-02 - Tuesday of the Sixth Week
+                    arabic: HCH-02 - يوم الثلاثاء من الأسبوع السادس
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCH-03-Wednesday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCH-03 - Wednesday of the Sixth Week
+                    arabic: HCH-03 - يوم الأربعاء من الأسبوع السادس
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCH-04-Thursday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCH-04 - Thursday of the Sixth Week
+                    arabic: HCH-04 - يوم الخميس من الأسبوع السادس
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCH-05-Friday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCH-05 - Friday of the Sixth Week
+                    arabic: HCH-05 - يوم الجمعة من الأسبوع السادس
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCH-06-Saturday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCH-06 - Saturday of the Sixth Week
+                    arabic: HCH-06 - يوم السبت من الأسبوع السادس
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCH-07-Sunday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCH-07 - Sunday of the Sixth Week
+                    arabic: HCH-07 - يوم الأحد من الأسبوع السادس
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+- HCI-Seventh-Week:
+      - name: index.yml
+        content: |
+            title:
+              english: HCI - Readings of the Seventh Week
+              arabic: HCI - قراءات الأسبوع السابع
+      - HCI-01-Monday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCI-01 - Monday of the Seventh Week
+                    arabic: HCI-01 - يوم الإثنين من الأسبوع السابع
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCI-02-Tuesday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCI-02 - Tuesday of the Seventh Week
+                    arabic: HCI-02 - يوم الثلاثاء من الأسبوع السابع
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCI-03-Wednesday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCI-03 - Wednesday of the Seventh Week
+                    arabic: HCI-03 - يوم الأربعاء من الأسبوع السابع
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCI-04-Thursday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCI-04 - Thursday of the Seventh Week
+                    arabic: HCI-04 - يوم الخميس من الأسبوع السابع
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCI-05-Friday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCI-05 - Friday of the Seventh Week
+                    arabic: HCI-05 - يوم الجمعة من الأسبوع السابع
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml
+      - HCI-06-Saturday:
+            - name: index.yml
+              content: |
+                  title:
+                    english: HCI-06 - Saturday of the Seventh Week
+                    arabic: HCI-06 - يوم السبت من الأسبوع السابع
+            - 00-vespers-psalm.yml
+            - 01-vespers-gospel.yml
+            - 02-matins-psalm.yml
+            - 03-matins-gospel.yml
+            - 04-pauline-epistle.yml
+            - 05-catholic-epistle.yml
+            - 06-acts-of-the-apostles.yml
+            - 07-liturgy-psalm.yml
+            - 08-liturgy-gospel.yml
+            - 09-evening-prayer-psalm.yml
+            - 10-evening-prayer-gospel.yml

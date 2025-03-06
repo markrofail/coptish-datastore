@@ -14,6 +14,10 @@ const isPrayerT = (input: RawRoot): input is RawPrayer => input.hasOwnProperty('
 class MultiLingualVerseMerger extends MultiLingualProcessor {
     transformFile = (filepath: string) => {
         const inputData = yaml.load(fs.readFileSync(filepath, 'utf-8')) as RawRoot
+        if (!inputData) {
+            // throw new Error(`[ValidationError] File ${filepath} is empty or not a valid yaml file`)
+            return
+        }
 
         let outputData
         if (isPrayerT(inputData)) {
@@ -104,5 +108,6 @@ for (const file of files) {
 progressBar.stop()
 
 if (errors.length > 0) {
-    program.error(errors.join('/n'))
+    errors.map((error) => console.error(error))
+    process.exit(1)
 }
