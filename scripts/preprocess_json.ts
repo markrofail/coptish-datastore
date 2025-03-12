@@ -94,7 +94,7 @@ const files = listAllFiles(inputFile, { predicate: (filePath) => filePath.includ
 const progressBar = new cliProgress.SingleBar({}, cliProgress.Presets.shades_classic)
 
 console.log('Preprocessing...')
-const errors: string[] = []
+const errors: { filename: string; message: string }[] = []
 progressBar.start(files.length, 0) // start the progress bar with a total value of files.length and start value of 0
 
 for (const file of files) {
@@ -102,7 +102,7 @@ for (const file of files) {
     try {
         merger.transformFile(file)
     } catch (e: any) {
-        errors.push(e.message)
+        errors.push({ filename: file, message: e.message })
     }
 }
 progressBar.stop()
