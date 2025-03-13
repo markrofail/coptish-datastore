@@ -8,7 +8,7 @@ const normalizeArabicText = (text: string) => {
     return text.replace(/[\u064B-\u065F\u0670]/g, '')
 }
 
-const TITLE_KEYWORDS = ['مِن مزامير', 'مِن إنجيل', 'مِن سفر', 'البولس', 'الكاثوليكون', 'الإبركسيس'].map(normalizeArabicText)
+const TITLE_KEYWORDS = ['مِن مزامير', 'مِن أمثال', 'مِن إنجيل', 'مِن سفر', 'البولس', 'الكاثوليكون', 'الإبركسيس'].map(normalizeArabicText)
 const isTitleLine = (line: string) => {
     const cleanedLine = normalizeArabicText(line.replaceAll('{', '').replaceAll('(', '').trim())
     return TITLE_KEYWORDS.some((keyword) => cleanedLine.startsWith(keyword))
