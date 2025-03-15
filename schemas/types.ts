@@ -57,16 +57,20 @@ export interface VersesSection extends AbstractPrayerSection {
 }
 
 export type ReadingType =
-    | 'matins-psalm'
-    | 'matins-gospel'
     | 'vespers-psalm'
     | 'vespers-gospel'
+    | 'matins-psalm'
+    | 'matins-gospel'
+    | 'matins-prophecies'
+    | 'matins-sermon'
     | 'pauline-epistle'
     | 'catholic-epistle'
     | 'acts-of-the-apostles'
     | 'synaxarium'
     | 'liturgy-psalm'
     | 'liturgy-gospel'
+    | 'evening-prayers-psalm'
+    | 'evening-prayers-gospel'
 
 export interface ReadingSection extends AbstractPrayerSection {
     type: 'reading'
