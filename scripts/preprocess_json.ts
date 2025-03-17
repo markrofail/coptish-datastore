@@ -5,11 +5,20 @@ import cliProgress from 'cli-progress'
 import { Command } from 'commander'
 import { Language, listAllFiles, MultiLingualProcessor, MultiLingualText, Section } from './utils'
 import { VersesSection } from '../schemas/types'
-import { MultiLingualTextArray, Reading as RawReading, Prayer as RawPrayer, RawRoot, VersesSection as RawVersesSection } from '../schemas/raw_types'
+import {
+    MultiLingualTextArray,
+    Reading as RawReading,
+    Prayer as RawPrayer,
+    RawRoot,
+    VersesSection as RawVersesSection,
+    ReadingV2 as RawReadingV2,
+} from '../schemas/raw_types'
+import { Reading } from '../schemas/types'
 import { range } from 'lodash'
 
-const isReadingT = (input: RawRoot): input is RawReading => input.hasOwnProperty('text')
 const isPrayerT = (input: RawRoot): input is RawPrayer => input.hasOwnProperty('sections')
+const isReadingT = (input: RawRoot): input is RawReading => input.hasOwnProperty('text')
+const isReadingV2T = (input: RawRoot): input is RawReadingV2 => input.hasOwnProperty('liturgy-gospel')
 
 class MultiLingualVerseMerger extends MultiLingualProcessor {
     transformFile = (filepath: string) => {
@@ -23,11 +32,14 @@ class MultiLingualVerseMerger extends MultiLingualProcessor {
         if (isPrayerT(inputData)) {
             const transformedSections = this.transformSections(inputData.sections)
             outputData = { ...inputData, sections: transformedSections }
-        }
-
-        if (isReadingT(inputData)) {
-            const transformedText = this.transformText(inputData.text)
-            outputData = { ...inputData, text: transformedText }
+        } else if (isReadingT(inputData)) {
+            outputData = this.transformReading(inputData)
+        } else if (isReadingV2T(inputData)) {
+            const { title, ...rest } = inputData
+            const transformedText = Object.fromEntries(
+                Object.entries(rest).map(([readingType, readings]) => [readingType, readings.map((reading) => this.transformReading(reading))])
+            )
+            outputData = { ...transformedText, title }
         }
 
         if (outputData) {
@@ -58,6 +70,11 @@ class MultiLingualVerseMerger extends MultiLingualProcessor {
         const transformedVerses: MultiLingualText[] = range(0, maxLength).map((i) => this.forEachLanguage((language) => verses[language]?.at(i) || ''))
 
         return { ...rest, verses: transformedVerses }
+    }
+
+    private transformReading = ({ text, ...rest }: RawReading): Reading => {
+        const transformedText = this.transformText(text)
+        return { ...rest, text: transformedText }
     }
 
     private transformText = (data: MultiLingualTextArray): MultiLingualText[] => {

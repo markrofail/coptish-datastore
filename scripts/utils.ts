@@ -60,3 +60,17 @@ export const listAllFiles = (filePath: string, opts?: { predicate: (filePath: st
 
     return []
 }
+
+export function defaultDict<T>(defaultFactory: () => T): { [key: string]: T } {
+    return new Proxy(
+        {},
+        {
+            get(target: { [key: string]: T }, key: string) {
+                if (!(key in target)) {
+                    target[key] = defaultFactory()
+                }
+                return target[key]
+            },
+        }
+    )
+}

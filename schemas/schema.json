@@ -7,6 +7,9 @@
       "$ref": "#/definitions/Reading"
     },
     {
+      "$ref": "#/definitions/ReadingV2"
+    },
+    {
       "$ref": "#/definitions/Synaxarium"
     }
   ],
@@ -239,6 +242,102 @@
       "additionalProperties": false,
       "required": [
         "text",
+        "title"
+      ]
+    },
+    "ReadingV2": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "$ref": "#/definitions/MultiLingualText"
+        },
+        "vespers-psalm": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Reading"
+          }
+        },
+        "vespers-gospel": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Reading"
+          }
+        },
+        "matins-psalm": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Reading"
+          }
+        },
+        "matins-gospel": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Reading"
+          }
+        },
+        "matins-prophecies": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Reading"
+          }
+        },
+        "matins-sermon": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Reading"
+          }
+        },
+        "pauline-epistle": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Reading"
+          }
+        },
+        "catholic-epistle": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Reading"
+          }
+        },
+        "acts-of-the-apostles": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Reading"
+          }
+        },
+        "synaxarium": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Reading"
+          }
+        },
+        "liturgy-psalm": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Reading"
+          }
+        },
+        "liturgy-gospel": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Reading"
+          }
+        },
+        "evening-prayers-psalm": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Reading"
+          }
+        },
+        "evening-prayers-gospel": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Reading"
+          }
+        }
+      },
+      "additionalProperties": false,
+      "required": [
         "title"
       ]
     },

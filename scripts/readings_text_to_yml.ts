@@ -1,7 +1,6 @@
 import * as fs from 'fs'
 import * as yaml from 'js-yaml'
-import { listAllFiles } from './utils'
-import cliProgress from 'cli-progress'
+import { defaultDict } from './utils'
 import { Command } from 'commander'
 import { Reading } from '../schemas/raw_types'
 import { ReadingType } from '../schemas/types'
@@ -58,20 +57,6 @@ const getSectionType = (line: string): SectionType | null => {
     return null
 }
 
-function defaultDict<T>(defaultFactory: () => T): { [key: string]: T } {
-    return new Proxy(
-        {},
-        {
-            get(target: { [key: string]: T }, key: string) {
-                if (!(key in target)) {
-                    target[key] = defaultFactory()
-                }
-                return target[key]
-            },
-        }
-    )
-}
-
 // Function to split text into sections based on titles
 function splitIntoSections(text: string) {
     const lines = text.split('\n').filter((line) => line.trim() !== '')
@@ -125,23 +110,8 @@ async function convertRtfToYaml(filepath: string) {
     try {
         const text = fs.readFileSync(filepath, 'utf8')
         const sections = splitIntoSections(text)
-
-        let i = 0
-        Object.entries(sections).map(([readingType, readings]) => {
-            if (readings.length === 1) {
-                const outputPath = `${String(i).padStart(2, '0')}-${readingType}.yml`
-                const yamlContent = yaml.dump(readings[0], { lineWidth: -1 })
-                fs.writeFileSync(outputPath, yamlContent, 'utf8')
-                i++
-            } else {
-                readings.map((reading, j) => {
-                    const outputPath = `${String(i).padStart(2, '0')}-${readingType}-${String(j).padStart(2, '0')}.yml`
-                    const yamlContent = yaml.dump(reading, { lineWidth: -1 })
-                    fs.writeFileSync(outputPath, yamlContent, 'utf8')
-                    i++
-                })
-            }
-        })
+        const yamlContent = yaml.dump(sections, { lineWidth: -1 })
+        fs.writeFileSync(filepath.replace('.txt', '.yml'), yamlContent, 'utf8')
     } catch (error) {
         console.error('Error during conversion:', error)
     }

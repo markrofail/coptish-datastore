@@ -1,4 +1,4 @@
-export type Root = Prayer | Reading | Synaxarium
+export type Root = Prayer | Reading | ReadingV2 | Synaxarium
 
 export interface Prayer {
     title?: MultiLingualText
@@ -80,6 +80,10 @@ export interface ReadingSection extends AbstractPrayerSection {
 export interface CompoundPrayerSection extends AbstractPrayerSection {
     type: 'compound-prayer'
     path: string
+}
+
+export interface ReadingV2 extends Partial<Record<ReadingType, Reading[]>> {
+    title: MultiLingualText
 }
 
 export interface Reading {

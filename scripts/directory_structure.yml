@@ -19,8 +19,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCA-02-Second-Day:
             - name: index.yml
               content: |
@@ -36,8 +36,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCA-03-Third-Day:
             - name: index.yml
               content: |
@@ -53,8 +53,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCA-04-Passover:
             - name: index.yml
               content: |
@@ -71,8 +71,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
 - HCB-Eve-Week:
       - name: index.yml
         content: |
@@ -94,8 +94,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCB-02-Sunday:
             - name: index.yml
               content: |
@@ -111,8 +111,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
 - HCC-First-Week:
       - name: index.yml
         content: |
@@ -135,8 +135,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCC-02-Tuesday:
             - name: index.yml
               content: |
@@ -152,8 +152,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCC-03-Wednesday:
             - name: index.yml
               content: |
@@ -169,8 +169,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCC-04-Thursday:
             - name: index.yml
               content: |
@@ -186,8 +186,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCC-05-Friday:
             - name: index.yml
               content: |
@@ -203,8 +203,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCC-06-Saturday:
             - name: index.yml
               content: |
@@ -220,8 +220,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCC-07-Sunday:
             - name: index.yml
               content: |
@@ -237,8 +237,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
 - HCD-Second-Week:
       - name: index.yml
         content: |
@@ -260,8 +260,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCD-02-Tuesday:
             - name: index.yml
               content: |
@@ -277,8 +277,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCD-03-Wednesday:
             - name: index.yml
               content: |
@@ -294,8 +294,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCD-04-Thursday:
             - name: index.yml
               content: |
@@ -311,8 +311,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCD-05-Friday:
             - name: index.yml
               content: |
@@ -328,8 +328,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCD-06-Saturday:
             - name: index.yml
               content: |
@@ -345,8 +345,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCD-07-Sunday:
             - name: index.yml
               content: |
@@ -362,8 +362,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
 - HCE-Third-Week:
       - name: index.yml
         content: |
@@ -385,8 +385,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCE-02-Tuesday:
             - name: index.yml
               content: |
@@ -402,8 +402,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCE-03-Wednesday:
             - name: index.yml
               content: |
@@ -420,8 +420,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCE-04-Thursday:
             - name: index.yml
               content: |
@@ -437,8 +437,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCE-05-Friday:
             - name: index.yml
               content: |
@@ -454,8 +454,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCE-06-Saturday:
             - name: index.yml
               content: |
@@ -471,8 +471,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCE-07-Sunday:
             - name: index.yml
               content: |
@@ -488,8 +488,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
 - HCF-Fourth-Week:
       - name: index.yml
         content: |
@@ -511,8 +511,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCF-02-Tuesday:
             - name: index.yml
               content: |
@@ -528,8 +528,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCF-03-Wednesday:
             - name: index.yml
               content: |
@@ -545,8 +545,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCF-04-Thursday:
             - name: index.yml
               content: |
@@ -562,8 +562,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCF-05-Friday:
             - name: index.yml
               content: |
@@ -579,8 +579,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCF-06-Saturday:
             - name: index.yml
               content: |
@@ -596,8 +596,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCF-07-Sunday:
             - name: index.yml
               content: |
@@ -613,8 +613,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
 - HCG-Fifth-Week:
       - name: index.yml
         content: |
@@ -636,8 +636,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCG-02-Tuesday:
             - name: index.yml
               content: |
@@ -653,8 +653,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCG-03-Wednesday:
             - name: index.yml
               content: |
@@ -670,8 +670,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCG-04-Thursday:
             - name: index.yml
               content: |
@@ -687,8 +687,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCG-05-Friday:
             - name: index.yml
               content: |
@@ -704,8 +704,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCG-06-Saturday:
             - name: index.yml
               content: |
@@ -721,8 +721,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCG-07-Sunday:
             - name: index.yml
               content: |
@@ -738,8 +738,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
 - HCH-Sixth-Week:
       - name: index.yml
         content: |
@@ -761,8 +761,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCH-02-Tuesday:
             - name: index.yml
               content: |
@@ -778,8 +778,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCH-03-Wednesday:
             - name: index.yml
               content: |
@@ -795,8 +795,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCH-04-Thursday:
             - name: index.yml
               content: |
@@ -812,8 +812,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCH-05-Friday:
             - name: index.yml
               content: |
@@ -829,8 +829,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCH-06-Saturday:
             - name: index.yml
               content: |
@@ -846,8 +846,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCH-07-Sunday:
             - name: index.yml
               content: |
@@ -863,8 +863,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
 - HCI-Seventh-Week:
       - name: index.yml
         content: |
@@ -886,8 +886,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCI-02-Tuesday:
             - name: index.yml
               content: |
@@ -903,8 +903,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCI-03-Wednesday:
             - name: index.yml
               content: |
@@ -920,8 +920,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCI-04-Thursday:
             - name: index.yml
               content: |
@@ -937,8 +937,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCI-05-Friday:
             - name: index.yml
               content: |
@@ -954,8 +954,8 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
       - HCI-06-Saturday:
             - name: index.yml
               content: |
@@ -971,5 +971,5 @@
             - 06-acts-of-the-apostles.yml
             - 07-liturgy-psalm.yml
             - 08-liturgy-gospel.yml
-            - 09-evening-prayer-psalm.yml
-            - 10-evening-prayer-gospel.yml
+            - 09-evening-prayers-psalm.yml
+            - 10-evening-prayers-gospel.yml
