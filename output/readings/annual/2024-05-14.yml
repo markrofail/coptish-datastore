@@ -1,0 +1,65 @@
+acts-of-the-apostles:
+  - title:
+      english: Acts 4:5-7
+      arabic: اعمال ٤:٥-٧
+    text:
+      - english: And it came to pass, on the next day, that their rulers, elders, and scribes, as well as Annas the high priest, Caiaphas, John, and Alexander, and as many as were of the family of the high priest, were gathered together at Jerusalem. And when they had set them in the midst, they asked, "By what power or by what name have you done this?"
+        arabic: 'وحدث في الغد أن رؤساءهم وشيوخهم وكتبتهم اجتمعوا إلى أورشليم مع حنان رئيس الكهنة وقيافا ويوحنا والإسكندر وجميع الذين كانوا من عشيرة رؤساء الكهنة ولما أقاموهما في الوسط جعلوا يسألونهما: بأية قوةٍ وبأي اسمٍ صنعتما أنتما هذا'
+catholic-epistle:
+  - title:
+      english: 1John 1:6-10
+      arabic: ١ يوحنا ١:٦-١٠
+    text:
+      - english: If we say that we have fellowship with Him, and walk in darkness, we lie and do not practice the truth. But if we walk in the light as He is in the light, we have fellowship with one another, and the blood of Jesus Christ His Son cleanses us from all sin. If we say that we have no sin, we deceive ourselves, and the truth is not in us. If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness. If we say that we have not sinned, we make Him a liar, and His word is not in us.
+        arabic: إن قلنا إن لنا شركةً معه وسلكنا في الظلمة نكذب ولسنا نعمل الحق ولكن إن سلكنا في النور كما هو في النور فلنا شركةٌ بعضنا مع بعضٍ ودم يسوع المسيح ابنه يطهرنا من كل خطيةٍ إن قلنا إنه ليس لنا خطيةٌ نضل أنفسنا وليس الحق فينا إن اعترفنا بخطايانا فهو أمينٌ وعادلٌ حتى يغفر لنا خطايانا ويطهرنا من كل إثمٍ إن قلنا إننا لم نخطئ نجعله كاذباً وكلمته ليست فينا
+liturgy-gospel:
+  - title:
+      english: John 5:22-24
+      arabic: يوحنا ٥:٢٢-٢٤
+    text:
+      - english: For the Father judges no one, but has committed all judgment to the Son, that all should honor the Son just as they honor the Father. He who does not honor the Son does not honor the Father who sent Him. "Most assuredly, I say to you, he who hears My word and believes in Him who sent Me has everlasting life, and shall not come into judgment, but has passed from death into life.
+        arabic: 'لأن الآب لا يدين أحداً بل قد أعطى كل الدينونة للابن لكي يكرم الجميع الابن كما يكرمون الآب من لا يكرم الابن لا يكرم الآب الذي أرسله الحق الحق أقول لكم: إن من يسمع كلامي ويؤمن بالذي أرسلني فله حياةٌ أبديةٌ ولا يأتي إلى دينونةٍ بل قد انتقل من الموت إلى الحياة'
+liturgy-psalm:
+  - title:
+      english: Psalm 7:6-8
+      arabic: مزامير ٧:٦-٨
+    text:
+      - english: Arise, O LORD, in Your anger; Lift Yourself up because of the rage of my enemies; Rise up for me to the judgment You have commanded! So the congregation of the peoples shall surround You; For their sakes, therefore, return on high. The LORD shall judge the peoples; Judge me, O LORD, according to my righteousness, And according to my integrity within me.
+        arabic: قم يا رب بغضبك ارتفع على سخط مضايقي وانتبه لي بالحق أوصيت ومجمع القبائل يحيط بك فعد فوقها إلى العلى الرب يدين الشعوب اقض لي يا رب كحقي ومثل كمالي الذي في
+matins-gospel:
+  - title:
+      english: Matthew 9:27-31
+      arabic: متى ٩:٢٧-٣١
+    text:
+      - english: When Jesus departed from there, two blind men followed Him, crying out and saying, "Son of David, have mercy on us!" And when He had come into the house, the blind men came to Him. And Jesus said to them, "Do you believe that I am able to do this?" They said to Him, "Yes, Lord." Then He touched their eyes, saying, "According to your faith let it be to you." And their eyes were opened. And Jesus sternly warned them, saying, "See that no one knows it." But when they had departed, they spread the news about Him in all that country.
+        arabic: 'وفيما يسوع مجتازٌ من هناك تبعه أعميان يصرخان ويقولان: ارحمنا يا ابن داود ولما جاء إلى البيت تقدم إليه الأعميان فقال لهما يسوع: أتؤمنان أني أقدر أن أفعل هذا قالا له: نعم يا سيد حينئذٍ لمس أعينهما قائلاً: بحسب إيمانكما ليكن لكما فانفتحت أعينهما فانتهرهما يسوع قائلاً: انظرا لا يعلم أحدٌ ولكنهما خرجا وأشاعاه في تلك الأرض كلها'
+matins-psalm:
+  - title:
+      english: Psalm 7:6 - 7:8
+      arabic: مزامير ٧:٦ - ٧:٨
+    text:
+      - english: Arise, O LORD, in Your anger; Lift Yourself up because of the rage of my enemies; Rise up for me to the judgment You have commanded! The LORD shall judge the peoples; Judge me, O LORD, according to my righteousness, And according to my integrity within me.
+        arabic: قم يا رب بغضبك ارتفع على سخط مضايقي وانتبه لي بالحق أوصيت الرب يدين الشعوب اقض لي يا رب كحقي ومثل كمالي الذي في
+pauline-epistle:
+  - title:
+      english: Rom 1:7-10
+      arabic: رومية ١:٧-١٠
+    text:
+      - english: 'To all who are in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father and the Lord Jesus Christ. Desire to Visit Rome First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world. For God is my witness, whom I serve with my spirit in the gospel of His Son, that without ceasing I make mention of you always in my prayers, making request if, by some means, now at last I may find a way in the will of God to come to you.'
+        arabic: 'إلى جميع الموجودين في رومية أحباء الله مدعوين قديسين: نعمةٌ لكم وسلامٌ من الله أبينا والرب يسوع المسيح أولاً أشكر إلهي بيسوع المسيح من جهة جميعكم أن إيمانكم ينادى به في كل العالم فإن الله الذي أعبده بروحي في إنجيل ابنه شاهدٌ لي كيف بلا انقطاعٍ أذكركم متضرعاً دائماً في صلواتي عسى الآن أن يتيسر لي مرةً بمشيئة الله أن آتي إليكم'
+vespers-gospel:
+  - title:
+      english: Matthew 17:19-23
+      arabic: متى ١٧:١٩-٢٣
+    text:
+      - english: Then the disciples came to Jesus privately and said, "Why could we not cast it out?" So Jesus said to them, "Because of your unbelief; for assuredly, I say to you, if you have faith as a mustard seed, you will say to this mountain, "Move from here to there,' and it will move; and nothing will be impossible for you. However, this kind does not go out except by prayer and fasting." Now while they were staying in Galilee, Jesus said to them, "The Son of Man is about to be betrayed into the hands of men, and they will kill Him, and the third day He will be raised up." And they were exceedingly sorrowful.
+        arabic: 'ثم تقدم التلاميذ إلى يسوع على انفرادٍ وقالوا: لماذا لم نقدر نحن أن نخرجه فقال لهم يسوع: لعدم إيمانكم فالحق أقول لكم: لو كان لكم إيمانٌ مثل حبة خردلٍ لكنتم تقولون لهذا الجبل: انتقل من هنا إلى هناك فينتقل ولا يكون شيءٌ غير ممكنٍ لديكم وأما هذا الجنس فلا يخرج إلا بالصلاة والصوم وفيما هم يترددون في الجليل قال لهم يسوع: ابن الإنسان سوف يسلم إلى أيدي الناس فيقتلونه وفي اليوم الثالث يقوم فحزنوا جداً'
+vespers-psalm:
+  - title:
+      english: Psalm 9:19
+      arabic: مزامير ٩:١٩
+    text:
+      - english: Arise, O LORD, Do not let man prevail; Let the nations be judged in Your sight.
+        arabic: قم يا رب لا يعتز الإنسان لتحاكم الأمم قدامك
+title:
+  english: '2024-05-14'

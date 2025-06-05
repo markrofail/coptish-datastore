@@ -1,0 +1,65 @@
+acts-of-the-apostles:
+  - title:
+      english: Acts 8:1-4
+      arabic: اعمال ٨:١-٤
+    text:
+      - english: Now Saul was consenting to his death. At that time a great persecution arose against the church which was at Jerusalem; and they were all scattered throughout the regions of Judea and Samaria, except the apostles. And devout men carried Stephen to his burial, and made great lamentation over him. As for Saul, he made havoc of the church, entering every house, and dragging off men and women, committing them to prison. Therefore those who were scattered went everywhere preaching the word.
+        arabic: وكان شاول راضياً بقتله وحدث في ذلك اليوم اضطهادٌ عظيمٌ على الكنيسة التي في أورشليم فتشتت الجميع في كور اليهودية والسامرة ما عدا الرسل وحمل رجالٌ أتقياء استفانوس وعملوا عليه مناحةً عظيمةً وأما شاول فكان يسطو على الكنيسة وهو يدخل البيوت ويجر رجالاً ونساءً ويسلمهم إلى السجن فالذين تشتتوا جالوا مبشرين بالكلمة
+catholic-epistle:
+  - title:
+      english: 1John 5:1-6
+      arabic: ١ يوحنا ٥:١-٦
+    text:
+      - english: Whoever believes that Jesus is the Christ is born of God, and everyone who loves Him who begot also loves him who is begotten of Him. By this we know that we love the children of God, when we love God and keep His commandments. For this is the love of God, that we keep His commandments. And His commandments are not burdensome. For whatever is born of God overcomes the world. And this is the victory that has overcome the world--our faith. Who is he who overcomes the world, but he who believes that Jesus is the Son of God? This is He who came by water and blood--Jesus Christ; not only by water, but by water and blood. And it is the Spirit who bears witness, because the Spirit is truth.
+        arabic: 'كل من يؤمن أن يسوع هو المسيح فقد ولد من الله وكل من يحب الوالد يحب المولود منه أيضاً بهذا نعرف أننا نحب أولاد الله: إذا أحببنا الله وحفظنا وصاياه فإن هذه هي محبة الله: أن نحفظ وصاياه ووصاياه ليست ثقيلةً لأن كل من ولد من الله يغلب العالم وهذه هي الغلبة التي تغلب العالم: إيماننا من هو الذي يغلب العالم إلا الذي يؤمن أن يسوع هو ابن الله هذا هو الذي أتى بماءٍ ودمٍ يسوع المسيح لا بالماء فقط بل بالماء والدم والروح هو الذي يشهد لأن الروح هو الحق'
+liturgy-gospel:
+  - title:
+      english: John 17:22-26
+      arabic: يوحنا ١٧:٢٢-٢٦
+    text:
+      - english: 'And the glory which You gave Me I have given them, that they may be one just as We are one: I in them, and You in Me; that they may be made perfect in one, and that the world may know that You have sent Me, and have loved them as You have loved Me. "Father, I desire that they also whom You gave Me may be with Me where I am, that they may behold My glory which You have given Me; for You loved Me before the foundation of the world. O righteous Father! The world has not known You, but I have known You; and these have known that You sent Me. And I have declared to them Your name, and will declare it, that the love with which You loved Me may be in them, and I in them."'
+        arabic: وأنا قد أعطيتهم المجد الذي أعطيتني ليكونوا واحداً كما أننا نحن واحدٌ أنا فيهم وأنت في ليكونوا مكملين إلى واحدٍ وليعلم العالم أنك أرسلتني وأحببتهم كما أحببتني أيها الآب أريد أن هؤلاء الذين أعطيتني يكونون معي حيث أكون أنا لينظروا مجدي الذي أعطيتني لأنك أحببتني قبل إنشاء العالم أيها الآب البار إن العالم لم يعرفك أما أنا فعرفتك وهؤلاء عرفوا أنك أنت أرسلتني وعرفتهم اسمك وسأعرفهم ليكون فيهم الحب الذي أحببتني به وأكون أنا فيهم
+liturgy-psalm:
+  - title:
+      english: Psalm 119:145-146
+      arabic: مزامير ١١٩:١٤٥-١٤٦
+    text:
+      - english: I cry out with my whole heart; Hear me, O LORD! I will keep Your statutes. I cry out to You; Save me, and I will keep Your testimonies.
+        arabic: صرخت من كل قلبي استجب لي يا رب فرائضك أحفظ دعوتك خلصني فأحفظ شهاداتك
+matins-gospel:
+  - title:
+      english: Luke 14:12-15
+      arabic: لوقا ١٤:١٢-١٥
+    text:
+      - english: Then He also said to him who invited Him, "When you give a dinner or a supper, do not ask your friends, your brothers, your relatives, nor rich neighbors, lest they also invite you back, and you be repaid. But when you give a feast, invite the poor, the maimed, the lame, the blind. And you will be blessed, because they cannot repay you; for you shall be repaid at the resurrection of the just." Now when one of those who sat at the table with Him heard these things, he said to Him, "Blessed is he who shall eat bread in the kingdom of God!"
+        arabic: 'وقال أيضاً للذي دعاه: إذا صنعت غداءً أو عشاءً فلا تدع أصدقاءك ولا إخوتك ولا أقرباءك ولا الجيران الأغنياء لئلا يدعوك هم أيضاً فتكون لك مكافاةٌ بل إذا صنعت ضيافةً فادع المساكين: الجدع العرج العمي فيكون لك الطوبى إذ ليس لهم حتى يكافوك لأنك تكافى في قيامة الأبرار فلما سمع ذلك واحدٌ من المتكئين قال له: طوبى لمن يأكل خبزاً في ملكوت الله'
+matins-psalm:
+  - title:
+      english: Psalm 118:28 - 118:21
+      arabic: مزامير ١١٨:٢٨ - ١١٨:٢١
+    text:
+      - english: You are my God, and I will praise You; You are my God, I will exalt You. I will praise You, For You have answered me, And have become my salvation.
+        arabic: إلهي أنت فأحمدك إلهي فأرفعك أحمدك لأنك استجبت لي وصرت لي خلاصاً
+pauline-epistle:
+  - title:
+      english: Rom 6:17-22
+      arabic: رومية ٦:١٧-٢٢
+    text:
+      - english: But God be thanked that though you were slaves of sin, yet you obeyed from the heart that form of doctrine to which you were delivered. And having been set free from sin, you became slaves of righteousness. I speak in human terms because of the weakness of your flesh. For just as you presented your members as slaves of uncleanness, and of lawlessness leading to more lawlessness, so now present your members as slaves of righteousness for holiness. For when you were slaves of sin, you were free in regard to righteousness. What fruit did you have then in the things of which you are now ashamed? For the end of those things is death. But now having been set free from sin, and having become slaves of God, you have your fruit to holiness, and the end, everlasting life.
+        arabic: فشكراً لله أنكم كنتم عبيداً للخطية ولكنكم أطعتم من القلب صورة التعليم التي تسلمتموها وإذ أعتقتم من الخطية صرتم عبيداً للبر أتكلم إنسانياً من أجل ضعف جسدكم لأنه كما قدمتم أعضاءكم عبيداً للنجاسة والإثم للإثم هكذا الآن قدموا أعضاءكم عبيداً للبر للقداسة لأنكم لما كنتم عبيد الخطية كنتم أحراراً من البر فأي ثمرٍ كان لكم حينئذٍ من الأمور التي تستحون بها الآن لأن نهاية تلك الأمور هي الموت وأما الآن إذ أعتقتم من الخطية وصرتم عبيداً لله فلكم ثمركم للقداسة والنهاية حياةٌ أبديةٌ
+vespers-gospel:
+  - title:
+      english: Luke 14:7-11
+      arabic: لوقا ١٤:٧-١١
+    text:
+      - english: 'So He told a parable to those who were invited, when He noted how they chose the best places, saying to them: "When you are invited by anyone to a wedding feast, do not sit down in the best place, lest one more honorable than you be invited by him; and he who invited you and him come and say to you, "Give place to this man,'' and then you begin with shame to take the lowest place. But when you are invited, go and sit down in the lowest place, so that when he who invited you comes he may say to you, "Friend, go up higher.'' Then you will have glory in the presence of those who sit at the table with you. For whoever exalts himself will be humbled, and he who humbles himself will be exalted."'
+        arabic: 'وقال للمدعوين مثلاً وهو يلاحظ كيف اختاروا المتكآت الأولى: متى دعيت من أحدٍ إلى عرسٍ فلا تتكئ في المتكإ الأول لعل أكرم منك يكون قد دعي منه فيأتي الذي دعاك وإياه ويقول لك: أعط مكاناً لهذا فحينئذٍ تبتدئ بخجلٍ تأخذ الموضع الأخير بل متى دعيت فاذهب واتكئ في الموضع الأخير حتى إذا جاء الذي دعاك يقول لك: يا صديق ارتفع إلى فوق حينئذٍ يكون لك مجدٌ أمام المتكئين معك لأن كل من يرفع نفسه يتضع ومن يضع نفسه يرتفع'
+vespers-psalm:
+  - title:
+      english: Psalm 118:8-9
+      arabic: مزامير ١١٨:٨-٩
+    text:
+      - english: It is better to trust in the LORD Than to put confidence in man. It is better to trust in the LORD Than to put confidence in princes.
+        arabic: الاحتماء بالرب خيرٌ من التوكل على إنسانٍ الاحتماء بالرب خيرٌ من التوكل على الرؤساء
+title:
+  english: '2025-05-23'
