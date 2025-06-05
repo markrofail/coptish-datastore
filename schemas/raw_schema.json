@@ -8,9 +8,6 @@
     },
     {
       "$ref": "#/definitions/Reading"
-    },
-    {
-      "$ref": "#/definitions/ReadingV2"
     }
   ],
   "definitions": {
@@ -294,6 +291,102 @@
     "Reading": {
       "type": "object",
       "properties": {
+        "vespers-psalm": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/SubReading"
+          }
+        },
+        "vespers-gospel": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/SubReading"
+          }
+        },
+        "matins-psalm": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/SubReading"
+          }
+        },
+        "matins-gospel": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/SubReading"
+          }
+        },
+        "matins-prophecies": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/SubReading"
+          }
+        },
+        "matins-sermon": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/SubReading"
+          }
+        },
+        "pauline-epistle": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/SubReading"
+          }
+        },
+        "catholic-epistle": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/SubReading"
+          }
+        },
+        "acts-of-the-apostles": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/SubReading"
+          }
+        },
+        "synaxarium": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/SubReading"
+          }
+        },
+        "liturgy-psalm": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/SubReading"
+          }
+        },
+        "liturgy-gospel": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/SubReading"
+          }
+        },
+        "evening-prayers-psalm": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/SubReading"
+          }
+        },
+        "evening-prayers-gospel": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/SubReading"
+          }
+        },
+        "title": {
+          "$ref": "#/definitions/MultiLingualText"
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "title"
+      ]
+    },
+    "SubReading": {
+      "type": "object",
+      "properties": {
         "text": {
           "$ref": "#/definitions/MultiLingualTextArray"
         },
@@ -304,102 +397,6 @@
       "additionalProperties": false,
       "required": [
         "text",
-        "title"
-      ]
-    },
-    "ReadingV2": {
-      "type": "object",
-      "properties": {
-        "vespers-psalm": {
-          "type": "array",
-          "items": {
-            "$ref": "#/definitions/Reading"
-          }
-        },
-        "vespers-gospel": {
-          "type": "array",
-          "items": {
-            "$ref": "#/definitions/Reading"
-          }
-        },
-        "matins-psalm": {
-          "type": "array",
-          "items": {
-            "$ref": "#/definitions/Reading"
-          }
-        },
-        "matins-gospel": {
-          "type": "array",
-          "items": {
-            "$ref": "#/definitions/Reading"
-          }
-        },
-        "matins-prophecies": {
-          "type": "array",
-          "items": {
-            "$ref": "#/definitions/Reading"
-          }
-        },
-        "matins-sermon": {
-          "type": "array",
-          "items": {
-            "$ref": "#/definitions/Reading"
-          }
-        },
-        "pauline-epistle": {
-          "type": "array",
-          "items": {
-            "$ref": "#/definitions/Reading"
-          }
-        },
-        "catholic-epistle": {
-          "type": "array",
-          "items": {
-            "$ref": "#/definitions/Reading"
-          }
-        },
-        "acts-of-the-apostles": {
-          "type": "array",
-          "items": {
-            "$ref": "#/definitions/Reading"
-          }
-        },
-        "synaxarium": {
-          "type": "array",
-          "items": {
-            "$ref": "#/definitions/Reading"
-          }
-        },
-        "liturgy-psalm": {
-          "type": "array",
-          "items": {
-            "$ref": "#/definitions/Reading"
-          }
-        },
-        "liturgy-gospel": {
-          "type": "array",
-          "items": {
-            "$ref": "#/definitions/Reading"
-          }
-        },
-        "evening-prayers-psalm": {
-          "type": "array",
-          "items": {
-            "$ref": "#/definitions/Reading"
-          }
-        },
-        "evening-prayers-gospel": {
-          "type": "array",
-          "items": {
-            "$ref": "#/definitions/Reading"
-          }
-        },
-        "title": {
-          "$ref": "#/definitions/MultiLingualText"
-        }
-      },
-      "additionalProperties": false,
-      "required": [
         "title"
       ]
     }

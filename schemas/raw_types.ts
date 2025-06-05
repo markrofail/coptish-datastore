@@ -1,12 +1,12 @@
 import * as BaseTypes from './types'
 
-export type RawRoot = Prayer | Reading | ReadingV2 | BaseTypes.Synaxarium
+export type RawRoot = Prayer | Reading | BaseTypes.Synaxarium
 
-export interface Reading extends Omit<BaseTypes.Reading, 'text'> {
+export interface SubReading extends Omit<BaseTypes.SubReading, 'text'> {
     text: MultiLingualTextArray
 }
 
-export interface ReadingV2 extends Partial<Record<BaseTypes.ReadingType, Reading[]>>, Pick<BaseTypes.ReadingV2, 'title'> {}
+export interface Reading extends Partial<Record<BaseTypes.ReadingType, SubReading[]>>, Pick<BaseTypes.Reading, 'title'> {}
 
 export interface Prayer extends Omit<BaseTypes.Prayer, 'sections'> {
     sections?: (VersesSection | BaseTypes.InfoSection | BaseTypes.ReadingSection | BaseTypes.CompoundPrayerSection)[]

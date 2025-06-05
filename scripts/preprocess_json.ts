@@ -4,21 +4,19 @@ import * as path from 'path'
 import cliProgress from 'cli-progress'
 import { Command } from 'commander'
 import { Language, listAllFiles, MultiLingualProcessor, MultiLingualText, Section } from './utils'
-import { VersesSection } from '../schemas/types'
+import { Reading, SubReading, VersesSection } from '../schemas/types'
 import {
     MultiLingualTextArray,
-    Reading as RawReading,
+    SubReading as RawSubReading,
     Prayer as RawPrayer,
     RawRoot,
     VersesSection as RawVersesSection,
-    ReadingV2 as RawReadingV2,
+    Reading as RawReading,
 } from '../schemas/raw_types'
-import { Reading } from '../schemas/types'
 import { range } from 'lodash'
 
 const isPrayerT = (input: RawRoot): input is RawPrayer => input.hasOwnProperty('sections')
-const isReadingT = (input: RawRoot): input is RawReading => input.hasOwnProperty('text')
-const isReadingV2T = (input: RawRoot): input is RawReadingV2 => input.hasOwnProperty('liturgy-gospel')
+const isReadingT = (input: RawRoot): input is RawReading => input.hasOwnProperty('liturgy-gospel')
 
 class MultiLingualVerseMerger extends MultiLingualProcessor {
     transformFile = (filepath: string) => {
@@ -34,12 +32,6 @@ class MultiLingualVerseMerger extends MultiLingualProcessor {
             outputData = { ...inputData, sections: transformedSections }
         } else if (isReadingT(inputData)) {
             outputData = this.transformReading(inputData)
-        } else if (isReadingV2T(inputData)) {
-            const { title, ...rest } = inputData
-            const transformedText = Object.fromEntries(
-                Object.entries(rest).map(([readingType, readings]) => [readingType, readings.map((reading) => this.transformReading(reading))])
-            )
-            outputData = { ...transformedText, title }
         }
 
         if (outputData) {
@@ -72,7 +64,14 @@ class MultiLingualVerseMerger extends MultiLingualProcessor {
         return { ...rest, verses: transformedVerses }
     }
 
-    private transformReading = ({ text, ...rest }: RawReading): Reading => {
+    private transformReading = ({ title, ...rest }: RawReading): Reading => {
+        const transformedText = Object.fromEntries(
+            Object.entries(rest).map(([readingType, readings]) => [readingType, readings.map((reading) => this.transformSubReading(reading))])
+        )
+        return { ...transformedText, title }
+    }
+
+    private transformSubReading = ({ text, ...rest }: RawSubReading): SubReading => {
         const transformedText = this.transformText(text)
         return { ...rest, text: transformedText }
     }
