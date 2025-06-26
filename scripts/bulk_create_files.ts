@@ -34,10 +34,8 @@ function createDirectoryStructure(data: DirectoryNode[], basePath: string = '.')
  *
  * @param dirPath The path of the directory to create.
  */
-function createDirectory(dirPath: string): void {
-    if (!fs.existsSync(dirPath)) {
-        fs.mkdirSync(dirPath, { recursive: true })
-    }
+function createDirectory(dirPath: string) {
+    if (!fs.existsSync(dirPath)) fs.mkdirSync(dirPath, { recursive: true })
 }
 
 const isFileNode = (node: FileNode | FileNodeWithContent | DirectoryNode): node is FileNode => typeof node === 'string'
@@ -80,7 +78,7 @@ function createFileWithContent(filePath: string, content: string): void {
     if (!fs.existsSync(filePath)) fs.writeFileSync(filePath, content)
 }
 
-const yamlData = fs.readFileSync(path.join(__dirname, './directory_structure.yml'), 'utf8')
-const jsonData = yaml.load(yamlData) as DirectoryNode[]
-const basePath = path.join(__dirname, '../data/HC-Katameros-Great-Lent')
+const yamlFilePath = path.join(__dirname, './directory_structure.HB.yml')
+const jsonData = yaml.load(fs.readFileSync(yamlFilePath, 'utf8')) as DirectoryNode[]
+const basePath = path.join(__dirname, '../data/HB-Annual-Katamarus-Sundays')
 createDirectoryStructure(jsonData, basePath)

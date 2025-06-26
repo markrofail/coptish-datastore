@@ -1,0 +1,277 @@
+- HBA-Tote-Sundays:
+      - name: index.yml
+        content: |
+            title:
+                english: HBA - Readings of Tote Sundays
+                arabic: HBA - قراءات آحاد شهر توت
+      - name: HBA-01-First-Sunday.yml
+        content: |
+            title:
+                english: HBA-01 - The First Sunday of Tote
+                arabic: HBA-01 - الأحد الأول من شهر توت
+      - name: HBA-02-Second-Sunday.yml
+        content: |
+            title:
+                english: HBA-02 - The Second Sunday of Tote
+                arabic: HBA-02 - الأحد الثاني من شهر توت
+      - name: HBA-03-Third-Sunday.yml
+        content: |
+            title:
+                english: HBA-03 - The Third Sunday of Tote
+                arabic: HBA-03 - الأحد الثالث من شهر توت
+      - name: HBA-04-Fourth-Sunday.yml
+        content: |
+            title:
+                english: HBA-04 - The Fourth Sunday of Tote
+                arabic: HBA-04 - الأحد الرابع من شهر توت
+- HBB-Baba-Sundays:
+      - name: index.yml
+        content: |
+            title:
+                english: HBB - Readings of Baba Sundays
+                arabic: HBB - قراءات آحاد شهر بابى
+      - name: HBB-01-First-Sunday.yml
+        content: |
+            title:
+                english: HBB-01 - The First Sunday of Baba
+                arabic: HBB-01 - الأحد الأول من شهر بابى
+      - name: HBB-02-Second-Sunday.yml
+        content: |
+            title:
+                english: HBB-02 - The Second Sunday of Baba
+                arabic: HBB-02 - الأحد الثاني من شهر بابى
+      - name: HBB-03-Third-Sunday.yml
+        content: |
+            title:
+                english: HBB-03 - The Third Sunday of Baba
+                arabic: HBB-03 - الأحد الثالث من شهر بابى
+      - name: HBB-04-Fourth-Sunday.yml
+        content: |
+            title:
+                english: HBB-04 - The Fourth Sunday of Baba
+                arabic: HBB-04 - الأحد الرابع من شهر بابى
+- HBC-Hator-Sundays:
+      - name: index.yml
+        content: |
+            title:
+                english: HBC - Readings of Hator Sundays
+                arabic: HBC - قراءات آحاد شهر هاتور
+      - name: HBC-01-First-Sunday.yml
+        content: |
+            title:
+                english: HBC-01 - The First Sunday of Hator
+                arabic: HBC-01 - الأحد الأول من شهر هاتور
+      - name: HBC-02-Second-Sunday.yml
+        content: |
+            title:
+                english: HBC-02 - The Second Sunday of Hator
+                arabic: HBC-02 - الأحد الثاني من شهر هاتور
+      - name: HBC-03-Third-Sunday.yml
+        content: |
+            title:
+                english: HBC-03 - The Third Sunday of Hator
+                arabic: HBC-03 - الأحد الثالث من شهر هاتور
+      - name: HBC-04-Fourth-Sunday.yml
+        content: |
+            title:
+                english: HBC-04 - The Fourth Sunday of Hator
+                arabic: HBC-04 - الأحد الرابع من شهر هاتور
+- HBD-Kiahk-Sundays:
+      - name: index.yml
+        content: |
+            title:
+                english: HBD - Readings of Kiahk Sundays
+                arabic: HBD - قراءات آحاد شهر كيهك
+      - name: HBD-Kiahk-Readings.yml
+        content: |
+            title:
+                english: HBD - Readings of Kiahk Sundays (General)
+                arabic: HBD - قراءات آحاد كيهك
+      - name: HBD-01-First-Sunday.yml
+        content: |
+            title:
+                english: HBD-01 - The First Sunday of Kiahk
+                arabic: HBD-01 - الأحد الأول من شهر كيهك
+      - name: HBD-02-Second-Sunday.yml
+        content: |
+            title:
+                english: HBD-02 - The Second Sunday of Kiahk
+                arabic: HBD-02 - الأحد الثاني من شهر كيهك
+      - name: HBD-03-Third-Sunday.yml
+        content: |
+            title:
+                english: HBD-03 - The Third Sunday of Kiahk
+                arabic: HBD-03 - الأحد الثالث من شهر كيهك
+      - name: HBD-04-Fourth-Sunday.yml
+        content: |
+            title:
+                english: HBD-04 - The Fourth Sunday of Kiahk
+                arabic: HBD-04 - الأحد الرابع من شهر كيهك
+- HBE-Toba-Sundays:
+      - name: index.yml
+        content: |
+            title:
+                english: HBE - Readings of Toba Sundays
+                arabic: HBE - قراءات آحاد شهر طوبى
+      - name: HBE-01-First-Sunday.yml
+        content: |
+            title:
+                english: HBE-01 - The First Sunday of Toba
+                arabic: HBE-01 - الأحد الأول من شهر طوبى
+      - name: HBE-02-Second-Sunday.yml
+        content: |
+            title:
+                english: HBE-02 - The Second Sunday of Toba
+                arabic: HBE-02 - الأحد الثاني من شهر طوبى
+      - name: HBE-03-Third-Sunday.yml
+        content: |
+            title:
+                english: HBE-03 - The Third Sunday of Toba
+                arabic: HBE-03 - الأحد الثالث من شهر طوبى
+      - name: HBE-04-Fourth-Sunday.yml
+        content: |
+            title:
+                english: HBE-04 - The Fourth Sunday of Toba
+                arabic: HBE-04 - الأحد الرابع من شهر طوبى
+- HBF-Amshir-Sundays:
+      - name: index.yml
+        content: |
+            title:
+                english: HBF - Readings of Amshir Sundays
+                arabic: HBF - قراءات آحاد شهر أمشير
+      - name: HBF-01-First-Sunday.yml
+        content: |
+            title:
+                english: HBF-01 - The First Sunday of Amshir
+                arabic: HBF-01 - الأحد الأول من شهر أمشير
+      - name: HBF-02-Second-Sunday.yml
+        content: |
+            title:
+                english: HBF-02 - The Second Sunday of Amshir
+                arabic: HBF-02 - الأحد الثاني من شهر أمشير
+      - name: HBF-03-Third-Sunday.yml
+        content: |
+            title:
+                english: HBF-03 - The Third Sunday of Amshir
+                arabic: HBF-03 - الأحد الثالث من شهر أمشير
+      - name: HBF-04-Fourth-Sunday.yml
+        content: |
+            title:
+                english: HBF-04 - The Fourth Sunday of Amshir
+                arabic: HBF-04 - الأحد الرابع من شهر أمشير
+- HBG-Bashans-Third-Fourth-Sundays:
+      - name: index.yml
+        content: |
+            title:
+                english: HBG - Readings of the Third and Fourth Sundays of Bashans
+                arabic: HBG - قراءات الأحد الثالث والأحد الرابع من شهر بشنس
+      - name: HBG-01-Third-Sunday.yml
+        content: |
+            title:
+                english: HBG-01 - The Third Sunday of Bashans
+                arabic: HBG-01 - الأحد الثالث من شهر بشنس
+      - name: HBG-02-Fourth-Sunday.yml
+        content: |
+            title:
+                english: HBG-02 - The Fourth Sunday of Bashans
+                arabic: HBG-02 - الأحد الرابع من شهر بشنس
+- HBH-Paona-Sundays:
+      - name: index.yml
+        content: |
+            title:
+                english: HBH - Readings of Paona Sundays
+                arabic: HBH - قراءات آحاد شهر باؤنى
+      - name: HBH-01-First-Sunday.yml
+        content: |
+            title:
+                english: HBH-01 - The First Sunday of Paona
+                arabic: HBH-01 - الأحد الأول من شهر باؤنى
+      - name: HBH-02-Second-Sunday.yml
+        content: |
+            title:
+                english: HBH-02 - The Second Sunday of Paona
+                arabic: HBH-02 - الأحد الثاني من شهر باؤنى
+      - name: HBH-03-Third-Sunday.yml
+        content: |
+            title:
+                english: HBH-03 - The Third Sunday of Paona
+                arabic: HBH-03 - الأحد الثالث من شهر باؤنى
+      - name: HBH-04-Fourth-Sunday.yml
+        content: |
+            title:
+                english: HBH-04 - The Fourth Sunday of Paona
+                arabic: HBH-04 - الأحد الرابع من شهر باؤنى
+- HBI-Abib-Sundays:
+      - name: index.yml
+        content: |
+            title:
+                english: HBI - Readings of Abib Sundays
+                arabic: HBI - قراءات آحاد شهر أبيب
+      - name: HBI-01-First-Sunday.yml
+        content: |
+            title:
+                english: HBI-01 - The First Sunday of Abib
+                arabic: HBI-01 - الأحد الأول من شهر أبيب
+      - name: HBI-02-Second-Sunday.yml
+        content: |
+            title:
+                english: HBI-02 - The Second Sunday of Abib
+                arabic: HBI-02 - الأحد الثاني من شهر أبيب
+      - name: HBI-03-Third-Sunday.yml
+        content: |
+            title:
+                english: HBI-03 - The Third Sunday of Abib
+                arabic: HBI-03 - الأحد الثالث من شهر أبيب
+      - name: HBI-04-Fourth-Sunday.yml
+        content: |
+            title:
+                english: HBI-04 - The Fourth Sunday of Abib
+                arabic: HBI-04 - الأحد الرابع من شهر أبيب
+- HBJ-Mesra-Sundays:
+      - name: index.yml
+        content: |
+            title:
+                english: HBJ - Readings of Mesra Sundays
+                arabic: HBJ - قراءات آحاد شهر مسرى
+      - name: HBJ-01-First-Sunday.yml
+        content: |
+            title:
+                english: HBJ-01 - The First Sunday of Mesra
+                arabic: HBJ-01 - الأحد الأول من شهر مسرى
+      - name: HBJ-02-Second-Sunday.yml
+        content: |
+            title:
+                english: HBJ-02 - The Second Sunday of Mesra
+                arabic: HBJ-02 - الأحد الثاني من شهر مسرى
+      - name: HBJ-03-Third-Sunday.yml
+        content: |
+            title:
+                english: HBJ-03 - The Third Sunday of Mesra
+                arabic: HBJ-03 - الأحد الثالث من شهر مسرى
+      - name: HBJ-04-Fourth-Sunday.yml
+        content: |
+            title:
+                english: HBJ-04 - The Fourth Sunday of Mesra
+                arabic: HBJ-04 - الأحد الرابع من شهر مسرى
+- HBK-Small-Month-Sunday:
+      - name: index.yml
+        content: |
+            title:
+                english: HBK - Readings of the Sunday of the Small Month
+                arabic: HBK - قراءات الأحد الذي يوافق الشهر الصغير
+      - name: HBK-01-Small-Month-Sunday.yml
+        content: |
+            title:
+                english: HBK-01 - The Sunday that coincides with the Small Month
+                arabic: HBk-01 - الأحد الذي يوافق الشهر الصغير
+- HBL-Fifth-Sunday:
+      - name: index.yml
+        content: |
+            title:
+                english: HBL - Readings of the Fifth Sunday
+                arabic: HBL - قراءات الأحد الخامس
+      - name: HBL-01-Fifth-Sunday.yml
+        content: |
+            title:
+                english: HBL-01 - The Fifth Sunday
+                arabic: HBL-01 - الأحد الخامس
