@@ -6,7 +6,7 @@ export interface SubReading extends Omit<BaseTypes.SubReading, 'text'> {
     text: MultiLingualTextArray
 }
 
-export interface Reading extends Partial<Record<BaseTypes.ReadingType, SubReading[]>>, Pick<BaseTypes.Reading, 'title'> {}
+export interface Reading extends Partial<Record<BaseTypes.ReadingType, SubReading[]>>, Pick<BaseTypes.Reading, 'title' | 'type'> {}
 
 export interface Prayer extends Omit<BaseTypes.Prayer, 'sections'> {
     sections?: (VersesSection | BaseTypes.InfoSection | BaseTypes.ReadingSection | BaseTypes.CompoundPrayerSection)[]

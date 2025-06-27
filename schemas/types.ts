@@ -2,6 +2,7 @@ export type Root = Prayer | Reading | Synaxarium
 
 export interface Prayer {
     title?: MultiLingualText
+    type: 'prayer'
     occasion?: Occasion
     sections?: (VersesSection | InfoSection | ReadingSection | CompoundPrayerSection)[]
 }
@@ -84,6 +85,7 @@ export interface CompoundPrayerSection extends AbstractPrayerSection {
 
 export interface Reading extends Partial<Record<ReadingType, SubReading[]>> {
     title: MultiLingualText
+    type: 'reading'
 }
 
 export interface SubReading {
@@ -93,6 +95,7 @@ export interface SubReading {
 
 export interface Synaxarium {
     title: MultiLingualText
+    type: 'synaxarium'
     commemorations: {
         title: MultiLingualText
         text: MultiLingualText

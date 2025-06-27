@@ -17,6 +17,10 @@
         "title": {
           "$ref": "#/definitions/MultiLingualText"
         },
+        "type": {
+          "type": "string",
+          "const": "synaxarium"
+        },
         "commemorations": {
           "type": "array",
           "items": {
@@ -40,7 +44,8 @@
       "additionalProperties": false,
       "required": [
         "commemorations",
-        "title"
+        "title",
+        "type"
       ]
     },
     "MultiLingualText": {
@@ -86,6 +91,10 @@
             ]
           }
         },
+        "type": {
+          "type": "string",
+          "const": "prayer"
+        },
         "title": {
           "$ref": "#/definitions/MultiLingualText"
         },
@@ -93,7 +102,10 @@
           "$ref": "#/definitions/Occasion"
         }
       },
-      "additionalProperties": false
+      "additionalProperties": false,
+      "required": [
+        "type"
+      ]
     },
     "InfoSection": {
       "type": "object",
@@ -375,13 +387,18 @@
             "$ref": "#/definitions/SubReading"
           }
         },
+        "type": {
+          "type": "string",
+          "const": "reading"
+        },
         "title": {
           "$ref": "#/definitions/MultiLingualText"
         }
       },
       "additionalProperties": false,
       "required": [
-        "title"
+        "title",
+        "type"
       ]
     },
     "SubReading": {

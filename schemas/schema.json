@@ -17,6 +17,10 @@
         "title": {
           "$ref": "#/definitions/MultiLingualText"
         },
+        "type": {
+          "type": "string",
+          "const": "prayer"
+        },
         "occasion": {
           "$ref": "#/definitions/Occasion"
         },
@@ -40,7 +44,10 @@
           }
         }
       },
-      "additionalProperties": false
+      "additionalProperties": false,
+      "required": [
+        "type"
+      ]
     },
     "MultiLingualText": {
       "type": "object",
@@ -229,6 +236,10 @@
         "title": {
           "$ref": "#/definitions/MultiLingualText"
         },
+        "type": {
+          "type": "string",
+          "const": "reading"
+        },
         "vespers-psalm": {
           "type": "array",
           "items": {
@@ -316,7 +327,8 @@
       },
       "additionalProperties": false,
       "required": [
-        "title"
+        "title",
+        "type"
       ]
     },
     "SubReading": {
@@ -344,6 +356,10 @@
         "title": {
           "$ref": "#/definitions/MultiLingualText"
         },
+        "type": {
+          "type": "string",
+          "const": "synaxarium"
+        },
         "commemorations": {
           "type": "array",
           "items": {
@@ -367,7 +383,8 @@
       "additionalProperties": false,
       "required": [
         "commemorations",
-        "title"
+        "title",
+        "type"
       ]
     }
   },

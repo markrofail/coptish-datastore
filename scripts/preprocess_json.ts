@@ -3,7 +3,7 @@ import * as yaml from 'js-yaml'
 import * as path from 'path'
 import cliProgress from 'cli-progress'
 import { Command } from 'commander'
-import { Language, listAllFiles, MultiLingualProcessor, MultiLingualText, Section } from './utils'
+import { Language, listAllFiles, MultiLingualProcessor, MultiLingualText } from './utils'
 import { Reading, SubReading, VersesSection } from '../schemas/types'
 import {
     MultiLingualTextArray,
@@ -15,8 +15,8 @@ import {
 } from '../schemas/raw_types'
 import { range } from 'lodash'
 
-const isPrayerT = (input: RawRoot): input is RawPrayer => input.hasOwnProperty('sections')
-const isReadingT = (input: RawRoot): input is RawReading => input.hasOwnProperty('liturgy-gospel')
+const isPrayerT = (input: RawRoot): input is RawPrayer => input.type === 'prayer'
+const isReadingT = (input: RawRoot): input is RawReading => input.type === 'reading'
 
 class MultiLingualVerseMerger extends MultiLingualProcessor {
     transformFile = (filepath: string) => {
@@ -64,11 +64,11 @@ class MultiLingualVerseMerger extends MultiLingualProcessor {
         return { ...rest, verses: transformedVerses }
     }
 
-    private transformReading = ({ title, ...rest }: RawReading): Reading => {
+    private transformReading = ({ title, type, ...rest }: RawReading): Reading => {
         const transformedText = Object.fromEntries(
             Object.entries(rest).map(([readingType, readings]) => [readingType, readings.map((reading) => this.transformSubReading(reading))])
         )
-        return { ...transformedText, title }
+        return { ...transformedText, type, title }
     }
 
     private transformSubReading = ({ text, ...rest }: RawSubReading): SubReading => {
